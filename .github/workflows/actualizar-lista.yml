@@ -1,0 +1,90 @@
+name: Actualizar lista de canales
+
+on:
+  # Cada 6 horas (UTC). Ajusta la frecuencia a tu gusto.
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # Botón manual en la pestaña Actions.
+  workflow_dispatch:
+    inputs:
+      verificar:
+        description: "Verificar que cada stream responda (tarda varios minutos)"
+        type: boolean
+        default: false
+      excluir_caidos:
+        description: "Omitir de la lista los canales que no respondan"
+        type: boolean
+        default: false
+
+  # Regenerar cuando cambie el generador o la configuración.
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - ".github/workflows/actualizar-lista.yml"
+
+# Necesario para que el bot pueda hacer commit de dist/.
+permissions:
+  contents: write
+
+# Evita que dos ejecuciones se pisen al escribir en la misma rama.
+concurrency:
+  group: actualizar-lista
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    name: Generar y publicar
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v7
+
+      - name: Preparar Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Generar listas M3U
+        env:
+          VERIFICAR: ${{ inputs.verificar }}
+          EXCLUIR: ${{ inputs.excluir_caidos }}
+          REPO_RAW: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/dist
+        run: |
+          OPCIONES=""
+          if [ "$VERIFICAR" = "true" ]; then OPCIONES="$OPCIONES --verificar"; fi
+          if [ "$EXCLUIR" = "true" ]; then OPCIONES="$OPCIONES --excluir-caidos"; fi
+
+          python scripts/generar_lista.py \
+            --salida dist \
+            --repo-raw "$REPO_RAW" \
+            $OPCIONES
+
+      - name: Publicar cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dist
+
+          # `git diff --cached --quiet` sale con 1 si hay cambios preparados.
+          if git diff --cached --quiet; then
+            echo "Sin cambios en el catálogo; no se hace commit."
+            exit 0
+          fi
+
+          TOTAL=$(python -c "import json;print(json.load(open('dist/channels.json',encoding='utf-8'))['total'])")
+          git commit -m "Actualizar lista: ${TOTAL} canales ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+
+          # La rama pudo avanzar mientras corría el job.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Resumen
+        if: always()
+        run: python scripts/resumen.py dist/channels.json >> "$GITHUB_STEP_SUMMARY"
+        continue-on-error: true

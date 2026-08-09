@@ -1,41 +1,41 @@
 # 📺 Canales disponibles
 
 **Total:** 431 canales en 28 categorías  
-**Actualizado:** 2026-08-09 15:16 UTC  
+**Actualizado:** 2026-08-09 15:23 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 120 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 42 | [`hispanos.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/hispanos.m3u) |
-| 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 10 | [`deportes.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/deportes.m3u) |
-| 🎬 Películas y Series | 14 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 4 | [`infantil.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/infantil.m3u) |
-| ✝️ Cristianos | 25 | [`cristianos.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 5 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/trading-y-finanzas.m3u) |
-| 🇦🇷 Argentina | 23 | [`argentina.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/argentina.m3u) |
-| 🇦🇼 Aruba | 1 | [`aruba.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/aruba.m3u) |
-| 🇧🇴 Bolivia | 7 | [`bolivia.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/bolivia.m3u) |
-| 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/canada.m3u) |
-| 🇨🇱 Chile | 15 | [`chile.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 26 | [`colombia.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/colombia.m3u) |
-| 🇨🇷 Costa Rica | 5 | [`costa-rica.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/costa-rica.m3u) |
-| 🇪🇨 Ecuador | 6 | [`ecuador.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/ecuador.m3u) |
-| 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/el-salvador.m3u) |
-| 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/espana.m3u) |
-| 🇺🇸 Estados Unidos | 2 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/estados-unidos.m3u) |
-| 🇬🇹 Guatemala | 8 | [`guatemala.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/guatemala.m3u) |
-| 🇭🇳 Honduras | 9 | [`honduras.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/honduras.m3u) |
-| 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/japon.m3u) |
-| 🇲🇽 México | 22 | [`mexico.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/mexico.m3u) |
-| 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/panama.m3u) |
-| 🇵🇾 Paraguay | 3 | [`paraguay.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/paraguay.m3u) |
-| 🇵🇪 Perú | 14 | [`peru.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/peru.m3u) |
-| 🇵🇷 Puerto Rico | 9 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 14 | [`venezuela.m3u`](https://raw.githubusercontent.com/USUARIO/REPO/main/dist/categorias/venezuela.m3u) |
+| 🇩🇴 República Dominicana | 120 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 42 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
+| ⚽ Deportes | 10 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| 🎬 Películas y Series | 14 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
+| 🧒 Infantil | 4 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| ✝️ Cristianos | 25 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
+| 📈 Trading y Finanzas | 5 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 🇦🇷 Argentina | 23 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
+| 🇦🇼 Aruba | 1 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
+| 🇧🇴 Bolivia | 7 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
+| 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
+| 🇨🇱 Chile | 15 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
+| 🇨🇴 Colombia | 26 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇷 Costa Rica | 5 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
+| 🇪🇨 Ecuador | 6 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
+| 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
+| 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
+| 🇺🇸 Estados Unidos | 2 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
+| 🇬🇹 Guatemala | 8 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
+| 🇭🇳 Honduras | 9 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
+| 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
+| 🇲🇽 México | 22 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
+| 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
+| 🇵🇾 Paraguay | 3 | [`paraguay.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/paraguay.m3u) |
+| 🇵🇪 Perú | 14 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
+| 🇵🇷 Puerto Rico | 9 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
+| 🇻🇪 Venezuela | 14 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 
 ## Detalle
 

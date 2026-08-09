@@ -1,0 +1,56 @@
+{
+  "_comentario": "Traduce los codigos de categoria de la API a nombres presentables. 'orden' controla la posicion en la lista final (menor = primero).",
+
+  "alias": {
+    "CL": "CL",
+    "CHILE": "CL",
+    "DO": "RD",
+    "DOM": "RD",
+    "USA": "US",
+    "EEUU": "US",
+    "ESP": "ES",
+    "SPAIN": "ES",
+    "MEX": "MX",
+    "ARG": "AR",
+    "COL": "CO",
+    "SPORTS": "DEPORTES",
+    "MOVIES": "PELICULAS",
+    "INFANTIL": "KIDS",
+    "NOTICIAS": "NEWS",
+    "RELIGIOSO": "CHRISTIAN"
+  },
+
+  "categorias": {
+    "RD":        { "nombre": "República Dominicana", "emoji": "🇩🇴", "orden": 10 },
+    "HISPANOS":  { "nombre": "Hispanos",             "emoji": "🌎", "orden": 20 },
+    "NEWS":      { "nombre": "Noticias",             "emoji": "📰", "orden": 30 },
+    "DEPORTES":  { "nombre": "Deportes",             "emoji": "⚽", "orden": 40 },
+    "PELICULAS": { "nombre": "Películas y Series",   "emoji": "🎬", "orden": 50 },
+    "KIDS":      { "nombre": "Infantil",             "emoji": "🧒", "orden": 60 },
+    "CHRISTIAN": { "nombre": "Cristianos",           "emoji": "✝️", "orden": 70 },
+    "TRADING":   { "nombre": "Trading y Finanzas",   "emoji": "📈", "orden": 80 },
+
+    "AR": { "nombre": "Argentina",      "emoji": "🇦🇷", "orden": 110 },
+    "AW": { "nombre": "Aruba",          "emoji": "🇦🇼", "orden": 111 },
+    "BO": { "nombre": "Bolivia",        "emoji": "🇧🇴", "orden": 112 },
+    "CA": { "nombre": "Canadá",         "emoji": "🇨🇦", "orden": 113 },
+    "CL": { "nombre": "Chile",          "emoji": "🇨🇱", "orden": 114 },
+    "CO": { "nombre": "Colombia",       "emoji": "🇨🇴", "orden": 115 },
+    "CR": { "nombre": "Costa Rica",     "emoji": "🇨🇷", "orden": 116 },
+    "EC": { "nombre": "Ecuador",        "emoji": "🇪🇨", "orden": 117 },
+    "SV": { "nombre": "El Salvador",    "emoji": "🇸🇻", "orden": 118 },
+    "ES": { "nombre": "España",         "emoji": "🇪🇸", "orden": 119 },
+    "US": { "nombre": "Estados Unidos", "emoji": "🇺🇸", "orden": 120 },
+    "GT": { "nombre": "Guatemala",      "emoji": "🇬🇹", "orden": 121 },
+    "HN": { "nombre": "Honduras",       "emoji": "🇭🇳", "orden": 122 },
+    "JP": { "nombre": "Japón",          "emoji": "🇯🇵", "orden": 123 },
+    "MX": { "nombre": "México",         "emoji": "🇲🇽", "orden": 124 },
+    "PA": { "nombre": "Panamá",         "emoji": "🇵🇦", "orden": 125 },
+    "PY": { "nombre": "Paraguay",       "emoji": "🇵🇾", "orden": 126 },
+    "PE": { "nombre": "Perú",           "emoji": "🇵🇪", "orden": 127 },
+    "PR": { "nombre": "Puerto Rico",    "emoji": "🇵🇷", "orden": 128 },
+    "VE": { "nombre": "Venezuela",      "emoji": "🇻🇪", "orden": 129 }
+  },
+
+  "por_defecto": { "nombre": "Otros", "emoji": "📺", "orden": 900 }
+}

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-chno="402" tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="🇻🇪 Venezuela",VTV
+#EXTGRP:🇻🇪 Venezuela
+https://hls.tvabierta.net/hls/vtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="403" tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="🇻🇪 Venezuela",Globovision
+#EXTGRP:🇻🇪 Venezuela
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="404" tvg-logo="https://i.imgur.com/g5veVDf.png" group-title="🇻🇪 Venezuela",Promar
+#EXTGRP:🇻🇪 Venezuela
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal I" tvg-chno="405" tvg-logo="https://i.imgur.com/ci4ud3s.png" group-title="🇻🇪 Venezuela",Canal I
+#EXTGRP:🇻🇪 Venezuela
+https://streaming.canal-i.com/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="406" tvg-logo="https://i.imgur.com/18vp26h.png" group-title="🇻🇪 Venezuela",Venevision
+#EXTGRP:🇻🇪 Venezuela
+https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telearagua" tvg-chno="407" tvg-logo="https://i.imgur.com/5goR002.jpg" group-title="🇻🇪 Venezuela",Telearagua
+#EXTGRP:🇻🇪 Venezuela
+https://hls.tvabierta.net/hls/telearagua.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teletuya" tvg-chno="408" tvg-logo="https://i.imgur.com/THJU2B8.png" group-title="🇻🇪 Venezuela",Teletuya
+#EXTGRP:🇻🇪 Venezuela
+https://hls.tvabierta.net/hls/teletuya.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-chno="409" tvg-logo="https://i.imgur.com/mVLSCk4.png" group-title="🇻🇪 Venezuela",Televen
+#EXTGRP:🇻🇪 Venezuela
+https://hls.tvabierta.net/hls/televen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="410" tvg-logo="https://i.imgur.com/puM9ASa.png" group-title="🇻🇪 Venezuela",Canal Once
+#EXTGRP:🇻🇪 Venezuela
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AguacateTV" tvg-chno="411" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="🇻🇪 Venezuela",AguacateTV
+#EXTGRP:🇻🇪 Venezuela
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Tachira" tvg-chno="412" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="🇻🇪 Venezuela",Canal 21 Tachira
+#EXTGRP:🇻🇪 Venezuela
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal C Del Zulia" tvg-chno="413" tvg-logo="https://i.imgur.com/ew44KOZ.png" group-title="🇻🇪 Venezuela",Canal C Del Zulia
+#EXTGRP:🇻🇪 Venezuela
+https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Calima TV" tvg-chno="414" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="🇻🇪 Venezuela",Canal Calima TV
+#EXTGRP:🇻🇪 Venezuela
+https://movil.ejeserver.com/live/calimatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="415" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="🇻🇪 Venezuela",Catatumbo TV
+#EXTGRP:🇻🇪 Venezuela
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8

@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="272" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel
+#EXTGRP:🇧🇴 Bolivia
+https://stv2.boliviaplay.com.bo/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bolivision" tvg-chno="273" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="🇧🇴 Bolivia",Bolivision
+#EXTGRP:🇧🇴 Bolivia
+https://d1mws3umreue1g.cloudfront.net/_token/v1.1786074035.V0diBCRbZVDbDV4Wi5-stnX8nRGlsDva3Q5UZ7b5mVk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlegriaTV" tvg-chno="274" tvg-logo="https://i.imgur.com/MIBZ2pZ.png" group-title="🇧🇴 Bolivia",AlegriaTV
+#EXTGRP:🇧🇴 Bolivia
+https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATB La Paz" tvg-chno="275" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="🇧🇴 Bolivia",ATB La Paz
+#EXTGRP:🇧🇴 Bolivia
+https://stream.atb.com.bo/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AYNI TV" tvg-chno="276" tvg-logo="https://i.ibb.co/SPCkBR8/ayni-tv-bo.png" group-title="🇧🇴 Bolivia",AYNI TV
+#EXTGRP:🇧🇴 Bolivia
+https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CEACOM TV" tvg-chno="277" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="🇧🇴 Bolivia",CEACOM TV
+#EXTGRP:🇧🇴 Bolivia
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cn 3" tvg-chno="278" tvg-logo="https://i.imgur.com/BkxFHsY.png" group-title="🇧🇴 Bolivia",Cn 3
+#EXTGRP:🇧🇴 Bolivia
+https://edge.enhdtv.com/cn3/index.m3u8

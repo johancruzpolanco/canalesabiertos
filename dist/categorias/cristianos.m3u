@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Hischannel.com" tvg-chno="219" tvg-logo="https://i.imgur.com/hIAuBK3.jpg" group-title="✝️ Cristianos",Hischannel.com
+#EXTGRP:✝️ Cristianos
+https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lightsource.com" tvg-chno="220" tvg-logo="https://i.imgur.com/yJJALwY.jpg" group-title="✝️ Cristianos",Lightsource.com
+#EXTGRP:✝️ Cristianos
+https://lstv.swncdn.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gbntv.org" tvg-chno="221" tvg-logo="https://i.imgur.com/UYqtDLM.png" group-title="✝️ Cristianos",Gbntv.org
+#EXTGRP:✝️ Cristianos
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ctvn.org" tvg-chno="222" tvg-logo="https://i.imgur.com/NmFqnex.png" group-title="✝️ Cristianos",Ctvn.org
+#EXTGRP:✝️ Cristianos
+https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABN Africa" tvg-chno="223" tvg-logo="https://i.imgur.com/nZb2LZN.png" group-title="✝️ Cristianos",ABN Africa
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trinity" tvg-chno="224" tvg-logo="https://i.imgur.com/z2x5rLM.png" group-title="✝️ Cristianos",Trinity
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/trinitychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abn Bible Movies" tvg-chno="225" tvg-logo="https://i.imgur.com/rdZXgG9.png" group-title="✝️ Cristianos",Abn Bible Movies
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Finlandia 1" tvg-chno="226" tvg-logo="https://i.imgur.com/TUONuYv.png" group-title="✝️ Cristianos",TV7 Finlandia 1
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Finlandia 2" tvg-chno="227" tvg-logo="https://i.imgur.com/TUONuYv.png" group-title="✝️ Cristianos",TV7 Finlandia 2
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taevas TV7" tvg-chno="228" tvg-logo="https://i.imgur.com/TUONuYv.png" group-title="✝️ Cristianos",Taevas TV7
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Himlen TV7" tvg-chno="229" tvg-logo="https://i.imgur.com/TUONuYv.png" group-title="✝️ Cristianos",Himlen TV7
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN UK" tvg-chno="230" tvg-logo="https://i.imgur.com/ToWGxOX.png" group-title="✝️ Cristianos",TBN UK
+#EXTGRP:✝️ Cristianos
+https://livecdn.euw1-0005.jwplive.com/live/sites/Yal8cmyO/media/r08fY89I/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Family" tvg-chno="231" tvg-logo="https://i.imgur.com/cCkAq1Q.png" group-title="✝️ Cristianos",Alkarma TV Family
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Middle East" tvg-chno="232" tvg-logo="https://i.imgur.com/cCkAq1Q.png" group-title="✝️ Cristianos",Alkarma TV Middle East
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Praise" tvg-chno="233" tvg-logo="https://i.imgur.com/cCkAq1Q.png" group-title="✝️ Cristianos",Alkarma TV Praise
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Talmaza" tvg-chno="234" tvg-logo="https://i.imgur.com/cCkAq1Q.png" group-title="✝️ Cristianos",Alkarma TV Talmaza
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LifeTV Europe" tvg-chno="235" tvg-logo="https://i.imgur.com/Nvfb8tq.jpg" group-title="✝️ Cristianos",LifeTV Europe
+#EXTGRP:✝️ Cristianos
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LifeTV Estonia" tvg-chno="236" tvg-logo="https://i.imgur.com/Nvfb8tq.jpg" group-title="✝️ Cristianos",LifeTV Estonia
+#EXTGRP:✝️ Cristianos
+https://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Inspire" tvg-chno="237" tvg-logo="https://i.imgur.com/GSM0Pkr.png" group-title="✝️ Cristianos",TBN Inspire
+#EXTGRP:✝️ Cristianos
+https://cdn.jwplayer.com/live/broadcast/yfFI83Xz.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Nejat" tvg-chno="238" tvg-logo="https://i.imgur.com/e4WffQA.png" group-title="✝️ Cristianos",TBN Nejat
+#EXTGRP:✝️ Cristianos
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFFC" tvg-chno="239" tvg-logo="https://i.imgur.com/Vatj2qM.png" group-title="✝️ Cristianos",PFFC
+#EXTGRP:✝️ Cristianos
+https://2-fss-1.themediacdn.com/pl_122/206280-3060352-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-chno="240" tvg-logo="https://i.imgur.com/GvFX0Un.jpeg" group-title="✝️ Cristianos",Life
+#EXTGRP:✝️ Cristianos
+https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bible Discovery" tvg-chno="241" tvg-logo="https://i.imgur.com/h4NLWwq.png" group-title="✝️ Cristianos",Bible Discovery
+#EXTGRP:✝️ Cristianos
+https://2-fss-2.streamhoster.com/pl_138/amlst:200226-1452410/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABN Urdu" tvg-chno="242" tvg-logo="https://i.imgur.com/8czR1nA.png" group-title="✝️ Cristianos",ABN Urdu
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABN Afganistan" tvg-chno="243" tvg-logo="https://i.imgur.com/tGWLbKa.png" group-title="✝️ Cristianos",ABN Afganistan
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8

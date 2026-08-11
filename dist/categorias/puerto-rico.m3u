@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CDM" tvg-chno="345" tvg-logo="https://i.imgur.com/N7IneVk.png" group-title="🇵🇷 Puerto Rico",CDM
+#EXTINF:-1 tvg-id="" tvg-name="CDM" tvg-chno="338" tvg-logo="https://i.imgur.com/N7IneVk.png" group-title="🇵🇷 Puerto Rico",CDM
 #EXTGRP:🇵🇷 Puerto Rico
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nuevavida.fm" tvg-chno="346" tvg-logo="https://i.imgur.com/GRx7nZP.png" group-title="🇵🇷 Puerto Rico",Nuevavida.fm
+#EXTINF:-1 tvg-id="" tvg-name="Nuevavida.fm" tvg-chno="339" tvg-logo="https://i.imgur.com/GRx7nZP.png" group-title="🇵🇷 Puerto Rico",Nuevavida.fm
 #EXTGRP:🇵🇷 Puerto Rico
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boricua" tvg-chno="347" tvg-logo="https://i.imgur.com/ANxjUDT.png" group-title="🇵🇷 Puerto Rico",Boricua
+#EXTINF:-1 tvg-id="" tvg-name="Boricua" tvg-chno="340" tvg-logo="https://i.imgur.com/ANxjUDT.png" group-title="🇵🇷 Puerto Rico",Boricua
 #EXTGRP:🇵🇷 Puerto Rico
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele11" tvg-chno="348" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="🇵🇷 Puerto Rico",Tele11
+#EXTINF:-1 tvg-id="" tvg-name="Tele11" tvg-chno="341" tvg-logo="https://i.imgur.com/Crt3P4N.png" group-title="🇵🇷 Puerto Rico",Tele11
 #EXTGRP:🇵🇷 Puerto Rico
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Punto2" tvg-chno="349" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇵🇷 Puerto Rico",Punto2
+#EXTINF:-1 tvg-id="" tvg-name="Punto2" tvg-chno="342" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇵🇷 Puerto Rico",Punto2
 #EXTGRP:🇵🇷 Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BuenaTV" tvg-chno="350" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="🇵🇷 Puerto Rico",BuenaTV
+#EXTINF:-1 tvg-id="" tvg-name="BuenaTV" tvg-chno="343" tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="🇵🇷 Puerto Rico",BuenaTV
 #EXTGRP:🇵🇷 Puerto Rico
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Notiuno" tvg-chno="351" tvg-logo="https://i.imgur.com/syrAbTr.png" group-title="🇵🇷 Puerto Rico",Notiuno
+#EXTINF:-1 tvg-id="" tvg-name="Notiuno" tvg-chno="344" tvg-logo="https://i.imgur.com/syrAbTr.png" group-title="🇵🇷 Puerto Rico",Notiuno
 #EXTGRP:🇵🇷 Puerto Rico
 https://server80.servistreaming.com:3951/live/notiunotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Candelita TV" tvg-chno="352" tvg-logo="https://i.imgur.com/34BvVDl.png" group-title="🇵🇷 Puerto Rico",Candelita TV
+#EXTINF:-1 tvg-id="" tvg-name="Candelita TV" tvg-chno="345" tvg-logo="https://i.imgur.com/34BvVDl.png" group-title="🇵🇷 Puerto Rico",Candelita TV
 #EXTGRP:🇵🇷 Puerto Rico
 https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CaTV" tvg-chno="353" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="🇵🇷 Puerto Rico",CaTV
+#EXTINF:-1 tvg-id="" tvg-name="CaTV" tvg-chno="346" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" group-title="🇵🇷 Puerto Rico",CaTV
 #EXTGRP:🇵🇷 Puerto Rico
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8

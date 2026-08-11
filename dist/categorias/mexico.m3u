@@ -1,67 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="AlcarriaTV" tvg-chno="371" tvg-logo="https://i.imgur.com/d3gSMR3.png" group-title="🇲🇽 México",AlcarriaTV
+#EXTINF:-1 tvg-id="" tvg-name="AlcarriaTV" tvg-chno="361" tvg-logo="https://i.imgur.com/d3gSMR3.png" group-title="🇲🇽 México",AlcarriaTV
 #EXTGRP:🇲🇽 México
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Int." tvg-chno="372" tvg-logo="https://i.imgur.com/uk1NfqI.png" group-title="🇲🇽 México",Azteca Int.
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Mundo" tvg-chno="362" tvg-logo="https://i.imgur.com/uk1NfqI.png" group-title="🇲🇽 México",Azteca Mundo
 #EXTGRP:🇲🇽 México
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ Clip" tvg-chno="373" tvg-logo="https://i.imgur.com/uk1NfqI.png" group-title="🇲🇽 México",AZ Clip
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Int." tvg-chno="363" tvg-logo="https://i.imgur.com/uk1NfqI.png" group-title="🇲🇽 México",Azteca Int.
+#EXTGRP:🇲🇽 México
+https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AZ Clip" tvg-chno="364" tvg-logo="https://i.imgur.com/uk1NfqI.png" group-title="🇲🇽 México",AZ Clip
 #EXTGRP:🇲🇽 México
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ImagenTV" tvg-chno="374" tvg-logo="https://i.imgur.com/DY8B4vR.png" group-title="🇲🇽 México",ImagenTV
+#EXTINF:-1 tvg-id="" tvg-name="ImagenTV" tvg-chno="365" tvg-logo="https://i.imgur.com/DY8B4vR.png" group-title="🇲🇽 México",ImagenTV
 #EXTGRP:🇲🇽 México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-chno="375" tvg-logo="https://i.imgur.com/9wWBK9t.png" group-title="🇲🇽 México",Milenio
+#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-chno="366" tvg-logo="https://i.imgur.com/9wWBK9t.png" group-title="🇲🇽 México",Milenio
 #EXTGRP:🇲🇽 México
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QuieroTV" tvg-chno="376" tvg-logo="https://i.imgur.com/HNQ5b4Q.png" group-title="🇲🇽 México",QuieroTV
+#EXTINF:-1 tvg-id="" tvg-name="QuieroTV" tvg-chno="367" tvg-logo="https://i.imgur.com/HNQ5b4Q.png" group-title="🇲🇽 México",QuieroTV
 #EXTGRP:🇲🇽 México
 https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="377" tvg-logo="https://i.imgur.com/umbS8ZE.png" group-title="🇲🇽 México",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="368" tvg-logo="https://i.imgur.com/umbS8ZE.png" group-title="🇲🇽 México",Canal Once
 #EXTGRP:🇲🇽 México
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monterrey" tvg-chno="378" tvg-logo="https://i.imgur.com/uFA4HSY.png" group-title="🇲🇽 México",Monterrey
+#EXTINF:-1 tvg-id="" tvg-name="Monterrey" tvg-chno="369" tvg-logo="https://i.imgur.com/uFA4HSY.png" group-title="🇲🇽 México",Monterrey
 #EXTGRP:🇲🇽 México
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexiquense" tvg-chno="379" tvg-logo="https://i.imgur.com/e7Mv9Ok.png" group-title="🇲🇽 México",Mexiquense
+#EXTINF:-1 tvg-id="" tvg-name="Mexiquense" tvg-chno="370" tvg-logo="https://i.imgur.com/e7Mv9Ok.png" group-title="🇲🇽 México",Mexiquense
 #EXTGRP:🇲🇽 México
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w206742322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANoticias" tvg-chno="380" tvg-logo="https://i.imgur.com/Q8AcirC.jpg" group-title="🇲🇽 México",ANoticias
+#EXTINF:-1 tvg-id="" tvg-name="ANoticias" tvg-chno="371" tvg-logo="https://i.imgur.com/Q8AcirC.jpg" group-title="🇲🇽 México",ANoticias
 #EXTGRP:🇲🇽 México
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCG" tvg-chno="381" tvg-logo="https://i.imgur.com/GenJsKK.png" group-title="🇲🇽 México",RCG
+#EXTINF:-1 tvg-id="" tvg-name="RCG" tvg-chno="372" tvg-logo="https://i.imgur.com/GenJsKK.png" group-title="🇲🇽 México",RCG
 #EXTGRP:🇲🇽 México
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MAR La Paz" tvg-chno="382" tvg-logo="https://i.imgur.com/uvZgtHL.png" group-title="🇲🇽 México",TV MAR La Paz
+#EXTINF:-1 tvg-id="" tvg-name="TV MAR La Paz" tvg-chno="373" tvg-logo="https://i.imgur.com/uvZgtHL.png" group-title="🇲🇽 México",TV MAR La Paz
 #EXTGRP:🇲🇽 México
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-chno="383" tvg-logo="https://i.imgur.com/aNbsl1B.png" group-title="🇲🇽 México",ADN 40
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-chno="374" tvg-logo="https://i.imgur.com/aNbsl1B.png" group-title="🇲🇽 México",ADN 40
 #EXTGRP:🇲🇽 México
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Culliacan" tvg-chno="384" tvg-logo="https://i.imgur.com/bgSIqz7.png" group-title="🇲🇽 México",TVP Culliacan
+#EXTINF:-1 tvg-id="" tvg-name="TVP Culliacan" tvg-chno="375" tvg-logo="https://i.imgur.com/bgSIqz7.png" group-title="🇲🇽 México",TVP Culliacan
 #EXTGRP:🇲🇽 México
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15 TV" tvg-chno="385" tvg-logo="https://i.imgur.com/CZ8LKmA.png" group-title="🇲🇽 México",15 TV
+#EXTINF:-1 tvg-id="" tvg-name="15 TV" tvg-chno="376" tvg-logo="https://i.imgur.com/CZ8LKmA.png" group-title="🇲🇽 México",15 TV
 #EXTGRP:🇲🇽 México
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alcance TV" tvg-chno="386" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="🇲🇽 México",Alcance TV
+#EXTINF:-1 tvg-id="" tvg-name="Alcance TV" tvg-chno="377" tvg-logo="https://i.imgur.com/5nYjRlb.png" group-title="🇲🇽 México",Alcance TV
 #EXTGRP:🇲🇽 México
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias" tvg-chno="387" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="🇲🇽 México",AMX Noticias
+#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias" tvg-chno="378" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="🇲🇽 México",AMX Noticias
 #EXTGRP:🇲🇽 México
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B15 Fresnillo" tvg-chno="388" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="🇲🇽 México",B15 Fresnillo
+#EXTINF:-1 tvg-id="" tvg-name="B15 Fresnillo" tvg-chno="379" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="🇲🇽 México",B15 Fresnillo
 #EXTGRP:🇲🇽 México
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B15 Zacatecas" tvg-chno="389" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="🇲🇽 México",B15 Zacatecas
+#EXTINF:-1 tvg-id="" tvg-name="B15 Zacatecas" tvg-chno="380" tvg-logo="https://i.imgur.com/kaUhEQy.png" group-title="🇲🇽 México",B15 Zacatecas
 #EXTGRP:🇲🇽 México
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bitMe" tvg-chno="390" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="🇲🇽 México",bitMe
+#EXTINF:-1 tvg-id="" tvg-name="bitMe" tvg-chno="381" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="🇲🇽 México",bitMe
 #EXTGRP:🇲🇽 México
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="bitMe Lain America" tvg-chno="391" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="🇲🇽 México",bitMe Lain America
+#EXTINF:-1 tvg-id="" tvg-name="bitMe Lain America" tvg-chno="382" tvg-logo="https://i.imgur.com/79hrcx8.png" group-title="🇲🇽 México",bitMe Lain America
 #EXTGRP:🇲🇽 México
 https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CB TV Michoacan" tvg-chno="392" tvg-logo="https://i.imgur.com/oFeCIeD.png" group-title="🇲🇽 México",CB TV Michoacan
+#EXTINF:-1 tvg-id="" tvg-name="CB TV Michoacan" tvg-chno="383" tvg-logo="https://i.imgur.com/oFeCIeD.png" group-title="🇲🇽 México",CB TV Michoacan
 #EXTGRP:🇲🇽 México
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HeraldoTV" tvg-chno="384" tvg-logo="https://i.imgur.com/8c6dbZl.jpeg" group-title="🇲🇽 México",HeraldoTV
+#EXTGRP:🇲🇽 México
+https://hls.tvabierta.net/hls/heraldotv.m3u8

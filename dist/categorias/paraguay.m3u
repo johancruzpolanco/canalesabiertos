@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Almaya TV" tvg-chno="358" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="🇵🇾 Paraguay",Almaya TV
+#EXTINF:-1 tvg-id="" tvg-name="Almaya TV" tvg-chno="353" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="🇵🇾 Paraguay",Almaya TV
 #EXTGRP:🇵🇾 Paraguay
 https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alt Media TV" tvg-chno="359" tvg-logo="https://i.imgur.com/YkOgWMc.png" group-title="🇵🇾 Paraguay",Alt Media TV
+#EXTINF:-1 tvg-id="" tvg-name="Alt Media TV" tvg-chno="354" tvg-logo="https://i.imgur.com/YkOgWMc.png" group-title="🇵🇾 Paraguay",Alt Media TV
 #EXTGRP:🇵🇾 Paraguay
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="C 9 N" tvg-chno="360" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="🇵🇾 Paraguay",C 9 N
+#EXTINF:-1 tvg-id="" tvg-name="C 9 N" tvg-chno="355" tvg-logo="https://i.imgur.com/iXkwP31.png" group-title="🇵🇾 Paraguay",C 9 N
 #EXTGRP:🇵🇾 Paraguay
 https://d2b5h5wyivfnfl.cloudfront.net/live/48f53430-9014-4459-a048-6169dac14140/ts:abr.m3u8

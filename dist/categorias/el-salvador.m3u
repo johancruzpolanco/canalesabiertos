@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Megavision 19" tvg-chno="322" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="🇸🇻 El Salvador",Megavision 19
+#EXTINF:-1 tvg-id="" tvg-name="Megavision 19" tvg-chno="318" tvg-logo="https://i.imgur.com/X5VcCXI.png" group-title="🇸🇻 El Salvador",Megavision 19
 #EXTGRP:🇸🇻 El Salvador
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Megavision 21" tvg-chno="323" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="🇸🇻 El Salvador",Megavision 21
+#EXTINF:-1 tvg-id="" tvg-name="Megavision 21" tvg-chno="319" tvg-logo="https://i.imgur.com/esGYn21.png" group-title="🇸🇻 El Salvador",Megavision 21
 #EXTGRP:🇸🇻 El Salvador
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8

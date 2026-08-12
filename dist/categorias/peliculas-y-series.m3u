@@ -35,9 +35,6 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="139" tvg-logo="https://i.imgur.com/t8FJ4GZ.jpeg" group-title="🎬 Películas y Series",Canela
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=154.88.131.7&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=aa3bde15-3258-4b6a-b044-b154c741b1ac&url=https://www.canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="Canela Cinema" tvg-chno="140" tvg-logo="https://i.imgur.com/t8FJ4GZ.jpeg" group-title="🎬 Películas y Series",Canela Cinema
-#EXTGRP:🎬 Películas y Series
-https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8?rights_holder_id=canela-cinema2&user_id=&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=dceae8c1-3b9b-499c-80e2-ff497aca60a3&url=https://canela.tv/player/channel/canela-cinema2&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="151" tvg-logo="https://i.imgur.com/FXguxeG.jpeg" group-title="🎬 Películas y Series",Cine Romantico
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="149" tvg-logo="https://i.imgur.com/FXguxeG.jpeg" group-title="🎬 Películas y Series",Cine Romantico
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8

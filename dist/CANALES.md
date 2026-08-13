@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 407 canales en 28 categorías  
-**Actualizado:** 2026-08-13 01:46 UTC  
+**Total:** 408 canales en 28 categorías  
+**Actualizado:** 2026-08-13 07:23 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -9,10 +9,10 @@
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
 | 🇩🇴 República Dominicana | 121 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 41 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🌎 Hispanos | 42 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 9 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
-| 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
+| 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 4 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 24 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇾 Paraguay | 2 | [`paraguay.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/paraguay.m3u) |
 | 🇵🇪 Perú | 8 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 9 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
+| 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 
 ## Detalle
 
@@ -165,7 +165,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (41 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (42 canales)</summary>
 
 - Lasestrellas
 - France24 ES
@@ -202,6 +202,7 @@
 - Bendicionchannel
 - Agrotendencia
 - Cvi
+- CVI Webrtc
 - Cn 247
 - Noticias Ahora
 - El Chavo
@@ -257,14 +258,13 @@
 
 </details>
 
-<details><summary><b>🎬 Películas y Series</b> (13 canales)</summary>
+<details><summary><b>🎬 Películas y Series</b> (12 canales)</summary>
 
 - Orbit TV
 - Imagenuniversal TV
 - Cascara TV
 - WTV
 - Runtime Series
-- Gentvoficial
 - Ladescarga TV
 - FMTV
 - BBC Drama
@@ -571,7 +571,7 @@
 
 </details>
 
-<details><summary><b>🇻🇪 Venezuela</b> (10 canales)</summary>
+<details><summary><b>🇻🇪 Venezuela</b> (11 canales)</summary>
 
 - VTV
 - Globovision
@@ -580,6 +580,7 @@
 - Venevision
 - Teletuya
 - Televen
+- Televen 2
 - AguacateTV
 - Canal 21 Tachira
 - Catatumbo TV

@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sinart" tvg-chno="292" tvg-logo="https://i.imgur.com/xRvdBsw.jpeg" group-title="🇨🇷 Costa Rica",Sinart
+#EXTINF:-1 tvg-id="" tvg-name="Sinart" tvg-chno="287" tvg-logo="https://i.imgur.com/xRvdBsw.jpeg" group-title="🇨🇷 Costa Rica",Sinart
 #EXTGRP:🇨🇷 Costa Rica
 https://hls.tvabierta.net/hls/sinart.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BestClasicosTV" tvg-chno="293" tvg-logo="" group-title="🇨🇷 Costa Rica",BestClasicosTV
+#EXTINF:-1 tvg-id="" tvg-name="BestClasicosTV" tvg-chno="288" tvg-logo="" group-title="🇨🇷 Costa Rica",BestClasicosTV
 #EXTGRP:🇨🇷 Costa Rica
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-chno="294" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="🇨🇷 Costa Rica",Costa Rica Channel
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-chno="289" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="🇨🇷 Costa Rica",Costa Rica Channel
 #EXTGRP:🇨🇷 Costa Rica
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-chno="295" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="🇨🇷 Costa Rica",Coto Brus TV
+#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-chno="290" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="🇨🇷 Costa Rica",Coto Brus TV
 #EXTGRP:🇨🇷 Costa Rica
 https://cloudvideo.servers10.com:8081/8030/index.m3u8

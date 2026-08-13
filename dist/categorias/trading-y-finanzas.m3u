@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="124" tvg-logo="https://i.imgur.com/9Nnc3Cd.png" group-title="📈 Trading y Finanzas",Negocios
+#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="122" tvg-logo="https://i.imgur.com/9Nnc3Cd.png" group-title="📈 Trading y Finanzas",Negocios
 #EXTGRP:📈 Trading y Finanzas
 https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negociostv-lges/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Schwabnetwork" tvg-chno="125" tvg-logo="https://i.imgur.com/J2fMySW.jpeg" group-title="📈 Trading y Finanzas",Schwabnetwork
+#EXTINF:-1 tvg-id="" tvg-name="Schwabnetwork" tvg-chno="123" tvg-logo="https://i.imgur.com/J2fMySW.jpeg" group-title="📈 Trading y Finanzas",Schwabnetwork
 #EXTGRP:📈 Trading y Finanzas
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="126" tvg-logo="https://i.imgur.com/vMZDp3Q.png" group-title="📈 Trading y Finanzas",Finance.yahoo
+#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="124" tvg-logo="https://i.imgur.com/vMZDp3Q.png" group-title="📈 Trading y Finanzas",Finance.yahoo
 #EXTGRP:📈 Trading y Finanzas
 https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="127" tvg-logo="https://i.imgur.com/c18G7Bu.png" group-title="📈 Trading y Finanzas",Bbcnews
+#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="125" tvg-logo="https://i.imgur.com/c18G7Bu.png" group-title="📈 Trading y Finanzas",Bbcnews
 #EXTGRP:📈 Trading y Finanzas
 https://hls.tvabierta.net/hls/bbcnews.m3u8

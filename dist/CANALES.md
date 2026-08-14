@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 408 canales en 28 categorías  
-**Actualizado:** 2026-08-13 19:00 UTC  
+**Total:** 407 canales en 28 categorías  
+**Actualizado:** 2026-08-14 01:43 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -9,7 +9,7 @@
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
 | 🇩🇴 República Dominicana | 121 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 42 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🌎 Hispanos | 41 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 9 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -165,7 +165,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (42 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (41 canales)</summary>
 
 - Lasestrellas
 - France24 ES
@@ -202,7 +202,6 @@
 - Bendicionchannel
 - Agrotendencia
 - Cvi
-- CVI Webrtc
 - Cn 247
 - Noticias Ahora
 - El Chavo

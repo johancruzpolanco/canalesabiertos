@@ -103,25 +103,22 @@ https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cvi" tvg-chno="181" tvg-logo="https://i.imgur.com/kCeUQpH.png" group-title="🌎 Hispanos",Cvi
 #EXTGRP:🌎 Hispanos
-https://ds.tvabierta.net/memfs/17d7a64e-26e8-4ccc-b2a7-1374ffe9d78b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CVI Webrtc" tvg-chno="182" tvg-logo="https://i.imgur.com/kCeUQpH.png" group-title="🌎 Hispanos",CVI Webrtc
-#EXTGRP:🌎 Hispanos
 https://envivo.tvabierta.net/hls/cvi-webrtc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cn 247" tvg-chno="183" tvg-logo="https://i.imgur.com/7jT5fHy.jpeg" group-title="🌎 Hispanos",Cn 247
+#EXTINF:-1 tvg-id="" tvg-name="Cn 247" tvg-chno="182" tvg-logo="https://i.imgur.com/7jT5fHy.jpeg" group-title="🌎 Hispanos",Cn 247
 #EXTGRP:🌎 Hispanos
 https://play.tvabierta.net/live/0/0/1287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Noticias Ahora" tvg-chno="184" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="🌎 Hispanos",Noticias Ahora
+#EXTINF:-1 tvg-id="" tvg-name="Noticias Ahora" tvg-chno="183" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="🌎 Hispanos",Noticias Ahora
 #EXTGRP:🌎 Hispanos
 https://play.tvabierta.net/live/0/0/1290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-chno="185" tvg-logo="https://i.imgur.com/lBUPe89.png" group-title="🌎 Hispanos",El Chavo
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-chno="184" tvg-logo="https://i.imgur.com/lBUPe89.png" group-title="🌎 Hispanos",El Chavo
 #EXTGRP:🌎 Hispanos
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Pro" tvg-chno="186" tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="🌎 Hispanos",Canal Pro
+#EXTINF:-1 tvg-id="" tvg-name="Canal Pro" tvg-chno="185" tvg-logo="https://i.imgur.com/ah8n7jL.png" group-title="🌎 Hispanos",Canal Pro
 #EXTGRP:🌎 Hispanos
 https://www.desde-paraguay.com/pro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlientoVision" tvg-chno="187" tvg-logo="https://i.imgur.com/xT10iqB.png" group-title="🌎 Hispanos",AlientoVision
+#EXTINF:-1 tvg-id="" tvg-name="AlientoVision" tvg-chno="186" tvg-logo="https://i.imgur.com/xT10iqB.png" group-title="🌎 Hispanos",AlientoVision
 #EXTGRP:🌎 Hispanos
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBN Espanol" tvg-chno="188" tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="🌎 Hispanos",CBN Espanol
+#EXTINF:-1 tvg-id="" tvg-name="CBN Espanol" tvg-chno="187" tvg-logo="https://i.imgur.com/G7B4wSM.png" group-title="🌎 Hispanos",CBN Espanol
 #EXTGRP:🌎 Hispanos
 https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8

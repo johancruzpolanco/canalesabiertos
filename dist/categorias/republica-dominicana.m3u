@@ -22,7 +22,7 @@ https://stream.elseis.do/canal6/live_480.m3u8
 https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemedios" tvg-chno="8" tvg-logo="https://i.imgur.com/CvpXroF.png" group-title="🇩🇴 República Dominicana",Telemedios
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/c64099fa-9b8a-4544-b0b1-40c7c0af49d2.m3u8
+https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colorvisión" tvg-chno="9" tvg-logo="https://i.imgur.com/iK4oxa2.png" group-title="🇩🇴 República Dominicana",Colorvisión
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/2493e646-b24d-489b-8603-0879abb93123.m3u8

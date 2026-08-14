@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-chno="382" tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="🇻🇪 Venezuela",VTV
+#EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-chno="381" tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="🇻🇪 Venezuela",VTV
 #EXTGRP:🇻🇪 Venezuela
 https://hls.tvabierta.net/hls/vtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="383" tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="🇻🇪 Venezuela",Globovision
+#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="382" tvg-logo="https://i.imgur.com/QOou0AD.png" group-title="🇻🇪 Venezuela",Globovision
 #EXTGRP:🇻🇪 Venezuela
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="384" tvg-logo="https://i.imgur.com/g5veVDf.png" group-title="🇻🇪 Venezuela",Promar
+#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="383" tvg-logo="https://i.imgur.com/g5veVDf.png" group-title="🇻🇪 Venezuela",Promar
 #EXTGRP:🇻🇪 Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal I" tvg-chno="385" tvg-logo="https://i.imgur.com/ci4ud3s.png" group-title="🇻🇪 Venezuela",Canal I
+#EXTINF:-1 tvg-id="" tvg-name="Canal I" tvg-chno="384" tvg-logo="https://i.imgur.com/ci4ud3s.png" group-title="🇻🇪 Venezuela",Canal I
 #EXTGRP:🇻🇪 Venezuela
 https://streaming.canal-i.com/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="386" tvg-logo="https://i.imgur.com/18vp26h.png" group-title="🇻🇪 Venezuela",Venevision
+#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="385" tvg-logo="https://i.imgur.com/18vp26h.png" group-title="🇻🇪 Venezuela",Venevision
 #EXTGRP:🇻🇪 Venezuela
 https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teletuya" tvg-chno="387" tvg-logo="https://i.imgur.com/THJU2B8.png" group-title="🇻🇪 Venezuela",Teletuya
+#EXTINF:-1 tvg-id="" tvg-name="Teletuya" tvg-chno="386" tvg-logo="https://i.imgur.com/THJU2B8.png" group-title="🇻🇪 Venezuela",Teletuya
 #EXTGRP:🇻🇪 Venezuela
 https://hls.tvabierta.net/hls/teletuya.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-chno="388" tvg-logo="https://i.imgur.com/mVLSCk4.png" group-title="🇻🇪 Venezuela",Televen
+#EXTINF:-1 tvg-id="" tvg-name="Televen" tvg-chno="387" tvg-logo="https://i.imgur.com/mVLSCk4.png" group-title="🇻🇪 Venezuela",Televen
 #EXTGRP:🇻🇪 Venezuela
 https://ds.tvabierta.net/memfs/1afd4436-1b0c-4c36-b003-7c6e1f2a791c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televen 2" tvg-chno="389" tvg-logo="https://i.imgur.com/mVLSCk4.png" group-title="🇻🇪 Venezuela",Televen 2
+#EXTINF:-1 tvg-id="" tvg-name="Televen 2" tvg-chno="388" tvg-logo="https://i.imgur.com/mVLSCk4.png" group-title="🇻🇪 Venezuela",Televen 2
 #EXTGRP:🇻🇪 Venezuela
 https://hls.tvabierta.net/hls/televen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AguacateTV" tvg-chno="390" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="🇻🇪 Venezuela",AguacateTV
+#EXTINF:-1 tvg-id="" tvg-name="AguacateTV" tvg-chno="389" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" group-title="🇻🇪 Venezuela",AguacateTV
 #EXTGRP:🇻🇪 Venezuela
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Tachira" tvg-chno="391" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="🇻🇪 Venezuela",Canal 21 Tachira
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Tachira" tvg-chno="390" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="🇻🇪 Venezuela",Canal 21 Tachira
 #EXTGRP:🇻🇪 Venezuela
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="392" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="🇻🇪 Venezuela",Catatumbo TV
+#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="391" tvg-logo="https://i.imgur.com/LBI2la0.png" group-title="🇻🇪 Venezuela",Catatumbo TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8

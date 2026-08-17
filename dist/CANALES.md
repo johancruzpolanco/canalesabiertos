@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
 **Total:** 407 canales en 28 categorías  
-**Actualizado:** 2026-08-17 12:38 UTC  
+**Actualizado:** 2026-08-17 18:34 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -42,7 +42,7 @@
 <details><summary><b>🇩🇴 República Dominicana</b> (121 canales)</summary>
 
 - Bloomberg
-- Misionel TV
+- CDN
 - Ahora TV
 - RTVD
 - Telemicro
@@ -77,7 +77,6 @@
 - Ready Television
 - Vallevisión
 - CDN Deportes
-- CDN 37
 - Acento TV
 - Coral 39
 - Altanto TV
@@ -162,6 +161,7 @@
 - Canal Sin Nombre
 - Colome TV
 - Delta TV
+- Vtv 32
 
 </details>
 

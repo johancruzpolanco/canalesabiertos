@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Peniel Familia" tvg-chno="314" tvg-logo="https://i.imgur.com/5GrFIxI.png" group-title="🇬🇹 Guatemala",Peniel Familia
+#EXTINF:-1 tvg-id="" tvg-name="Peniel Familia" tvg-chno="315" tvg-logo="https://i.imgur.com/5GrFIxI.png" group-title="🇬🇹 Guatemala",Peniel Familia
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/penielfamiliar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal27" tvg-chno="315" tvg-logo="https://i.imgur.com/ZlWrsHm.png" group-title="🇬🇹 Guatemala",Canal27
+#EXTINF:-1 tvg-id="" tvg-name="Canal27" tvg-chno="316" tvg-logo="https://i.imgur.com/ZlWrsHm.png" group-title="🇬🇹 Guatemala",Canal27
 #EXTGRP:🇬🇹 Guatemala
 https://ch1-c27.duin.dev/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="316" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="🇬🇹 Guatemala",Amigos TV
+#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="317" tvg-logo="https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png" group-title="🇬🇹 Guatemala",Amigos TV
 #EXTGRP:🇬🇹 Guatemala
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aurora Media Films" tvg-chno="317" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="🇬🇹 Guatemala",Aurora Media Films
+#EXTINF:-1 tvg-id="" tvg-name="Aurora Media Films" tvg-chno="318" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="🇬🇹 Guatemala",Aurora Media Films
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="318" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="🇬🇹 Guatemala",Barbe TV
+#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="319" tvg-logo="https://i.imgur.com/2Sekew2.png" group-title="🇬🇹 Guatemala",Barbe TV
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8

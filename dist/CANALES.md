@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 407 canales en 28 categorías  
-**Actualizado:** 2026-08-18 12:39 UTC  
+**Total:** 408 canales en 28 categorías  
+**Actualizado:** 2026-08-18 18:33 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 121 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 122 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 41 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 9 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -39,10 +39,10 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (121 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (122 canales)</summary>
 
 - Bloomberg
-- CDN
+- Misionel TV
 - Ahora TV
 - RTVD
 - Telemicro
@@ -77,6 +77,7 @@
 - Ready Television
 - Vallevisión
 - CDN Deportes
+- CDN 37
 - Acento TV
 - Coral 39
 - Altanto TV

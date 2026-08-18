@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ColimdoTV" tvg-chno="137" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="⚽ Deportes",ColimdoTV
+#EXTINF:-1 tvg-id="" tvg-name="ColimdoTV" tvg-chno="138" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="⚽ Deportes",ColimdoTV
 #EXTGRP:⚽ Deportes
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="138" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="⚽ Deportes",Telemundo PR
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="139" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="⚽ Deportes",Telemundo PR
 #EXTGRP:⚽ Deportes
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ni Canal 4" tvg-chno="139" tvg-logo="https://i.imgur.com/neRC0Rj.png" group-title="⚽ Deportes",Ni Canal 4
+#EXTINF:-1 tvg-id="" tvg-name="Ni Canal 4" tvg-chno="140" tvg-logo="https://i.imgur.com/neRC0Rj.png" group-title="⚽ Deportes",Ni Canal 4
 #EXTGRP:⚽ Deportes
 https://hls.tvabierta.net/hls/nica4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elgarage" tvg-chno="140" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="⚽ Deportes",Elgarage
+#EXTINF:-1 tvg-id="" tvg-name="Elgarage" tvg-chno="141" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="⚽ Deportes",Elgarage
 #EXTGRP:⚽ Deportes
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MPATV" tvg-chno="141" tvg-logo="https://i.imgur.com/wC5rtxk.jpeg" group-title="⚽ Deportes",MPATV
+#EXTINF:-1 tvg-id="" tvg-name="MPATV" tvg-chno="142" tvg-logo="https://i.imgur.com/wC5rtxk.jpeg" group-title="⚽ Deportes",MPATV
 #EXTGRP:⚽ Deportes
 https://5790d294af2dc.streamlock.net/mpatv/mpatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Itvdeportes" tvg-chno="142" tvg-logo="https://i.imgur.com/gNJA0XI.jpeg" group-title="⚽ Deportes",Itvdeportes
+#EXTINF:-1 tvg-id="" tvg-name="Itvdeportes" tvg-chno="143" tvg-logo="https://i.imgur.com/gNJA0XI.jpeg" group-title="⚽ Deportes",Itvdeportes
 #EXTGRP:⚽ Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-chno="143" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽ Deportes",Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-chno="144" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽ Deportes",Real Madrid
 #EXTGRP:⚽ Deportes
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid 2" tvg-chno="144" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽ Deportes",Real Madrid 2
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid 2" tvg-chno="145" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽ Deportes",Real Madrid 2
 #EXTGRP:⚽ Deportes
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="145" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="⚽ Deportes",AS3 Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="146" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="⚽ Deportes",AS3 Sport TV
 #EXTGRP:⚽ Deportes
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8

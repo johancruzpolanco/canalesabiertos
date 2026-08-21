@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-chno="338" tvg-logo="https://i.imgur.com/MZQtWyL.png" group-title="🇵🇪 Perú",Willax
+#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-chno="461" tvg-logo="https://i.imgur.com/MZQtWyL.png" group-title="🇵🇪 Perú",Willax
 #EXTGRP:🇵🇪 Perú
-https://play.tvabierta.net/live/0/0/1282.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABTelevision" tvg-chno="339" tvg-logo="https://i.imgur.com/tqMDscD.png" group-title="🇵🇪 Perú",ABTelevision
+https://hls.tvabierta.net/hls/willax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABTelevision" tvg-chno="462" tvg-logo="https://i.imgur.com/tqMDscD.png" group-title="🇵🇪 Perú",ABTelevision
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AgroTV" tvg-chno="340" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="🇵🇪 Perú",AgroTV
+#EXTINF:-1 tvg-id="" tvg-name="AgroTV" tvg-chno="463" tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="🇵🇪 Perú",AgroTV
 #EXTGRP:🇵🇪 Perú
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-chno="341" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="🇵🇪 Perú",ATV
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-chno="464" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="🇵🇪 Perú",ATV
 #EXTGRP:🇵🇪 Perú
 https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BNB Digital" tvg-chno="342" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="🇵🇪 Perú",BNB Digital
+#EXTINF:-1 tvg-id="" tvg-name="BNB Digital" tvg-chno="465" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="🇵🇪 Perú",BNB Digital
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL M Television" tvg-chno="343" tvg-logo="https://i.imgur.com/EcdNFuJ.png" group-title="🇵🇪 Perú",CANAL M Television
+#EXTINF:-1 tvg-id="" tvg-name="CANAL M Television" tvg-chno="466" tvg-logo="https://i.imgur.com/EcdNFuJ.png" group-title="🇵🇪 Perú",CANAL M Television
 #EXTGRP:🇵🇪 Perú
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Casmatv" tvg-chno="344" tvg-logo="https://i.imgur.com/42aE0nm.jpeg" group-title="🇵🇪 Perú",Casmatv
+#EXTINF:-1 tvg-id="" tvg-name="Casmatv" tvg-chno="467" tvg-logo="https://i.imgur.com/42aE0nm.jpeg" group-title="🇵🇪 Perú",Casmatv
 #EXTGRP:🇵🇪 Perú
 https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="345" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="🇵🇪 Perú",DeltaTV
+#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="468" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="🇵🇪 Perú",DeltaTV
 #EXTGRP:🇵🇪 Perú
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8

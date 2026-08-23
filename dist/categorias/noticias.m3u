@@ -1,82 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Skynews Au" tvg-chno="184" tvg-logo="https://i.imgur.com/EdyB3Wy.png" group-title="📰 Noticias",Skynews Au
+#EXTINF:-1 tvg-id="" tvg-name="Skynews Au" tvg-chno="181" tvg-logo="https://i.imgur.com/EdyB3Wy.png" group-title="📰 Noticias",Skynews Au
 #EXTGRP:📰 Noticias
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LiveNow" tvg-chno="185" tvg-logo="https://i.imgur.com/nXSmxJi.jpg?1" group-title="📰 Noticias",LiveNow
+#EXTINF:-1 tvg-id="" tvg-name="LiveNow" tvg-chno="182" tvg-logo="https://i.imgur.com/nXSmxJi.jpg?1" group-title="📰 Noticias",LiveNow
 #EXTGRP:📰 Noticias
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OAN News" tvg-chno="186" tvg-logo="https://i.imgur.com/Du6m68h.png" group-title="📰 Noticias",OAN News
+#EXTINF:-1 tvg-id="" tvg-name="OAN News" tvg-chno="183" tvg-logo="https://i.imgur.com/Du6m68h.png" group-title="📰 Noticias",OAN News
 #EXTGRP:📰 Noticias
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Newsmaxtv 2" tvg-chno="187" tvg-logo="https://i.imgur.com/inueNJu.jpg" group-title="📰 Noticias",Newsmaxtv 2
+#EXTINF:-1 tvg-id="" tvg-name="Newsmaxtv 2" tvg-chno="184" tvg-logo="https://i.imgur.com/inueNJu.jpg" group-title="📰 Noticias",Newsmaxtv 2
 #EXTGRP:📰 Noticias
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WION News" tvg-chno="188" tvg-logo="https://i.imgur.com/OWRv41N.png" group-title="📰 Noticias",WION News
+#EXTINF:-1 tvg-id="" tvg-name="WION News" tvg-chno="185" tvg-logo="https://i.imgur.com/OWRv41N.png" group-title="📰 Noticias",WION News
 #EXTGRP:📰 Noticias
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UK GBN" tvg-chno="189" tvg-logo="https://i.imgur.com/unPV7C9.png" group-title="📰 Noticias",UK GBN
+#EXTINF:-1 tvg-id="" tvg-name="UK GBN" tvg-chno="186" tvg-logo="https://i.imgur.com/unPV7C9.png" group-title="📰 Noticias",UK GBN
 #EXTGRP:📰 Noticias
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trtworld.com" tvg-chno="190" tvg-logo="https://i.imgur.com/QgiwTn3.png" group-title="📰 Noticias",Trtworld.com
+#EXTINF:-1 tvg-id="" tvg-name="Trtworld.com" tvg-chno="187" tvg-logo="https://i.imgur.com/QgiwTn3.png" group-title="📰 Noticias",Trtworld.com
 #EXTGRP:📰 Noticias
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africanews FR" tvg-chno="191" tvg-logo="https://i.imgur.com/Uf4shmU.png" group-title="📰 Noticias",Africanews FR
+#EXTINF:-1 tvg-id="" tvg-name="Africanews FR" tvg-chno="188" tvg-logo="https://i.imgur.com/Uf4shmU.png" group-title="📰 Noticias",Africanews FR
 #EXTGRP:📰 Noticias
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-chno="192" tvg-logo="https://i.imgur.com/cQerCya.png" group-title="📰 Noticias",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-chno="189" tvg-logo="https://i.imgur.com/cQerCya.png" group-title="📰 Noticias",ABC News
 #EXTGRP:📰 Noticias
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-chno="193" tvg-logo="https://i.imgur.com/2um4oIE.png" group-title="📰 Noticias",CNN Brasil
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil" tvg-chno="190" tvg-logo="https://i.imgur.com/2um4oIE.png" group-title="📰 Noticias",CNN Brasil
 #EXTGRP:📰 Noticias
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Weather" tvg-chno="194" tvg-logo="https://i.imgur.com/BpcrFyN.png" group-title="📰 Noticias",Fox Weather
+#EXTINF:-1 tvg-id="" tvg-name="Fox Weather" tvg-chno="191" tvg-logo="https://i.imgur.com/BpcrFyN.png" group-title="📰 Noticias",Fox Weather
 #EXTGRP:📰 Noticias
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Weather Nation" tvg-chno="195" tvg-logo="https://i.imgur.com/u9emDI3.png" group-title="📰 Noticias",Weather Nation
+#EXTINF:-1 tvg-id="" tvg-name="Weather Nation" tvg-chno="192" tvg-logo="https://i.imgur.com/u9emDI3.png" group-title="📰 Noticias",Weather Nation
 #EXTGRP:📰 Noticias
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The First" tvg-chno="196" tvg-logo="https://i.imgur.com/HTgLbB3.png" group-title="📰 Noticias",The First
+#EXTINF:-1 tvg-id="" tvg-name="The First" tvg-chno="193" tvg-logo="https://i.imgur.com/HTgLbB3.png" group-title="📰 Noticias",The First
 #EXTGRP:📰 Noticias
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice" tvg-chno="197" tvg-logo="https://i.imgur.com/DEKYmpn.png" group-title="📰 Noticias",Real America's Voice
+#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice" tvg-chno="194" tvg-logo="https://i.imgur.com/DEKYmpn.png" group-title="📰 Noticias",Real America's Voice
 #EXTGRP:📰 Noticias
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-chno="198" tvg-logo="https://i.imgur.com/qeN3k5c.png" group-title="📰 Noticias",DW News
+#EXTINF:-1 tvg-id="" tvg-name="DW News" tvg-chno="195" tvg-logo="https://i.imgur.com/qeN3k5c.png" group-title="📰 Noticias",DW News
 #EXTGRP:📰 Noticias
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kusa" tvg-chno="199" tvg-logo="https://i.imgur.com/Z4UD1O7.png" group-title="📰 Noticias",Kusa
+#EXTINF:-1 tvg-id="" tvg-name="Kusa" tvg-chno="196" tvg-logo="https://i.imgur.com/Z4UD1O7.png" group-title="📰 Noticias",Kusa
 #EXTGRP:📰 Noticias
 https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Baltimore" tvg-chno="200" tvg-logo="https://i.imgur.com/MnJR2iB.png" group-title="📰 Noticias",CBS Baltimore
+#EXTINF:-1 tvg-id="" tvg-name="CBS Baltimore" tvg-chno="197" tvg-logo="https://i.imgur.com/MnJR2iB.png" group-title="📰 Noticias",CBS Baltimore
 #EXTGRP:📰 Noticias
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTD" tvg-chno="201" tvg-logo="https://i.imgur.com/FrUdSim.png" group-title="📰 Noticias",NTD
+#EXTINF:-1 tvg-id="" tvg-name="NTD" tvg-chno="198" tvg-logo="https://i.imgur.com/FrUdSim.png" group-title="📰 Noticias",NTD
 #EXTGRP:📰 Noticias
 https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FSTV" tvg-chno="202" tvg-logo="https://i.imgur.com/HQKTuOT.png" group-title="📰 Noticias",FSTV
+#EXTINF:-1 tvg-id="" tvg-name="FSTV" tvg-chno="199" tvg-logo="https://i.imgur.com/HQKTuOT.png" group-title="📰 Noticias",FSTV
 #EXTGRP:📰 Noticias
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kr" tvg-chno="203" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="📰 Noticias",Kr
+#EXTINF:-1 tvg-id="" tvg-name="Kr" tvg-chno="200" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="📰 Noticias",Kr
 #EXTGRP:📰 Noticias
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-chno="204" tvg-logo="https://i.imgur.com/3UirZRy.png" group-title="📰 Noticias",CNA
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-chno="201" tvg-logo="https://i.imgur.com/3UirZRy.png" group-title="📰 Noticias",CNA
 #EXTGRP:📰 Noticias
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Citynews" tvg-chno="205" tvg-logo="" group-title="📰 Noticias",Citynews
+#EXTINF:-1 tvg-id="" tvg-name="Citynews" tvg-chno="202" tvg-logo="" group-title="📰 Noticias",Citynews
 #EXTGRP:📰 Noticias
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City News Toronto" tvg-chno="206" tvg-logo="https://i.imgur.com/SdG3zet.png" group-title="📰 Noticias",City News Toronto
+#EXTINF:-1 tvg-id="" tvg-name="City News Toronto" tvg-chno="203" tvg-logo="https://i.imgur.com/SdG3zet.png" group-title="📰 Noticias",City News Toronto
 #EXTGRP:📰 Noticias
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Global News BC" tvg-chno="207" tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="📰 Noticias",Global News BC
+#EXTINF:-1 tvg-id="" tvg-name="Global News BC" tvg-chno="204" tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="📰 Noticias",Global News BC
 #EXTGRP:📰 Noticias
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxnews" tvg-chno="208" tvg-logo="https://i.imgur.com/gi318hV.png" group-title="📰 Noticias",Foxnews
+#EXTINF:-1 tvg-id="" tvg-name="Foxnews" tvg-chno="205" tvg-logo="https://i.imgur.com/gi318hV.png" group-title="📰 Noticias",Foxnews
 #EXTGRP:📰 Noticias
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS News Miami" tvg-chno="209" tvg-logo="https://i.imgur.com/9GcY1AB.png" group-title="📰 Noticias",CBS News Miami
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Miami" tvg-chno="206" tvg-logo="https://i.imgur.com/9GcY1AB.png" group-title="📰 Noticias",CBS News Miami
 #EXTGRP:📰 Noticias
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F_yODrBHESGSzPe3dqW4gGg%2Fmaster.m3u8&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
-#EXTINF:-1 tvg-id="" tvg-name="France 24.com/en" tvg-chno="210" tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="📰 Noticias",France 24.com/en
+#EXTINF:-1 tvg-id="" tvg-name="France 24.com/en" tvg-chno="207" tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="📰 Noticias",France 24.com/en
 #EXTGRP:📰 Noticias
 https://amg00106-france24-france24-samsungde-39lcm.amagi.tv/playlist/amg00106-france24-france24-samsungde/playlist.m3u8

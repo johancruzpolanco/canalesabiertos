@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CA Global News Toronto" tvg-chno="523" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="🇨🇦 Canadá",CA Global News Toronto
+#EXTINF:-1 tvg-id="" tvg-name="CA Global News Toronto" tvg-chno="517" tvg-logo="https://i.imgur.com/xk1QOhW.png" group-title="🇨🇦 Canadá",CA Global News Toronto
 #EXTGRP:🇨🇦 Canadá
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA Global News Halifax" tvg-chno="524" tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="🇨🇦 Canadá",CA Global News Halifax
+#EXTINF:-1 tvg-id="" tvg-name="CA Global News Halifax" tvg-chno="518" tvg-logo="https://i.imgur.com/9McDIeY.png" group-title="🇨🇦 Canadá",CA Global News Halifax
 #EXTGRP:🇨🇦 Canadá
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8

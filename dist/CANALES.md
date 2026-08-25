@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 517 canales en 29 categorías  
-**Actualizado:** 2026-08-24 18:36 UTC  
+**Total:** 512 canales en 29 categorías  
+**Actualizado:** 2026-08-25 01:06 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 117 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 113 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 40 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 9 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -34,13 +34,13 @@
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇾 Paraguay | 1 | [`paraguay.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/paraguay.m3u) |
 | 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
-| 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
+| 🇵🇷 Puerto Rico | 6 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 | 📺 Otros | 136 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (117 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (113 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -104,7 +104,6 @@
 - CocoTV
 - Manaclartelevision
 - Telesiglo
-- Musavisión
 - Miavision
 - Radio Emanuel
 - Extra 86
@@ -123,7 +122,6 @@
 - Boreal
 - Senal Digital
 - Pulso Visión
-- Nueva Visión
 - Super7
 - Mocavisión
 - Real TV
@@ -151,14 +149,12 @@
 - Bonaotv
 - Bonches Latinos TV
 - Caoba TV
-- Cenovision
 - ConstanzaTV
 - Tvm
 - Canal Sin Nombre
 - Colome TV
 - Delta TV
 - Vtv 32
-- Vega Teve
 
 </details>
 
@@ -534,14 +530,13 @@
 
 </details>
 
-<details><summary><b>🇵🇷 Puerto Rico</b> (7 canales)</summary>
+<details><summary><b>🇵🇷 Puerto Rico</b> (6 canales)</summary>
 
 - CDM
 - Nuevavida.fm
 - Boricua
 - Tele11
 - Punto2
-- Notiuno
 - Candelita TV
 
 </details>

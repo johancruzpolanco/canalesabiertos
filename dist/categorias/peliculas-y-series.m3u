@@ -1,37 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="118" tvg-logo="https://i.imgur.com/00IStQf.png" group-title="🎬 Películas y Series",Orbit TV
+#EXTINF:-1 tvg-id="" tvg-name="Ametv" tvg-chno="123" tvg-logo="https://tvabierta.net/ametv.png" group-title="🎬 Películas y Series",Ametv
+#EXTGRP:🎬 Películas y Series
+https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="124" tvg-logo="https://tvabierta.net/orbit.png" group-title="🎬 Películas y Series",Orbit TV
 #EXTGRP:🎬 Películas y Series
 https://cnn.hostlagarto.com/orbittv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="119" tvg-logo="https://i.imgur.com/Y3ZMGuQ.png" group-title="🎬 Películas y Series",Imagenuniversal TV
+#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="125" tvg-logo="https://i.imgur.com/Y3ZMGuQ.png" group-title="🎬 Películas y Series",Imagenuniversal TV
 #EXTGRP:🎬 Películas y Series
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="120" tvg-logo="https://i.imgur.com/gnhnz0z.png" group-title="🎬 Películas y Series",Cascara TV
+#EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="126" tvg-logo="https://i.imgur.com/gnhnz0z.png" group-title="🎬 Películas y Series",Cascara TV
 #EXTGRP:🎬 Películas y Series
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-chno="121" tvg-logo="https://i.imgur.com/QbPmJR3.png" group-title="🎬 Películas y Series",WTV
+#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-chno="127" tvg-logo="https://i.imgur.com/QbPmJR3.png" group-title="🎬 Películas y Series",WTV
 #EXTGRP:🎬 Películas y Series
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Series" tvg-chno="122" tvg-logo="https://i.imgur.com/kg5UGbi.png" group-title="🎬 Películas y Series",Runtime Series
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Series" tvg-chno="128" tvg-logo="https://i.imgur.com/kg5UGbi.png" group-title="🎬 Películas y Series",Runtime Series
 #EXTGRP:🎬 Películas y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Ladescarga TV" tvg-chno="123" tvg-logo="https://i.imgur.com/vGcFRHc.jpeg" group-title="🎬 Películas y Series",Ladescarga TV
+#EXTINF:-1 tvg-id="" tvg-name="Ladescarga TV" tvg-chno="129" tvg-logo="https://i.imgur.com/vGcFRHc.jpeg" group-title="🎬 Películas y Series",Ladescarga TV
 #EXTGRP:🎬 Películas y Series
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FMTV" tvg-chno="124" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="🎬 Películas y Series",FMTV
+#EXTINF:-1 tvg-id="" tvg-name="FMTV" tvg-chno="130" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="🎬 Películas y Series",FMTV
 #EXTGRP:🎬 Películas y Series
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-chno="125" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="🎬 Películas y Series",BBC Drama
+#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-chno="131" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="🎬 Películas y Series",BBC Drama
 #EXTGRP:🎬 Películas y Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedia" tvg-chno="126" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🎬 Películas y Series",Rakuten Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedia" tvg-chno="132" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🎬 Películas y Series",Rakuten Comedia
 #EXTGRP:🎬 Películas y Series
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mega Cine" tvg-chno="127" tvg-logo="https://i.imgur.com/WHsjWIp.png" group-title="🎬 Películas y Series",Mega Cine
+#EXTINF:-1 tvg-id="" tvg-name="Mega Cine" tvg-chno="133" tvg-logo="https://i.imgur.com/WHsjWIp.png" group-title="🎬 Películas y Series",Mega Cine
 #EXTGRP:🎬 Películas y Series
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="128" tvg-logo="https://i.imgur.com/t8FJ4GZ.jpeg" group-title="🎬 Películas y Series",Canela
+#EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="134" tvg-logo="https://i.imgur.com/t8FJ4GZ.jpeg" group-title="🎬 Películas y Series",Canela
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=154.88.131.7&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=aa3bde15-3258-4b6a-b044-b154c741b1ac&url=https://www.canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="138" tvg-logo="https://i.imgur.com/FXguxeG.jpeg" group-title="🎬 Películas y Series",Cine Romantico
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="144" tvg-logo="https://i.imgur.com/FXguxeG.jpeg" group-title="🎬 Películas y Series",Cine Romantico
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LG +1" tvg-chno="145" tvg-logo="https://tvabierta.net/lg1.png" group-title="🎬 Películas y Series",LG +1
+#EXTGRP:🎬 Películas y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]

@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Tentv" tvg-chno="437" tvg-logo="https://i.imgur.com/c6hm03f.png" group-title="🇭🇳 Honduras",Tentv
+#EXTINF:-1 tvg-id="" tvg-name="Tentv" tvg-chno="445" tvg-logo="https://i.imgur.com/c6hm03f.png" group-title="🇭🇳 Honduras",Tentv
 #EXTGRP:🇭🇳 Honduras
 https://hls.tvabierta.net/hls/tentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dios Te VE" tvg-chno="438" tvg-logo="https://i.imgur.com/cFvwI5Y.jpg" group-title="🇭🇳 Honduras",Dios Te VE
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te VE" tvg-chno="446" tvg-logo="https://i.imgur.com/cFvwI5Y.jpg" group-title="🇭🇳 Honduras",Dios Te VE
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-chno="439" tvg-logo="https://tvabierta.net/canal11.png" group-title="🇭🇳 Honduras",Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-chno="447" tvg-logo="https://tvabierta.net/canal11.png" group-title="🇭🇳 Honduras",Canal 11
 #EXTGRP:🇭🇳 Honduras
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b2186154189968603c063a555
-#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-chno="440" tvg-logo="https://i.imgur.com/AKwqbKf.png" group-title="🇭🇳 Honduras",Choluteca TV
+#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-chno="448" tvg-logo="https://i.imgur.com/AKwqbKf.png" group-title="🇭🇳 Honduras",Choluteca TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alsacias TV" tvg-chno="441" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="🇭🇳 Honduras",Alsacias TV
+#EXTINF:-1 tvg-id="" tvg-name="Alsacias TV" tvg-chno="449" tvg-logo="https://i.imgur.com/SbuD1UW.png" group-title="🇭🇳 Honduras",Alsacias TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZA TV HD" tvg-chno="442" tvg-logo="https://i.imgur.com/Jytpy32.png" group-title="🇭🇳 Honduras",AZA TV HD
+#EXTINF:-1 tvg-id="" tvg-name="AZA TV HD" tvg-chno="450" tvg-logo="https://i.imgur.com/Jytpy32.png" group-title="🇭🇳 Honduras",AZA TV HD
 #EXTGRP:🇭🇳 Honduras
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Buendia TV" tvg-chno="443" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="🇭🇳 Honduras",Buendia TV
+#EXTINF:-1 tvg-id="" tvg-name="Buendia TV" tvg-chno="451" tvg-logo="https://i.imgur.com/m5hNyNE.png" group-title="🇭🇳 Honduras",Buendia TV
 #EXTGRP:🇭🇳 Honduras
 https://servilive.com:3508/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-chno="444" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳 Honduras",CHTV
+#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-chno="452" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="🇭🇳 Honduras",CHTV
 #EXTGRP:🇭🇳 Honduras
 https://viewhn.com/chtv/live/playlist.m3u8

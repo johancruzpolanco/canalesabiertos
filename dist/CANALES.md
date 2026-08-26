@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
 **Total:** 521 canales en 28 categorías  
-**Actualizado:** 2026-08-26 12:46 UTC  
+**Actualizado:** 2026-08-26 19:44 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -238,7 +238,7 @@
 - Global News BC
 - Foxnews
 - CBS News Miami
-- France 24.com/en
+- F24 En
 
 </details>
 
@@ -247,7 +247,7 @@
 - ColimdoTV
 - Telemundo PR
 - Ni Canal 4
-- Elgarage
+- Garage TV
 - MPATV
 - Itvdeportes
 - Real Madrid
@@ -268,7 +268,7 @@
 - FMTV
 - BBC Drama
 - Rakuten Comedia
-- Mega Cine
+- Megacine
 - Canela
 - Cine Romantico
 - LG +1

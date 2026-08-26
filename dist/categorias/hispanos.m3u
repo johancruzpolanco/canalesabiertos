@@ -2,22 +2,22 @@
 #EXTINF:-1 tvg-id="" tvg-name="T31 Orlando" tvg-chno="146" tvg-logo="https://tvabierta.net/t31.png" group-title="🌎 Hispanos",T31 Orlando
 #EXTGRP:🌎 Hispanos
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="147" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="🌎 Hispanos",Telemundo PR
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="147" tvg-logo="https://tvabierta.net/tpr.png" group-title="🌎 Hispanos",Telemundo PR
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/9e44e8e0-2162-4ad5-843c-9175a5edf483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Noreste" tvg-chno="148" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="🌎 Hispanos",Telemundo Noreste
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/f423e722-97de-4156-b272-adf472b82f00.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision41" tvg-chno="149" tvg-logo="https://i.imgur.com/wHOlbJl.png" group-title="🌎 Hispanos",Univision41
+#EXTINF:-1 tvg-id="" tvg-name="Univision41" tvg-chno="149" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision41
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/53adff2c-9efb-4138-be19-f7c67e073e0f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="150" tvg-logo="https://i.imgur.com/wHOlbJl.png" group-title="🌎 Hispanos",Univision Chicago
+#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="150" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision Chicago
 #EXTGRP:🌎 Hispanos
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro HD" tvg-chno="151" tvg-logo="https://tvabierta.net/005.png" group-title="🌎 Hispanos",Telemicro HD
 #EXTGRP:🌎 Hispanos
 https://pe.teleabierta.com/memfs/3e7ac8fc-228e-40b5-9b7f-edba54b73805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France24 ES" tvg-chno="152" tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="🌎 Hispanos",France24 ES
+#EXTINF:-1 tvg-id="" tvg-name="France24 ES" tvg-chno="152" tvg-logo="https://tvabierta.net/f24.png" group-title="🌎 Hispanos",France24 ES
 #EXTGRP:🌎 Hispanos
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-chno="153" tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="🌎 Hispanos",CNN en Español

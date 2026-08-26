@@ -356,22 +356,22 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T31 Orlando" tvg-chno="146" tvg-logo="https://tvabierta.net/t31.png" group-title="🌎 Hispanos",T31 Orlando
 #EXTGRP:🌎 Hispanos
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="147" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="🌎 Hispanos",Telemundo PR
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="147" tvg-logo="https://tvabierta.net/tpr.png" group-title="🌎 Hispanos",Telemundo PR
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/9e44e8e0-2162-4ad5-843c-9175a5edf483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Noreste" tvg-chno="148" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="🌎 Hispanos",Telemundo Noreste
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/f423e722-97de-4156-b272-adf472b82f00.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision41" tvg-chno="149" tvg-logo="https://i.imgur.com/wHOlbJl.png" group-title="🌎 Hispanos",Univision41
+#EXTINF:-1 tvg-id="" tvg-name="Univision41" tvg-chno="149" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision41
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/53adff2c-9efb-4138-be19-f7c67e073e0f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="150" tvg-logo="https://i.imgur.com/wHOlbJl.png" group-title="🌎 Hispanos",Univision Chicago
+#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="150" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision Chicago
 #EXTGRP:🌎 Hispanos
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro HD" tvg-chno="151" tvg-logo="https://tvabierta.net/005.png" group-title="🌎 Hispanos",Telemicro HD
 #EXTGRP:🌎 Hispanos
 https://pe.teleabierta.com/memfs/3e7ac8fc-228e-40b5-9b7f-edba54b73805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France24 ES" tvg-chno="152" tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="🌎 Hispanos",France24 ES
+#EXTINF:-1 tvg-id="" tvg-name="France24 ES" tvg-chno="152" tvg-logo="https://tvabierta.net/f24.png" group-title="🌎 Hispanos",France24 ES
 #EXTGRP:🌎 Hispanos
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-chno="153" tvg-logo="https://i.imgur.com/5FVP8rI.png" group-title="🌎 Hispanos",CNN en Español
@@ -560,34 +560,34 @@ https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Miami" tvg-chno="214" tvg-logo="https://i.imgur.com/9GcY1AB.png" group-title="📰 Noticias",CBS News Miami
 #EXTGRP:📰 Noticias
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2F_yODrBHESGSzPe3dqW4gGg%2Fmaster.m3u8&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal
-#EXTINF:-1 tvg-id="" tvg-name="France 24.com/en" tvg-chno="215" tvg-logo="https://i.imgur.com/xkLxtCQ.png" group-title="📰 Noticias",France 24.com/en
+#EXTINF:-1 tvg-id="" tvg-name="F24 En" tvg-chno="215" tvg-logo="https://tvabierta.net/005.png" group-title="📰 Noticias",F24 En
 #EXTGRP:📰 Noticias
 https://amg00106-france24-france24-samsungde-39lcm.amagi.tv/playlist/amg00106-france24-france24-samsungde/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ColimdoTV" tvg-chno="135" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="⚽ Deportes",ColimdoTV
+#EXTINF:-1 tvg-id="" tvg-name="ColimdoTV" tvg-chno="135" tvg-logo="https://tvabierta.net/colimdotv.png" group-title="⚽ Deportes",ColimdoTV
 #EXTGRP:⚽ Deportes
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="136" tvg-logo="https://i.imgur.com/MGfdxjp.png" group-title="⚽ Deportes",Telemundo PR
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="136" tvg-logo="https://tvabierta.net/t.png" group-title="⚽ Deportes",Telemundo PR
 #EXTGRP:⚽ Deportes
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ni Canal 4" tvg-chno="137" tvg-logo="https://hls.tvabierta.net/nica4.png" group-title="⚽ Deportes",Ni Canal 4
 #EXTGRP:⚽ Deportes
 https://hls.tvabierta.net/hls/nica4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Elgarage" tvg-chno="138" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="⚽ Deportes",Elgarage
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-chno="138" tvg-logo="https://tvabierta.net/garagetv.png" group-title="⚽ Deportes",Garage TV
 #EXTGRP:⚽ Deportes
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MPATV" tvg-chno="139" tvg-logo="https://i.imgur.com/wC5rtxk.jpeg" group-title="⚽ Deportes",MPATV
+#EXTINF:-1 tvg-id="" tvg-name="MPATV" tvg-chno="139" tvg-logo="https://tvabierta.net/mpatv.jpeg" group-title="⚽ Deportes",MPATV
 #EXTGRP:⚽ Deportes
 https://5790d294af2dc.streamlock.net/mpatv/mpatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Itvdeportes" tvg-chno="140" tvg-logo="https://i.imgur.com/gNJA0XI.jpeg" group-title="⚽ Deportes",Itvdeportes
+#EXTINF:-1 tvg-id="" tvg-name="Itvdeportes" tvg-chno="140" tvg-logo="https://tvabierta.net/itvdeportes.jpeg" group-title="⚽ Deportes",Itvdeportes
 #EXTGRP:⚽ Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-chno="141" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽ Deportes",Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-chno="141" tvg-logo="https://tvabierta.net/rm.png" group-title="⚽ Deportes",Real Madrid
 #EXTGRP:⚽ Deportes
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid 2" tvg-chno="142" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="⚽ Deportes",Real Madrid 2
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid 2" tvg-chno="142" tvg-logo="https://tvabierta.net/rm.png" group-title="⚽ Deportes",Real Madrid 2
 #EXTGRP:⚽ Deportes
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="143" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="⚽ Deportes",AS3 Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="143" tvg-logo="https://tvabierta.net/as3sport.jpg" group-title="⚽ Deportes",AS3 Sport TV
 #EXTGRP:⚽ Deportes
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ametv" tvg-chno="123" tvg-logo="https://tvabierta.net/ametv.png" group-title="🎬 Películas y Series",Ametv
@@ -596,37 +596,37 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="124" tvg-logo="https://tvabierta.net/orbit.png" group-title="🎬 Películas y Series",Orbit TV
 #EXTGRP:🎬 Películas y Series
 https://cnn.hostlagarto.com/orbittv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="125" tvg-logo="https://i.imgur.com/Y3ZMGuQ.png" group-title="🎬 Películas y Series",Imagenuniversal TV
+#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="125" tvg-logo="https://tvabierta.net/iutv.png" group-title="🎬 Películas y Series",Imagenuniversal TV
 #EXTGRP:🎬 Películas y Series
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="126" tvg-logo="https://i.imgur.com/gnhnz0z.png" group-title="🎬 Películas y Series",Cascara TV
+#EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="126" tvg-logo="https://tvabierta.net/cascaratv.png" group-title="🎬 Películas y Series",Cascara TV
 #EXTGRP:🎬 Películas y Series
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-chno="127" tvg-logo="https://i.imgur.com/QbPmJR3.png" group-title="🎬 Películas y Series",WTV
+#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-chno="127" tvg-logo="https://tvabierta.net/wtv.png" group-title="🎬 Películas y Series",WTV
 #EXTGRP:🎬 Películas y Series
 https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Series" tvg-chno="128" tvg-logo="https://i.imgur.com/kg5UGbi.png" group-title="🎬 Películas y Series",Runtime Series
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Series" tvg-chno="128" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Runtime Series
 #EXTGRP:🎬 Películas y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Ladescarga TV" tvg-chno="129" tvg-logo="https://i.imgur.com/vGcFRHc.jpeg" group-title="🎬 Películas y Series",Ladescarga TV
+#EXTINF:-1 tvg-id="" tvg-name="Ladescarga TV" tvg-chno="129" tvg-logo="https://tvabierta.net/ladescargatv.jpeg" group-title="🎬 Películas y Series",Ladescarga TV
 #EXTGRP:🎬 Películas y Series
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FMTV" tvg-chno="130" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="🎬 Películas y Series",FMTV
+#EXTINF:-1 tvg-id="" tvg-name="FMTV" tvg-chno="130" tvg-logo="https://tvabierta.net/fmtv.png" group-title="🎬 Películas y Series",FMTV
 #EXTGRP:🎬 Películas y Series
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-chno="131" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="🎬 Películas y Series",BBC Drama
+#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-chno="131" tvg-logo="https://tvabierta.net/bbcdrama.png" group-title="🎬 Películas y Series",BBC Drama
 #EXTGRP:🎬 Películas y Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedia" tvg-chno="132" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="🎬 Películas y Series",Rakuten Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedia" tvg-chno="132" tvg-logo="https://tvabierta.net/rakutentv.png" group-title="🎬 Películas y Series",Rakuten Comedia
 #EXTGRP:🎬 Películas y Series
 https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mega Cine" tvg-chno="133" tvg-logo="https://i.imgur.com/WHsjWIp.png" group-title="🎬 Películas y Series",Mega Cine
+#EXTINF:-1 tvg-id="" tvg-name="Megacine" tvg-chno="133" tvg-logo="https://tvabierta.net/megacine.png" group-title="🎬 Películas y Series",Megacine
 #EXTGRP:🎬 Películas y Series
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="134" tvg-logo="https://i.imgur.com/t8FJ4GZ.jpeg" group-title="🎬 Películas y Series",Canela
+#EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="134" tvg-logo="https://tvabierta.net/canela.jpeg" group-title="🎬 Películas y Series",Canela
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=154.88.131.7&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=aa3bde15-3258-4b6a-b044-b154c741b1ac&url=https://www.canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="144" tvg-logo="https://i.imgur.com/FXguxeG.jpeg" group-title="🎬 Películas y Series",Cine Romantico
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="144" tvg-logo="https://tvabierta.net/cineromantico.jpg" group-title="🎬 Películas y Series",Cine Romantico
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LG +1" tvg-chno="145" tvg-logo="https://tvabierta.net/lg1.png" group-title="🎬 Películas y Series",LG +1

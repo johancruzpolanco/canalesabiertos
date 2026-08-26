@@ -1,8 +1,8 @@
 {
-  "generado": "2026-08-26 12:46 UTC",
+  "generado": "2026-08-26 19:44 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 521,
-  "hash": "c1d717ad5d5b5d6e8a132d14f275e8ba000211fc8336125d9ddab2c07bab85f9",
+  "hash": "337ec1e3535b3f03084b36eb3c26a508b2a04e2068f032f960b09db186816876",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -1581,7 +1581,7 @@
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
-      "logo": "https://i.imgur.com/MGfdxjp.png",
+      "logo": "https://tvabierta.net/tpr.png",
       "url": "https://ds.tvabierta.net/memfs/9e44e8e0-2162-4ad5-843c-9175a5edf483.m3u8",
       "tvg_id": "",
       "slug": "telemundo-pr"
@@ -1605,7 +1605,7 @@
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
-      "logo": "https://i.imgur.com/wHOlbJl.png",
+      "logo": "https://tvabierta.net/u.png",
       "url": "https://ds.tvabierta.net/memfs/53adff2c-9efb-4138-be19-f7c67e073e0f.m3u8",
       "tvg_id": "",
       "slug": "univision41"
@@ -1617,7 +1617,7 @@
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
-      "logo": "https://i.imgur.com/wHOlbJl.png",
+      "logo": "https://tvabierta.net/u.png",
       "url": "https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8",
       "tvg_id": "",
       "slug": "univision-chicago"
@@ -1641,7 +1641,7 @@
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
-      "logo": "https://i.imgur.com/xkLxtCQ.png",
+      "logo": "https://tvabierta.net/f24.png",
       "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
       "tvg_id": "",
       "slug": "france24-es"
@@ -2391,16 +2391,16 @@
       "slug": "cbs-news-miami"
     },
     {
-      "id": "france24-com-en-25df848b",
+      "id": "f24-en-25df848b",
       "numero": 215,
-      "nombre": "France 24.com/en",
+      "nombre": "F24 En",
       "categoria": "📰 Noticias",
       "categoria_codigo": "NEWS",
       "categoria_orden": 30,
-      "logo": "https://i.imgur.com/xkLxtCQ.png",
+      "logo": "https://tvabierta.net/005.png",
       "url": "https://amg00106-france24-france24-samsungde-39lcm.amagi.tv/playlist/amg00106-france24-france24-samsungde/playlist.m3u8",
       "tvg_id": "",
-      "slug": "france-24-com-en"
+      "slug": "f24-en"
     },
     {
       "id": "colimdotv-6cd2e23f",
@@ -2409,7 +2409,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/ZeUgLCa.png",
+      "logo": "https://tvabierta.net/colimdotv.png",
       "url": "https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8",
       "tvg_id": "",
       "slug": "colimdotv"
@@ -2421,7 +2421,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/MGfdxjp.png",
+      "logo": "https://tvabierta.net/t.png",
       "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
       "tvg_id": "",
       "slug": "telemundo-pr"
@@ -2439,16 +2439,16 @@
       "slug": "ni-canal-4"
     },
     {
-      "id": "elgarage-8fff0987",
+      "id": "garagetv-8fff0987",
       "numero": 138,
-      "nombre": "Elgarage",
+      "nombre": "Garage TV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/FqFxog1.png",
+      "logo": "https://tvabierta.net/garagetv.png",
       "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
       "tvg_id": "",
-      "slug": "elgarage"
+      "slug": "garage-tv"
     },
     {
       "id": "mpatv-15d4ff47",
@@ -2457,7 +2457,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/wC5rtxk.jpeg",
+      "logo": "https://tvabierta.net/mpatv.jpeg",
       "url": "https://5790d294af2dc.streamlock.net/mpatv/mpatv/playlist.m3u8",
       "tvg_id": "",
       "slug": "mpatv"
@@ -2469,7 +2469,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/gNJA0XI.jpeg",
+      "logo": "https://tvabierta.net/itvdeportes.jpeg",
       "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8",
       "tvg_id": "",
       "slug": "itvdeportes"
@@ -2481,7 +2481,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/5pMo7dL.png",
+      "logo": "https://tvabierta.net/rm.png",
       "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
       "tvg_id": "",
       "slug": "real-madrid"
@@ -2493,7 +2493,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.imgur.com/5pMo7dL.png",
+      "logo": "https://tvabierta.net/rm.png",
       "url": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8",
       "tvg_id": "",
       "slug": "real-madrid-2"
@@ -2505,7 +2505,7 @@
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
-      "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
+      "logo": "https://tvabierta.net/as3sport.jpg",
       "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
       "tvg_id": "",
       "slug": "as3-sport-tv"
@@ -2541,7 +2541,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/Y3ZMGuQ.png",
+      "logo": "https://tvabierta.net/iutv.png",
       "url": "https://imagenuniversaltv.net:3771/hybrid/play.m3u8",
       "tvg_id": "",
       "slug": "imagenuniversal-tv"
@@ -2553,7 +2553,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/gnhnz0z.png",
+      "logo": "https://tvabierta.net/cascaratv.png",
       "url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8",
       "tvg_id": "",
       "slug": "cascara-tv"
@@ -2565,7 +2565,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/QbPmJR3.png",
+      "logo": "https://tvabierta.net/wtv.png",
       "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
       "tvg_id": "",
       "slug": "wtv"
@@ -2577,7 +2577,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/kg5UGbi.png",
+      "logo": "https://tvabierta.net/runtime.png",
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]",
       "tvg_id": "",
       "slug": "runtime-series"
@@ -2589,7 +2589,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/vGcFRHc.jpeg",
+      "logo": "https://tvabierta.net/ladescargatv.jpeg",
       "url": "https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8",
       "tvg_id": "",
       "slug": "ladescarga-tv"
@@ -2601,7 +2601,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/vPxvbVv.png",
+      "logo": "https://tvabierta.net/fmtv.png",
       "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
       "tvg_id": "",
       "slug": "fmtv"
@@ -2613,7 +2613,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/HctHhLL.png",
+      "logo": "https://tvabierta.net/bbcdrama.png",
       "url": "https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8",
       "tvg_id": "",
       "slug": "bbc-drama"
@@ -2625,22 +2625,22 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/Meew6eX.png",
+      "logo": "https://tvabierta.net/rakutentv.png",
       "url": "https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8",
       "tvg_id": "",
       "slug": "rakuten-comedia"
     },
     {
-      "id": "mega-cine-d2133b17",
+      "id": "megacine-d2133b17",
       "numero": 133,
-      "nombre": "Mega Cine",
+      "nombre": "Megacine",
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/WHsjWIp.png",
+      "logo": "https://tvabierta.net/megacine.png",
       "url": "https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8",
       "tvg_id": "",
-      "slug": "mega-cine"
+      "slug": "megacine"
     },
     {
       "id": "canela-ca7cd7dd",
@@ -2649,7 +2649,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/t8FJ4GZ.jpeg",
+      "logo": "https://tvabierta.net/canela.jpeg",
       "url": "https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=154.88.131.7&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=aa3bde15-3258-4b6a-b044-b154c741b1ac&url=https://www.canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0",
       "tvg_id": "",
       "slug": "canela"
@@ -2661,7 +2661,7 @@
       "categoria": "🎬 Películas y Series",
       "categoria_codigo": "PELICULAS",
       "categoria_orden": 50,
-      "logo": "https://i.imgur.com/FXguxeG.jpeg",
+      "logo": "https://tvabierta.net/cineromantico.jpg",
       "url": "https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8",
       "tvg_id": "",
       "slug": "cine-romantico"

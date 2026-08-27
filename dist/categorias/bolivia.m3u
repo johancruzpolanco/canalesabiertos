@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BoliviaTV" tvg-chno="400" tvg-logo="https://i.imgur.com/904TijW.jpeg" group-title="🇧🇴 Bolivia",BoliviaTV
+#EXTINF:-1 tvg-id="" tvg-name="BoliviaTV" tvg-chno="388" tvg-logo="https://tvabierta.net/boliviatv.jpeg" group-title="🇧🇴 Bolivia",BoliviaTV
 #EXTGRP:🇧🇴 Bolivia
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="401" tvg-logo="https://amiteltv.com/wp-content/uploads/2026/01/LOGO-SIN-FONDO-WEB.png" group-title="🇧🇴 Bolivia",Amitel
+#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="389" tvg-logo="https://tvabierta.net/amitel.jpeg" group-title="🇧🇴 Bolivia",Amitel
 #EXTGRP:🇧🇴 Bolivia
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlegriaTV" tvg-chno="402" tvg-logo="https://i.imgur.com/MIBZ2pZ.png" group-title="🇧🇴 Bolivia",AlegriaTV
+#EXTINF:-1 tvg-id="" tvg-name="AlegriaTV" tvg-chno="390" tvg-logo="https://tvabierta.net/alegriatv.png" group-title="🇧🇴 Bolivia",AlegriaTV
 #EXTGRP:🇧🇴 Bolivia
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATB La Paz" tvg-chno="403" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="🇧🇴 Bolivia",ATB La Paz
+#EXTINF:-1 tvg-id="" tvg-name="ATB La Paz" tvg-chno="391" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="🇧🇴 Bolivia",ATB La Paz
 #EXTGRP:🇧🇴 Bolivia
 https://stream.atb.com.bo/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="404" tvg-logo="https://i.imgur.com/QrwYJ8Q.jpeg" group-title="🇧🇴 Bolivia",Atb
+#EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="392" tvg-logo="https://i.imgur.com/QrwYJ8Q.jpeg" group-title="🇧🇴 Bolivia",Atb
 #EXTGRP:🇧🇴 Bolivia
 https://hls.tvabierta.net/hls/atb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CEACOM TV" tvg-chno="405" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="🇧🇴 Bolivia",CEACOM TV
+#EXTINF:-1 tvg-id="" tvg-name="CEACOM TV" tvg-chno="393" tvg-logo="https://i.imgur.com/hutdRfk.png" group-title="🇧🇴 Bolivia",CEACOM TV
 #EXTGRP:🇧🇴 Bolivia
 https://eu1.servers10.com:8081/ceacom/index.m3u8

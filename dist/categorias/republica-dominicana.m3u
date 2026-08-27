@@ -7,7 +7,7 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://hls.tvabierta.net/hls/misioneltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ahora TV" tvg-chno="3" tvg-logo="https://tvabierta.net/003.png" group-title="🇩🇴 República Dominicana",Ahora TV
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/003.m3u8
+https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTVD" tvg-chno="4" tvg-logo="https://tvabierta.net/004.png" group-title="🇩🇴 República Dominicana",RTVD
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/9ac8ebf9-42fd-4753-9b49-f79416d87a5a.m3u8
@@ -50,36 +50,36 @@ https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Luz" tvg-chno="17" tvg-logo="https://tvabierta.net/017.png" group-title="🇩🇴 República Dominicana",TV Luz
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/tvluz.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-chno="18" tvg-logo="https://tvabierta.net/018.png" group-title="🇩🇴 República Dominicana",Canal 19
+#EXTINF:-1 tvg-id="" tvg-name="Super7" tvg-chno="18" tvg-logo="https://tvabierta.net/super7.png" group-title="🇩🇴 República Dominicana",Super7
+#EXTGRP:🇩🇴 República Dominicana
+https://stream.haislin.com/super7fm/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 19" tvg-chno="19" tvg-logo="https://tvabierta.net/018.png" group-title="🇩🇴 República Dominicana",Canal 19
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cielo TV" tvg-chno="19" tvg-logo="https://tvabierta.net/cielotv.png" group-title="🇩🇴 República Dominicana",Cielo TV
+#EXTINF:-1 tvg-id="" tvg-name="Cielo TV" tvg-chno="20" tvg-logo="https://tvabierta.net/cielotv.png" group-title="🇩🇴 República Dominicana",Cielo TV
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 21" tvg-chno="20" tvg-logo="https://tvabierta.net/021.png" group-title="🇩🇴 República Dominicana",Antena 21
+#EXTINF:-1 tvg-id="" tvg-name="Antena 21" tvg-chno="21" tvg-logo="https://tvabierta.net/021.png" group-title="🇩🇴 República Dominicana",Antena 21
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Multivisión" tvg-chno="21" tvg-logo="https://tvabierta.net/022.png" group-title="🇩🇴 República Dominicana",Multivisión
+#EXTINF:-1 tvg-id="" tvg-name="Multivisión" tvg-chno="22" tvg-logo="https://tvabierta.net/022.png" group-title="🇩🇴 República Dominicana",Multivisión
 #EXTGRP:🇩🇴 República Dominicana
 https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telefuturo" tvg-chno="22" tvg-logo="https://tvabierta.net/023.png" group-title="🇩🇴 República Dominicana",Telefuturo
+#EXTINF:-1 tvg-id="" tvg-name="Telefuturo" tvg-chno="23" tvg-logo="https://tvabierta.net/023.png" group-title="🇩🇴 República Dominicana",Telefuturo
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Nuevo Diario" tvg-chno="23" tvg-logo="https://tvabierta.net/end.png" group-title="🇩🇴 República Dominicana",El Nuevo Diario
+#EXTINF:-1 tvg-id="" tvg-name="El Nuevo Diario" tvg-chno="24" tvg-logo="https://tvabierta.net/end.png" group-title="🇩🇴 República Dominicana",El Nuevo Diario
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/end.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bajo Techo TV" tvg-chno="24" tvg-logo="https://tvabierta.net/bajotechotv.png" group-title="🇩🇴 República Dominicana",Bajo Techo TV
+#EXTINF:-1 tvg-id="" tvg-name="Bajo Techo TV" tvg-chno="25" tvg-logo="https://tvabierta.net/bajotechotv.png" group-title="🇩🇴 República Dominicana",Bajo Techo TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/bajotechotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Makao TV" tvg-chno="25" tvg-logo="https://tvabierta.net/026.png" group-title="🇩🇴 República Dominicana",Makao TV
+#EXTINF:-1 tvg-id="" tvg-name="Makao TV" tvg-chno="26" tvg-logo="https://tvabierta.net/026.png" group-title="🇩🇴 República Dominicana",Makao TV
 #EXTGRP:🇩🇴 República Dominicana
 https://live.obslivestream.com/makaomux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RNN" tvg-chno="26" tvg-logo="https://tvabierta.net/027.png" group-title="🇩🇴 República Dominicana",RNN
+#EXTINF:-1 tvg-id="" tvg-name="RNN" tvg-chno="27" tvg-logo="https://tvabierta.net/027.png" group-title="🇩🇴 República Dominicana",RNN
 #EXTGRP:🇩🇴 República Dominicana
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Quisqueya" tvg-chno="27" tvg-logo="https://tvabierta.net/tvquisqueya.png" group-title="🇩🇴 República Dominicana",TV Quisqueya
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/tvquisqueya.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teleuniverso TV" tvg-chno="28" tvg-logo="https://tvabierta.net/029.png" group-title="🇩🇴 República Dominicana",Teleuniverso TV
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/029.m3u8
@@ -194,162 +194,144 @@ https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Deultimominuto TV" tvg-chno="65" tvg-logo="https://tvabierta.net/ultimominutotv.png" group-title="🇩🇴 República Dominicana",Deultimominuto TV
 #EXTGRP:🇩🇴 República Dominicana
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Miavision" tvg-chno="66" tvg-logo="https://tvabierta.net/miavision.png" group-title="🇩🇴 República Dominicana",Miavision
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/miavision.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radioemanuel" tvg-chno="67" tvg-logo="https://tvabierta.net/emanuel.png" group-title="🇩🇴 República Dominicana",Radioemanuel
+#EXTINF:-1 tvg-id="" tvg-name="Radioemanuel" tvg-chno="66" tvg-logo="https://tvabierta.net/emanuel.png" group-title="🇩🇴 República Dominicana",Radioemanuel
 #EXTGRP:🇩🇴 República Dominicana
 https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extra 86" tvg-chno="68" tvg-logo="https://tvabierta.net/extra86.png" group-title="🇩🇴 República Dominicana",Extra 86
+#EXTINF:-1 tvg-id="" tvg-name="Extra 86" tvg-chno="67" tvg-logo="https://tvabierta.net/extra86.png" group-title="🇩🇴 República Dominicana",Extra 86
 #EXTGRP:🇩🇴 República Dominicana
 https://video.streamerr.co/hls/sc23910f2cd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cntmas" tvg-chno="69" tvg-logo="https://tvabierta.net/ctnmas.jpg" group-title="🇩🇴 República Dominicana",Cntmas
+#EXTINF:-1 tvg-id="" tvg-name="Cntmas" tvg-chno="68" tvg-logo="https://tvabierta.net/ctnmas.jpg" group-title="🇩🇴 República Dominicana",Cntmas
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/cntmas/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portaldigital TV" tvg-chno="70" tvg-logo="https://tvabierta.net/portaldigital.png" group-title="🇩🇴 República Dominicana",Portaldigital TV
+#EXTINF:-1 tvg-id="" tvg-name="Portaldigital TV" tvg-chno="69" tvg-logo="https://tvabierta.net/portaldigital.png" group-title="🇩🇴 República Dominicana",Portaldigital TV
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/portaldigital/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crom TV" tvg-chno="71" tvg-logo="https://tvabierta.net/cromtv.png" group-title="🇩🇴 República Dominicana",Crom TV
+#EXTINF:-1 tvg-id="" tvg-name="Crom TV" tvg-chno="70" tvg-logo="https://tvabierta.net/cromtv.png" group-title="🇩🇴 República Dominicana",Crom TV
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-chno="72" tvg-logo="https://tvabierta.net/tvn.png" group-title="🇩🇴 República Dominicana",TVN
-#EXTGRP:🇩🇴 República Dominicana
-https://fedora.b-cdn.net/frombroadcaster/streams/USl4YHAG9kiyD9Rl1085725777830461.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chinola TV" tvg-chno="73" tvg-logo="https://tvabierta.net/chinolatv.png" group-title="🇩🇴 República Dominicana",Chinola TV
+#EXTINF:-1 tvg-id="" tvg-name="Chinola TV" tvg-chno="71" tvg-logo="https://tvabierta.net/chinolatv.png" group-title="🇩🇴 República Dominicana",Chinola TV
 #EXTGRP:🇩🇴 República Dominicana
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latinostvny" tvg-chno="74" tvg-logo="https://tvabierta.net/latinostvny.jpg" group-title="🇩🇴 República Dominicana",Latinostvny
+#EXTINF:-1 tvg-id="" tvg-name="Latinostvny" tvg-chno="72" tvg-logo="https://tvabierta.net/latinostvny.jpg" group-title="🇩🇴 República Dominicana",Latinostvny
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Visionndv" tvg-chno="75" tvg-logo="https://tvabierta.net/visionndv.png" group-title="🇩🇴 República Dominicana",Visionndv
+#EXTINF:-1 tvg-id="" tvg-name="Visionndv" tvg-chno="73" tvg-logo="https://tvabierta.net/visionndv.png" group-title="🇩🇴 República Dominicana",Visionndv
 #EXTGRP:🇩🇴 República Dominicana
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HMTV" tvg-chno="76" tvg-logo="https://tvabierta.net/hmtv.png" group-title="🇩🇴 República Dominicana",HMTV
+#EXTINF:-1 tvg-id="" tvg-name="HMTV" tvg-chno="74" tvg-logo="https://tvabierta.net/hmtv.png" group-title="🇩🇴 República Dominicana",HMTV
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecanal 12" tvg-chno="77" tvg-logo="https://tvabierta.net/telecanal12.png" group-title="🇩🇴 República Dominicana",Telecanal 12
+#EXTINF:-1 tvg-id="" tvg-name="Telecanal 12" tvg-chno="75" tvg-logo="https://tvabierta.net/telecanal12.png" group-title="🇩🇴 República Dominicana",Telecanal 12
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/telecanal12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televisiondeleste" tvg-chno="78" tvg-logo="https://tvabierta.net/televisiondeleste.png" group-title="🇩🇴 República Dominicana",Televisiondeleste
+#EXTINF:-1 tvg-id="" tvg-name="Televisiondeleste" tvg-chno="76" tvg-logo="https://tvabierta.net/televisiondeleste.png" group-title="🇩🇴 República Dominicana",Televisiondeleste
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/televisiondeleste/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hainavision" tvg-chno="79" tvg-logo="https://tvabierta.net/hainavision.png" group-title="🇩🇴 República Dominicana",Hainavision
+#EXTINF:-1 tvg-id="" tvg-name="Hainavision" tvg-chno="77" tvg-logo="https://tvabierta.net/hainavision.png" group-title="🇩🇴 República Dominicana",Hainavision
 #EXTGRP:🇩🇴 República Dominicana
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santacruz TV" tvg-chno="80" tvg-logo="https://tvabierta.net/santacruztv.png" group-title="🇩🇴 República Dominicana",Santacruz TV
+#EXTINF:-1 tvg-id="" tvg-name="Santacruz TV" tvg-chno="78" tvg-logo="https://tvabierta.net/santacruztv.png" group-title="🇩🇴 República Dominicana",Santacruz TV
 #EXTGRP:🇩🇴 República Dominicana
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boreal" tvg-chno="81" tvg-logo="https://tvabierta.net/boreal.png" group-title="🇩🇴 República Dominicana",Boreal
+#EXTINF:-1 tvg-id="" tvg-name="Boreal" tvg-chno="79" tvg-logo="https://tvabierta.net/boreal.png" group-title="🇩🇴 República Dominicana",Boreal
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/borealtelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Senal Digital" tvg-chno="82" tvg-logo="" group-title="🇩🇴 República Dominicana",Senal Digital
+#EXTINF:-1 tvg-id="" tvg-name="Senal Digital" tvg-chno="80" tvg-logo="" group-title="🇩🇴 República Dominicana",Senal Digital
 #EXTGRP:🇩🇴 República Dominicana
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pulso Visión" tvg-chno="83" tvg-logo="https://tvabierta.net/pulsovision.png" group-title="🇩🇴 República Dominicana",Pulso Visión
+#EXTINF:-1 tvg-id="" tvg-name="Pulso Visión" tvg-chno="81" tvg-logo="https://tvabierta.net/pulsovision.png" group-title="🇩🇴 República Dominicana",Pulso Visión
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super7" tvg-chno="84" tvg-logo="https://tvabierta.net/super7.png" group-title="🇩🇴 República Dominicana",Super7
-#EXTGRP:🇩🇴 República Dominicana
-https://stream.haislin.com/super7fm/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mocavisión" tvg-chno="85" tvg-logo="https://tvabierta.net/mocavision.png" group-title="🇩🇴 República Dominicana",Mocavisión
+#EXTINF:-1 tvg-id="" tvg-name="Mocavisión" tvg-chno="82" tvg-logo="https://tvabierta.net/mocavision.png" group-title="🇩🇴 República Dominicana",Mocavisión
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/mocavision.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real TV" tvg-chno="86" tvg-logo="" group-title="🇩🇴 República Dominicana",Real TV
+#EXTINF:-1 tvg-id="" tvg-name="Real TV" tvg-chno="83" tvg-logo="" group-title="🇩🇴 República Dominicana",Real TV
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/realtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-chno="87" tvg-logo="" group-title="🇩🇴 República Dominicana",TV 3
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-chno="84" tvg-logo="" group-title="🇩🇴 República Dominicana",TV 3
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/tv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tne 58" tvg-chno="88" tvg-logo="https://tvabierta.net/tne58.png" group-title="🇩🇴 República Dominicana",Tne 58
+#EXTINF:-1 tvg-id="" tvg-name="Tne 58" tvg-chno="85" tvg-logo="https://tvabierta.net/tne58.png" group-title="🇩🇴 República Dominicana",Tne 58
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/tne58.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ghtelevision" tvg-chno="89" tvg-logo="https://tvabierta.net/ghtv.png" group-title="🇩🇴 República Dominicana",Ghtelevision
-#EXTGRP:🇩🇴 República Dominicana
-https://fox.hostlagarto.com:8081/ghtelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aion" tvg-chno="90" tvg-logo="https://tvabierta.net/aion.png" group-title="🇩🇴 República Dominicana",Aion
-#EXTGRP:🇩🇴 República Dominicana
-https://edge.essastream.com/aiontelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LVM" tvg-chno="91" tvg-logo="https://tvabierta.net/lvm.png" group-title="🇩🇴 República Dominicana",LVM
+#EXTINF:-1 tvg-id="" tvg-name="LVM" tvg-chno="86" tvg-logo="https://tvabierta.net/lvm.png" group-title="🇩🇴 República Dominicana",LVM
 #EXTGRP:🇩🇴 República Dominicana
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zona Vision" tvg-chno="92" tvg-logo="https://tvabierta.net/zonavision.jpg" group-title="🇩🇴 República Dominicana",Zona Vision
+#EXTINF:-1 tvg-id="" tvg-name="Zona Vision" tvg-chno="87" tvg-logo="https://tvabierta.net/zonavision.jpg" group-title="🇩🇴 República Dominicana",Zona Vision
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="93" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba
+#EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="88" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/rumba.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zol" tvg-chno="94" tvg-logo="https://tvabierta.net/zol.png" group-title="🇩🇴 República Dominicana",Zol
+#EXTINF:-1 tvg-id="" tvg-name="Zol" tvg-chno="89" tvg-logo="https://tvabierta.net/zol.png" group-title="🇩🇴 República Dominicana",Zol
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/zol.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canaldelsol" tvg-chno="95" tvg-logo="https://tvabierta.net/canaldelsol.png" group-title="🇩🇴 República Dominicana",Canaldelsol
+#EXTINF:-1 tvg-id="" tvg-name="Canaldelsol" tvg-chno="90" tvg-logo="https://tvabierta.net/canaldelsol.png" group-title="🇩🇴 República Dominicana",Canaldelsol
 #EXTGRP:🇩🇴 República Dominicana
 https://stream.canaldelsol.com/sol26/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 8" tvg-chno="96" tvg-logo="https://tvabierta.net/telenord8.png" group-title="🇩🇴 República Dominicana",Telenord 8
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 8" tvg-chno="91" tvg-logo="https://tvabierta.net/telenord8.png" group-title="🇩🇴 República Dominicana",Telenord 8
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenord8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 10" tvg-chno="97" tvg-logo="https://tvabierta.net/telenord10.png" group-title="🇩🇴 República Dominicana",Telenord 10
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 10" tvg-chno="92" tvg-logo="https://tvabierta.net/telenord10.png" group-title="🇩🇴 República Dominicana",Telenord 10
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenord10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-chno="98" tvg-logo="https://tvabierta.net/telenord12.png" group-title="🇩🇴 República Dominicana",Telenord 12
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-chno="93" tvg-logo="https://tvabierta.net/telenord12.png" group-title="🇩🇴 República Dominicana",Telenord 12
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenord12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecibao" tvg-chno="99" tvg-logo="https://tvabierta.net/telecibao.png" group-title="🇩🇴 República Dominicana",Telecibao
+#EXTINF:-1 tvg-id="" tvg-name="Telecibao" tvg-chno="94" tvg-logo="https://tvabierta.net/telecibao.png" group-title="🇩🇴 República Dominicana",Telecibao
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/telecibaotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OxiTV" tvg-chno="100" tvg-logo="https://tvabierta.net/oxitv.png" group-title="🇩🇴 República Dominicana",OxiTV
+#EXTINF:-1 tvg-id="" tvg-name="OxiTV" tvg-chno="95" tvg-logo="https://tvabierta.net/oxitv.png" group-title="🇩🇴 República Dominicana",OxiTV
 #EXTGRP:🇩🇴 República Dominicana
 https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Punta Cana TV" tvg-chno="101" tvg-logo="https://tvabierta.net/puntacanatv.png" group-title="🇩🇴 República Dominicana",Punta Cana TV
+#EXTINF:-1 tvg-id="" tvg-name="Punta Cana TV" tvg-chno="96" tvg-logo="https://tvabierta.net/puntacanatv.png" group-title="🇩🇴 República Dominicana",Punta Cana TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/puntacanatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A 7 TV" tvg-chno="102" tvg-logo="https://tvabierta.net/a7tv.png" group-title="🇩🇴 República Dominicana",A 7 TV
+#EXTINF:-1 tvg-id="" tvg-name="A 7 TV" tvg-chno="97" tvg-logo="https://tvabierta.net/a7tv.png" group-title="🇩🇴 República Dominicana",A 7 TV
 #EXTGRP:🇩🇴 República Dominicana
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JarabacoaTV" tvg-chno="103" tvg-logo="https://tvabierta.net/jarabacoatv.png" group-title="🇩🇴 República Dominicana",JarabacoaTV
+#EXTINF:-1 tvg-id="" tvg-name="JarabacoaTV" tvg-chno="98" tvg-logo="https://tvabierta.net/jarabacoatv.png" group-title="🇩🇴 República Dominicana",JarabacoaTV
 #EXTGRP:🇩🇴 República Dominicana
 https://streaming.jarabacoatv.com/Jarabacoa_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adoram" tvg-chno="104" tvg-logo="https://tvabierta.net/adoramtv.png" group-title="🇩🇴 República Dominicana",Adoram
+#EXTINF:-1 tvg-id="" tvg-name="Adoram" tvg-chno="99" tvg-logo="https://tvabierta.net/adoramtv.png" group-title="🇩🇴 República Dominicana",Adoram
 #EXTGRP:🇩🇴 República Dominicana
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alcarrizos TV" tvg-chno="105" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="🇩🇴 República Dominicana",Alcarrizos TV
+#EXTINF:-1 tvg-id="" tvg-name="Alcarrizos TV" tvg-chno="100" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="🇩🇴 República Dominicana",Alcarrizos TV
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alegre TV RD" tvg-chno="106" tvg-logo="https://tvabierta.net/alegretvrd.png" group-title="🇩🇴 República Dominicana",Alegre TV RD
+#EXTINF:-1 tvg-id="" tvg-name="Alegre TV RD" tvg-chno="101" tvg-logo="https://tvabierta.net/alegretvrd.png" group-title="🇩🇴 República Dominicana",Alegre TV RD
 #EXTGRP:🇩🇴 República Dominicana
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bani Vision" tvg-chno="107" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="🇩🇴 República Dominicana",Bani Vision
+#EXTINF:-1 tvg-id="" tvg-name="Bani Vision" tvg-chno="102" tvg-logo="https://www.banivision.com/wp-content/uploads/2023/04/Bani-Vision-Favicon.png" group-title="🇩🇴 República Dominicana",Bani Vision
 #EXTGRP:🇩🇴 República Dominicana
 https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bocachica TV" tvg-chno="108" tvg-logo="https://tvabierta.net/bocachicatv.png" group-title="🇩🇴 República Dominicana",Bocachica TV
+#EXTINF:-1 tvg-id="" tvg-name="Bocachica TV" tvg-chno="103" tvg-logo="https://tvabierta.net/bocachicatv.png" group-title="🇩🇴 República Dominicana",Bocachica TV
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bonao TV" tvg-chno="109" tvg-logo="https://tvabierta.net/bonaotv.png" group-title="🇩🇴 República Dominicana",Bonao TV
+#EXTINF:-1 tvg-id="" tvg-name="Bonao TV" tvg-chno="104" tvg-logo="https://tvabierta.net/bonaotv.png" group-title="🇩🇴 República Dominicana",Bonao TV
 #EXTGRP:🇩🇴 República Dominicana
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boncheslatinos TV" tvg-chno="110" tvg-logo="https://tvabierta.net/boncheslatinostv.png" group-title="🇩🇴 República Dominicana",Boncheslatinos TV
+#EXTINF:-1 tvg-id="" tvg-name="Boncheslatinos TV" tvg-chno="105" tvg-logo="https://tvabierta.net/boncheslatinostv.png" group-title="🇩🇴 República Dominicana",Boncheslatinos TV
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caoba TV" tvg-chno="111" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="🇩🇴 República Dominicana",Caoba TV
+#EXTINF:-1 tvg-id="" tvg-name="Caoba TV" tvg-chno="106" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3906-294x165-FFFFFF.jpg" group-title="🇩🇴 República Dominicana",Caoba TV
 #EXTGRP:🇩🇴 República Dominicana
 https://host.streamingnation.live:3940/live/caobatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ConstanzaTV" tvg-chno="112" tvg-logo="https://tvabierta.net/constanzatv.png" group-title="🇩🇴 República Dominicana",ConstanzaTV
+#EXTINF:-1 tvg-id="" tvg-name="ConstanzaTV" tvg-chno="107" tvg-logo="https://tvabierta.net/constanzatv.png" group-title="🇩🇴 República Dominicana",ConstanzaTV
 #EXTGRP:🇩🇴 República Dominicana
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvm" tvg-chno="113" tvg-logo="https://tvabierta.net/tvm.png" group-title="🇩🇴 República Dominicana",Tvm
+#EXTINF:-1 tvg-id="" tvg-name="Tvm" tvg-chno="108" tvg-logo="https://tvabierta.net/tvm.png" group-title="🇩🇴 República Dominicana",Tvm
 #EXTGRP:🇩🇴 República Dominicana
 https://lbgo.bozztv.com/ssh101/ssh101/tvmontana10tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Delta TV" tvg-chno="114" tvg-logo="https://tvabierta.net/deltatv.png" group-title="🇩🇴 República Dominicana",Delta TV
-#EXTGRP:🇩🇴 República Dominicana
-https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="115" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
+#EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="109" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.livestreaminggroup.info/vtv32live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Super TV" tvg-chno="116" tvg-logo="https://tvabierta.net/supertv.png" group-title="🇩🇴 República Dominicana",Super TV
+#EXTINF:-1 tvg-id="" tvg-name="Super TV" tvg-chno="110" tvg-logo="https://tvabierta.net/supertv.png" group-title="🇩🇴 República Dominicana",Super TV
 #EXTGRP:🇩🇴 República Dominicana
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecontacto" tvg-chno="117" tvg-logo="https://tvabierta.net/telecontacto.png" group-title="🇩🇴 República Dominicana",Telecontacto
+#EXTINF:-1 tvg-id="" tvg-name="Telecontacto" tvg-chno="111" tvg-logo="https://tvabierta.net/telecontacto.png" group-title="🇩🇴 República Dominicana",Telecontacto
 #EXTGRP:🇩🇴 República Dominicana
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="118" tvg-logo="https://tvabierta.net/latinatvinternacional.jpg" group-title="🇩🇴 República Dominicana",Latinatvinternacional
+#EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="112" tvg-logo="https://tvabierta.net/latinatvinternacional.jpg" group-title="🇩🇴 República Dominicana",Latinatvinternacional
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8

@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="City TV Channel 3/41" tvg-chno="485" tvg-logo="https://i.imgur.com/L0vaDea.png" group-title="🇺🇸 Estados Unidos",City TV Channel 3/41
+#EXTINF:-1 tvg-id="" tvg-name="City TV Channel 3/41" tvg-chno="475" tvg-logo="https://i.imgur.com/L0vaDea.png" group-title="🇺🇸 Estados Unidos",City TV Channel 3/41
 #EXTGRP:🇺🇸 Estados Unidos
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daystar TV ES" tvg-chno="486" tvg-logo="https://i.imgur.com/4nP7j4M.png" group-title="🇺🇸 Estados Unidos",Daystar TV ES
+#EXTINF:-1 tvg-id="" tvg-name="Daystar TV ES" tvg-chno="476" tvg-logo="https://i.imgur.com/4nP7j4M.png" group-title="🇺🇸 Estados Unidos",Daystar TV ES
 #EXTGRP:🇺🇸 Estados Unidos
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="616 GoUSA TV" tvg-chno="487" tvg-logo="https://img.platform.wurl.dev/channel/1714/lg/f2b512/LG-Logo-PNG-100x100_v1.png" group-title="🇺🇸 Estados Unidos",616 GoUSA TV
+#EXTINF:-1 tvg-id="" tvg-name="616 GoUSA TV" tvg-chno="477" tvg-logo="https://img.platform.wurl.dev/channel/1714/lg/f2b512/LG-Logo-PNG-100x100_v1.png" group-title="🇺🇸 Estados Unidos",616 GoUSA TV
 #EXTGRP:🇺🇸 Estados Unidos
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8

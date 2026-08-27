@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV Japan" tvg-chno="520" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="🇯🇵 Japón",CGNTV Japan
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV Japan" tvg-chno="509" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-title="🇯🇵 Japón",CGNTV Japan
 #EXTGRP:🇯🇵 Japón
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-chno="521" tvg-logo="https://i.imgur.com/jDTL6wA.png" group-title="🇯🇵 Japón",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-chno="510" tvg-logo="https://i.imgur.com/jDTL6wA.png" group-title="🇯🇵 Japón",NHK World
 #EXTGRP:🇯🇵 Japón
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8

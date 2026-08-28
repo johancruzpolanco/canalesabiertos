@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ColimdoTV" tvg-chno="128" tvg-logo="https://tvabierta.net/colimdotv.png" group-title="⚽ Deportes",ColimdoTV
+#EXTINF:-1 tvg-id="" tvg-name="ColimdoTV" tvg-chno="129" tvg-logo="https://tvabierta.net/colimdotv.png" group-title="⚽ Deportes",ColimdoTV
 #EXTGRP:⚽ Deportes
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="129" tvg-logo="https://tvabierta.net/t.png" group-title="⚽ Deportes",Telemundo PR
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="130" tvg-logo="https://tvabierta.net/t.png" group-title="⚽ Deportes",Telemundo PR
 #EXTGRP:⚽ Deportes
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nica 4" tvg-chno="130" tvg-logo="https://tvabierta.net/nica4.png" group-title="⚽ Deportes",Nica 4
+#EXTINF:-1 tvg-id="" tvg-name="Nica 4" tvg-chno="131" tvg-logo="https://tvabierta.net/nica4.png" group-title="⚽ Deportes",Nica 4
 #EXTGRP:⚽ Deportes
 https://hls.tvabierta.net/hls/nica4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-chno="131" tvg-logo="https://tvabierta.net/garagetv.png" group-title="⚽ Deportes",Garage TV
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-chno="132" tvg-logo="https://tvabierta.net/garagetv.png" group-title="⚽ Deportes",Garage TV
 #EXTGRP:⚽ Deportes
 https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MPATV" tvg-chno="132" tvg-logo="https://tvabierta.net/mpatv.jpeg" group-title="⚽ Deportes",MPATV
+#EXTINF:-1 tvg-id="" tvg-name="MPATV" tvg-chno="133" tvg-logo="https://tvabierta.net/mpatv.jpeg" group-title="⚽ Deportes",MPATV
 #EXTGRP:⚽ Deportes
 https://5790d294af2dc.streamlock.net/mpatv/mpatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Itvdeportes" tvg-chno="133" tvg-logo="https://tvabierta.net/itvdeportes.jpeg" group-title="⚽ Deportes",Itvdeportes
+#EXTINF:-1 tvg-id="" tvg-name="Itvdeportes" tvg-chno="134" tvg-logo="https://tvabierta.net/itvdeportes.jpeg" group-title="⚽ Deportes",Itvdeportes
 #EXTGRP:⚽ Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-chno="134" tvg-logo="https://tvabierta.net/rm.png" group-title="⚽ Deportes",Real Madrid
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-chno="135" tvg-logo="https://tvabierta.net/rm.png" group-title="⚽ Deportes",Real Madrid
 #EXTGRP:⚽ Deportes
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid 2" tvg-chno="135" tvg-logo="https://tvabierta.net/rm.png" group-title="⚽ Deportes",Real Madrid 2
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid 2" tvg-chno="136" tvg-logo="https://tvabierta.net/rm.png" group-title="⚽ Deportes",Real Madrid 2
 #EXTGRP:⚽ Deportes
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="136" tvg-logo="https://tvabierta.net/as3sport.jpg" group-title="⚽ Deportes",AS3 Sport TV
+#EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="137" tvg-logo="https://tvabierta.net/as3sport.jpg" group-title="⚽ Deportes",AS3 Sport TV
 #EXTGRP:⚽ Deportes
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8

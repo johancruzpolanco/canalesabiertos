@@ -50,21 +50,21 @@ https://hls.tvabierta.net/hls/canaltro.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Tro+" tvg-chno="437" tvg-logo="https://i.imgur.com/bdBduvj.png" group-title="🇨🇴 Colombia",Canal Tro+
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/proplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-chno="489" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="🇨🇴 Colombia",Cali TV
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-chno="493" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="🇨🇴 Colombia",Cali TV
 #EXTGRP:🇨🇴 Colombia
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Calitv 2" tvg-chno="490" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="🇨🇴 Colombia",Calitv 2
+#EXTINF:-1 tvg-id="" tvg-name="Calitv 2" tvg-chno="494" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="🇨🇴 Colombia",Calitv 2
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/calitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMB" tvg-chno="491" tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="🇨🇴 Colombia",CMB
+#EXTINF:-1 tvg-id="" tvg-name="CMB" tvg-chno="495" tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="🇨🇴 Colombia",CMB
 #EXTGRP:🇨🇴 Colombia
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="492" tvg-logo="https://i.imgur.com/bj7Jd2q.png" group-title="🇨🇴 Colombia",Cosmovision
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="496" tvg-logo="https://i.imgur.com/bj7Jd2q.png" group-title="🇨🇴 Colombia",Cosmovision
 #EXTGRP:🇨🇴 Colombia
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC Santander De Quilichao" tvg-chno="493" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="🇨🇴 Colombia",CNC Santander De Quilichao
+#EXTINF:-1 tvg-id="" tvg-name="CNC Santander De Quilichao" tvg-chno="497" tvg-logo="https://i.imgur.com/LNl2o9q.jpg" group-title="🇨🇴 Colombia",CNC Santander De Quilichao
 #EXTGRP:🇨🇴 Colombia
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNC Tulua" tvg-chno="494" tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="🇨🇴 Colombia",CNC Tulua
+#EXTINF:-1 tvg-id="" tvg-name="CNC Tulua" tvg-chno="498" tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="🇨🇴 Colombia",CNC Tulua
 #EXTGRP:🇨🇴 Colombia
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8

@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 521 canales en 28 categorías  
-**Actualizado:** 2026-08-29 12:16 UTC  
+**Total:** 525 canales en 28 categorías  
+**Actualizado:** 2026-08-29 20:23 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -23,8 +23,8 @@
 | 🇨🇱 Chile | 12 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
 | 🇨🇴 Colombia | 23 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 5 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
-| 🇪🇨 Ecuador | 3 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
-| 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
+| 🇪🇨 Ecuador | 5 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
+| 🇸🇻 El Salvador | 4 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 3 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 5 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
@@ -420,18 +420,22 @@
 
 </details>
 
-<details><summary><b>🇪🇨 Ecuador</b> (3 canales)</summary>
+<details><summary><b>🇪🇨 Ecuador</b> (5 canales)</summary>
 
 - Ecuavisa 1
 - Ecuavisa 2
 - Bacan Te Veo
+- Ciracu TV
+- Puruwa TV
 
 </details>
 
-<details><summary><b>🇸🇻 El Salvador</b> (2 canales)</summary>
+<details><summary><b>🇸🇻 El Salvador</b> (4 canales)</summary>
 
+- Taber TV
 - Megavision 19
 - Megavision 21
+- Ectv
 
 </details>
 

@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CGTN ES" tvg-chno="174" tvg-logo="https://tvabierta.net/cgtn.png" group-title="📺 Otros",CGTN ES
+#EXTINF:-1 tvg-id="" tvg-name="Cgtn" tvg-chno="174" tvg-logo="https://tvabierta.net/cgtn.png" group-title="📺 Otros",Cgtn
 #EXTGRP:📺 Otros
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-espanol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cocinafamiliar" tvg-chno="175" tvg-logo="https://tvabierta.net/cocinafamiliar.png" group-title="📺 Otros",Cocinafamiliar
 #EXTGRP:📺 Otros
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108
-#EXTINF:-1 tvg-id="" tvg-name="LX Home" tvg-chno="176" tvg-logo="https://tvabierta.net/lxhome.png" group-title="📺 Otros",LX Home
+#EXTINF:-1 tvg-id="" tvg-name="Lxhome" tvg-chno="176" tvg-logo="https://tvabierta.net/lxhome.png" group-title="📺 Otros",Lxhome
 #EXTGRP:📺 Otros
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Local Now NYC" tvg-chno="204" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/5A0B47C3-6DD5-4399-94FE-3D5390D762AE/3-1x1.png" group-title="📺 Otros",Local Now NYC

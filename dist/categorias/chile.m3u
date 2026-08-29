@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="397" tvg-logo="https://i.imgur.com/LQqVtwr.png" group-title="🇨🇱 Chile",Uniteve
+#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="404" tvg-logo="https://i.imgur.com/LQqVtwr.png" group-title="🇨🇱 Chile",Uniteve
 #EXTGRP:🇨🇱 Chile
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-chno="398" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="🇨🇱 Chile",13 C
+#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-chno="405" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="🇨🇱 Chile",13 C
 #EXTGRP:🇨🇱 Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 T" tvg-chno="399" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="🇨🇱 Chile",13 T
+#EXTINF:-1 tvg-id="" tvg-name="13 T" tvg-chno="406" tvg-logo="https://i.imgur.com/csBNi2L.png" group-title="🇨🇱 Chile",13 T
 #EXTGRP:🇨🇱 Chile
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15.1 BPB" tvg-chno="400" tvg-logo="https://i.imgur.com/hyxkJYV.png" group-title="🇨🇱 Chile",15.1 BPB
+#EXTINF:-1 tvg-id="" tvg-name="15.1 BPB" tvg-chno="407" tvg-logo="https://i.imgur.com/hyxkJYV.png" group-title="🇨🇱 Chile",15.1 BPB
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADN TV" tvg-chno="401" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="🇨🇱 Chile",ADN TV
+#EXTINF:-1 tvg-id="" tvg-name="ADN TV" tvg-chno="408" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="🇨🇱 Chile",ADN TV
 #EXTGRP:🇨🇱 Chile
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alternativa TV" tvg-chno="402" tvg-logo="https://i.imgur.com/KCrSbgv.png" group-title="🇨🇱 Chile",Alternativa TV
+#EXTINF:-1 tvg-id="" tvg-name="Alternativa TV" tvg-chno="409" tvg-logo="https://i.imgur.com/KCrSbgv.png" group-title="🇨🇱 Chile",Alternativa TV
 #EXTGRP:🇨🇱 Chile
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atacama Noticias" tvg-chno="403" tvg-logo="https://i.imgur.com/rKP1ihL.png" group-title="🇨🇱 Chile",Atacama Noticias
+#EXTINF:-1 tvg-id="" tvg-name="Atacama Noticias" tvg-chno="410" tvg-logo="https://i.imgur.com/rKP1ihL.png" group-title="🇨🇱 Chile",Atacama Noticias
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aysen TV" tvg-chno="404" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="🇨🇱 Chile",Aysen TV
+#EXTINF:-1 tvg-id="" tvg-name="Aysen TV" tvg-chno="411" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="🇨🇱 Chile",Aysen TV
 #EXTGRP:🇨🇱 Chile
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bio Bio TV" tvg-chno="405" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="🇨🇱 Chile",Bio Bio TV
+#EXTINF:-1 tvg-id="" tvg-name="Bio Bio TV" tvg-chno="412" tvg-logo="https://i.imgur.com/lhglEUP.png" group-title="🇨🇱 Chile",Bio Bio TV
 #EXTGRP:🇨🇱 Chile
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Quellon" tvg-chno="406" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="🇨🇱 Chile",Canal 2 Quellon
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Quellon" tvg-chno="413" tvg-logo="https://i.imgur.com/MOwLCwT.png" group-title="🇨🇱 Chile",Canal 2 Quellon
 #EXTGRP:🇨🇱 Chile
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Bio-Bio Television" tvg-chno="407" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="🇨🇱 Chile",Canal 9 Bio-Bio Television
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Bio-Bio Television" tvg-chno="414" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="🇨🇱 Chile",Canal 9 Bio-Bio Television
 #EXTGRP:🇨🇱 Chile
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-chno="408" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="🇨🇱 Chile",Caracola TV
+#EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-chno="415" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="🇨🇱 Chile",Caracola TV
 #EXTGRP:🇨🇱 Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8

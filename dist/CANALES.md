@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 514 canales en 28 categorías  
-**Actualizado:** 2026-08-28 21:42 UTC  
+**Total:** 521 canales en 28 categorías  
+**Actualizado:** 2026-08-29 05:36 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -9,16 +9,16 @@
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
 | 🇩🇴 República Dominicana | 112 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 34 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🌎 Hispanos | 35 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 9 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
-| 🎬 Películas y Series | 14 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 4 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
-| ✝️ Cristianos | 22 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
+| 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
+| 🧒 Infantil | 9 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 23 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
-| 🇧🇴 Bolivia | 6 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
+| 🇧🇴 Bolivia | 7 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
 | 🇨🇱 Chile | 12 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
 | 🇨🇴 Colombia | 23 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
@@ -141,8 +141,8 @@
 - JarabacoaTV
 - Adoram
 - Alcarrizos TV
-- Alegre TV RD
-- Bani Vision
+- Alegretvrd
+- Banivision
 - Bocachica TV
 - Bonao TV
 - Boncheslatinos TV
@@ -156,14 +156,15 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (34 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (35 canales)</summary>
 
 - T31 Orlando
 - Telemundo PR
 - Telemundo Noreste
-- Univision41
+- U 41
 - Univision Chicago
-- Telemicro HD
+- Americateve
+- Telemicrohd
 - France24 ES
 - CNN en Español
 - Ntn 24
@@ -201,28 +202,28 @@
 - LiveNow
 - OAN News
 - Newsmaxtv 2
-- WION News
-- UK GBN
+- Wion
+- Gbn
 - Trtworld.com
-- Africanews FR
-- ABC News
-- CNN Brasil
-- Fox Weather
-- Weather Nation
-- The First
+- Africanews
+- Abcnews
+- Cnnbr
+- Foxweather
+- Weathernation
+- Thefirst
 - Real America's Voice
-- DW News
+- Dwnews
 - Kusa
 - CBS Baltimore
 - NTD
 - FSTV
-- Kr
+- Arirang
 - CNA
 - Citynews
 - City News Toronto
 - Global News BC
 - Foxnews
-- CBS News Miami
+- Cbsnmiami
 - F24 En
 
 </details>
@@ -241,7 +242,7 @@
 
 </details>
 
-<details><summary><b>🎬 Películas y Series</b> (14 canales)</summary>
+<details><summary><b>🎬 Películas y Series</b> (13 canales)</summary>
 
 - Ametv
 - Orbit TV
@@ -253,28 +254,32 @@
 - FMTV
 - BBC Drama
 - Rakuten Comedia
-- Megacine
 - Canela
 - Cine Romantico
 - LG +1
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (4 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (9 canales)</summary>
 
 - Dios Te VE Kids
+- Extrema Kids
+- Bpskids
+- Sensical
+- Zoomoo
+- Duck TV
 - Sat
 - Baby Einstein
 - MojiTV
 
 </details>
 
-<details><summary><b>✝️ Cristianos</b> (22 canales)</summary>
+<details><summary><b>✝️ Cristianos</b> (23 canales)</summary>
 
 - Hischannel.com
 - Lightsource.com
-- Gbntv.org
-- Ctvn.org
+- Gbntv
+- Ctvn
 - ABN Africa
 - Trinity
 - TV7 Finlandia 1
@@ -293,6 +298,7 @@
 - Bible Discovery
 - ABN Urdu
 - ABN Afganistan
+- Nrbtv
 
 </details>
 
@@ -311,14 +317,14 @@
 - BravoTV
 - TDC TV Santa Fe
 - Sublime Gracia TV
-- Argentinisima Satelital
+- Argentinisima
 - Canal Orbe 21
 - Aire De Santa Fe
 - Bragado TV
-- Canal 6 Posadas
-- Canal 7 Cooperativa
-- Canal 7 Salta
-- CCanal 9 Link
+- Viento Recio
+- 7 Cooperativa
+- 7 Salta
+- 9 Link
 - Canal 9 Resistencia
 - Caras TV
 - Catamarca TV
@@ -340,14 +346,15 @@
 
 </details>
 
-<details><summary><b>🇧🇴 Bolivia</b> (6 canales)</summary>
+<details><summary><b>🇧🇴 Bolivia</b> (7 canales)</summary>
 
 - BoliviaTV
 - Amitel
 - AlegriaTV
 - ATB La Paz
 - Atb
-- CEACOM TV
+- Ceacom
+- Zuraca TV
 
 </details>
 
@@ -551,9 +558,9 @@
 
 <details><summary><b>📺 Otros</b> (139 canales)</summary>
 
-- CGTN ES
+- Cgtn
 - Cocinafamiliar
-- LX Home
+- Lxhome
 - Local Now NYC
 - Inside Edition
 - Popular Science

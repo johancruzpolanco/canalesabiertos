@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Originals" tvg-chno="113" tvg-logo="https://tvabierta.net/bloombergoriginals.png" group-title="📈 Trading y Finanzas",Bloomberg Originals
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Originals" tvg-chno="114" tvg-logo="https://tvabierta.net/bloombergoriginals.png" group-title="📈 Trading y Finanzas",Bloomberg Originals
 #EXTGRP:📈 Trading y Finanzas
 https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="114" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
+#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="115" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
 #EXTGRP:📈 Trading y Finanzas
 https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negociostv-lges/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="115" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
+#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="116" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
 #EXTGRP:📈 Trading y Finanzas
 https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="116" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
+#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="117" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
 #EXTGRP:📈 Trading y Finanzas
 https://hls.tvabierta.net/hls/bbcnews.m3u8

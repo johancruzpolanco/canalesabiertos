@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Dios Te VE Kids" tvg-chno="363" tvg-logo="https://tvabierta.net/diostevekids.png" group-title="🧒 Infantil",Dios Te VE Kids
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te VE Kids" tvg-chno="362" tvg-logo="https://tvabierta.net/diostevekids.png" group-title="🧒 Infantil",Dios Te VE Kids
 #EXTGRP:🧒 Infantil
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-chno="364" tvg-logo="https://tvabierta.net/extremakids.png" group-title="🧒 Infantil",Extrema Kids
+#EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-chno="363" tvg-logo="https://tvabierta.net/extremakids.png" group-title="🧒 Infantil",Extrema Kids
 #EXTGRP:🧒 Infantil
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bpskids" tvg-chno="365" tvg-logo="https://tvabierta.net/bpskdis.png" group-title="🧒 Infantil",Bpskids
+#EXTINF:-1 tvg-id="" tvg-name="Bpskids" tvg-chno="364" tvg-logo="https://tvabierta.net/bpskdis.png" group-title="🧒 Infantil",Bpskids
 #EXTGRP:🧒 Infantil
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="Sensical" tvg-chno="366" tvg-logo="https://tvabierta.net/sensical.png" group-title="🧒 Infantil",Sensical
+#EXTINF:-1 tvg-id="" tvg-name="Sensical" tvg-chno="365" tvg-logo="https://tvabierta.net/sensical.png" group-title="🧒 Infantil",Sensical
 #EXTGRP:🧒 Infantil
 https://sensical2up-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-chno="367" tvg-logo="https://tvabierta.net/zoomoo.png" group-title="🧒 Infantil",Zoomoo
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-chno="366" tvg-logo="https://tvabierta.net/zoomoo.png" group-title="🧒 Infantil",Zoomoo
 #EXTGRP:🧒 Infantil
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-chno="368" tvg-logo="https://tvabierta.net/ducktv.png" group-title="🧒 Infantil",Duck TV
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-chno="367" tvg-logo="https://tvabierta.net/ducktv.png" group-title="🧒 Infantil",Duck TV
 #EXTGRP:🧒 Infantil
 https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sat" tvg-chno="369" tvg-logo="https://i.imgur.com/kj4D13O.png" group-title="🧒 Infantil",Sat
+#EXTINF:-1 tvg-id="" tvg-name="Sat" tvg-chno="368" tvg-logo="https://i.imgur.com/kj4D13O.png" group-title="🧒 Infantil",Sat
 #EXTGRP:🧒 Infantil
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby Einstein" tvg-chno="370" tvg-logo="https://i.imgur.com/v8P8VJe.png" group-title="🧒 Infantil",Baby Einstein
+#EXTINF:-1 tvg-id="" tvg-name="Baby Einstein" tvg-chno="369" tvg-logo="https://i.imgur.com/v8P8VJe.png" group-title="🧒 Infantil",Baby Einstein
 #EXTGRP:🧒 Infantil
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992134&ads.xumo_streamId=99992134&ads.channelId=99992134&ads.csid=lgchannels_es_babyeinstein_ssai&ads.channelName=babyeinstein_es&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.xumo_providerName=BabyEinstein&ads.xumo_providerId=3517&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-y&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="MojiTV" tvg-chno="371" tvg-logo="https://i.imgur.com/6WcjP9B.png" group-title="🧒 Infantil",MojiTV
+#EXTINF:-1 tvg-id="" tvg-name="MojiTV" tvg-chno="370" tvg-logo="https://i.imgur.com/6WcjP9B.png" group-title="🧒 Infantil",MojiTV
 #EXTGRP:🧒 Infantil
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452&ads.xumo_streamId=99992452&ads.channelId=99992452&ads.csid=lgchannels_es_odmediamexico_ssai&ads.channelName=lospitufos_es&ads.xumo_contentName=ODMediaMexico&ads.xumo_contentId=3194&ads.xumo_providerName=ODMediaMexico&ads.xumo_providerId=3194&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]

@@ -143,33 +143,33 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nexxo TV" tvg-chno="48" tvg-logo="https://tvabierta.net/nexxotv.png" group-title="🇩🇴 República Dominicana",Nexxo TV
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/nexxotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCV Digital" tvg-chno="49" tvg-logo="https://tvabierta.net/cvvision.png" group-title="🇩🇴 República Dominicana",CCV Digital
-#EXTGRP:🇩🇴 República Dominicana
-https://eu1.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleimpacto" tvg-chno="50" tvg-logo="https://tvabierta.net/teleimpacto.png" group-title="🇩🇴 República Dominicana",Teleimpacto
+#EXTINF:-1 tvg-id="" tvg-name="Teleimpacto" tvg-chno="49" tvg-logo="https://tvabierta.net/teleimpacto.png" group-title="🇩🇴 República Dominicana",Teleimpacto
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-chno="51" tvg-logo="https://tvabierta.net/lunatv.png" group-title="🇩🇴 República Dominicana",Luna TV
+#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-chno="50" tvg-logo="https://tvabierta.net/lunatv.png" group-title="🇩🇴 República Dominicana",Luna TV
 #EXTGRP:🇩🇴 República Dominicana
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="52" tvg-logo="https://tvabierta.net/latinatvint.png" group-title="🇩🇴 República Dominicana",Latinatvinternacional
+#EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="51" tvg-logo="https://tvabierta.net/latinatvint.png" group-title="🇩🇴 República Dominicana",Latinatvinternacional
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 67 TV" tvg-chno="53" tvg-logo="https://tvabierta.net/radio67tv.jpg" group-title="🇩🇴 República Dominicana",Radio 67 TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio 67 TV" tvg-chno="52" tvg-logo="https://tvabierta.net/radio67tv.jpg" group-title="🇩🇴 República Dominicana",Radio 67 TV
 #EXTGRP:🇩🇴 República Dominicana
 https://radio67tv.tvabierta.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lareina" tvg-chno="54" tvg-logo="https://tvabierta.net/lareinatv.png" group-title="🇩🇴 República Dominicana",Lareina
+#EXTINF:-1 tvg-id="" tvg-name="Lareina" tvg-chno="53" tvg-logo="https://tvabierta.net/lareinatv.png" group-title="🇩🇴 República Dominicana",Lareina
 #EXTGRP:🇩🇴 República Dominicana
 https://cloud2.streaminglivehd.com/lareinatv/lareinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jimani TV" tvg-chno="55" tvg-logo="https://tvabierta.net/jimanitv.png" group-title="🇩🇴 República Dominicana",Jimani TV
+#EXTINF:-1 tvg-id="" tvg-name="Jimani TV" tvg-chno="54" tvg-logo="https://tvabierta.net/jimanitv.png" group-title="🇩🇴 República Dominicana",Jimani TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hilandofino" tvg-chno="56" tvg-logo="https://tvabierta.net/hilandofino.png" group-title="🇩🇴 República Dominicana",Hilandofino
+#EXTINF:-1 tvg-id="" tvg-name="Hilandofino" tvg-chno="55" tvg-logo="https://tvabierta.net/hilandofino.png" group-title="🇩🇴 República Dominicana",Hilandofino
 #EXTGRP:🇩🇴 República Dominicana
 https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televida" tvg-chno="57" tvg-logo="https://tvabierta.net/televida.png" group-title="🇩🇴 República Dominicana",Televida
+#EXTINF:-1 tvg-id="" tvg-name="Televida" tvg-chno="56" tvg-logo="https://tvabierta.net/televida.png" group-title="🇩🇴 República Dominicana",Televida
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/televida/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cvvision" tvg-chno="57" tvg-logo="https://tvabierta.net/cvvision.png" group-title="🇩🇴 República Dominicana",Cvvision
+#EXTGRP:🇩🇴 República Dominicana
+https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cananga TV" tvg-chno="58" tvg-logo="https://tvabierta.net/canangatv.png" group-title="🇩🇴 República Dominicana",Cananga TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
@@ -335,3 +335,6 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="112" tvg-logo="https://tvabierta.net/latinatvinternacional.jpg" group-title="🇩🇴 República Dominicana",Latinatvinternacional
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canalda" tvg-chno="113" tvg-logo="https://tvabierta.net/canalda.png" group-title="🇩🇴 República Dominicana",Canalda
+#EXTGRP:🇩🇴 República Dominicana
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8

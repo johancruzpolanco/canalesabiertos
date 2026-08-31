@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 538 canales en 28 categorías  
-**Actualizado:** 2026-08-30 20:32 UTC  
+**Total:** 561 canales en 28 categorías  
+**Actualizado:** 2026-08-31 03:35 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -34,8 +34,8 @@
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 13 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 7 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 141 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 🇻🇪 Venezuela | 8 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
+| 📺 Otros | 163 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -393,7 +393,7 @@
 - Sealcolombia
 - Canalinstitucional
 - Blu Radio
-- Oración Con Son
+- Oracionconson
 - Telefamilia
 - Alerta Bogota
 - Avivamiento TV
@@ -407,8 +407,8 @@
 - Calitv 2
 - CMB
 - Cosmovision
-- CNC Santander De Quilichao
-- CNC Tulua
+- Cncsantander
+- Cnctulua
 
 </details>
 
@@ -461,8 +461,8 @@
 
 <details><summary><b>🇺🇸 Estados Unidos</b> (2 canales)</summary>
 
-- City TV Channel 3/41
-- 616 GoUSA TV
+- Chinohillsca
+- Gousa
 
 </details>
 
@@ -559,7 +559,7 @@
 
 </details>
 
-<details><summary><b>🇻🇪 Venezuela</b> (7 canales)</summary>
+<details><summary><b>🇻🇪 Venezuela</b> (8 canales)</summary>
 
 - VTV
 - Globovision
@@ -568,10 +568,11 @@
 - Tlt
 - 21 Tachira
 - Catatumbo TV
+- Canal Once
 
 </details>
 
-<details><summary><b>📺 Otros</b> (141 canales)</summary>
+<details><summary><b>📺 Otros</b> (163 canales)</summary>
 
 - Imagenuniversal TV
 - Cgtn
@@ -714,6 +715,28 @@
 - CBS News Bay Area
 - CBS News Sacramento
 - AgroTV
+- Djazz
+- Energytvmusic
+- Classic Arts Showcase
+- Stingray Greatest Holiday Hits
+- Stingray Hit List
+- Stingray Remember The 80s
+- Stingray Classic Rock
+- Stingray Pop Adult
+- Stingray Hip Hop
+- Stingray Karaoke
+- Stingray Soul Storm
+- Stingray Hot Country
+- Qello Concerts By Stingray
+- Now Rock
+- Now90s00s
+- 974 Qwest TV
+- 979 SOL MÚSICA
+- Stingray Exitos Del Momento
+- @k-music
+- Stingray Remember The 80s
+- Fashion TV
+- Tarima
 
 </details>
 

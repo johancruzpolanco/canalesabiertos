@@ -8,7 +8,7 @@ https://stv2.boliviaplay.com.bo/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AlegriaTV" tvg-chno="398" tvg-logo="https://tvabierta.net/alegriatv.png" group-title="🇧🇴 Bolivia",AlegriaTV
 #EXTGRP:🇧🇴 Bolivia
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATB La Paz" tvg-chno="399" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="🇧🇴 Bolivia",ATB La Paz
+#EXTINF:-1 tvg-id="" tvg-name="ATB La Paz" tvg-chno="399" tvg-logo="https://tvabierta.net/atb.png" group-title="🇧🇴 Bolivia",ATB La Paz
 #EXTGRP:🇧🇴 Bolivia
 https://stream.atb.com.bo/live/daniel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="400" tvg-logo="https://tvabierta.net/atb.png" group-title="🇧🇴 Bolivia",Atb

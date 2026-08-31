@@ -10,7 +10,7 @@ https://hls.tvabierta.net/hls/misioneltv.m3u8
 https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTVD" tvg-chno="4" tvg-logo="https://tvabierta.net/004.png" group-title="🇩🇴 República Dominicana",RTVD
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/9ac8ebf9-42fd-4753-9b49-f79416d87a5a.m3u8
+https://hls.tvabierta.net/hls/004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-chno="5" tvg-logo="https://tvabierta.net/005.png" group-title="🇩🇴 República Dominicana",Telemicro
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944.m3u8

@@ -53,7 +53,7 @@ https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PFFC" tvg-chno="356" tvg-logo="https://tvabierta.net/pffc.png" group-title="✝️ Cristianos",PFFC
 #EXTGRP:✝️ Cristianos
 https://2-fss-1.themediacdn.com/pl_122/206280-3060352-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-chno="357" tvg-logo="https://i.imgur.com/GvFX0Un.jpeg" group-title="✝️ Cristianos",Life
+#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-chno="357" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",Life
 #EXTGRP:✝️ Cristianos
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bible Discovery" tvg-chno="358" tvg-logo="https://tvabierta.net/biblediscovery.png" group-title="✝️ Cristianos",Bible Discovery

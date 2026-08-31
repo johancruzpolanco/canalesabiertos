@@ -65,7 +65,7 @@ https://hls.tvabierta.net/hls/enlace.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EJTV" tvg-chno="162" tvg-logo="https://tvabierta.net/ejtv.png" group-title="🌎 Hispanos",EJTV
 #EXTGRP:🌎 Hispanos
 https://livecdnusa.enlace.plus/ejtv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daystar TV ES" tvg-chno="163" tvg-logo="https://i.imgur.com/4nP7j4M.png" group-title="🌎 Hispanos",Daystar TV ES
+#EXTINF:-1 tvg-id="" tvg-name="Daystar TV ES" tvg-chno="163" tvg-logo="https://tvabierta.net/daystar.png" group-title="🌎 Hispanos",Daystar TV ES
 #EXTGRP:🌎 Hispanos
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-chno="164" tvg-logo="https://tvabierta.net/ewtn.png" group-title="🌎 Hispanos",EWTN

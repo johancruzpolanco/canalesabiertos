@@ -62,9 +62,9 @@ https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pinguino TV" tvg-chno="391" tvg-logo="https://tvabierta.net/pinguinotv.png" group-title="🇦🇷 Argentina",Pinguino TV
 #EXTGRP:🇦🇷 Argentina
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5 TV" tvg-chno="392" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="🇦🇷 Argentina",5 TV
+#EXTINF:-1 tvg-id="" tvg-name="5 TV" tvg-chno="392" tvg-logo="https://tvabierta.net/5tv.png" group-title="🇦🇷 Argentina",5 TV
 #EXTGRP:🇦🇷 Argentina
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-chno="393" tvg-logo="https://i.imgur.com/s3PJpyg.png" group-title="🇦🇷 Argentina",Tevex
+#EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-chno="393" tvg-logo="https://tvabierta.net/tevex.png" group-title="🇦🇷 Argentina",Tevex
 #EXTGRP:🇦🇷 Argentina
 https://v4.tustreaming.cl/tevexinter/index.m3u8

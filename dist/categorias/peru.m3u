@@ -20,10 +20,10 @@ https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alpha" tvg-chno="484" tvg-logo="https://tvabierta.net/alpha.png" group-title="🇵🇪 Perú",Alpha
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL M Television" tvg-chno="485" tvg-logo="https://i.imgur.com/EcdNFuJ.png" group-title="🇵🇪 Perú",CANAL M Television
+#EXTINF:-1 tvg-id="" tvg-name="CANAL M Television" tvg-chno="485" tvg-logo="https://tvabierta.net/canalm.png" group-title="🇵🇪 Perú",CANAL M Television
 #EXTGRP:🇵🇪 Perú
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="486" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="🇵🇪 Perú",DeltaTV
+#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="486" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
 #EXTGRP:🇵🇪 Perú
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="487" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2

@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="5 Ellider" tvg-chno="460" tvg-logo="https://tvabierta.net/5ellider.png" group-title="🇭🇳 Honduras",5 Ellider
+#EXTINF:-1 tvg-id="" tvg-name="5 Ellider" tvg-chno="655" tvg-logo="https://tvabierta.net/5ellider.png" group-title="🇭🇳 Honduras",5 Ellider
 #EXTGRP:🇭🇳 Honduras
 https://mdstrm.com/live-stream-playlist/6287fda8ea3b8b397d1ca2ed.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-chno="461" tvg-logo="https://tvabierta.net/canal11.png" group-title="🇭🇳 Honduras",Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-chno="656" tvg-logo="https://tvabierta.net/canal11.png" group-title="🇭🇳 Honduras",Canal 11
 #EXTGRP:🇭🇳 Honduras
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b2186154189968603c063a555
-#EXTINF:-1 tvg-id="" tvg-name="Tentv" tvg-chno="462" tvg-logo="https://tvabierta.net/tentv.jpg" group-title="🇭🇳 Honduras",Tentv
+#EXTINF:-1 tvg-id="" tvg-name="Tentv" tvg-chno="657" tvg-logo="https://tvabierta.net/tentv.jpg" group-title="🇭🇳 Honduras",Tentv
 #EXTGRP:🇭🇳 Honduras
 https://hls.tvabierta.net/hls/tentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-chno="463" tvg-logo="https://tvabierta.net/metrotv.png" group-title="🇭🇳 Honduras",Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-chno="658" tvg-logo="https://tvabierta.net/metrotv.png" group-title="🇭🇳 Honduras",Metro TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dteve" tvg-chno="464" tvg-logo="https://tvabierta.net/dteve.png" group-title="🇭🇳 Honduras",Dteve
+#EXTINF:-1 tvg-id="" tvg-name="Dteve" tvg-chno="659" tvg-logo="https://tvabierta.net/dteve.png" group-title="🇭🇳 Honduras",Dteve
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-chno="465" tvg-logo="https://tvabierta.net/cholutecatv.png" group-title="🇭🇳 Honduras",Choluteca TV
+#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-chno="660" tvg-logo="https://tvabierta.net/cholutecatv.png" group-title="🇭🇳 Honduras",Choluteca TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alsacias TV" tvg-chno="466" tvg-logo="https://tvabierta.net/alsaciastv.png" group-title="🇭🇳 Honduras",Alsacias TV
+#EXTINF:-1 tvg-id="" tvg-name="Alsacias TV" tvg-chno="661" tvg-logo="https://tvabierta.net/alsaciastv.png" group-title="🇭🇳 Honduras",Alsacias TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azatv" tvg-chno="467" tvg-logo="https://tvabierta.net/azatv.png" group-title="🇭🇳 Honduras",Azatv
+#EXTINF:-1 tvg-id="" tvg-name="Azatv" tvg-chno="662" tvg-logo="https://tvabierta.net/azatv.png" group-title="🇭🇳 Honduras",Azatv
 #EXTGRP:🇭🇳 Honduras
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Buendia TV" tvg-chno="468" tvg-logo="https://tvabierta.net/buendiatv.png" group-title="🇭🇳 Honduras",Buendia TV
+#EXTINF:-1 tvg-id="" tvg-name="Buendia TV" tvg-chno="663" tvg-logo="https://tvabierta.net/buendiatv.png" group-title="🇭🇳 Honduras",Buendia TV
 #EXTGRP:🇭🇳 Honduras
 https://servilive.com:3508/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-chno="469" tvg-logo="https://tvabierta.net/chtv.png" group-title="🇭🇳 Honduras",CHTV
+#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-chno="664" tvg-logo="https://tvabierta.net/chtv.png" group-title="🇭🇳 Honduras",CHTV
 #EXTGRP:🇭🇳 Honduras
 https://viewhn.com/chtv/live/playlist.m3u8

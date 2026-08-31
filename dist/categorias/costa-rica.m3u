@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Sinart" tvg-chno="421" tvg-logo="https://tvabierta.net/sinart.jpeg" group-title="🇨🇷 Costa Rica",Sinart
+#EXTINF:-1 tvg-id="" tvg-name="Sinart" tvg-chno="616" tvg-logo="https://tvabierta.net/sinart.jpeg" group-title="🇨🇷 Costa Rica",Sinart
 #EXTGRP:🇨🇷 Costa Rica
 https://hls.tvabierta.net/hls/sinart.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvsur" tvg-chno="422" tvg-logo="https://tvabierta.net/tvsur.png" group-title="🇨🇷 Costa Rica",Tvsur
+#EXTINF:-1 tvg-id="" tvg-name="Tvsur" tvg-chno="617" tvg-logo="https://tvabierta.net/tvsur.png" group-title="🇨🇷 Costa Rica",Tvsur
 #EXTGRP:🇨🇷 Costa Rica
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-chno="423" tvg-logo="https://tvabierta.net/multimedioscr.png" group-title="🇨🇷 Costa Rica",Canal 8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-chno="618" tvg-logo="https://tvabierta.net/multimedioscr.png" group-title="🇨🇷 Costa Rica",Canal 8
 #EXTGRP:🇨🇷 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-chno="424" tvg-logo="https://tvabierta.net/costaricachannel.png" group-title="🇨🇷 Costa Rica",Costa Rica Channel
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-chno="619" tvg-logo="https://tvabierta.net/costaricachannel.png" group-title="🇨🇷 Costa Rica",Costa Rica Channel
 #EXTGRP:🇨🇷 Costa Rica
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-chno="425" tvg-logo="https://tvabierta.net/cbtvcr.png" group-title="🇨🇷 Costa Rica",Coto Brus TV
+#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-chno="620" tvg-logo="https://tvabierta.net/cbtvcr.png" group-title="🇨🇷 Costa Rica",Coto Brus TV
 #EXTGRP:🇨🇷 Costa Rica
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turrialba Digital" tvg-chno="426" tvg-logo="https://tvabierta.net/turrialbadigital.jpg" group-title="🇨🇷 Costa Rica",Turrialba Digital
+#EXTINF:-1 tvg-id="" tvg-name="Turrialba Digital" tvg-chno="621" tvg-logo="https://tvabierta.net/turrialbadigital.jpg" group-title="🇨🇷 Costa Rica",Turrialba Digital
 #EXTGRP:🇨🇷 Costa Rica
 https://cloudvideo.servers10.com:8081/8230/index.m3u8

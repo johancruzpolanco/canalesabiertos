@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 561 canales en 28 categorías  
-**Actualizado:** 2026-08-31 12:40 UTC  
+**Total:** 775 canales en 28 categorías  
+**Actualizado:** 2026-08-31 22:25 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -11,9 +11,9 @@
 | 🇩🇴 República Dominicana | 113 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 32 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 10 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| ⚽ Deportes | 36 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 9 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| 🧒 Infantil | 10 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 23 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
@@ -26,7 +26,7 @@
 | 🇪🇨 Ecuador | 5 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 4 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
-| 🇺🇸 Estados Unidos | 2 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
+| 🇺🇸 Estados Unidos | 170 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 7 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 10 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 13 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 8 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 163 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 182 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -226,7 +226,7 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (10 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (36 canales)</summary>
 
 - ColimdoTV
 - Telemundo PR
@@ -238,6 +238,32 @@
 - Real Madrid
 - Real Madrid 2
 - AS3 Sport TV
+- Red Bull TV
+- WaypointTV
+- NBA TV (ALT)
+- Fuel TV
+- Willow Sports
+- Team USA
+- FOX Sports
+- BeIN Sports XTRA
+- The Grappling Network⚕️
+- FITE 24/7
+- Extreme+
+- Adventure Sports TV
+- Sports First⚕️
+- Wild TV
+- Surfing +⚕️
+- Swerve Combat
+- Bleav Football
+- Speed Sport 1⚕️
+- Outdoor America⚕️
+- Ufc
+- Pac 12 Insider
+- Strongman Champions League
+- SportsGrid
+- T2 Tennis Channel⚕️
+- Unbeaten
+- NBC Sports
 
 </details>
 
@@ -258,10 +284,11 @@
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (9 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (10 canales)</summary>
 
 - Dios Te VE Kids
 - Extrema Kids
+- Canal Sin Nombre
 - Bpskids
 - Sensical
 - Zoomoo
@@ -459,8 +486,176 @@
 
 </details>
 
-<details><summary><b>🇺🇸 Estados Unidos</b> (2 canales)</summary>
+<details><summary><b>🇺🇸 Estados Unidos</b> (170 canales)</summary>
 
+- CBS News Boston
+- CBS 8 San Diego CA
+- Erie News Now
+- CBS 2 News Greensboro NC
+- NBC 2 Buffalo NY
+- CBS 4 New Orleans LA
+- FOX 54 Huntsville AL
+- FOX West Texas TX
+- CBS 11 News Little Rock AR
+- KTVB 7 Idaho's News Channel Bosie ID
+- KWES NewsWest9 Midland-Odessa TX
+- CBS 19 Tyler TX
+- TN-Memphis | ABC 24 News Right Now (WATN)
+- TN-Knoxville | NBC 10 (WBIR)
+- CBS 19 Columbia SC
+- CBS 13 Macon GA
+- WNEP ABC 16 The News Station NE/Central PA
+- NBC News 13 Indianapolis IN
+- NBC Jacksonville FL
+- CBS 10 Tampa Bay FL
+- WZZM ABC 13 On Your Side Grand Rapids MI
+- NBC 11 Minneapolis MN
+- 12 News Beaumont TX
+- CBS 5 San Antonio TX
+- AR-Fort Smith | CBS 5 (KFSM)
+- NBC 8 Portland OR
+- KHOU 11 News Houston TX
+- KIII 3 News Corpus Christi TX
+- NBC Phoenix AZ
+- NBC St. Louis MO
+- NBC 9 Denver CO
+- KVUE ABC Austin TX
+- NBC Charlotte NC
+- WFAA ABC 8 News Dallas TX
+- WHAS ABC 11 On Your Side Louisville KY
+- WKYC 3 News Cleveland OH
+- FOX 43 Harrisburg PA
+- CBS 9 Washington DC
+- WVEC ABC 13 News Norfolk VA
+- Newsday TV Long Island NY
+- Very Gulf Coast By WBBH
+- KCEN Waco TX
+- WFMZ 69 Allentown PA
+- NBC 11 Atlanta GA
+- FOX 5 Atlanta GA
+- FOX 5 Washington DC
+- FOX 5 New York NY
+- FOX 10 Phoenix AZ
+- FOX 13 Tampa Bay FL
+- IL-Chicago | FOX 32 (WFLD)
+- FOX 13 Seattle WA
+- FOX 4 Dallas Fort Worth TX
+- FOX 29 Philadelphia PA
+- FOX 26 Houston TX
+- FOX 9 Minneapolis MN
+- FOX 7 Austin TX
+- MI-Detroit | FOX 2 (WJBK)
+- KRTV News Great Falls
+- LA-Lafayette | FOX 15 (KADN)
+- Very New Mexico By KOAT
+- WEWS News 5 Cleveland
+- CBS 6 Richmond
+- KBZK News Bozeman
+- WSB (ABC) News 2 Atlanta GA
+- KGUN 9 News Tucson
+- KJRH 2 News Oklahoma
+- WTXL ABC27 News Tallahassee
+- WTHI (CBS) News 10 Terre Haute IN
+- Very New Orleans By WDSU
+- AR-Fort Smith | Very Arkansas (KHBS)
+- FOX47 News Lansing
+- KY-Paducah | NBC 6 (WPSD)
+- KGTV ABC10 News San Diego
+- KIVI Idaho News 6 Boise
+- WPTV Channel5 News West Palm Beach
+- KIRO (CBS) News 7 Seattle WA
+- KMTV 3 News Now Omaha
+- Very Pittsburgh By WTAE
+- WJRT (ABC) News 12 Flint MI
+- Very Carolina By WYFF 4
+- KY-Lexington | LEX18 (WLEX)
+- TMJ4 News Milwaukee
+- KDRV (ABC) News 12 Medford OR
+- WLFI (CBS) News 16 Lafayette IN
+- FOX 55 Fort Wayne IN
+- Very South Florida By WPBF 25
+- News 12 New York
+- WTKR News 3 Norfolk
+- Very Sacramento By KCRA-TV
+- KOAA News 5 Colorado
+- Very Baltimore By WBAL-TV
+- Very Orlando By WESH 2-TV
+- Very Savannah By WJCL
+- KTVH News Helena
+- WKBW 7 News Buffalo
+- TN-Nashville | Channel5 News (WTVF)
+- KIMT (CBS) News 3 Rochester MN
+- AL-Huntsville | ABC News 31 (WAAY)
+- Very Milwaukee By WISN 12
+- Very Omaha By KETV
+- KPAX News Missoula
+- KVOA Tucson AZ
+- Very Carolina By WXII
+- WJAX (CBS) News 47 Jacksonville FL
+- KTNV 13 Action News Las Vegas
+- Very Louisville By WLKY
+- MS-Jackson | Very Jackson (WAPT)
+- FOX 17 West Michigan
+- KERO 23 News Bakersfield
+- Very Oklahoma By KOCO
+- FOX 4 Ft Myers
+- KXXV 25 News Waco
+- Very Kansas City By KMBC/KCWE
+- KRIS6 News Corpus Christi
+- KMGH Denver 7 News
+- Very Pennsylvania By WGAL
+- Very Tampa Bay By WMOR
+- WAOW Wausau WI
+- WSOC (ABC) News 9 Charlotte NC
+- WKOW Madison WI
+- WKBT (CBS) News 8 La Crosse WI
+- KITV (ABC) News 4 Honolulu HI
+- WISC Madison WI
+- KTVQ Q2 News Billings
+- WXYZ 7 Action News Detroit
+- Tampa Bay 28
+- WRAL News Raleigh
+- KAVU Crossroads Today Victoria TX
+- WFTV (ABC) News 9 Orlando FL
+- WDRB Louisville KY
+- WHIO (CBS) News 7 Dayton OH
+- NBC 26 Green Bay
+- FOX 25 Boston MA
+- AL-Birmingham | Very Alabama (WVTM)
+- KSHB 41 News Kansas City
+- KNXV ABC15 News Arizona
+- TN-Memphis | FOX 13 (WHBQ)
+- FOX 23 Tulsa OK
+- FOX 13 News Salt Lake
+- KY-Paducah | WSIL (WSIL)
+- IL-Chicago | NBC 5 (WMAQ)
+- NBC 4 New York News
+- NBC 5 Salt Lake City UT
+- KEYT ABC News Channel 3 Santa Barbara CA
+- KRDO ABC 13 News Colorado Springs CO
+- KMIZ ABC 17 News Columbia MO
+- KVIA ABC-7 News El Paso TX
+- KIFI ABC Local News 8 Idaho Falls ID
+- KTVZ News Bend OR
+- KOTV News On 6 Tulsa OK
+- OK-Oklahoma City | News 9 (KWTV)
+- 9&10 News Northern Michigan
+- BUTV10 (Boston University) [Not 24/7]
+- Fox 25 Boston
+- NBC 10 Providence
+- NBC Portland ME
+- Very Maine By WMTW
+- WCCA 194 Worcester MA
+- Game Show Network
+- Stories By AMC
+- Portlandia
+- The Price Is Right: The Barker Era⚕️
+- Baywatch
+- Doctor Who Classic
+- Circle
+- Dove Channel
+- NBC Comedy Vault
+- Very Cincinnati By WLWT
 - Chinohillsca
 - Gousa
 
@@ -572,7 +767,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (163 canales)</summary>
+<details><summary><b>📺 Otros</b> (182 canales)</summary>
 
 - Imagenuniversal TV
 - Cgtn
@@ -737,6 +932,25 @@
 - Stingray Remember The 80s
 - Fashion TV
 - Tarima
+- Vevo '80s
+- Vevo '90s
+- Vevo 2K
+- Vevo Pop
+- Stingray Classica
+- Stingray Karaoke
+- Stingray Classic Rock
+- Stingray Rock Alternative
+- Stingray Pop Adult
+- Stingray Hit List
+- Stingray Flashback 70s
+- Stingray The Spa
+- Stingray Remember The 80s
+- Stingray Easy Listening
+- Stingray Smooth Jazz
+- Stingray Nothin' But 90s
+- Stingray Holiday Hits
+- Stingray Today's Latin Pop
+- Stingray Today's KPOP
 
 </details>
 

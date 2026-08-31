@@ -29,3 +29,81 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AS3 Sport TV" tvg-chno="138" tvg-logo="https://tvabierta.net/as3sport.jpg" group-title="⚽ Deportes",AS3 Sport TV
 #EXTGRP:⚽ Deportes
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-chno="139" tvg-logo="https://tvabierta.net/red-bull-tv.png" group-title="⚽ Deportes",Red Bull TV
+#EXTGRP:⚽ Deportes
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WaypointTV" tvg-chno="140" tvg-logo="https://tvabierta.net/waypointtv.png" group-title="⚽ Deportes",WaypointTV
+#EXTGRP:⚽ Deportes
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV (ALT)" tvg-chno="141" tvg-logo="https://tvabierta.net/nba-tv-alt.svg" group-title="⚽ Deportes",NBA TV (ALT)
+#EXTGRP:⚽ Deportes
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV" tvg-chno="142" tvg-logo="https://tvabierta.net/fuel-tv.png" group-title="⚽ Deportes",Fuel TV
+#EXTGRP:⚽ Deportes
+https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willow Sports" tvg-chno="143" tvg-logo="https://tvabierta.net/willow-sports.png" group-title="⚽ Deportes",Willow Sports
+#EXTGRP:⚽ Deportes
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Team USA" tvg-chno="144" tvg-logo="https://tvabierta.net/team-usa.png" group-title="⚽ Deportes",Team USA
+#EXTGRP:⚽ Deportes
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports" tvg-chno="145" tvg-logo="https://tvabierta.net/fox-sports.png" group-title="⚽ Deportes",FOX Sports
+#EXTGRP:⚽ Deportes
+https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports XTRA" tvg-chno="146" tvg-logo="https://tvabierta.net/bein-sports-xtra.png" group-title="⚽ Deportes",BeIN Sports XTRA
+#EXTGRP:⚽ Deportes
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Grappling Network⚕️" tvg-chno="147" tvg-logo="https://iptv-org.github.io/iptv/logos/TheGrapplingNetwork.us.png" group-title="⚽ Deportes",The Grappling Network⚕️
+#EXTGRP:⚽ Deportes
+https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FITE 24/7" tvg-chno="148" tvg-logo="https://tvabierta.net/fite-24-7.png" group-title="⚽ Deportes",FITE 24/7
+#EXTGRP:⚽ Deportes
+https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extreme+" tvg-chno="149" tvg-logo="https://tvabierta.net/extreme-plus.png" group-title="⚽ Deportes",Extreme+
+#EXTGRP:⚽ Deportes
+https://d3p1dbb9xrkmd5.cloudfront.net/scheduler/scheduleMaster/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adventure Sports TV" tvg-chno="150" tvg-logo="https://tvabierta.net/adventure-sports-tv.png" group-title="⚽ Deportes",Adventure Sports TV
+#EXTGRP:⚽ Deportes
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports First⚕️" tvg-chno="151" tvg-logo="https://tvabierta.net/sports-first.jpg" group-title="⚽ Deportes",Sports First⚕️
+#EXTGRP:⚽ Deportes
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wild TV" tvg-chno="152" tvg-logo="https://tvabierta.net/wild-tv.png" group-title="⚽ Deportes",Wild TV
+#EXTGRP:⚽ Deportes
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Surfing +⚕️" tvg-chno="153" tvg-logo="https://iptv-org.github.io/iptv/logos/SurfingPlus.us.png" group-title="⚽ Deportes",Surfing +⚕️
+#EXTGRP:⚽ Deportes
+https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Swerve Combat" tvg-chno="154" tvg-logo="https://tvabierta.net/swerve-combat.png" group-title="⚽ Deportes",Swerve Combat
+#EXTGRP:⚽ Deportes
+https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bleav Football" tvg-chno="155" tvg-logo="https://tvabierta.net/bleav-football.jpg" group-title="⚽ Deportes",Bleav Football
+#EXTGRP:⚽ Deportes
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Speed Sport 1⚕️" tvg-chno="156" tvg-logo="https://tvabierta.net/speed-sport-1.jpg" group-title="⚽ Deportes",Speed Sport 1⚕️
+#EXTGRP:⚽ Deportes
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor America⚕️" tvg-chno="157" tvg-logo="https://tvabierta.net/outdoor-america.png" group-title="⚽ Deportes",Outdoor America⚕️
+#EXTGRP:⚽ Deportes
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ufc" tvg-chno="158" tvg-logo="https://tvabierta.net/ufc.jpg" group-title="⚽ Deportes",Ufc
+#EXTGRP:⚽ Deportes
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pac 12 Insider" tvg-chno="159" tvg-logo="https://tvabierta.net/pac-12-insider.svg" group-title="⚽ Deportes",Pac 12 Insider
+#EXTGRP:⚽ Deportes
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Strongman Champions League" tvg-chno="160" tvg-logo="https://tvabierta.net/strongman-champions-league.png" group-title="⚽ Deportes",Strongman Champions League
+#EXTGRP:⚽ Deportes
+https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportsGrid" tvg-chno="161" tvg-logo="https://tvabierta.net/sportsgrid.png" group-title="⚽ Deportes",SportsGrid
+#EXTGRP:⚽ Deportes
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T2 Tennis Channel⚕️" tvg-chno="162" tvg-logo="https://tvabierta.net/t2-tennis-channel.png" group-title="⚽ Deportes",T2 Tennis Channel⚕️
+#EXTGRP:⚽ Deportes
+https://ttc-tennischannelus-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unbeaten" tvg-chno="163" tvg-logo="https://tvabierta.net/unbeaten.png" group-title="⚽ Deportes",Unbeaten
+#EXTGRP:⚽ Deportes
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports" tvg-chno="164" tvg-logo="https://tvabierta.net/nbc-sports.png" group-title="⚽ Deportes",NBC Sports
+#EXTGRP:⚽ Deportes
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8

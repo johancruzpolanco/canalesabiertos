@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="548" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="762" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
 #EXTGRP:🇪🇸 España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional America" tvg-chno="549" tvg-logo="https://tvabierta.net/tve.png" group-title="🇪🇸 España",TVE Internacional America
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional America" tvg-chno="763" tvg-logo="https://tvabierta.net/tve.png" group-title="🇪🇸 España",TVE Internacional America
 #EXTGRP:🇪🇸 España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele Elx" tvg-chno="550" tvg-logo="https://tvabierta.net/teleelx.png" group-title="🇪🇸 España",Tele Elx
+#EXTINF:-1 tvg-id="" tvg-name="Tele Elx" tvg-chno="764" tvg-logo="https://tvabierta.net/teleelx.png" group-title="🇪🇸 España",Tele Elx
 #EXTGRP:🇪🇸 España
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-chno="551" tvg-logo="https://tvabierta.net/canalmalaga.jpg" group-title="🇪🇸 España",Canal Málaga
+#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-chno="765" tvg-logo="https://tvabierta.net/canalmalaga.jpg" group-title="🇪🇸 España",Canal Málaga
 #EXTGRP:🇪🇸 España
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40" tvg-chno="552" tvg-logo="https://tvabierta.net/mijas.jpg" group-title="🇪🇸 España",Mijas 3.40
+#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40" tvg-chno="766" tvg-logo="https://tvabierta.net/mijas.jpg" group-title="🇪🇸 España",Mijas 3.40
 #EXTGRP:🇪🇸 España
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alacanti TV" tvg-chno="553" tvg-logo="https://tvabierta.net/alacanti.jpg" group-title="🇪🇸 España",Alacanti TV
+#EXTINF:-1 tvg-id="" tvg-name="Alacanti TV" tvg-chno="767" tvg-logo="https://tvabierta.net/alacanti.jpg" group-title="🇪🇸 España",Alacanti TV
 #EXTGRP:🇪🇸 España
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alcarriatv" tvg-chno="554" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇪🇸 España",Alcarriatv
+#EXTINF:-1 tvg-id="" tvg-name="Alcarriatv" tvg-chno="768" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇪🇸 España",Alcarriatv
 #EXTGRP:🇪🇸 España
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televalencia" tvg-chno="555" tvg-logo="https://tvabierta.net/televalencia.png" group-title="🇪🇸 España",Televalencia
+#EXTINF:-1 tvg-id="" tvg-name="Televalencia" tvg-chno="769" tvg-logo="https://tvabierta.net/televalencia.png" group-title="🇪🇸 España",Televalencia
 #EXTGRP:🇪🇸 España
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-chno="556" tvg-logo="https://tvabierta.net/cmm.png" group-title="🇪🇸 España",CMM
+#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-chno="770" tvg-logo="https://tvabierta.net/cmm.png" group-title="🇪🇸 España",CMM
 #EXTGRP:🇪🇸 España
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cordoba TV" tvg-chno="557" tvg-logo="https://tvabierta.net/cordobatv.png" group-title="🇪🇸 España",Cordoba TV
+#EXTINF:-1 tvg-id="" tvg-name="Cordoba TV" tvg-chno="771" tvg-logo="https://tvabierta.net/cordobatv.png" group-title="🇪🇸 España",Cordoba TV
 #EXTGRP:🇪🇸 España
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="558" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
+#EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="772" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
 #EXTGRP:🇪🇸 España
 https://hls.tvabierta.net/hls/rtvce.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AragonTV" tvg-chno="559" tvg-logo="https://tvabierta.net/aragontv.png" group-title="🇪🇸 España",AragonTV
+#EXTINF:-1 tvg-id="" tvg-name="AragonTV" tvg-chno="773" tvg-logo="https://tvabierta.net/aragontv.png" group-title="🇪🇸 España",AragonTV
 #EXTGRP:🇪🇸 España
 https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/d1hajab2w2oajq/504a744747b04321bc8042af57c2f7db/699341967864450d4f062ba9/index_1.m3u8

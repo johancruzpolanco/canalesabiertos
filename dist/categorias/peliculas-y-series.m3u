@@ -29,9 +29,9 @@ https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670
 #EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="128" tvg-logo="https://tvabierta.net/canela.jpeg" group-title="🎬 Películas y Series",Canela
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=154.88.131.7&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=aa3bde15-3258-4b6a-b044-b154c741b1ac&url=https://www.canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="139" tvg-logo="https://tvabierta.net/cineromantico.jpg" group-title="🎬 Películas y Series",Cine Romantico
+#EXTINF:-1 tvg-id="" tvg-name="Cine Romantico" tvg-chno="165" tvg-logo="https://tvabierta.net/cineromantico.jpg" group-title="🎬 Películas y Series",Cine Romantico
 #EXTGRP:🎬 Películas y Series
 https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LG +1" tvg-chno="140" tvg-logo="https://tvabierta.net/lg1.png" group-title="🎬 Películas y Series",LG +1
+#EXTINF:-1 tvg-id="" tvg-name="LG +1" tvg-chno="166" tvg-logo="https://tvabierta.net/lg1.png" group-title="🎬 Películas y Series",LG +1
 #EXTGRP:🎬 Películas y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]

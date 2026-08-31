@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="444" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="639" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
 #EXTGRP:🇪🇨 Ecuador
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="445" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="640" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
 #EXTGRP:🇪🇨 Ecuador
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="446" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
+#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="641" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
 #EXTGRP:🇪🇨 Ecuador
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ciracu TV" tvg-chno="447" tvg-logo="https://tvabierta.net/ciracu.png" group-title="🇪🇨 Ecuador",Ciracu TV
+#EXTINF:-1 tvg-id="" tvg-name="Ciracu TV" tvg-chno="642" tvg-logo="https://tvabierta.net/ciracu.png" group-title="🇪🇨 Ecuador",Ciracu TV
 #EXTGRP:🇪🇨 Ecuador
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Puruwa TV" tvg-chno="448" tvg-logo="https://tvabierta.net/puruwatv.png" group-title="🇪🇨 Ecuador",Puruwa TV
+#EXTINF:-1 tvg-id="" tvg-name="Puruwa TV" tvg-chno="643" tvg-logo="https://tvabierta.net/puruwatv.png" group-title="🇪🇨 Ecuador",Puruwa TV
 #EXTGRP:🇪🇨 Ecuador
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Corazon TV" tvg-chno="538" tvg-logo="https://tvabierta.net/corazontv.png" group-title="🇵🇦 Panamá",Corazon TV
+#EXTINF:-1 tvg-id="" tvg-name="Corazon TV" tvg-chno="752" tvg-logo="https://tvabierta.net/corazontv.png" group-title="🇵🇦 Panamá",Corazon TV
 #EXTGRP:🇵🇦 Panamá
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-chno="539" tvg-logo="https://tvabierta.net/cosmostv.jpeg" group-title="🇵🇦 Panamá",Cosmos TV
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-chno="753" tvg-logo="https://tvabierta.net/cosmostv.jpeg" group-title="🇵🇦 Panamá",Cosmos TV
 #EXTGRP:🇵🇦 Panamá
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8

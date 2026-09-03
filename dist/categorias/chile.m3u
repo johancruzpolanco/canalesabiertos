@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="600" tvg-logo="https://tvabierta.net/uniteve.png" group-title="🇨🇱 Chile",Uniteve
+#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="595" tvg-logo="https://tvabierta.net/uniteve.png" group-title="🇨🇱 Chile",Uniteve
 #EXTGRP:🇨🇱 Chile
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-chno="601" tvg-logo="https://tvabierta.net/13c.png" group-title="🇨🇱 Chile",13 C
+#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-chno="596" tvg-logo="https://tvabierta.net/13c.png" group-title="🇨🇱 Chile",13 C
 #EXTGRP:🇨🇱 Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 T" tvg-chno="602" tvg-logo="https://tvabierta.net/13t.png" group-title="🇨🇱 Chile",13 T
+#EXTINF:-1 tvg-id="" tvg-name="13 T" tvg-chno="597" tvg-logo="https://tvabierta.net/13t.png" group-title="🇨🇱 Chile",13 T
 #EXTGRP:🇨🇱 Chile
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15.1 BPB" tvg-chno="603" tvg-logo="https://tvabierta.net/15.1bpb.png" group-title="🇨🇱 Chile",15.1 BPB
+#EXTINF:-1 tvg-id="" tvg-name="15.1 BPB" tvg-chno="598" tvg-logo="https://tvabierta.net/15.1bpb.png" group-title="🇨🇱 Chile",15.1 BPB
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adntv" tvg-chno="604" tvg-logo="https://tvabierta.net/adn.png" group-title="🇨🇱 Chile",Adntv
+#EXTINF:-1 tvg-id="" tvg-name="Adntv" tvg-chno="599" tvg-logo="https://tvabierta.net/adn.png" group-title="🇨🇱 Chile",Adntv
 #EXTGRP:🇨🇱 Chile
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alternativa TV" tvg-chno="605" tvg-logo="https://tvabierta.net/alternativatv.png" group-title="🇨🇱 Chile",Alternativa TV
+#EXTINF:-1 tvg-id="" tvg-name="Alternativa TV" tvg-chno="600" tvg-logo="https://tvabierta.net/alternativatv.png" group-title="🇨🇱 Chile",Alternativa TV
 #EXTGRP:🇨🇱 Chile
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atacamanoticias" tvg-chno="606" tvg-logo="https://tvabierta.net/atacamanoticias.png" group-title="🇨🇱 Chile",Atacamanoticias
+#EXTINF:-1 tvg-id="" tvg-name="Atacamanoticias" tvg-chno="601" tvg-logo="https://tvabierta.net/atacamanoticias.png" group-title="🇨🇱 Chile",Atacamanoticias
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aysen TV" tvg-chno="607" tvg-logo="https://tvabierta.net/aysetntv.png" group-title="🇨🇱 Chile",Aysen TV
+#EXTINF:-1 tvg-id="" tvg-name="Aysen TV" tvg-chno="602" tvg-logo="https://tvabierta.net/aysetntv.png" group-title="🇨🇱 Chile",Aysen TV
 #EXTGRP:🇨🇱 Chile
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bio Bio TV" tvg-chno="608" tvg-logo="https://tvabierta.net/biobiotv.png" group-title="🇨🇱 Chile",Bio Bio TV
+#EXTINF:-1 tvg-id="" tvg-name="Bio Bio TV" tvg-chno="603" tvg-logo="https://tvabierta.net/biobiotv.png" group-title="🇨🇱 Chile",Bio Bio TV
 #EXTGRP:🇨🇱 Chile
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="io-Bio Television" tvg-chno="609" tvg-logo="https://tvabierta.net/biobio.png" group-title="🇨🇱 Chile",io-Bio Television
+#EXTINF:-1 tvg-id="" tvg-name="io-Bio Television" tvg-chno="604" tvg-logo="https://tvabierta.net/biobio.png" group-title="🇨🇱 Chile",io-Bio Television
 #EXTGRP:🇨🇱 Chile
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Quellon" tvg-chno="610" tvg-logo="https://tvabierta.net/quellon.png" group-title="🇨🇱 Chile",Quellon
+#EXTINF:-1 tvg-id="" tvg-name="Quellon" tvg-chno="605" tvg-logo="https://tvabierta.net/quellon.png" group-title="🇨🇱 Chile",Quellon
 #EXTGRP:🇨🇱 Chile
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-chno="611" tvg-logo="https://tvabierta.net/caracolatv.png" group-title="🇨🇱 Chile",Caracola TV
+#EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-chno="606" tvg-logo="https://tvabierta.net/caracolatv.png" group-title="🇨🇱 Chile",Caracola TV
 #EXTGRP:🇨🇱 Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vconline" tvg-chno="612" tvg-logo="https://tvabierta.net/vconline.png" group-title="🇨🇱 Chile",Vconline
+#EXTINF:-1 tvg-id="" tvg-name="Vconline" tvg-chno="607" tvg-logo="https://tvabierta.net/vconline.png" group-title="🇨🇱 Chile",Vconline
 #EXTGRP:🇨🇱 Chile
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="China Channel" tvg-chno="613" tvg-logo="https://tvabierta.net/chinachannel.png" group-title="🇨🇱 Chile",China Channel
+#EXTINF:-1 tvg-id="" tvg-name="China Channel" tvg-chno="608" tvg-logo="https://tvabierta.net/chinachannel.png" group-title="🇨🇱 Chile",China Channel
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/chinachannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Del SUR" tvg-chno="614" tvg-logo="https://tvabierta.net/canaldelsur.png" group-title="🇨🇱 Chile",Canal Del SUR
+#EXTINF:-1 tvg-id="" tvg-name="Canal Del SUR" tvg-chno="609" tvg-logo="https://tvabierta.net/canaldelsur.png" group-title="🇨🇱 Chile",Canal Del SUR
 #EXTGRP:🇨🇱 Chile
 https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ConcepcionTV" tvg-chno="615" tvg-logo="https://tvabierta.net/concepciontv.jpeg" group-title="🇨🇱 Chile",ConcepcionTV
+#EXTINF:-1 tvg-id="" tvg-name="ConcepcionTV" tvg-chno="610" tvg-logo="https://tvabierta.net/concepciontv.jpeg" group-title="🇨🇱 Chile",ConcepcionTV
 #EXTGRP:🇨🇱 Chile
 https://stream.blserver.cl/hls/ctv/index.m3u8

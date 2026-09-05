@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-chno="639" tvg-logo="https://tvabierta.net/willax.png" group-title="🇵🇪 Perú",Willax
+#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-chno="642" tvg-logo="https://tvabierta.net/willax.png" group-title="🇵🇪 Perú",Willax
 #EXTGRP:🇵🇪 Perú
 https://hls.tvabierta.net/hls/willax.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="640" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
+#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="643" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
 #EXTGRP:🇵🇪 Perú
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b26855869e192dbb546d&sid=ba5t1l1xb2209352846369e1932eb5884&ndvc=0
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-chno="641" tvg-logo="https://tvabieta.net/panamericana.png" group-title="🇵🇪 Perú",Panamericana
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-chno="644" tvg-logo="https://tvabieta.net/panamericana.png" group-title="🇵🇪 Perú",Panamericana
 #EXTGRP:🇵🇪 Perú
 https://hls.tvabierta.net/hls/panamericana.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="642" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="645" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
 #EXTGRP:🇵🇪 Perú
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpha" tvg-chno="643" tvg-logo="https://tvabierta.net/alpha.png" group-title="🇵🇪 Perú",Alpha
+#EXTINF:-1 tvg-id="" tvg-name="Alpha" tvg-chno="646" tvg-logo="https://tvabierta.net/alpha.png" group-title="🇵🇪 Perú",Alpha
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL M Television" tvg-chno="644" tvg-logo="https://tvabierta.net/canalm.png" group-title="🇵🇪 Perú",CANAL M Television
+#EXTINF:-1 tvg-id="" tvg-name="CANAL M Television" tvg-chno="647" tvg-logo="https://tvabierta.net/canalm.png" group-title="🇵🇪 Perú",CANAL M Television
 #EXTGRP:🇵🇪 Perú
 https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="645" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
+#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="648" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
 #EXTGRP:🇵🇪 Perú
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="646" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
+#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="649" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
 #EXTGRP:🇵🇪 Perú
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-chno="647" tvg-logo="https://tvabierta.net/antena1.jpeg" group-title="🇵🇪 Perú",Antena 1
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-chno="650" tvg-logo="https://tvabierta.net/antena1.jpeg" group-title="🇵🇪 Perú",Antena 1
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="648" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
+#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="651" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
 #EXTGRP:🇵🇪 Perú
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Andes TV" tvg-chno="649" tvg-logo="https://tvabierta.net/andestv.png" group-title="🇵🇪 Perú",Andes TV
+#EXTINF:-1 tvg-id="" tvg-name="Andes TV" tvg-chno="652" tvg-logo="https://tvabierta.net/andestv.png" group-title="🇵🇪 Perú",Andes TV
 #EXTGRP:🇵🇪 Perú
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8

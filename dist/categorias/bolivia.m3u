@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BoliviaTV" tvg-chno="565" tvg-logo="https://tvabierta.net/boliviatv.jpeg" group-title="🇧🇴 Bolivia",BoliviaTV
+#EXTINF:-1 tvg-id="" tvg-name="BoliviaTV" tvg-chno="568" tvg-logo="https://tvabierta.net/boliviatv.jpeg" group-title="🇧🇴 Bolivia",BoliviaTV
 #EXTGRP:🇧🇴 Bolivia
 https://hls.tvabierta.net/hls/boliviatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="566" tvg-logo="https://tvabierta.net/amitel.jpeg" group-title="🇧🇴 Bolivia",Amitel
+#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="569" tvg-logo="https://tvabierta.net/amitel.jpeg" group-title="🇧🇴 Bolivia",Amitel
 #EXTGRP:🇧🇴 Bolivia
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlegriaTV" tvg-chno="567" tvg-logo="https://tvabierta.net/alegriatv.png" group-title="🇧🇴 Bolivia",AlegriaTV
+#EXTINF:-1 tvg-id="" tvg-name="AlegriaTV" tvg-chno="570" tvg-logo="https://tvabierta.net/alegriatv.png" group-title="🇧🇴 Bolivia",AlegriaTV
 #EXTGRP:🇧🇴 Bolivia
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="568" tvg-logo="https://tvabierta.net/atb.png" group-title="🇧🇴 Bolivia",Atb
+#EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="571" tvg-logo="https://tvabierta.net/atb.png" group-title="🇧🇴 Bolivia",Atb
 #EXTGRP:🇧🇴 Bolivia
 https://hls.tvabierta.net/hls/atb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zuraca TV" tvg-chno="569" tvg-logo="https://tvabierta.net/zuracatv.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV
+#EXTINF:-1 tvg-id="" tvg-name="Zuraca TV" tvg-chno="572" tvg-logo="https://tvabierta.net/zuracatv.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV
 #EXTGRP:🇧🇴 Bolivia
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

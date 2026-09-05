@@ -1,58 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-chno="594" tvg-logo="https://tvabierta.net/caracol.png" group-title="🇨🇴 Colombia",Caracol
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-chno="597" tvg-logo="https://tvabierta.net/caracol.png" group-title="🇨🇴 Colombia",Caracol
 #EXTGRP:🇨🇴 Colombia
 https://ds.tvabierta.net/memfs/62b82da6-5a71-4abc-a5bf-67463b815937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-chno="595" tvg-logo="https://tvabierta.net/rcn.png" group-title="🇨🇴 Colombia",RCN
+#EXTINF:-1 tvg-id="" tvg-name="RCN" tvg-chno="598" tvg-logo="https://tvabierta.net/rcn.png" group-title="🇨🇴 Colombia",RCN
 #EXTGRP:🇨🇴 Colombia
 https://ds.tvabierta.net/memfs/a28c3975-eed3-47a3-8f55-f9a5bd0b0092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-chno="596" tvg-logo="https://tvabierta.net/telecafe.png" group-title="🇨🇴 Colombia",Telecafe
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-chno="599" tvg-logo="https://tvabierta.net/telecafe.png" group-title="🇨🇴 Colombia",Telecafe
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/telecafe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-chno="597" tvg-logo="https://tvabierta.net/canalcapital.png" group-title="🇨🇴 Colombia",Canal Capital
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-chno="600" tvg-logo="https://tvabierta.net/canalcapital.png" group-title="🇨🇴 Colombia",Canal Capital
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/canalcapital.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sealcolombia" tvg-chno="598" tvg-logo="https://tvabierta.net/senalcolombia.png" group-title="🇨🇴 Colombia",Sealcolombia
+#EXTINF:-1 tvg-id="" tvg-name="Sealcolombia" tvg-chno="601" tvg-logo="https://tvabierta.net/senalcolombia.png" group-title="🇨🇴 Colombia",Sealcolombia
 #EXTGRP:🇨🇴 Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canalinstitucional" tvg-chno="599" tvg-logo="https://tvabierta.net/canalinstitucional.png" group-title="🇨🇴 Colombia",Canalinstitucional
+#EXTINF:-1 tvg-id="" tvg-name="Canalinstitucional" tvg-chno="602" tvg-logo="https://tvabierta.net/canalinstitucional.png" group-title="🇨🇴 Colombia",Canalinstitucional
 #EXTGRP:🇨🇴 Colombia
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blu Radio" tvg-chno="600" tvg-logo="https://tvabierta.net/bluradio.png" group-title="🇨🇴 Colombia",Blu Radio
+#EXTINF:-1 tvg-id="" tvg-name="Blu Radio" tvg-chno="603" tvg-logo="https://tvabierta.net/bluradio.png" group-title="🇨🇴 Colombia",Blu Radio
 #EXTGRP:🇨🇴 Colombia
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Avivamiento TV" tvg-chno="601" tvg-logo="https://tvabierta.net/avivamientotv.png" group-title="🇨🇴 Colombia",Avivamiento TV
+#EXTINF:-1 tvg-id="" tvg-name="Avivamiento TV" tvg-chno="604" tvg-logo="https://tvabierta.net/avivamientotv.png" group-title="🇨🇴 Colombia",Avivamiento TV
 #EXTGRP:🇨🇴 Colombia
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV+" tvg-chno="602" tvg-logo="https://tvabierta.net/8tv" group-title="🇨🇴 Colombia",Canal 8 TV+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV+" tvg-chno="605" tvg-logo="https://tvabierta.net/8tv" group-title="🇨🇴 Colombia",Canal 8 TV+
 #EXTGRP:🇨🇴 Colombia
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Cine Dios" tvg-chno="603" tvg-logo="https://tvabierta.net/cinecondios.png" group-title="🇨🇴 Colombia",Canal Cine Dios
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cine Dios" tvg-chno="606" tvg-logo="https://tvabierta.net/cinecondios.png" group-title="🇨🇴 Colombia",Canal Cine Dios
 #EXTGRP:🇨🇴 Colombia
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal PyC" tvg-chno="604" tvg-logo="https://tvabierta.net/pyctv.png" group-title="🇨🇴 Colombia",Canal PyC
+#EXTINF:-1 tvg-id="" tvg-name="Canal PyC" tvg-chno="607" tvg-logo="https://tvabierta.net/pyctv.png" group-title="🇨🇴 Colombia",Canal PyC
 #EXTGRP:🇨🇴 Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Tro" tvg-chno="605" tvg-logo="https://tvabierta.net/canaltro.png" group-title="🇨🇴 Colombia",Canal Tro
+#EXTINF:-1 tvg-id="" tvg-name="Canal Tro" tvg-chno="608" tvg-logo="https://tvabierta.net/canaltro.png" group-title="🇨🇴 Colombia",Canal Tro
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/canaltro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Tro+" tvg-chno="606" tvg-logo="https://tvabierta.net/canaltroplus.png" group-title="🇨🇴 Colombia",Canal Tro+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Tro+" tvg-chno="609" tvg-logo="https://tvabierta.net/canaltroplus.png" group-title="🇨🇴 Colombia",Canal Tro+
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/proplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-chno="710" tvg-logo="https://tvabierta.net/calitv.png" group-title="🇨🇴 Colombia",Cali TV
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV" tvg-chno="713" tvg-logo="https://tvabierta.net/calitv.png" group-title="🇨🇴 Colombia",Cali TV
 #EXTGRP:🇨🇴 Colombia
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Calitv 2" tvg-chno="711" tvg-logo="https://tvabierta.net/calitv.png" group-title="🇨🇴 Colombia",Calitv 2
+#EXTINF:-1 tvg-id="" tvg-name="Calitv 2" tvg-chno="714" tvg-logo="https://tvabierta.net/calitv.png" group-title="🇨🇴 Colombia",Calitv 2
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/calitv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMB" tvg-chno="712" tvg-logo="https://tvabierta.net/cmb.png" group-title="🇨🇴 Colombia",CMB
+#EXTINF:-1 tvg-id="" tvg-name="CMB" tvg-chno="715" tvg-logo="https://tvabierta.net/cmb.png" group-title="🇨🇴 Colombia",CMB
 #EXTGRP:🇨🇴 Colombia
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="713" tvg-logo="https://tvabierta.net/cosmosivion.png" group-title="🇨🇴 Colombia",Cosmovision
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="716" tvg-logo="https://tvabierta.net/cosmosivion.png" group-title="🇨🇴 Colombia",Cosmovision
 #EXTGRP:🇨🇴 Colombia
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cncsantander" tvg-chno="714" tvg-logo="https://tvabierta.net/cncsantander.jpeg" group-title="🇨🇴 Colombia",Cncsantander
+#EXTINF:-1 tvg-id="" tvg-name="Cncsantander" tvg-chno="717" tvg-logo="https://tvabierta.net/cncsantander.jpeg" group-title="🇨🇴 Colombia",Cncsantander
 #EXTGRP:🇨🇴 Colombia
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cnctulua" tvg-chno="715" tvg-logo="https://tvabierta.net/cnctulua.png" group-title="🇨🇴 Colombia",Cnctulua
+#EXTINF:-1 tvg-id="" tvg-name="Cnctulua" tvg-chno="718" tvg-logo="https://tvabierta.net/cnctulua.png" group-title="🇨🇴 Colombia",Cnctulua
 #EXTGRP:🇨🇴 Colombia
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8

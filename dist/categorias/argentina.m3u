@@ -1,64 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-chno="542" tvg-logo="https://tvabierta.net/canal26.png" group-title="🇦🇷 Argentina",Canal 26
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-chno="545" tvg-logo="https://tvabierta.net/canal26.png" group-title="🇦🇷 Argentina",Canal 26
 #EXTGRP:🇦🇷 Argentina
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BravoTV" tvg-chno="543" tvg-logo="https://tvabierta.net/bravotv.png" group-title="🇦🇷 Argentina",BravoTV
+#EXTINF:-1 tvg-id="" tvg-name="BravoTV" tvg-chno="546" tvg-logo="https://tvabierta.net/bravotv.png" group-title="🇦🇷 Argentina",BravoTV
 #EXTGRP:🇦🇷 Argentina
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TDC TV Santa Fe" tvg-chno="544" tvg-logo="https://tvabierta.net/tdc.png" group-title="🇦🇷 Argentina",TDC TV Santa Fe
+#EXTINF:-1 tvg-id="" tvg-name="TDC TV Santa Fe" tvg-chno="547" tvg-logo="https://tvabierta.net/tdc.png" group-title="🇦🇷 Argentina",TDC TV Santa Fe
 #EXTGRP:🇦🇷 Argentina
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sublime Gracia TV" tvg-chno="545" tvg-logo="https://tvabierta.net/sublimegraciatv.png" group-title="🇦🇷 Argentina",Sublime Gracia TV
+#EXTINF:-1 tvg-id="" tvg-name="Sublime Gracia TV" tvg-chno="548" tvg-logo="https://tvabierta.net/sublimegraciatv.png" group-title="🇦🇷 Argentina",Sublime Gracia TV
 #EXTGRP:🇦🇷 Argentina
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-chno="546" tvg-logo="https://tvabierta.net/argentinisima.png" group-title="🇦🇷 Argentina",Argentinisima
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-chno="549" tvg-logo="https://tvabierta.net/argentinisima.png" group-title="🇦🇷 Argentina",Argentinisima
 #EXTGRP:🇦🇷 Argentina
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Orbe 21" tvg-chno="547" tvg-logo="https://tvabierta.net/canalorbe21.png" group-title="🇦🇷 Argentina",Canal Orbe 21
+#EXTINF:-1 tvg-id="" tvg-name="Canal Orbe 21" tvg-chno="550" tvg-logo="https://tvabierta.net/canalorbe21.png" group-title="🇦🇷 Argentina",Canal Orbe 21
 #EXTGRP:🇦🇷 Argentina
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aire De Santa Fe" tvg-chno="548" tvg-logo="https://tvabierta.net/airedesantafe.png" group-title="🇦🇷 Argentina",Aire De Santa Fe
+#EXTINF:-1 tvg-id="" tvg-name="Aire De Santa Fe" tvg-chno="551" tvg-logo="https://tvabierta.net/airedesantafe.png" group-title="🇦🇷 Argentina",Aire De Santa Fe
 #EXTGRP:🇦🇷 Argentina
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Viento Recio" tvg-chno="549" tvg-logo="https://tvabierta.net/vientorecio.jpg" group-title="🇦🇷 Argentina",Viento Recio
+#EXTINF:-1 tvg-id="" tvg-name="Viento Recio" tvg-chno="552" tvg-logo="https://tvabierta.net/vientorecio.jpg" group-title="🇦🇷 Argentina",Viento Recio
 #EXTGRP:🇦🇷 Argentina
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7 Cooperativa" tvg-chno="550" tvg-logo="https://tvabierta.net/7salta.png" group-title="🇦🇷 Argentina",7 Cooperativa
+#EXTINF:-1 tvg-id="" tvg-name="7 Cooperativa" tvg-chno="553" tvg-logo="https://tvabierta.net/7salta.png" group-title="🇦🇷 Argentina",7 Cooperativa
 #EXTGRP:🇦🇷 Argentina
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="7 Salta" tvg-chno="551" tvg-logo="https://tvabierta.net/7salta.png" group-title="🇦🇷 Argentina",7 Salta
+#EXTINF:-1 tvg-id="" tvg-name="7 Salta" tvg-chno="554" tvg-logo="https://tvabierta.net/7salta.png" group-title="🇦🇷 Argentina",7 Salta
 #EXTGRP:🇦🇷 Argentina
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9 Link" tvg-chno="552" tvg-logo="https://tvabierta.net/litoral9.png" group-title="🇦🇷 Argentina",9 Link
+#EXTINF:-1 tvg-id="" tvg-name="9 Link" tvg-chno="555" tvg-logo="https://tvabierta.net/litoral9.png" group-title="🇦🇷 Argentina",9 Link
 #EXTGRP:🇦🇷 Argentina
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caras TV" tvg-chno="553" tvg-logo="https://tvabierta.net/carastv.jpeg" group-title="🇦🇷 Argentina",Caras TV
+#EXTINF:-1 tvg-id="" tvg-name="Caras TV" tvg-chno="556" tvg-logo="https://tvabierta.net/carastv.jpeg" group-title="🇦🇷 Argentina",Caras TV
 #EXTGRP:🇦🇷 Argentina
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Catamarca TV" tvg-chno="554" tvg-logo="https://tvabierta.net/catamarca.png" group-title="🇦🇷 Argentina",Catamarca TV
+#EXTINF:-1 tvg-id="" tvg-name="Catamarca TV" tvg-chno="557" tvg-logo="https://tvabierta.net/catamarca.png" group-title="🇦🇷 Argentina",Catamarca TV
 #EXTGRP:🇦🇷 Argentina
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Celta TV" tvg-chno="555" tvg-logo="https://tvabierta.net/celtatv.png" group-title="🇦🇷 Argentina",Celta TV
+#EXTINF:-1 tvg-id="" tvg-name="Celta TV" tvg-chno="558" tvg-logo="https://tvabierta.net/celtatv.png" group-title="🇦🇷 Argentina",Celta TV
 #EXTGRP:🇦🇷 Argentina
 https://vivo.solumedia.com:19360/celta/celta.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Correa Radiovision" tvg-chno="556" tvg-logo="https://tvabierta.net/correaradiovision.jpeg" group-title="🇦🇷 Argentina",Correa Radiovision
+#EXTINF:-1 tvg-id="" tvg-name="Correa Radiovision" tvg-chno="559" tvg-logo="https://tvabierta.net/correaradiovision.jpeg" group-title="🇦🇷 Argentina",Correa Radiovision
 #EXTGRP:🇦🇷 Argentina
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Corrientes TV" tvg-chno="557" tvg-logo="https://tvabierta.net/corrientes.png" group-title="🇦🇷 Argentina",Corrientes TV
+#EXTINF:-1 tvg-id="" tvg-name="Corrientes TV" tvg-chno="560" tvg-logo="https://tvabierta.net/corrientes.png" group-title="🇦🇷 Argentina",Corrientes TV
 #EXTGRP:🇦🇷 Argentina
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-chno="558" tvg-logo="https://tvabierta.net/cosmostv.png" group-title="🇦🇷 Argentina",Cosmos TV
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-chno="561" tvg-logo="https://tvabierta.net/cosmostv.png" group-title="🇦🇷 Argentina",Cosmos TV
 #EXTGRP:🇦🇷 Argentina
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bvc" tvg-chno="559" tvg-logo="https://tvabierta.net/bvc.png" group-title="🇦🇷 Argentina",Bvc
+#EXTINF:-1 tvg-id="" tvg-name="Bvc" tvg-chno="562" tvg-logo="https://tvabierta.net/bvc.png" group-title="🇦🇷 Argentina",Bvc
 #EXTGRP:🇦🇷 Argentina
 https://vivo.solumedia.com:19360/bvnet/bvnet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pinguino TV" tvg-chno="560" tvg-logo="https://tvabierta.net/pinguinotv.png" group-title="🇦🇷 Argentina",Pinguino TV
+#EXTINF:-1 tvg-id="" tvg-name="Pinguino TV" tvg-chno="563" tvg-logo="https://tvabierta.net/pinguinotv.png" group-title="🇦🇷 Argentina",Pinguino TV
 #EXTGRP:🇦🇷 Argentina
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="5 TV" tvg-chno="561" tvg-logo="https://tvabierta.net/5tv.png" group-title="🇦🇷 Argentina",5 TV
+#EXTINF:-1 tvg-id="" tvg-name="5 TV" tvg-chno="564" tvg-logo="https://tvabierta.net/5tv.png" group-title="🇦🇷 Argentina",5 TV
 #EXTGRP:🇦🇷 Argentina
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-chno="562" tvg-logo="https://tvabierta.net/tevex.png" group-title="🇦🇷 Argentina",Tevex
+#EXTINF:-1 tvg-id="" tvg-name="Tevex" tvg-chno="565" tvg-logo="https://tvabierta.net/tevex.png" group-title="🇦🇷 Argentina",Tevex
 #EXTGRP:🇦🇷 Argentina
 https://v4.tustreaming.cl/tevexinter/index.m3u8

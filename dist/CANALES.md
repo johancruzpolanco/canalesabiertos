@@ -1,15 +1,15 @@
 # 📺 Canales disponibles
 
-**Total:** 739 canales en 28 categorías  
-**Actualizado:** 2026-09-05 09:56 UTC  
+**Total:** 742 canales en 28 categorías  
+**Actualizado:** 2026-09-05 14:34 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 101 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 102 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 25 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (101 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (102 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -87,6 +87,7 @@
 - Canal DTV Latino
 - TVO
 - RETV
+- ZTV
 - Valle Nuevo TV
 - Nexxo TV
 - Teleimpacto
@@ -145,13 +146,14 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (29 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (31 canales)</summary>
 
+- U 41
+- Univision Chicago
 - T31 Orlando
 - Telemundo PR
 - Telemundo Noreste
-- U 41
-- Univision Chicago
+- Noticias Ahora
 - Americateve
 - France24 ES
 - CNN en Español
@@ -176,6 +178,7 @@
 - Bendicionchannel
 - Cn 247
 - El Chavo
+- Cvi
 
 </details>
 

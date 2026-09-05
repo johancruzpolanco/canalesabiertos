@@ -1,88 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="T31 Orlando" tvg-chno="155" tvg-logo="https://tvabierta.net/t31.png" group-title="🌎 Hispanos",T31 Orlando
+#EXTINF:-1 tvg-id="" tvg-name="T31 Orlando" tvg-chno="150" tvg-logo="https://tvabierta.net/t31.png" group-title="🌎 Hispanos",T31 Orlando
 #EXTGRP:🌎 Hispanos
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="156" tvg-logo="https://tvabierta.net/tpr.png" group-title="🌎 Hispanos",Telemundo PR
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="151" tvg-logo="https://tvabierta.net/tpr.png" group-title="🌎 Hispanos",Telemundo PR
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/9e44e8e0-2162-4ad5-843c-9175a5edf483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Noreste" tvg-chno="157" tvg-logo="https://tvabierta.net/t.png" group-title="🌎 Hispanos",Telemundo Noreste
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Noreste" tvg-chno="152" tvg-logo="https://tvabierta.net/t.png" group-title="🌎 Hispanos",Telemundo Noreste
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/f423e722-97de-4156-b272-adf472b82f00.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="U 41" tvg-chno="158" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",U 41
+#EXTINF:-1 tvg-id="" tvg-name="U 41" tvg-chno="153" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",U 41
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/53adff2c-9efb-4138-be19-f7c67e073e0f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="159" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision Chicago
+#EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="154" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision Chicago
 #EXTGRP:🌎 Hispanos
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Americateve" tvg-chno="160" tvg-logo="https://tvabierta.net/americateve.png" group-title="🌎 Hispanos",Americateve
+#EXTINF:-1 tvg-id="" tvg-name="Americateve" tvg-chno="155" tvg-logo="https://tvabierta.net/americateve.png" group-title="🌎 Hispanos",Americateve
 #EXTGRP:🌎 Hispanos
 https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="France24 ES" tvg-chno="161" tvg-logo="https://tvabierta.net/f24.png" group-title="🌎 Hispanos",France24 ES
+#EXTINF:-1 tvg-id="" tvg-name="France24 ES" tvg-chno="156" tvg-logo="https://tvabierta.net/f24.png" group-title="🌎 Hispanos",France24 ES
 #EXTGRP:🌎 Hispanos
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-chno="162" tvg-logo="https://tvabierta.net/cnne.png" group-title="🌎 Hispanos",CNN en Español
+#EXTINF:-1 tvg-id="" tvg-name="CNN en Español" tvg-chno="157" tvg-logo="https://tvabierta.net/cnne.png" group-title="🌎 Hispanos",CNN en Español
 #EXTGRP:🌎 Hispanos
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-id="" tvg-name="Ntn 24" tvg-chno="163" tvg-logo="https://tvabierta.net/ntn24.png" group-title="🌎 Hispanos",Ntn 24
+#EXTINF:-1 tvg-id="" tvg-name="Ntn 24" tvg-chno="158" tvg-logo="https://tvabierta.net/ntn24.png" group-title="🌎 Hispanos",Ntn 24
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/03707865-ae19-4654-9025-e910905d70bd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DW ES" tvg-chno="164" tvg-logo="https://tvabierta.net/dw.png" group-title="🌎 Hispanos",DW ES
+#EXTINF:-1 tvg-id="" tvg-name="DW ES" tvg-chno="159" tvg-logo="https://tvabierta.net/dw.png" group-title="🌎 Hispanos",DW ES
 #EXTGRP:🌎 Hispanos
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-chno="165" tvg-logo="https://tvabierta.net/euronews.png" group-title="🌎 Hispanos",Euronews
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-chno="160" tvg-logo="https://tvabierta.net/euronews.png" group-title="🌎 Hispanos",Euronews
 #EXTGRP:🌎 Hispanos
 https://hls.tvabierta.net/hls/euronews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-chno="166" tvg-logo="https://tvabierta.net/telesur.png" group-title="🌎 Hispanos",Telesur
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-chno="161" tvg-logo="https://tvabierta.net/telesur.png" group-title="🌎 Hispanos",Telesur
 #EXTGRP:🌎 Hispanos
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-chno="167" tvg-logo="https://tvabierta.net/rt.png" group-title="🌎 Hispanos",RT
+#EXTINF:-1 tvg-id="" tvg-name="RT" tvg-chno="162" tvg-logo="https://tvabierta.net/rt.png" group-title="🌎 Hispanos",RT
 #EXTGRP:🌎 Hispanos
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 H" tvg-chno="168" tvg-logo="https://tvabierta.net/24h.png" group-title="🌎 Hispanos",24 H
+#EXTINF:-1 tvg-id="" tvg-name="24 H" tvg-chno="163" tvg-logo="https://tvabierta.net/24h.png" group-title="🌎 Hispanos",24 H
 #EXTGRP:🌎 Hispanos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
-#EXTINF:-1 tvg-id="" tvg-name="Estrellatv" tvg-chno="169" tvg-logo="https://tvabierta.net/estrellatv.png" group-title="🌎 Hispanos",Estrellatv
+#EXTINF:-1 tvg-id="" tvg-name="Estrellatv" tvg-chno="164" tvg-logo="https://tvabierta.net/estrellatv.png" group-title="🌎 Hispanos",Estrellatv
 #EXTGRP:🌎 Hispanos
 https://hls.tvabierta.net/hls/estrellatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Estrella News" tvg-chno="170" tvg-logo="https://tvabierta.net/estrellanews.png" group-title="🌎 Hispanos",Estrella News
+#EXTINF:-1 tvg-id="" tvg-name="Estrella News" tvg-chno="165" tvg-logo="https://tvabierta.net/estrellanews.png" group-title="🌎 Hispanos",Estrella News
 #EXTGRP:🌎 Hispanos
 https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bethel TV" tvg-chno="171" tvg-logo="https://tvabierta.net/bethel.png" group-title="🌎 Hispanos",Bethel TV
+#EXTINF:-1 tvg-id="" tvg-name="Bethel TV" tvg-chno="166" tvg-logo="https://tvabierta.net/bethel.png" group-title="🌎 Hispanos",Bethel TV
 #EXTGRP:🌎 Hispanos
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Martinoticias" tvg-chno="172" tvg-logo="https://tvabierta.net/martinoticias.png" group-title="🌎 Hispanos",Martinoticias
+#EXTINF:-1 tvg-id="" tvg-name="Martinoticias" tvg-chno="167" tvg-logo="https://tvabierta.net/martinoticias.png" group-title="🌎 Hispanos",Martinoticias
 #EXTGRP:🌎 Hispanos
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oromar TV" tvg-chno="173" tvg-logo="https://tvabierta.net/oromartv.png" group-title="🌎 Hispanos",Oromar TV
+#EXTINF:-1 tvg-id="" tvg-name="Oromar TV" tvg-chno="168" tvg-logo="https://tvabierta.net/oromartv.png" group-title="🌎 Hispanos",Oromar TV
 #EXTGRP:🌎 Hispanos
 https://play.tvabierta.net/live/0/0/1095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-chno="174" tvg-logo="https://tvabierta.net/enlace.png" group-title="🌎 Hispanos",Enlace
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-chno="169" tvg-logo="https://tvabierta.net/enlace.png" group-title="🌎 Hispanos",Enlace
 #EXTGRP:🌎 Hispanos
 https://hls.tvabierta.net/hls/enlace.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EJTV" tvg-chno="175" tvg-logo="https://tvabierta.net/ejtv.png" group-title="🌎 Hispanos",EJTV
+#EXTINF:-1 tvg-id="" tvg-name="EJTV" tvg-chno="170" tvg-logo="https://tvabierta.net/ejtv.png" group-title="🌎 Hispanos",EJTV
 #EXTGRP:🌎 Hispanos
 https://livecdnusa.enlace.plus/ejtv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Daystar TV ES" tvg-chno="176" tvg-logo="https://tvabierta.net/daystar.png" group-title="🌎 Hispanos",Daystar TV ES
+#EXTINF:-1 tvg-id="" tvg-name="Daystar TV ES" tvg-chno="171" tvg-logo="https://tvabierta.net/daystar.png" group-title="🌎 Hispanos",Daystar TV ES
 #EXTGRP:🌎 Hispanos
 https://live-mcl.cdn01.net/smarttv/64wj6m6d8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-chno="177" tvg-logo="https://tvabierta.net/ewtn.png" group-title="🌎 Hispanos",EWTN
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-chno="172" tvg-logo="https://tvabierta.net/ewtn.png" group-title="🌎 Hispanos",EWTN
 #EXTGRP:🌎 Hispanos
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanald" tvg-chno="178" tvg-logo="https://tvabierta.net/kanald.jpeg" group-title="🌎 Hispanos",Kanald
+#EXTINF:-1 tvg-id="" tvg-name="Kanald" tvg-chno="173" tvg-logo="https://tvabierta.net/kanald.jpeg" group-title="🌎 Hispanos",Kanald
 #EXTGRP:🌎 Hispanos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UCL" tvg-chno="179" tvg-logo="https://tvabierta.net/ucl.png" group-title="🌎 Hispanos",UCL
+#EXTINF:-1 tvg-id="" tvg-name="UCL" tvg-chno="174" tvg-logo="https://tvabierta.net/ucl.png" group-title="🌎 Hispanos",UCL
 #EXTGRP:🌎 Hispanos
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mastalk" tvg-chno="180" tvg-logo="https://tvabierta.net/mastalk.jpeg" group-title="🌎 Hispanos",Mastalk
+#EXTINF:-1 tvg-id="" tvg-name="Mastalk" tvg-chno="175" tvg-logo="https://tvabierta.net/mastalk.jpeg" group-title="🌎 Hispanos",Mastalk
 #EXTGRP:🌎 Hispanos
 https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bendicionchannel" tvg-chno="181" tvg-logo="https://tvabierta.net/bendicionchannel.png" group-title="🌎 Hispanos",Bendicionchannel
+#EXTINF:-1 tvg-id="" tvg-name="Bendicionchannel" tvg-chno="176" tvg-logo="https://tvabierta.net/bendicionchannel.png" group-title="🌎 Hispanos",Bendicionchannel
 #EXTGRP:🌎 Hispanos
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cn 247" tvg-chno="182" tvg-logo="https://tvabierta.net/cn247.jpeg" group-title="🌎 Hispanos",Cn 247
+#EXTINF:-1 tvg-id="" tvg-name="Cn 247" tvg-chno="177" tvg-logo="https://tvabierta.net/cn247.jpeg" group-title="🌎 Hispanos",Cn 247
 #EXTGRP:🌎 Hispanos
 https://play.tvabierta.net/live/0/0/1287.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-chno="183" tvg-logo="https://tvabierta.net/elchavo.png" group-title="🌎 Hispanos",El Chavo
+#EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-chno="178" tvg-logo="https://tvabierta.net/elchavo.png" group-title="🌎 Hispanos",El Chavo
 #EXTGRP:🌎 Hispanos
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8

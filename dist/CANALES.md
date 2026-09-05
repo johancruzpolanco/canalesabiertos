@@ -1,16 +1,16 @@
 # 📺 Canales disponibles
 
-**Total:** 747 canales en 28 categorías  
-**Actualizado:** 2026-09-04 20:15 UTC  
+**Total:** 739 canales en 28 categorías  
+**Actualizado:** 2026-09-05 02:55 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 106 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 101 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
-| 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
+| 📰 Noticias | 25 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 10 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
@@ -21,7 +21,7 @@
 | 🇧🇴 Bolivia | 5 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
 | 🇨🇱 Chile | 16 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 20 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇴 Colombia | 19 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 6 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 5 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 4 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
@@ -32,14 +32,14 @@
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 17 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
-| 🇵🇪 Perú | 12 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
+| 🇵🇪 Perú | 11 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 8 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 | 📺 Otros | 181 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (106 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (101 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -64,11 +64,11 @@
 - Antena 21
 - Multivisión
 - Telefuturo
-- El Nuevo Diario
+- En Televisión
 - Bajo Techo TV
 - Makao TV
 - RNN
-- Zol
+- Cvvision
 - Teleuniverso TV
 - Xtremo Channel
 - Bellavisión
@@ -87,7 +87,6 @@
 - Canal DTV Latino
 - TVO
 - RETV
-- En Televisión
 - Valle Nuevo TV
 - Nexxo TV
 - Teleimpacto
@@ -98,14 +97,12 @@
 - Jimani TV
 - Hilandofino
 - Televida
-- Cvvision
 - Cananga TV
 - OEPM
 - Coco TV
 - Manaclar TV
 - Telesiglo
 - Palmar TV
-- Deultimominuto TV
 - Radioemanuel
 - Extra 86
 - Cntmas
@@ -122,7 +119,6 @@
 - Boreal
 - Senal Digital
 - Pulso Visión
-- LVM
 - Zona Vision
 - Rumba
 - Canaldelsol
@@ -135,7 +131,6 @@
 - JarabacoaTV
 - Adoram
 - Alegretvrd
-- Banivision
 - Bocachica TV
 - Bonao TV
 - Boncheslatinos TV
@@ -184,7 +179,7 @@
 
 </details>
 
-<details><summary><b>📰 Noticias</b> (26 canales)</summary>
+<details><summary><b>📰 Noticias</b> (25 canales)</summary>
 
 - Skynews Au
 - LiveNow
@@ -203,7 +198,6 @@
 - Dwnews
 - Kusa
 - CBS Baltimore
-- NTD
 - FSTV
 - Arirang
 - CNA
@@ -391,7 +385,7 @@
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (20 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (19 canales)</summary>
 
 - Caracol
 - RCN
@@ -401,7 +395,6 @@
 - Canalinstitucional
 - Blu Radio
 - Avivamiento TV
-- ANC Television
 - Canal 8 TV+
 - Canal Cine Dios
 - Canal PyC
@@ -698,13 +691,12 @@
 
 </details>
 
-<details><summary><b>🇵🇪 Perú</b> (12 canales)</summary>
+<details><summary><b>🇵🇪 Perú</b> (11 canales)</summary>
 
 - Willax
 - Latina.pe
 - Panamericana
 - Antares TV
-- Abtv
 - Alpha
 - CANAL M Television
 - DeltaTV

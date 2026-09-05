@@ -1,79 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Skynews Au" tvg-chno="186" tvg-logo="https://tvabierta.net/skynews.png" group-title="📰 Noticias",Skynews Au
+#EXTINF:-1 tvg-id="" tvg-name="Skynews Au" tvg-chno="181" tvg-logo="https://tvabierta.net/skynews.png" group-title="📰 Noticias",Skynews Au
 #EXTGRP:📰 Noticias
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LiveNow" tvg-chno="187" tvg-logo="https://tvabierta.net/livenowfox.jpeg" group-title="📰 Noticias",LiveNow
+#EXTINF:-1 tvg-id="" tvg-name="LiveNow" tvg-chno="182" tvg-logo="https://tvabierta.net/livenowfox.jpeg" group-title="📰 Noticias",LiveNow
 #EXTGRP:📰 Noticias
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OAN News" tvg-chno="188" tvg-logo="https://tvabierta.net/oannews.png" group-title="📰 Noticias",OAN News
+#EXTINF:-1 tvg-id="" tvg-name="OAN News" tvg-chno="183" tvg-logo="https://tvabierta.net/oannews.png" group-title="📰 Noticias",OAN News
 #EXTGRP:📰 Noticias
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Newsmaxtv 2" tvg-chno="189" tvg-logo="https://tvabierta.net/newsmax2.png" group-title="📰 Noticias",Newsmaxtv 2
+#EXTINF:-1 tvg-id="" tvg-name="Newsmaxtv 2" tvg-chno="184" tvg-logo="https://tvabierta.net/newsmax2.png" group-title="📰 Noticias",Newsmaxtv 2
 #EXTGRP:📰 Noticias
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Wion" tvg-chno="190" tvg-logo="https://tvabierta.net/wion.png" group-title="📰 Noticias",Wion
+#EXTINF:-1 tvg-id="" tvg-name="Wion" tvg-chno="185" tvg-logo="https://tvabierta.net/wion.png" group-title="📰 Noticias",Wion
 #EXTGRP:📰 Noticias
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gbn" tvg-chno="191" tvg-logo="https://tvabierta.net/gbn.png" group-title="📰 Noticias",Gbn
+#EXTINF:-1 tvg-id="" tvg-name="Gbn" tvg-chno="186" tvg-logo="https://tvabierta.net/gbn.png" group-title="📰 Noticias",Gbn
 #EXTGRP:📰 Noticias
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trtworld.com" tvg-chno="192" tvg-logo="https://tvabierta.net/trtworld.png" group-title="📰 Noticias",Trtworld.com
+#EXTINF:-1 tvg-id="" tvg-name="Trtworld.com" tvg-chno="187" tvg-logo="https://tvabierta.net/trtworld.png" group-title="📰 Noticias",Trtworld.com
 #EXTGRP:📰 Noticias
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-chno="193" tvg-logo="https://tvabierta.net/africanews.png" group-title="📰 Noticias",Africanews
+#EXTINF:-1 tvg-id="" tvg-name="Africanews" tvg-chno="188" tvg-logo="https://tvabierta.net/africanews.png" group-title="📰 Noticias",Africanews
 #EXTGRP:📰 Noticias
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abcnews" tvg-chno="194" tvg-logo="https://tvabierta.net/wion.png" group-title="📰 Noticias",Abcnews
+#EXTINF:-1 tvg-id="" tvg-name="Abcnews" tvg-chno="189" tvg-logo="https://tvabierta.net/wion.png" group-title="📰 Noticias",Abcnews
 #EXTGRP:📰 Noticias
 https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cnnbr" tvg-chno="195" tvg-logo="https://tvabierta.net/cnnbr.png" group-title="📰 Noticias",Cnnbr
+#EXTINF:-1 tvg-id="" tvg-name="Cnnbr" tvg-chno="190" tvg-logo="https://tvabierta.net/cnnbr.png" group-title="📰 Noticias",Cnnbr
 #EXTGRP:📰 Noticias
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxweather" tvg-chno="196" tvg-logo="https://tvabierta.net/foxweather.png" group-title="📰 Noticias",Foxweather
+#EXTINF:-1 tvg-id="" tvg-name="Foxweather" tvg-chno="191" tvg-logo="https://tvabierta.net/foxweather.png" group-title="📰 Noticias",Foxweather
 #EXTGRP:📰 Noticias
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Weathernation" tvg-chno="197" tvg-logo="https://tvabierta.net/weathernation.png" group-title="📰 Noticias",Weathernation
+#EXTINF:-1 tvg-id="" tvg-name="Weathernation" tvg-chno="192" tvg-logo="https://tvabierta.net/weathernation.png" group-title="📰 Noticias",Weathernation
 #EXTGRP:📰 Noticias
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thefirst" tvg-chno="198" tvg-logo="https://tvabierta.net/thefirst.png" group-title="📰 Noticias",Thefirst
+#EXTINF:-1 tvg-id="" tvg-name="Thefirst" tvg-chno="193" tvg-logo="https://tvabierta.net/thefirst.png" group-title="📰 Noticias",Thefirst
 #EXTGRP:📰 Noticias
 https://thefirst-oando.amagi.tv/hls/amagi_hls_data_thefirstd-thefirst-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice" tvg-chno="199" tvg-logo="https://tvabierta.net/americasvoice.png" group-title="📰 Noticias",Real America's Voice
+#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice" tvg-chno="194" tvg-logo="https://tvabierta.net/americasvoice.png" group-title="📰 Noticias",Real America's Voice
 #EXTGRP:📰 Noticias
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="" tvg-name="Dwnews" tvg-chno="200" tvg-logo="https://tvabierta.net/dw.png" group-title="📰 Noticias",Dwnews
+#EXTINF:-1 tvg-id="" tvg-name="Dwnews" tvg-chno="195" tvg-logo="https://tvabierta.net/dw.png" group-title="📰 Noticias",Dwnews
 #EXTGRP:📰 Noticias
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kusa" tvg-chno="201" tvg-logo="https://tvabierta.net/kusa.png" group-title="📰 Noticias",Kusa
+#EXTINF:-1 tvg-id="" tvg-name="Kusa" tvg-chno="196" tvg-logo="https://tvabierta.net/kusa.png" group-title="📰 Noticias",Kusa
 #EXTGRP:📰 Noticias
 https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CBS Baltimore" tvg-chno="202" tvg-logo="https://tvabierta.net/cbsbaltimore.png" group-title="📰 Noticias",CBS Baltimore
+#EXTINF:-1 tvg-id="" tvg-name="CBS Baltimore" tvg-chno="197" tvg-logo="https://tvabierta.net/cbsbaltimore.png" group-title="📰 Noticias",CBS Baltimore
 #EXTGRP:📰 Noticias
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NTD" tvg-chno="203" tvg-logo="https://tvabierta.net/ntd.png" group-title="📰 Noticias",NTD
-#EXTGRP:📰 Noticias
-https://ntd02.akamaized.net/NTDA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FSTV" tvg-chno="204" tvg-logo="https://tvabierta.net/fstv.png" group-title="📰 Noticias",FSTV
+#EXTINF:-1 tvg-id="" tvg-name="FSTV" tvg-chno="198" tvg-logo="https://tvabierta.net/fstv.png" group-title="📰 Noticias",FSTV
 #EXTGRP:📰 Noticias
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-chno="205" tvg-logo="https://tvabierta.net/arirang.png" group-title="📰 Noticias",Arirang
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-chno="199" tvg-logo="https://tvabierta.net/arirang.png" group-title="📰 Noticias",Arirang
 #EXTGRP:📰 Noticias
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-chno="206" tvg-logo="https://tvabierta.net/cna.png" group-title="📰 Noticias",CNA
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-chno="200" tvg-logo="https://tvabierta.net/cna.png" group-title="📰 Noticias",CNA
 #EXTGRP:📰 Noticias
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Citynews" tvg-chno="207" tvg-logo="https://tvabierta.net/citynews.png" group-title="📰 Noticias",Citynews
+#EXTINF:-1 tvg-id="" tvg-name="Citynews" tvg-chno="201" tvg-logo="https://tvabierta.net/citynews.png" group-title="📰 Noticias",Citynews
 #EXTGRP:📰 Noticias
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="City News Toronto" tvg-chno="208" tvg-logo="https://tvabierta.net/citynews.png" group-title="📰 Noticias",City News Toronto
+#EXTINF:-1 tvg-id="" tvg-name="City News Toronto" tvg-chno="202" tvg-logo="https://tvabierta.net/citynews.png" group-title="📰 Noticias",City News Toronto
 #EXTGRP:📰 Noticias
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Global News BC" tvg-chno="209" tvg-logo="https://tvabierta.net/globalnews.png" group-title="📰 Noticias",Global News BC
+#EXTINF:-1 tvg-id="" tvg-name="Global News BC" tvg-chno="203" tvg-logo="https://tvabierta.net/globalnews.png" group-title="📰 Noticias",Global News BC
 #EXTGRP:📰 Noticias
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxnews" tvg-chno="210" tvg-logo="https://tvabierta.net/foxnews.png" group-title="📰 Noticias",Foxnews
+#EXTINF:-1 tvg-id="" tvg-name="Foxnews" tvg-chno="204" tvg-logo="https://tvabierta.net/foxnews.png" group-title="📰 Noticias",Foxnews
 #EXTGRP:📰 Noticias
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F24 En" tvg-chno="211" tvg-logo="https://tvabierta.net/005.png" group-title="📰 Noticias",F24 En
+#EXTINF:-1 tvg-id="" tvg-name="F24 En" tvg-chno="205" tvg-logo="https://tvabierta.net/005.png" group-title="📰 Noticias",F24 En
 #EXTGRP:📰 Noticias
 https://amg00106-france24-france24-samsungde-39lcm.amagi.tv/playlist/amg00106-france24-france24-samsungde/playlist.m3u8

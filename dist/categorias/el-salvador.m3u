@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Taber TV" tvg-chno="619" tvg-logo="https://tvabierta.net/tabertv.jpeg" group-title="🇸🇻 El Salvador",Taber TV
+#EXTINF:-1 tvg-id="" tvg-name="Taber TV" tvg-chno="612" tvg-logo="https://tvabierta.net/tabertv.jpeg" group-title="🇸🇻 El Salvador",Taber TV
 #EXTGRP:🇸🇻 El Salvador
 https://183.bozztv.com/giatv/giatv-tabertv/tabertv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Megavision 19" tvg-chno="620" tvg-logo="https://tvabierta.net/19sv.png" group-title="🇸🇻 El Salvador",Megavision 19
+#EXTINF:-1 tvg-id="" tvg-name="Megavision 19" tvg-chno="613" tvg-logo="https://tvabierta.net/19sv.png" group-title="🇸🇻 El Salvador",Megavision 19
 #EXTGRP:🇸🇻 El Salvador
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Megavision 21" tvg-chno="621" tvg-logo="https://tvabierta.net/21sv.png" group-title="🇸🇻 El Salvador",Megavision 21
+#EXTINF:-1 tvg-id="" tvg-name="Megavision 21" tvg-chno="614" tvg-logo="https://tvabierta.net/21sv.png" group-title="🇸🇻 El Salvador",Megavision 21
 #EXTGRP:🇸🇻 El Salvador
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ectv" tvg-chno="622" tvg-logo="https://tvabierta.net/ectv.png" group-title="🇸🇻 El Salvador",Ectv
+#EXTINF:-1 tvg-id="" tvg-name="Ectv" tvg-chno="615" tvg-logo="https://tvabierta.net/ectv.png" group-title="🇸🇻 El Salvador",Ectv
 #EXTGRP:🇸🇻 El Salvador
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8

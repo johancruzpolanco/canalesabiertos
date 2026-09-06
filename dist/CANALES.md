@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 742 canales en 28 categorías  
-**Actualizado:** 2026-09-06 10:14 UTC  
+**Total:** 782 canales en 28 categorías  
+**Actualizado:** 2026-09-06 14:54 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -13,7 +13,7 @@
 | 📰 Noticias | 25 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 10 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 21 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
@@ -34,8 +34,8 @@
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 11 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 8 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 180 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 🇻🇪 Venezuela | 12 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
+| 📺 Otros | 213 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -266,7 +266,7 @@
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (10 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (13 canales)</summary>
 
 - Dios Te VE Kids
 - Extrema Kids
@@ -278,6 +278,9 @@
 - Sat
 - Baby Einstein
 - MojiTV
+- 154 | TVG Xabarín
+- 143 | Toon Goggles TV
+- 163 | 13 Kids
 
 </details>
 
@@ -723,7 +726,7 @@
 
 </details>
 
-<details><summary><b>🇻🇪 Venezuela</b> (8 canales)</summary>
+<details><summary><b>🇻🇪 Venezuela</b> (12 canales)</summary>
 
 - VTV
 - Globovision
@@ -733,10 +736,14 @@
 - 21 Tachira
 - Catatumbo TV
 - Canal Once
+- 527 | TV Familia || VENEZUELA
+- 514 | Vepaco TV || VENEZUELA
+- 515 | BTA TV || VENEZUELA
+- 532 | Promar TV || VENEZUELA
 
 </details>
 
-<details><summary><b>📺 Otros</b> (180 canales)</summary>
+<details><summary><b>📺 Otros</b> (213 canales)</summary>
 
 - Cocinafamiliar
 - Lxhome
@@ -877,6 +884,39 @@
 - CBS News Los Angeles
 - CBS News Bay Area
 - CBS News Sacramento
+- 607 | Primer TV || BRASIL
+- 654 | TV Nordestina || BRASIL
+- 577 | TV Max || BRASIL
+- 601 | TV CNB || BRASIL
+- 639 | CNB American || BRASIL
+- 588 | Yeeaah TV || BRASIL
+- 593 | Amazon Sat TV || BRASIL
+- 580 | Com Brasil || BRASIL
+- 557 | Br Global Station || BRASIL
+- 612 | Adesso TV || BRASIL
+- 630 | TV Zoom || BRASIL
+- 640 | TV Amplitude || BRASIL
+- 652 | Rede NGT || BRASIL
+- 614 | VRT Channel || BRASIL
+- 583 | Demais TV || BRASIL
+- 551 | ISTV || BRASIL
+- 587 | TV Alternativa || BRASIL
+- 626 | TV Ondas De Maricá || BRASIL
+- 541 | TVE || BRASIL
+- 631 | TV Conquista || BRASIL
+- 558 | Viva Eduque TV || BRASIL
+- 600 | TVA A Folha || BRASIL
+- 605 | Rede SPTV || BRASIL
+- 615 | TVídeo News || BRASIL
+- 617 | RAE TV || BRASIL
+- 560 | TV Río Preto || BRASIL
+- 581 | TV WTJ Minas || BRASIL
+- 544 | TV Aracati || BRASIL
+- 545 | Rede Mundo TV || BRASIL
+- 555 | Pet Lovers TV || BRASIL
+- 556 | TV Reconcavo || BRASIL
+- 578 | Assime Portugal TV || BRASIL
+- 608 | Hackathon TV || BRASIL
 - Djazz
 - Energytvmusic
 - Classic Arts Showcase

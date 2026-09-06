@@ -416,126 +416,225 @@ https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw__fw_app_bundle=&
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Sacramento" tvg-chno="511" tvg-logo="https://tvabierta.net/cbsnsacramento.png" group-title="📺 Otros",CBS News Sacramento
 #EXTGRP:📺 Otros
 https://amd-mediator-eolq3tk4la-uk.a.run.app/cbs/map.m3u8?imafw_csid=desktop_web&imafw__fw_did=&imafw__fw_is_lat=&imafw__fw_vcid2=&imafw__fw_app_bundle=&imafw__fw_us_privacy=1YNY&attmas=not_determined&am.originUrl=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fevent%2Fe7mp4YVGS7O_e7rqRNjKow%2Fmaster.m3u8&height=1080&ip_addr=181.215.195.227&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Djazz" tvg-chno="670" tvg-logo="https://tvabierta.net/djazz.png" group-title="📺 Otros",Djazz
+#EXTINF:-1 tvg-id="" tvg-name="607 | Primer TV || BRASIL" tvg-chno="576" tvg-logo="https://tvabierta.net/607-primer-tv-brasil.png" group-title="📺 Otros",607 | Primer TV || BRASIL
+#EXTGRP:📺 Otros
+http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="654 | TV Nordestina || BRASIL" tvg-chno="577" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3e049a2ae92c266234e366a9b4ece76.webp" group-title="📺 Otros",654 | TV Nordestina || BRASIL
+#EXTGRP:📺 Otros
+https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="577 | TV Max || BRASIL" tvg-chno="578" tvg-logo="https://tvabierta.net/577-tv-max-brasil.webp" group-title="📺 Otros",577 | TV Max || BRASIL
+#EXTGRP:📺 Otros
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="601 | TV CNB || BRASIL" tvg-chno="579" tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="📺 Otros",601 | TV CNB || BRASIL
+#EXTGRP:📺 Otros
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="639 | CNB American || BRASIL" tvg-chno="580" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjynDkalFFhIMJNBonthDJbly27AVBDV01anRXO-1jqG0qhqXpxiXc5v9E8oAaVjmrzWeIzJlBd1zZmcqNL2oij8Vq7n47S7dc6yFn69WqrVFDd8XIt-172U34uN_QJSOfIwEj4z2etXDiDIJjoWGA6-WPaP2Bd01mi7SedapjC8THfyTDYOzObYzq4=w1200-h630-p-k-no-nu" group-title="📺 Otros",639 | CNB American || BRASIL
+#EXTGRP:📺 Otros
+https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="588 | Yeeaah TV || BRASIL" tvg-chno="581" tvg-logo="https://tvabierta.net/588-yeeaah-tv-brasil.png" group-title="📺 Otros",588 | Yeeaah TV || BRASIL
+#EXTGRP:📺 Otros
+https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="593 | Amazon Sat TV || BRASIL" tvg-chno="582" tvg-logo="https://tvabierta.net/593-amazon-sat-tv-brasil.webp" group-title="📺 Otros",593 | Amazon Sat TV || BRASIL
+#EXTGRP:📺 Otros
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="580 | Com Brasil || BRASIL" tvg-chno="583" tvg-logo="https://tvabierta.net/580-com-brasil-brasil.png" group-title="📺 Otros",580 | Com Brasil || BRASIL
+#EXTGRP:📺 Otros
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="557 | Br Global Station || BRASIL" tvg-chno="584" tvg-logo="https://tvabierta.net/557-br-global-station-brasil.webp" group-title="📺 Otros",557 | Br Global Station || BRASIL
+#EXTGRP:📺 Otros
+http://brglobalstation.duckdns.org:8080/hls/brglobalstation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="612 | Adesso TV || BRASIL" tvg-chno="585" tvg-logo="https://tvabierta.net/612-adesso-tv-brasil.png" group-title="📺 Otros",612 | Adesso TV || BRASIL
+#EXTGRP:📺 Otros
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="630 | TV Zoom || BRASIL" tvg-chno="586" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b9e29405fcb5d0ea24baa173a953c256.webp" group-title="📺 Otros",630 | TV Zoom || BRASIL
+#EXTGRP:📺 Otros
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="640 | TV Amplitude || BRASIL" tvg-chno="587" tvg-logo="https://tvabierta.net/tv-amplitude.png" group-title="📺 Otros",640 | TV Amplitude || BRASIL
+#EXTGRP:📺 Otros
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="652 | Rede NGT || BRASIL" tvg-chno="588" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="📺 Otros",652 | Rede NGT || BRASIL
+#EXTGRP:📺 Otros
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="614 | VRT Channel || BRASIL" tvg-chno="589" tvg-logo="https://tvabierta.net/614-vrt-channel-brasil.webp" group-title="📺 Otros",614 | VRT Channel || BRASIL
+#EXTGRP:📺 Otros
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="583 | Demais TV || BRASIL" tvg-chno="590" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="📺 Otros",583 | Demais TV || BRASIL
+#EXTGRP:📺 Otros
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="551 | ISTV || BRASIL" tvg-chno="591" tvg-logo="https://istv.com.br/static/media/Logo_ISTV_01.f4e9bd182d5e3afaa8ff.png" group-title="📺 Otros",551 | ISTV || BRASIL
+#EXTGRP:📺 Otros
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="587 | TV Alternativa || BRASIL" tvg-chno="592" tvg-logo="https://tvabierta.net/587-tv-alternativa-brasil.png" group-title="📺 Otros",587 | TV Alternativa || BRASIL
+#EXTGRP:📺 Otros
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="626 | TV Ondas De Maricá || BRASIL" tvg-chno="593" tvg-logo="https://tvondasplay.com.br/wp-content/uploads/2022/10/tv_ondas_play_logo-1536x633.png" group-title="📺 Otros",626 | TV Ondas De Maricá || BRASIL
+#EXTGRP:📺 Otros
+https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="541 | TVE || BRASIL" tvg-chno="594" tvg-logo="https://tvabierta.net/541-tve-brasil.jpg" group-title="📺 Otros",541 | TVE || BRASIL
+#EXTGRP:📺 Otros
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="631 | TV Conquista || BRASIL" tvg-chno="595" tvg-logo="https://tvabierta.net/631-tv-conquista-brasil.png" group-title="📺 Otros",631 | TV Conquista || BRASIL
+#EXTGRP:📺 Otros
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="558 | Viva Eduque TV || BRASIL" tvg-chno="596" tvg-logo="https://www.vivaedeixeviver.org.br/images/stories/cursos/viva-eduque.png" group-title="📺 Otros",558 | Viva Eduque TV || BRASIL
+#EXTGRP:📺 Otros
+https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="600 | TVA A Folha || BRASIL" tvg-chno="597" tvg-logo="https://tvabierta.net/600-tva-a-folha-brasil.png" group-title="📺 Otros",600 | TVA A Folha || BRASIL
+#EXTGRP:📺 Otros
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="605 | Rede SPTV || BRASIL" tvg-chno="598" tvg-logo="https://tvabierta.net/605-rede-sptv-brasil.png" group-title="📺 Otros",605 | Rede SPTV || BRASIL
+#EXTGRP:📺 Otros
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="615 | TVídeo News || BRASIL" tvg-chno="599" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtzM69t1Rqpf6csQ1mSQnkCqw3W3Wq95gQ2JoqtYQLm0uk9FDKBIH84fD0Z7TA6rn2cU&usqp=CAU" group-title="📺 Otros",615 | TVídeo News || BRASIL
+#EXTGRP:📺 Otros
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="617 | RAE TV || BRASIL" tvg-chno="600" tvg-logo="https://tvabierta.net/617-rae-tv-brasil.jpg" group-title="📺 Otros",617 | RAE TV || BRASIL
+#EXTGRP:📺 Otros
+https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="560 | TV Río Preto || BRASIL" tvg-chno="601" tvg-logo="https://tvabierta.net/560-tv-rio-preto-brasil.webp" group-title="📺 Otros",560 | TV Río Preto || BRASIL
+#EXTGRP:📺 Otros
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="581 | TV WTJ Minas || BRASIL" tvg-chno="602" tvg-logo="https://www.wtjtvminas.com.br/images/galeria/29032023/o_1gsnce48g16mr1bmk1qcl167f9ps13.jpg" group-title="📺 Otros",581 | TV WTJ Minas || BRASIL
+#EXTGRP:📺 Otros
+https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="544 | TV Aracati || BRASIL" tvg-chno="603" tvg-logo="https://tvabierta.net/544-tv-aracati-brasil.webp" group-title="📺 Otros",544 | TV Aracati || BRASIL
+#EXTGRP:📺 Otros
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="545 | Rede Mundo TV || BRASIL" tvg-chno="604" tvg-logo="https://tvabierta.net/545-rede-mundo-tv-brasil.webp" group-title="📺 Otros",545 | Rede Mundo TV || BRASIL
+#EXTGRP:📺 Otros
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="555 | Pet Lovers TV || BRASIL" tvg-chno="605" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b452dd39e4ab9787fc4c0eb8ba651112.webp" group-title="📺 Otros",555 | Pet Lovers TV || BRASIL
+#EXTGRP:📺 Otros
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="556 | TV Reconcavo || BRASIL" tvg-chno="606" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMruJ1_cIWLY8sVdQ9Aj6TDfa_3aPwiDFJ380d_e6Cg4o7TCWhu-B8nFiTkiCdDqKRZFA&usqp=CAU" group-title="📺 Otros",556 | TV Reconcavo || BRASIL
+#EXTGRP:📺 Otros
+https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="578 | Assime Portugal TV || BRASIL" tvg-chno="607" tvg-logo="https://tvabierta.net/578-assime-portugal-tv-brasil.webp" group-title="📺 Otros",578 | Assime Portugal TV || BRASIL
+#EXTGRP:📺 Otros
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="608 | Hackathon TV || BRASIL" tvg-chno="608" tvg-logo="https://tvabierta.net/608-hackathon-tv-brasil.png" group-title="📺 Otros",608 | Hackathon TV || BRASIL
+#EXTGRP:📺 Otros
+https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Djazz" tvg-chno="706" tvg-logo="https://tvabierta.net/djazz.png" group-title="📺 Otros",Djazz
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Energytvmusic" tvg-chno="671" tvg-logo="https://tvabierta.net/energytvmusic.png" group-title="📺 Otros",Energytvmusic
+#EXTINF:-1 tvg-id="" tvg-name="Energytvmusic" tvg-chno="707" tvg-logo="https://tvabierta.net/energytvmusic.png" group-title="📺 Otros",Energytvmusic
 #EXTGRP:📺 Otros
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-chno="672" tvg-logo="https://tvabierta.net/classicartsshowcase.png" group-title="📺 Otros",Classic Arts Showcase
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-chno="708" tvg-logo="https://tvabierta.net/classicartsshowcase.png" group-title="📺 Otros",Classic Arts Showcase
 #EXTGRP:📺 Otros
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Holiday Hits" tvg-chno="673" tvg-logo="https://tvabierta.net/stingraygreatesthits.png" group-title="📺 Otros",Stingray Greatest Holiday Hits
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Holiday Hits" tvg-chno="709" tvg-logo="https://tvabierta.net/stingraygreatesthits.png" group-title="📺 Otros",Stingray Greatest Holiday Hits
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992457&ads.xumo_streamId=99992457&ads.channelId=99992457&ads.ad_tag_id=15713&ads.csid=lgchannels_es_stingraygreatesthits_ssai&ads.channelName=stingraygreatesthits_es&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_contentId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_providerId=1857&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="674" tvg-logo="https://tvabierta.net/stingrayhitlist.png" group-title="📺 Otros",Stingray Hit List
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="710" tvg-logo="https://tvabierta.net/stingrayhitlist.png" group-title="📺 Otros",Stingray Hit List
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992456&ads.xumo_streamId=99992456&ads.channelId=99992456&ads.ad_tag_id=15712&ads.csid=lgchannels_es_stingrayhitlist_ssai&ads.channelName=stingrayhitlist_it&ads.xumo_contentName=StingrayHitlist&ads.xumo_contentId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_providerId=1858&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="675" tvg-logo="https://tvabierta.net/stingrayrememberthe80s.png" group-title="📺 Otros",Stingray Remember The 80s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="711" tvg-logo="https://tvabierta.net/stingrayrememberthe80s.png" group-title="📺 Otros",Stingray Remember The 80s
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992461&ads.xumo_streamId=99992461&ads.channelId=99992461&ads.ad_tag_id=15707&ads.csid=lgchannels_es_stingrayeverything80s_ssai&ads.channelName=stingrayeverything80s_mx&ads.xumo_contentName=StingrayEverything80s&ads.xumo_contentId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_providerId=2184&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="676" tvg-logo="https://tvabierta.net/stingrayclassicrock.png" group-title="📺 Otros",Stingray Classic Rock
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="712" tvg-logo="https://tvabierta.net/stingrayclassicrock.png" group-title="📺 Otros",Stingray Classic Rock
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992459&ads.xumo_streamId=99992459&ads.channelId=99992459&ads.ad_tag_id=15723&ads.csid=lgchannels_es_stingrayclassicrock_ssai&ads.channelName=stingrayclassicrock_es&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.xumo_providerName=StingrayClassicRock&ads.xumo_providerId=1856&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="677" tvg-logo="https://tvabierta.net/stingraypopadult.png" group-title="📺 Otros",Stingray Pop Adult
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="713" tvg-logo="https://tvabierta.net/stingraypopadult.png" group-title="📺 Otros",Stingray Pop Adult
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992453&ads.xumo_streamId=99992453&ads.channelId=99992453&ads.ad_tag_id=15716&ads.csid=lgchannels_es_stingraypopadult_ssai&ads.channelName=stingraypopadult_it&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.xumo_providerName=StingrayPopAdult&ads.xumo_providerId=3197&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hip Hop" tvg-chno="678" tvg-logo="https://tvabierta.net/stingrayhiphop.png" group-title="📺 Otros",Stingray Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hip Hop" tvg-chno="714" tvg-logo="https://tvabierta.net/stingrayhiphop.png" group-title="📺 Otros",Stingray Hip Hop
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992454&ads.xumo_streamId=99992454&ads.channelId=99992454&ads.ad_tag_id=15715&ads.csid=lgchannels_es_stingrayhiphop_ssai&ads.channelName=stingrayhiphop_it&ads.xumo_contentName=StingrayHipHop&ads.xumo_contentId=3195&ads.xumo_providerName=StingrayHipHop&ads.xumo_providerId=3195&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="679" tvg-logo="https://tvabierta.net/stingraykaraoke.png" group-title="📺 Otros",Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="715" tvg-logo="https://tvabierta.net/stingraykaraoke.png" group-title="📺 Otros",Stingray Karaoke
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992079&ads.xumo_streamId=99992079&ads.channelId=99992079&ads.ad_tag_id=15718&ads.csid=lgchannels_es_stingraykaraokeeu_ssai&ads.channelName=stingraykaraokeeu_es&ads.xumo_contentName=StingrayKaraokeEU&ads.xumo_contentId=3199&ads.xumo_providerName=StingrayKaraokeEU&ads.xumo_providerId=3199&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm" tvg-chno="680" tvg-logo="https://tvabierta.net/stingraysoulstorm.png" group-title="📺 Otros",Stingray Soul Storm
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm" tvg-chno="716" tvg-logo="https://tvabierta.net/stingraysoulstorm.png" group-title="📺 Otros",Stingray Soul Storm
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992460&ads.xumo_streamId=99992460&ads.channelId=99992460&ads.ad_tag_id=15710&ads.csid=lgchannels_es_stingraysoulstorm_ssai&ads.channelName=stingraysoulstorm_it&ads.xumo_contentName=StingraySoulStorm&ads.xumo_contentId=1860&ads.xumo_providerName=StingraySoulStorm&ads.xumo_providerId=1860&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country" tvg-chno="681" tvg-logo="https://tvabierta.net/stingrayhotcountry.png" group-title="📺 Otros",Stingray Hot Country
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country" tvg-chno="717" tvg-logo="https://tvabierta.net/stingrayhotcountry.png" group-title="📺 Otros",Stingray Hot Country
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992458&ads.xumo_streamId=99992458&ads.channelId=99992458&ads.ad_tag_id=15711&ads.csid=lgchannels_es_stingrayhotcountry_ssai&ads.channelName=stingrayhotcountry_it&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.xumo_providerName=StingrayHotCountry&ads.xumo_providerId=1859&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Qello Concerts By Stingray" tvg-chno="682" tvg-logo="https://tvabierta.net/stingrayquelloconcerts.png" group-title="📺 Otros",Qello Concerts By Stingray
+#EXTINF:-1 tvg-id="" tvg-name="Qello Concerts By Stingray" tvg-chno="718" tvg-logo="https://tvabierta.net/stingrayquelloconcerts.png" group-title="📺 Otros",Qello Concerts By Stingray
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075&ads.xumo_streamId=99992075&ads.channelId=99992075&ads.ad_tag_id=15708&ads.csid=lgchannels_es_stingrayqelloeu_ssai&ads.channelName=stingrayqelloeu_es&ads.xumo_contentName=StingrayQelloEU&ads.xumo_contentId=3478&ads.xumo_providerName=StingrayQelloEU&ads.xumo_providerId=3478&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Now Rock" tvg-chno="683" tvg-logo="https://tvabierta.net/nowrock.png" group-title="📺 Otros",Now Rock
+#EXTINF:-1 tvg-id="" tvg-name="Now Rock" tvg-chno="719" tvg-logo="https://tvabierta.net/nowrock.png" group-title="📺 Otros",Now Rock
 #EXTGRP:📺 Otros
 https://amg01076-lightning-amg01076c3-lg-es-10364.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-nowrock-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Now90s00s" tvg-chno="684" tvg-logo="https://tvabierta.net/now90s.png" group-title="📺 Otros",Now90s00s
+#EXTINF:-1 tvg-id="" tvg-name="Now90s00s" tvg-chno="720" tvg-logo="https://tvabierta.net/now90s.png" group-title="📺 Otros",Now90s00s
 #EXTGRP:📺 Otros
 https://amg01076-amg01076c19-lg-es-10331.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-id="" tvg-name="974 Qwest TV" tvg-chno="685" tvg-logo="" group-title="📺 Otros",974 Qwest TV
+#EXTINF:-1 tvg-id="" tvg-name="974 Qwest TV" tvg-chno="721" tvg-logo="" group-title="📺 Otros",974 Qwest TV
 #EXTGRP:📺 Otros
 https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="979 SOL MÚSICA" tvg-chno="686" tvg-logo="https://tvabierta.net/solmusica.png" group-title="📺 Otros",979 SOL MÚSICA
+#EXTINF:-1 tvg-id="" tvg-name="979 SOL MÚSICA" tvg-chno="722" tvg-logo="https://tvabierta.net/solmusica.png" group-title="📺 Otros",979 SOL MÚSICA
 #EXTGRP:📺 Otros
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12865&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Del Momento" tvg-chno="687" tvg-logo="https://tvabierta.net/todayslatinpop.png" group-title="📺 Otros",Stingray Exitos Del Momento
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Del Momento" tvg-chno="723" tvg-logo="https://tvabierta.net/todayslatinpop.png" group-title="📺 Otros",Stingray Exitos Del Momento
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992455&ads.xumo_streamId=99992455&ads.channelId=99992455&ads.ad_tag_id=15714&ads.csid=lgchannels_es_stingraylatinpop_ssai&ads.channelName=stingraylatinpop_it&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.xumo_providerName=StingrayExitosdelMomento&ads.xumo_providerId=3196&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="@k-music" tvg-chno="688" tvg-logo="https://tvabierta.net/kmusic.png" group-title="📺 Otros",@k-music
+#EXTINF:-1 tvg-id="" tvg-name="@k-music" tvg-chno="724" tvg-logo="https://tvabierta.net/kmusic.png" group-title="📺 Otros",@k-music
 #EXTGRP:📺 Otros
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=%40k-music&channel_id=newid_040&mpf=aad3b8c2-39af1962-c7dcb782&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=bae6e858-318865f3-1c09cb62-46f8ff5f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="689" tvg-logo="" group-title="📺 Otros",Stingray Remember The 80s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="725" tvg-logo="" group-title="📺 Otros",Stingray Remember The 80s
 #EXTGRP:📺 Otros
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-chno="690" tvg-logo="https://tvabierta.net/fashiontv.png" group-title="📺 Otros",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-chno="726" tvg-logo="https://tvabierta.net/fashiontv.png" group-title="📺 Otros",Fashion TV
 #EXTGRP:📺 Otros
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tarima" tvg-chno="691" tvg-logo="https://tvabierta.net/tarima.png" group-title="📺 Otros",Tarima
+#EXTINF:-1 tvg-id="" tvg-name="Tarima" tvg-chno="727" tvg-logo="https://tvabierta.net/tarima.png" group-title="📺 Otros",Tarima
 #EXTGRP:📺 Otros
 https://fedora.b-cdn.net//LiveApp/streams/tarima.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-chno="692" tvg-logo="https://tvabierta.net/vevo-80s.jpg" group-title="📺 Otros",Vevo '80s
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-chno="728" tvg-logo="https://tvabierta.net/vevo-80s.jpg" group-title="📺 Otros",Vevo '80s
 #EXTGRP:📺 Otros
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-chno="693" tvg-logo="https://tvabierta.net/vevo-90s.jpg" group-title="📺 Otros",Vevo '90s
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-chno="729" tvg-logo="https://tvabierta.net/vevo-90s.jpg" group-title="📺 Otros",Vevo '90s
 #EXTGRP:📺 Otros
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
-#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-chno="694" tvg-logo="https://tvabierta.net/vevo-2k.jpg" group-title="📺 Otros",Vevo 2K
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-chno="730" tvg-logo="https://tvabierta.net/vevo-2k.jpg" group-title="📺 Otros",Vevo 2K
 #EXTGRP:📺 Otros
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-chno="695" tvg-logo="https://tvabierta.net/vevo-pop.png" group-title="📺 Otros",Vevo Pop
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-chno="731" tvg-logo="https://tvabierta.net/vevo-pop.png" group-title="📺 Otros",Vevo Pop
 #EXTGRP:📺 Otros
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classica" tvg-chno="696" tvg-logo="https://tvabierta.net/stingray-classica.png" group-title="📺 Otros",Stingray Classica
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classica" tvg-chno="732" tvg-logo="https://tvabierta.net/stingray-classica.png" group-title="📺 Otros",Stingray Classica
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="697" tvg-logo="https://tvabierta.net/stingray-karaoke.png" group-title="📺 Otros",Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="733" tvg-logo="https://tvabierta.net/stingray-karaoke.png" group-title="📺 Otros",Stingray Karaoke
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="698" tvg-logo="https://tvabierta.net/stingray-classic-rock.png" group-title="📺 Otros",Stingray Classic Rock
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="734" tvg-logo="https://tvabierta.net/stingray-classic-rock.png" group-title="📺 Otros",Stingray Classic Rock
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Rock Alternative" tvg-chno="699" tvg-logo="https://tvabierta.net/stingray-rock-alternative.png" group-title="📺 Otros",Stingray Rock Alternative
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Rock Alternative" tvg-chno="735" tvg-logo="https://tvabierta.net/stingray-rock-alternative.png" group-title="📺 Otros",Stingray Rock Alternative
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="700" tvg-logo="https://tvabierta.net/stingray-pop-adult.png" group-title="📺 Otros",Stingray Pop Adult
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="736" tvg-logo="https://tvabierta.net/stingray-pop-adult.png" group-title="📺 Otros",Stingray Pop Adult
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="701" tvg-logo="https://tvabierta.net/stingray-hit-list.png" group-title="📺 Otros",Stingray Hit List
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="737" tvg-logo="https://tvabierta.net/stingray-hit-list.png" group-title="📺 Otros",Stingray Hit List
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s" tvg-chno="702" tvg-logo="https://tvabierta.net/stingray-flashback-70s.png" group-title="📺 Otros",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s" tvg-chno="738" tvg-logo="https://tvabierta.net/stingray-flashback-70s.png" group-title="📺 Otros",Stingray Flashback 70s
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray The Spa" tvg-chno="703" tvg-logo="https://tvabierta.net/stingray-the-spa.png" group-title="📺 Otros",Stingray The Spa
+#EXTINF:-1 tvg-id="" tvg-name="Stingray The Spa" tvg-chno="739" tvg-logo="https://tvabierta.net/stingray-the-spa.png" group-title="📺 Otros",Stingray The Spa
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="704" tvg-logo="https://tvabierta.net/stingray-remember-the-80s.png" group-title="📺 Otros",Stingray Remember The 80s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="740" tvg-logo="https://tvabierta.net/stingray-remember-the-80s.png" group-title="📺 Otros",Stingray Remember The 80s
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Easy Listening" tvg-chno="705" tvg-logo="https://tvabierta.net/stingray-easy-listening.png" group-title="📺 Otros",Stingray Easy Listening
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Easy Listening" tvg-chno="741" tvg-logo="https://tvabierta.net/stingray-easy-listening.png" group-title="📺 Otros",Stingray Easy Listening
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Smooth Jazz" tvg-chno="706" tvg-logo="https://tvabierta.net/stingray-smooth-jazz.png" group-title="📺 Otros",Stingray Smooth Jazz
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Smooth Jazz" tvg-chno="742" tvg-logo="https://tvabierta.net/stingray-smooth-jazz.png" group-title="📺 Otros",Stingray Smooth Jazz
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Nothin' But 90s" tvg-chno="707" tvg-logo="https://tvabierta.net/stingray-nothin-but-90s.png" group-title="📺 Otros",Stingray Nothin' But 90s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Nothin' But 90s" tvg-chno="743" tvg-logo="https://tvabierta.net/stingray-nothin-but-90s.png" group-title="📺 Otros",Stingray Nothin' But 90s
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-chno="708" tvg-logo="https://tvabierta.net/stingray-holiday-hits.png" group-title="📺 Otros",Stingray Holiday Hits
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-chno="744" tvg-logo="https://tvabierta.net/stingray-holiday-hits.png" group-title="📺 Otros",Stingray Holiday Hits
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's Latin Pop" tvg-chno="709" tvg-logo="https://tvabierta.net/stingray-today-s-latin-pop.png" group-title="📺 Otros",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's Latin Pop" tvg-chno="745" tvg-logo="https://tvabierta.net/stingray-today-s-latin-pop.png" group-title="📺 Otros",Stingray Today's Latin Pop
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's KPOP" tvg-chno="710" tvg-logo="https://tvabierta.net/stingray-today-s-kpop.png" group-title="📺 Otros",Stingray Today's KPOP
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's KPOP" tvg-chno="746" tvg-logo="https://tvabierta.net/stingray-today-s-kpop.png" group-title="📺 Otros",Stingray Today's KPOP
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8

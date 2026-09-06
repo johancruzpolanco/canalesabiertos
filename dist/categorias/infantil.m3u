@@ -29,3 +29,12 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999213
 #EXTINF:-1 tvg-id="" tvg-name="MojiTV" tvg-chno="544" tvg-logo="https://tvabierta.net/mojitv.png" group-title="🧒 Infantil",MojiTV
 #EXTGRP:🧒 Infantil
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452&ads.xumo_streamId=99992452&ads.channelId=99992452&ads.csid=lgchannels_es_odmediamexico_ssai&ads.channelName=lospitufos_es&ads.xumo_contentName=ODMediaMexico&ads.xumo_contentId=3194&ads.xumo_providerName=ODMediaMexico&ads.xumo_providerId=3194&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="" tvg-name="154 | TVG Xabarín" tvg-chno="545" tvg-logo="https://tvabierta.net/154-tvg-xabarin.png" group-title="🧒 Infantil",154 | TVG Xabarín
+#EXTGRP:🧒 Infantil
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="143 | Toon Goggles TV" tvg-chno="546" tvg-logo="https://tvabierta.net/toon-goggles.png" group-title="🧒 Infantil",143 | Toon Goggles TV
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/42e79213-cc6b-4f3d-b0f9-216772339631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="163 | 13 Kids" tvg-chno="547" tvg-logo="https://tvabierta.net/163-13-kids.svg" group-title="🧒 Infantil",163 | 13 Kids
+#EXTGRP:🧒 Infantil
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8

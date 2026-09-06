@@ -1,8 +1,8 @@
 {
-  "generado": "2026-09-06 02:54 UTC",
+  "generado": "2026-09-06 10:14 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 742,
-  "hash": "6184fd2dedbc9b0e7562e6eeb5b2dbf3951483aa33e3f398b37fcea07ecfe3d4",
+  "hash": "04b1780d59b6cbc2cf632f95a1c54281d18e3417c62961c6c793fb610347ebd4",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -26,7 +26,7 @@
     },
     {
       "nombre": "🎬 Películas y Series",
-      "canales": 12,
+      "canales": 13,
       "archivo": "categorias/peliculas-y-series.m3u"
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "nombre": "📺 Otros",
-      "canales": 181,
+      "canales": 180,
       "archivo": "categorias/otros.m3u"
     }
   ],
@@ -1395,16 +1395,16 @@
       "slug": "univision-chicago"
     },
     {
-      "id": "t31-orlando-768dd191",
+      "id": "t31-768dd191",
       "numero": 153,
-      "nombre": "T31 Orlando",
+      "nombre": "T 31",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
       "logo": "https://tvabierta.net/t31.png",
       "url": "https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8",
       "tvg_id": "",
-      "slug": "t31-orlando"
+      "slug": "t-31"
     },
     {
       "id": "telemundo-pr-ac1738b5",
@@ -1431,16 +1431,16 @@
       "slug": "telemundo-noreste"
     },
     {
-      "id": "noticias-ahora-5f16839e",
+      "id": "noticiasahora-76f07271",
       "numero": 156,
-      "nombre": "Noticias Ahora",
+      "nombre": "Noticiasahora",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
       "logo": "https://tvabierta.net/t.png",
-      "url": "https://yt.tvabierta.net/UCRwA1NUcUnwsly35ikGhp0A.m3u8",
+      "url": "https://hls.tvabierta.net/hls/noticiasahorahd.m3u8",
       "tvg_id": "",
-      "slug": "noticias-ahora"
+      "slug": "noticiasahora"
     },
     {
       "id": "americateve-fba0ec05",
@@ -2437,6 +2437,18 @@
       "url": "https://cnn.hostlagarto.com/orbittv/index.m3u8",
       "tvg_id": "",
       "slug": "orbit-tv"
+    },
+    {
+      "id": "imagenuniversaltv-e3198a32",
+      "numero": 109,
+      "nombre": "Imagenuniversal TV",
+      "categoria": "🎬 Películas y Series",
+      "categoria_codigo": "PELICULAS",
+      "categoria_orden": 50,
+      "logo": "https://tvabierta.net/iutv.png",
+      "url": "https://imagenuniversaltv.net:3771/hybrid/play.m3u8",
+      "tvg_id": "",
+      "slug": "imagenuniversal-tv"
     },
     {
       "id": "cascaratv-a99a58d3",
@@ -6877,18 +6889,6 @@
       "url": "https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8",
       "tvg_id": "",
       "slug": "canal-once"
-    },
-    {
-      "id": "imagenuniversaltv-e3198a32",
-      "numero": 109,
-      "nombre": "Imagenuniversal TV",
-      "categoria": "📺 Otros",
-      "categoria_codigo": "OTROS",
-      "categoria_orden": 900,
-      "logo": "https://tvabierta.net/iutv.png",
-      "url": "https://imagenuniversaltv.net:3771/hybrid/play.m3u8",
-      "tvg_id": "",
-      "slug": "imagenuniversal-tv"
     },
     {
       "id": "cocinafamiliar-e5e7c54f",

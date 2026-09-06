@@ -5,6 +5,9 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="108" tvg-logo="https://tvabierta.net/orbit.png" group-title="🎬 Películas y Series",Orbit TV
 #EXTGRP:🎬 Películas y Series
 https://cnn.hostlagarto.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="109" tvg-logo="https://tvabierta.net/iutv.png" group-title="🎬 Películas y Series",Imagenuniversal TV
+#EXTGRP:🎬 Películas y Series
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="110" tvg-logo="https://tvabierta.net/cascaratv.png" group-title="🎬 Películas y Series",Cascara TV
 #EXTGRP:🎬 Películas y Series
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8

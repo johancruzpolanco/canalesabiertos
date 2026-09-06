@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
 **Total:** 742 canales en 28 categorías  
-**Actualizado:** 2026-09-06 02:54 UTC  
+**Actualizado:** 2026-09-06 10:14 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -12,7 +12,7 @@
 | 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 25 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
-| 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
+| 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 10 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 11 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 8 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 181 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 180 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -150,10 +150,10 @@
 
 - U 41
 - Univision Chicago
-- T31 Orlando
+- T 31
 - Telemundo PR
 - Telemundo Noreste
-- Noticias Ahora
+- Noticiasahora
 - Americateve
 - France24 ES
 - CNN en Español
@@ -248,10 +248,11 @@
 
 </details>
 
-<details><summary><b>🎬 Películas y Series</b> (12 canales)</summary>
+<details><summary><b>🎬 Películas y Series</b> (13 canales)</summary>
 
 - Ametv
 - Orbit TV
+- Imagenuniversal TV
 - Cascara TV
 - WTV
 - Runtime Series
@@ -735,9 +736,8 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (181 canales)</summary>
+<details><summary><b>📺 Otros</b> (180 canales)</summary>
 
-- Imagenuniversal TV
 - Cocinafamiliar
 - Lxhome
 - Local Now NYC

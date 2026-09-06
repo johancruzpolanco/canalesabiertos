@@ -311,7 +311,7 @@ https://ds.tvabierta.net/memfs/53adff2c-9efb-4138-be19-f7c67e073e0f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Univision Chicago" tvg-chno="152" tvg-logo="https://tvabierta.net/u.png" group-title="🌎 Hispanos",Univision Chicago
 #EXTGRP:🌎 Hispanos
 https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T31 Orlando" tvg-chno="153" tvg-logo="https://tvabierta.net/t31.png" group-title="🌎 Hispanos",T31 Orlando
+#EXTINF:-1 tvg-id="" tvg-name="T 31" tvg-chno="153" tvg-logo="https://tvabierta.net/t31.png" group-title="🌎 Hispanos",T 31
 #EXTGRP:🌎 Hispanos
 https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/adcee832-5511-4ed1-bcef-58616c0f530f/4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo PR" tvg-chno="154" tvg-logo="https://tvabierta.net/tpr.png" group-title="🌎 Hispanos",Telemundo PR
@@ -320,9 +320,9 @@ https://ds.tvabierta.net/memfs/9e44e8e0-2162-4ad5-843c-9175a5edf483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Noreste" tvg-chno="155" tvg-logo="https://tvabierta.net/t.png" group-title="🌎 Hispanos",Telemundo Noreste
 #EXTGRP:🌎 Hispanos
 https://ds.tvabierta.net/memfs/f423e722-97de-4156-b272-adf472b82f00.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Noticias Ahora" tvg-chno="156" tvg-logo="https://tvabierta.net/t.png" group-title="🌎 Hispanos",Noticias Ahora
+#EXTINF:-1 tvg-id="" tvg-name="Noticiasahora" tvg-chno="156" tvg-logo="https://tvabierta.net/t.png" group-title="🌎 Hispanos",Noticiasahora
 #EXTGRP:🌎 Hispanos
-https://yt.tvabierta.net/UCRwA1NUcUnwsly35ikGhp0A.m3u8
+https://hls.tvabierta.net/hls/noticiasahorahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Americateve" tvg-chno="157" tvg-logo="https://tvabierta.net/americateve.png" group-title="🌎 Hispanos",Americateve
 #EXTGRP:🌎 Hispanos
 https://live.gideo.video/americateve2/master.m3u8
@@ -572,6 +572,9 @@ https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="108" tvg-logo="https://tvabierta.net/orbit.png" group-title="🎬 Películas y Series",Orbit TV
 #EXTGRP:🎬 Películas y Series
 https://cnn.hostlagarto.com/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="109" tvg-logo="https://tvabierta.net/iutv.png" group-title="🎬 Películas y Series",Imagenuniversal TV
+#EXTGRP:🎬 Películas y Series
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="110" tvg-logo="https://tvabierta.net/cascaratv.png" group-title="🎬 Películas y Series",Cascara TV
 #EXTGRP:🎬 Películas y Series
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
@@ -1682,9 +1685,6 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="728" tvg-logo="https://tvabierta.net/canalonce.png" group-title="🇻🇪 Venezuela",Canal Once
 #EXTGRP:🇻🇪 Venezuela
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="109" tvg-logo="https://tvabierta.net/iutv.png" group-title="📺 Otros",Imagenuniversal TV
-#EXTGRP:📺 Otros
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cocinafamiliar" tvg-chno="182" tvg-logo="https://tvabierta.net/cocinafamiliar.png" group-title="📺 Otros",Cocinafamiliar
 #EXTGRP:📺 Otros
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108

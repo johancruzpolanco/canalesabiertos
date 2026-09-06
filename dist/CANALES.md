@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
 **Total:** 742 canales en 28 categorías  
-**Actualizado:** 2026-09-05 19:55 UTC  
+**Actualizado:** 2026-09-06 02:54 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría

@@ -41,7 +41,7 @@ https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BeIN Sports XTRA" tvg-chno="133" tvg-logo="https://tvabierta.net/bein-sports-xtra.png" group-title="⚽ Deportes",BeIN Sports XTRA
 #EXTGRP:⚽ Deportes
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Grappling Network⚕️" tvg-chno="134" tvg-logo="https://iptv-org.github.io/iptv/logos/TheGrapplingNetwork.us.png" group-title="⚽ Deportes",The Grappling Network⚕️
+#EXTINF:-1 tvg-id="" tvg-name="Tgn" tvg-chno="134" tvg-logo="https://tvabierta.net/tgn.png" group-title="⚽ Deportes",Tgn
 #EXTGRP:⚽ Deportes
 https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FITE 24/7" tvg-chno="135" tvg-logo="https://tvabierta.net/fite-24-7.png" group-title="⚽ Deportes",FITE 24/7

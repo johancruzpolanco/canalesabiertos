@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 783 canales en 28 categorías  
-**Actualizado:** 2026-09-08 15:58 UTC  
+**Total:** 785 canales en 28 categorías  
+**Actualizado:** 2026-09-08 20:42 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -10,7 +10,7 @@
 |---|---:|---|
 | 🇩🇴 República Dominicana | 102 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
-| 📰 Noticias | 25 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
+| 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
@@ -155,13 +155,13 @@
 - Telemundo Noreste
 - Noticiasahora
 - Americateve
-- France24 ES
+- F 24 E
 - CNN en Español
 - Ntn 24
-- DW ES
+- Dwe
 - Euronews
 - Telesur
-- RT
+- Rte
 - 24 H
 - Estrellatv
 - Estrella News
@@ -170,7 +170,7 @@
 - Oromar TV
 - Enlace
 - EJTV
-- Daystar TV ES
+- Daystar
 - EWTN
 - Kanald
 - UCL
@@ -182,8 +182,9 @@
 
 </details>
 
-<details><summary><b>📰 Noticias</b> (25 canales)</summary>
+<details><summary><b>📰 Noticias</b> (27 canales)</summary>
 
+- Skynews
 - Skynews Au
 - LiveNow
 - OAN News
@@ -209,6 +210,7 @@
 - Global News BC
 - Foxnews
 - F24 En
+- Reuters
 
 </details>
 
@@ -228,7 +230,7 @@
 - Fuel TV
 - Team USA
 - BeIN Sports XTRA
-- The Grappling Network⚕️
+- Tgn
 - FITE 24/7
 - Extreme+
 - Adventure Sports TV
@@ -314,7 +316,7 @@
 
 <details><summary><b>📈 Trading y Finanzas</b> (4 canales)</summary>
 
-- Bloomberg Originals
+- Bloomberg
 - Negocios
 - Finance.yahoo
 - Bbcnews
@@ -736,10 +738,10 @@
 - 21 Tachira
 - Catatumbo TV
 - Canal Once
-- 527 | TV Familia || VENEZUELA
-- 514 | Vepaco TV || VENEZUELA
-- 515 | BTA TV || VENEZUELA
-- 532 | Promar TV || VENEZUELA
+- 527 | TV Familia
+- 514 | Vepaco TV
+- 515 | BTA TV
+- 532 | Promar TV
 
 </details>
 
@@ -884,39 +886,39 @@
 - CBS News Los Angeles
 - CBS News Bay Area
 - CBS News Sacramento
-- 607 | Primer TV || BRASIL
-- 654 | TV Nordestina || BRASIL
-- 577 | TV Max || BRASIL
-- 601 | TV CNB || BRASIL
-- 639 | CNB American || BRASIL
-- 588 | Yeeaah TV || BRASIL
-- 593 | Amazon Sat TV || BRASIL
-- 580 | Com Brasil || BRASIL
-- 557 | Br Global Station || BRASIL
-- 612 | Adesso TV || BRASIL
-- 630 | TV Zoom || BRASIL
-- 640 | TV Amplitude || BRASIL
-- 652 | Rede NGT || BRASIL
-- 614 | VRT Channel || BRASIL
-- 583 | Demais TV || BRASIL
-- 551 | ISTV || BRASIL
-- 587 | TV Alternativa || BRASIL
-- 626 | TV Ondas De Maricá || BRASIL
-- 541 | TVE || BRASIL
-- 631 | TV Conquista || BRASIL
-- 558 | Viva Eduque TV || BRASIL
-- 600 | TVA A Folha || BRASIL
-- 605 | Rede SPTV || BRASIL
-- 615 | TVídeo News || BRASIL
-- 617 | RAE TV || BRASIL
-- 560 | TV Río Preto || BRASIL
-- 581 | TV WTJ Minas || BRASIL
-- 544 | TV Aracati || BRASIL
-- 545 | Rede Mundo TV || BRASIL
-- 555 | Pet Lovers TV || BRASIL
-- 556 | TV Reconcavo || BRASIL
-- 578 | Assime Portugal TV || BRASIL
-- 608 | Hackathon TV || BRASIL
+- 607 | Primer TV
+- 654 | TV Nordestina
+- 577 | TV Max
+- 601 | TV CNB
+- 639 | CNB American
+- 588 | Yeeaah TV
+- 593 | Amazon Sat TV
+- 580 | Com Brasil
+- 557 | Br Global Station
+- 612 | Adesso TV
+- 630 | TV Zoom
+- 640 | TV Amplitude
+- 652 | Rede NGT
+- 614 | VRT Channel
+- 583 | Demais TV
+- 551 | ISTV
+- 587 | TV Alternativa
+- 626 | TV Ondas De Maricá
+- 541 | TVE
+- 631 | TV Conquista
+- 558 | Viva Eduque TV
+- 600 | TVA A Folha
+- 605 | Rede SPTV
+- 615 | TVídeo News
+- 617 | RAE TV
+- 560 | TV Río Preto
+- 581 | TV WTJ Minas
+- 544 | TV Aracati
+- 545 | Rede Mundo TV
+- 555 | Pet Lovers TV
+- 556 | TV Reconcavo
+- 578 | Assime Portugal TV
+- 608 | Hackathon TV
 - Djazz
 - Energytvmusic
 - Classic Arts Showcase

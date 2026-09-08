@@ -236,7 +236,7 @@ https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pulso Visión" tvg-chno="79" tvg-logo="https://tvabierta.net/pulsovision.png" group-title="🇩🇴 República Dominicana",Pulso Visión
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zona Vision" tvg-chno="80" tvg-logo="https://tvabierta.net/zonavision.jpg" group-title="🇩🇴 República Dominicana",Zona Vision
+#EXTINF:-1 tvg-id="" tvg-name="Zona Vision" tvg-chno="80" tvg-logo="https://tvabierta.net/zonavision.jpeg" group-title="🇩🇴 República Dominicana",Zona Vision
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="81" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba

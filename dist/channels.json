@@ -1,8 +1,8 @@
 {
-  "generado": "2026-09-07 21:06 UTC",
+  "generado": "2026-09-08 03:01 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
-  "total": 782,
-  "hash": "ab58cd1acd64a57f4cc60a7039cd461646a80dd20a938033773f61e7a332da1e",
+  "total": 783,
+  "hash": "53bb75c48f5b05229c8ea3dc925be8e1e686ca729c8f2c4a6d79cbb73ab2e77e",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -141,7 +141,7 @@
     },
     {
       "nombre": "📺 Otros",
-      "canales": 213,
+      "canales": 214,
       "archivo": "categorias/otros.m3u"
     }
   ],
@@ -3760,7 +3760,7 @@
     },
     {
       "id": "calitv-0821e076",
-      "numero": 749,
+      "numero": 750,
       "nombre": "Cali TV",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3772,7 +3772,7 @@
     },
     {
       "id": "calitv-2-a5535abd",
-      "numero": 750,
+      "numero": 751,
       "nombre": "Calitv 2",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3784,7 +3784,7 @@
     },
     {
       "id": "cmb-aa70be20",
-      "numero": 751,
+      "numero": 752,
       "nombre": "CMB",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3796,7 +3796,7 @@
     },
     {
       "id": "cosmovision-7228b9af",
-      "numero": 752,
+      "numero": 753,
       "nombre": "Cosmovision",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3808,7 +3808,7 @@
     },
     {
       "id": "cncsantander-5f6658e5",
-      "numero": 753,
+      "numero": 754,
       "nombre": "Cncsantander",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3820,7 +3820,7 @@
     },
     {
       "id": "cnctulua-81a244df",
-      "numero": 754,
+      "numero": 755,
       "nombre": "Cnctulua",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -4012,7 +4012,7 @@
     },
     {
       "id": "star-tve-a318bf94",
-      "numero": 769,
+      "numero": 770,
       "nombre": "Star TVE",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4024,7 +4024,7 @@
     },
     {
       "id": "tve-internacional-america-c0947cca",
-      "numero": 770,
+      "numero": 771,
       "nombre": "TVE Internacional America",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4036,7 +4036,7 @@
     },
     {
       "id": "tele-elx-21f1af20",
-      "numero": 771,
+      "numero": 772,
       "nombre": "Tele Elx",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4048,7 +4048,7 @@
     },
     {
       "id": "canal-malaga-be5befa8",
-      "numero": 772,
+      "numero": 773,
       "nombre": "Canal Málaga",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4060,7 +4060,7 @@
     },
     {
       "id": "mijas-3-40-958f35c8",
-      "numero": 773,
+      "numero": 774,
       "nombre": "Mijas 3.40",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4072,7 +4072,7 @@
     },
     {
       "id": "alacantitv-3e29f83c",
-      "numero": 774,
+      "numero": 775,
       "nombre": "Alacanti TV",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4084,7 +4084,7 @@
     },
     {
       "id": "alcarriatv-cd78efd1",
-      "numero": 775,
+      "numero": 776,
       "nombre": "Alcarriatv",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4096,7 +4096,7 @@
     },
     {
       "id": "televalencia-822e3313",
-      "numero": 776,
+      "numero": 777,
       "nombre": "Televalencia",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4108,7 +4108,7 @@
     },
     {
       "id": "cmm-8e19dc79",
-      "numero": 777,
+      "numero": 778,
       "nombre": "CMM",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4120,7 +4120,7 @@
     },
     {
       "id": "cordoba-tv-7346ba87",
-      "numero": 778,
+      "numero": 779,
       "nombre": "Cordoba TV",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4132,7 +4132,7 @@
     },
     {
       "id": "rtvce-2d384451",
-      "numero": 779,
+      "numero": 780,
       "nombre": "Rtvce",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -4144,7 +4144,7 @@
     },
     {
       "id": "aragontv-2d89d027",
-      "numero": 780,
+      "numero": 781,
       "nombre": "AragonTV",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -6148,7 +6148,7 @@
     },
     {
       "id": "chinohillsca-f925ad6b",
-      "numero": 747,
+      "numero": 748,
       "nombre": "Chinohillsca",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -6160,7 +6160,7 @@
     },
     {
       "id": "gousa-a9146ce1",
-      "numero": 748,
+      "numero": 749,
       "nombre": "Gousa",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -6364,7 +6364,7 @@
     },
     {
       "id": "cgntv-japan-cee4c990",
-      "numero": 781,
+      "numero": 782,
       "nombre": "CGNTV Japan",
       "categoria": "🇯🇵 Japón",
       "categoria_codigo": "JP",
@@ -6376,7 +6376,7 @@
     },
     {
       "id": "nhk-world-f87a3471",
-      "numero": 782,
+      "numero": 783,
       "nombre": "NHK World",
       "categoria": "🇯🇵 Japón",
       "categoria_codigo": "JP",
@@ -6592,7 +6592,7 @@
     },
     {
       "id": "corazon-tv-70708c70",
-      "numero": 755,
+      "numero": 756,
       "nombre": "Corazon TV",
       "categoria": "🇵🇦 Panamá",
       "categoria_codigo": "PA",
@@ -6604,7 +6604,7 @@
     },
     {
       "id": "cosmos-tv-e316fd26",
-      "numero": 756,
+      "numero": 757,
       "nombre": "Cosmos TV",
       "categoria": "🇵🇦 Panamá",
       "categoria_codigo": "PA",
@@ -6832,7 +6832,7 @@
     },
     {
       "id": "vtv-290175fb",
-      "numero": 757,
+      "numero": 758,
       "nombre": "VTV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6844,7 +6844,7 @@
     },
     {
       "id": "globovision-255fdaf7",
-      "numero": 758,
+      "numero": 759,
       "nombre": "Globovision",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6856,7 +6856,7 @@
     },
     {
       "id": "promar-258a7867",
-      "numero": 759,
+      "numero": 760,
       "nombre": "Promar",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6868,7 +6868,7 @@
     },
     {
       "id": "venevision-c403ab72",
-      "numero": 760,
+      "numero": 761,
       "nombre": "Venevision",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6880,7 +6880,7 @@
     },
     {
       "id": "tlt-5c7b19b0",
-      "numero": 761,
+      "numero": 762,
       "nombre": "Tlt",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6892,7 +6892,7 @@
     },
     {
       "id": "21tachira-8ae3e268",
-      "numero": 762,
+      "numero": 763,
       "nombre": "21 Tachira",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6904,7 +6904,7 @@
     },
     {
       "id": "catatumbotv-edf09a03",
-      "numero": 763,
+      "numero": 764,
       "nombre": "Catatumbo TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6916,7 +6916,7 @@
     },
     {
       "id": "canal-once-77a64776",
-      "numero": 764,
+      "numero": 765,
       "nombre": "Canal Once",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6928,7 +6928,7 @@
     },
     {
       "id": "527-tv-familia-venezuela-2615c8c4",
-      "numero": 765,
+      "numero": 766,
       "nombre": "527 | TV Familia || VENEZUELA",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6940,7 +6940,7 @@
     },
     {
       "id": "514-vepaco-tv-venezuela-1b5aac2d",
-      "numero": 766,
+      "numero": 767,
       "nombre": "514 | Vepaco TV || VENEZUELA",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6952,7 +6952,7 @@
     },
     {
       "id": "515-bta-tv-venezuela-2e0fcc29",
-      "numero": 767,
+      "numero": 768,
       "nombre": "515 | BTA TV || VENEZUELA",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6964,7 +6964,7 @@
     },
     {
       "id": "532-promar-tv-venezuela-d006e586",
-      "numero": 768,
+      "numero": 769,
       "nombre": "532 | Promar TV || VENEZUELA",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -9529,6 +9529,18 @@
       "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
       "tvg_id": "",
       "slug": "stingray-today-s-kpop"
+    },
+    {
+      "id": "tdn-ef980d26",
+      "numero": 747,
+      "nombre": "Tdn",
+      "categoria": "📺 Otros",
+      "categoria_codigo": "MUSIC",
+      "categoria_orden": 900,
+      "logo": "https://tvabierta.net/tdn.png",
+      "url": "https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8",
+      "tvg_id": "",
+      "slug": "tdn"
     }
   ]
 }

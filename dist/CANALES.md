@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 782 canales en 28 categorías  
-**Actualizado:** 2026-09-07 21:06 UTC  
+**Total:** 783 canales en 28 categorías  
+**Actualizado:** 2026-09-08 03:01 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 11 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 12 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 213 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 214 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -743,7 +743,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (213 canales)</summary>
+<details><summary><b>📺 Otros</b> (214 canales)</summary>
 
 - Cocinafamiliar
 - Lxhome
@@ -958,6 +958,7 @@
 - Stingray Holiday Hits
 - Stingray Today's Latin Pop
 - Stingray Today's KPOP
+- Tdn
 
 </details>
 

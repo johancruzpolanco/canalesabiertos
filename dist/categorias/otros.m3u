@@ -638,3 +638,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Stingray Today's KPOP" tvg-chno="746" tvg-logo="https://tvabierta.net/stingray-today-s-kpop.png" group-title="📺 Otros",Stingray Today's KPOP
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tdn" tvg-chno="747" tvg-logo="https://tvabierta.net/tdn.png" group-title="📺 Otros",Tdn
+#EXTGRP:📺 Otros
+https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8

@@ -1,45 +1,45 @@
 # 📺 Canales disponibles
 
-**Total:** 785 canales en 28 categorías  
-**Actualizado:** 2026-09-14 11:46 UTC  
+**Total:** 745 canales en 28 categorías  
+**Actualizado:** 2026-09-14 17:40 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 102 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
-| 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| 🇩🇴 República Dominicana | 95 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
+| ⚽ Deportes | 30 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
-| 🇦🇷 Argentina | 21 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
+| 📈 Trading y Finanzas | 3 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 🇦🇷 Argentina | 20 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
-| 🇧🇴 Bolivia | 5 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
+| 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
-| 🇨🇱 Chile | 16 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 19 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇱 Chile | 15 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
+| 🇨🇴 Colombia | 15 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 6 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
-| 🇪🇨 Ecuador | 5 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
-| 🇸🇻 El Salvador | 4 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
+| 🇪🇨 Ecuador | 4 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
+| 🇸🇻 El Salvador | 3 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
-| 🇺🇸 Estados Unidos | 168 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
+| 🇺🇸 Estados Unidos | 161 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 7 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 9 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 17 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
-| 🇵🇪 Perú | 11 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
+| 🇵🇪 Perú | 9 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 12 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 214 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
+| 📺 Otros | 206 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (102 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (95 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -52,7 +52,6 @@
 - Colorvisión
 - Teleantillas
 - Telesistema
-- Teleunión
 - Telecentro
 - 14 TV
 - Digital 15
@@ -69,8 +68,6 @@
 - Makao TV
 - RNN
 - Cvvision
-- Teleuniverso TV
-- Xtremo Channel
 - Bellavisión
 - Cotubanama TV
 - Microvisión
@@ -87,9 +84,7 @@
 - Canal DTV Latino
 - TVO
 - RETV
-- ZTV
 - Valle Nuevo TV
-- Nexxo TV
 - Teleimpacto
 - Luna TV
 - Latinatvinternacional
@@ -102,7 +97,6 @@
 - OEPM
 - Coco TV
 - Manaclar TV
-- Telesiglo
 - Palmar TV
 - Radioemanuel
 - Extra 86
@@ -132,7 +126,6 @@
 - JarabacoaTV
 - Adoram
 - Alegretvrd
-- Bocachica TV
 - Bonao TV
 - Boncheslatinos TV
 - Caoba TV
@@ -146,20 +139,18 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (31 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (29 canales)</summary>
 
 - U 41
 - Univision Chicago
 - T 31
 - Telemundo PR
 - Telemundo Noreste
-- Noticiasahora
 - Americateve
 - F 24 E
 - CNN en Español
 - Ntn 24
 - Dwe
-- Euronews
 - Telesur
 - Rte
 - 24 H
@@ -182,9 +173,8 @@
 
 </details>
 
-<details><summary><b>📰 Noticias</b> (27 canales)</summary>
+<details><summary><b>📰 Noticias</b> (26 canales)</summary>
 
-- Skynews
 - Skynews Au
 - LiveNow
 - OAN News
@@ -214,7 +204,7 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (31 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (30 canales)</summary>
 
 - ColimdoTV
 - Telemundo PR
@@ -238,7 +228,6 @@
 - Wild TV
 - Surfing +⚕️
 - Swerve Combat
-- Bleav Football
 - Speed Sport 1⚕️
 - Outdoor America⚕️
 - Ufc
@@ -314,16 +303,15 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (4 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (3 canales)</summary>
 
-- Bloomberg
 - Negocios
 - Finance.yahoo
 - Bbcnews
 
 </details>
 
-<details><summary><b>🇦🇷 Argentina</b> (21 canales)</summary>
+<details><summary><b>🇦🇷 Argentina</b> (20 canales)</summary>
 
 - Canal 26
 - BravoTV
@@ -333,7 +321,6 @@
 - Canal Orbe 21
 - Aire De Santa Fe
 - Viento Recio
-- 7 Cooperativa
 - 7 Salta
 - 9 Link
 - Caras TV
@@ -356,11 +343,9 @@
 
 </details>
 
-<details><summary><b>🇧🇴 Bolivia</b> (5 canales)</summary>
+<details><summary><b>🇧🇴 Bolivia</b> (3 canales)</summary>
 
-- BoliviaTV
 - Amitel
-- AlegriaTV
 - Atb
 - Zuraca TV
 
@@ -373,7 +358,7 @@
 
 </details>
 
-<details><summary><b>🇨🇱 Chile</b> (16 canales)</summary>
+<details><summary><b>🇨🇱 Chile</b> (15 canales)</summary>
 
 - Uniteve
 - 13 C
@@ -388,16 +373,13 @@
 - Quellon
 - Caracola TV
 - Vconline
-- China Channel
 - Canal Del SUR
 - ConcepcionTV
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (19 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (15 canales)</summary>
 
-- Caracol
-- RCN
 - Telecafe
 - Canal Capital
 - Sealcolombia
@@ -409,8 +391,6 @@
 - Canal PyC
 - Canal Tro
 - Canal Tro+
-- Cali TV
-- Calitv 2
 - CMB
 - Cosmovision
 - Cncsantander
@@ -429,19 +409,17 @@
 
 </details>
 
-<details><summary><b>🇪🇨 Ecuador</b> (5 canales)</summary>
+<details><summary><b>🇪🇨 Ecuador</b> (4 canales)</summary>
 
 - Ecuavisa 1
 - Ecuavisa 2
 - Bacan Te Veo
 - Ciracu TV
-- Puruwa TV
 
 </details>
 
-<details><summary><b>🇸🇻 El Salvador</b> (4 canales)</summary>
+<details><summary><b>🇸🇻 El Salvador</b> (3 canales)</summary>
 
-- Taber TV
 - Megavision 19
 - Megavision 21
 - Ectv
@@ -465,7 +443,7 @@
 
 </details>
 
-<details><summary><b>🇺🇸 Estados Unidos</b> (168 canales)</summary>
+<details><summary><b>🇺🇸 Estados Unidos</b> (161 canales)</summary>
 
 - CBS News Boston
 - CBS 8 San Diego CA
@@ -525,7 +503,6 @@
 - FOX 7 Austin TX
 - MI-Detroit | FOX 2 (WJBK)
 - KRTV News Great Falls
-- LA-Lafayette | FOX 15 (KADN)
 - Very New Mexico By KOAT
 - WEWS News 5 Cleveland
 - CBS 6 Richmond
@@ -534,7 +511,6 @@
 - KGUN 9 News Tucson
 - KJRH 2 News Oklahoma
 - WTXL ABC27 News Tallahassee
-- WTHI (CBS) News 10 Terre Haute IN
 - Very New Orleans By WDSU
 - AR-Fort Smith | Very Arkansas (KHBS)
 - FOX47 News Lansing
@@ -550,8 +526,6 @@
 - KY-Lexington | LEX18 (WLEX)
 - TMJ4 News Milwaukee
 - KDRV (ABC) News 12 Medford OR
-- WLFI (CBS) News 16 Lafayette IN
-- FOX 55 Fort Wayne IN
 - Very South Florida By WPBF 25
 - News 12 New York
 - WTKR News 3 Norfolk
@@ -564,7 +538,6 @@
 - WKBW 7 News Buffalo
 - TN-Nashville | Channel5 News (WTVF)
 - KIMT (CBS) News 3 Rochester MN
-- AL-Huntsville | ABC News 31 (WAAY)
 - Very Milwaukee By WISN 12
 - Very Omaha By KETV
 - KPAX News Missoula
@@ -606,7 +579,6 @@
 - TN-Memphis | FOX 13 (WHBQ)
 - FOX 23 Tulsa OK
 - FOX 13 News Salt Lake
-- KY-Paducah | WSIL (WSIL)
 - IL-Chicago | NBC 5 (WMAQ)
 - NBC 4 New York News
 - NBC 5 Salt Lake City UT
@@ -634,7 +606,6 @@
 - NBC Comedy Vault
 - Very Cincinnati By WLWT
 - Chinohillsca
-- Gousa
 
 </details>
 
@@ -700,14 +671,12 @@
 
 </details>
 
-<details><summary><b>🇵🇪 Perú</b> (11 canales)</summary>
+<details><summary><b>🇵🇪 Perú</b> (9 canales)</summary>
 
-- Willax
 - Latina.pe
 - Panamericana
 - Antares TV
 - Alpha
-- CANAL M Television
 - DeltaTV
 - Conecta2
 - Antena 1
@@ -728,9 +697,8 @@
 
 </details>
 
-<details><summary><b>🇻🇪 Venezuela</b> (12 canales)</summary>
+<details><summary><b>🇻🇪 Venezuela</b> (11 canales)</summary>
 
-- VTV
 - Globovision
 - Promar
 - Venevision
@@ -745,7 +713,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (214 canales)</summary>
+<details><summary><b>📺 Otros</b> (206 canales)</summary>
 
 - Cocinafamiliar
 - Lxhome
@@ -830,9 +798,6 @@
 - WSB (ABC) News 2 Atlanta GA
 - WFTS ABC Action News Tampa
 - Very Tampa Bay By WMOR
-- WTHI (CBS) News 10 Terre Haute IN
-- WLFI (CBS) News 16 Lafayette IN
-- WFFT (FOX) News 55 Fort Wayne IN
 - WJRT (ABC) News 12 Flint MI
 - CBS News Baltimore
 - WRTV News Indianapolis
@@ -851,7 +816,6 @@
 - WMAR 2 News Baltimore
 - CBS News Chicago
 - NBC 5 Chicago News
-- WEVV (CBS) News 44 Evansville IN
 - CBS News Texas
 - KRIS6 News Corpus Christi
 - NBC 5 Dallas Fort Worth News
@@ -864,9 +828,6 @@
 - TMJ4 News Milwaukee
 - WKBT (CBS) News 8 La Crosse WI
 - WXOW La Crosse WI
-- WREX Rockford IL
-- WSIL Paducah KY
-- KADN (FOX) News 15 Lafayette LA
 - WAND Decatur IL
 - CBS News Minnesota
 - KMIZ ABC 17 News Columbia MO
@@ -940,7 +901,6 @@
 - @k-music
 - Stingray Remember The 80s
 - Fashion TV
-- Tarima
 - Vevo '80s
 - Vevo '90s
 - Vevo 2K

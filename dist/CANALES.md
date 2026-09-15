@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 745 canales en 28 categorías  
-**Actualizado:** 2026-09-15 11:03 UTC  
+**Total:** 738 canales en 28 categorías  
+**Actualizado:** 2026-09-15 16:13 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -20,8 +20,8 @@
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
-| 🇨🇱 Chile | 15 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 15 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇱 Chile | 14 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
+| 🇨🇴 Colombia | 14 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 6 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 4 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 3 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
@@ -30,12 +30,12 @@
 | 🇬🇹 Guatemala | 7 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 9 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
-| 🇲🇽 México | 17 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
+| 🇲🇽 México | 15 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 9 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 206 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 203 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -69,10 +69,12 @@
 - RNN
 - Cvvision
 - Bellavisión
+- Luna TV
 - Cotubanama TV
 - Microvisión
 - Ready Television
 - Vallevisión
+- Vtv 32
 - CDN Deportes
 - CDN 37
 - Acento TV
@@ -86,7 +88,6 @@
 - RETV
 - Valle Nuevo TV
 - Teleimpacto
-- Luna TV
 - Latinatvinternacional
 - Radio 67 TV
 - Lareina
@@ -131,7 +132,6 @@
 - Caoba TV
 - ConstanzaTV
 - Tvm
-- Vtv 32
 - Super TV
 - Telecontacto
 - Latinatvinternacional
@@ -358,14 +358,13 @@
 
 </details>
 
-<details><summary><b>🇨🇱 Chile</b> (15 canales)</summary>
+<details><summary><b>🇨🇱 Chile</b> (14 canales)</summary>
 
 - Uniteve
 - 13 C
 - 13 T
 - 15.1 BPB
 - Adntv
-- Alternativa TV
 - Atacamanoticias
 - Aysen TV
 - Bio Bio TV
@@ -378,7 +377,7 @@
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (15 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (14 canales)</summary>
 
 - Telecafe
 - Canal Capital
@@ -390,7 +389,6 @@
 - Canal Cine Dios
 - Canal PyC
 - Canal Tro
-- Canal Tro+
 - CMB
 - Cosmovision
 - Cncsantander
@@ -642,9 +640,8 @@
 
 </details>
 
-<details><summary><b>🇲🇽 México</b> (17 canales)</summary>
+<details><summary><b>🇲🇽 México</b> (15 canales)</summary>
 
-- Milenio
 - ADN 40
 - AlcarriaTV
 - Azteca Mundo
@@ -659,7 +656,6 @@
 - TV MAR La Paz
 - TVP Culliacan
 - 15 TV
-- Alcance TV
 - CB TV Michoacan
 
 </details>
@@ -713,7 +709,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (206 canales)</summary>
+<details><summary><b>📺 Otros</b> (203 canales)</summary>
 
 - Cocinafamiliar
 - Lxhome
@@ -866,10 +862,8 @@
 - 587 | TV Alternativa
 - 626 | TV Ondas De Maricá
 - 541 | TVE
-- 631 | TV Conquista
 - 558 | Viva Eduque TV
 - 600 | TVA A Folha
-- 605 | Rede SPTV
 - 615 | TVídeo News
 - 617 | RAE TV
 - 560 | TV Río Preto
@@ -920,7 +914,6 @@
 - Stingray Holiday Hits
 - Stingray Today's Latin Pop
 - Stingray Today's KPOP
-- Tdn
 
 </details>
 

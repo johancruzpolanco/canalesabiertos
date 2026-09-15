@@ -61,7 +61,7 @@ https://hls.tvabierta.net/hls/020.m3u8
 https://hls.tvabierta.net/hls/021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multivisión" tvg-chno="21" tvg-logo="https://tvabierta.net/022.png" group-title="🇩🇴 República Dominicana",Multivisión
 #EXTGRP:🇩🇴 República Dominicana
-https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/playlist.m3u8
+https://hls.tvabierta.net/hls/022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefuturo" tvg-chno="22" tvg-logo="https://tvabierta.net/023.png" group-title="🇩🇴 República Dominicana",Telefuturo
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/023.m3u8
@@ -83,195 +83,195 @@ https://eu1.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bellavisión" tvg-chno="28" tvg-logo="https://tvabierta.net/bellavision.png" group-title="🇩🇴 República Dominicana",Bellavisión
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/bellavision8hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cotubanama TV" tvg-chno="29" tvg-logo="https://tvabierta.net/cotubanamatv.png" group-title="🇩🇴 República Dominicana",Cotubanama TV
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/cotubanamatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Microvisión" tvg-chno="30" tvg-logo="https://tvabierta.net/microvision.png" group-title="🇩🇴 República Dominicana",Microvisión
-#EXTGRP:🇩🇴 República Dominicana
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ready Television" tvg-chno="31" tvg-logo="https://tvabierta.net/readyhd.png" group-title="🇩🇴 República Dominicana",Ready Television
-#EXTGRP:🇩🇴 República Dominicana
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vallevisión" tvg-chno="32" tvg-logo="https://tvabierta.net/vallevision.png" group-title="🇩🇴 República Dominicana",Vallevisión
-#EXTGRP:🇩🇴 República Dominicana
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CDN Deportes" tvg-chno="33" tvg-logo="https://tvabierta.net/036.jpeg" group-title="🇩🇴 República Dominicana",CDN Deportes
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CDN 37" tvg-chno="34" tvg-logo="https://tvabierta.net/037.png" group-title="🇩🇴 República Dominicana",CDN 37
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Acento TV" tvg-chno="35" tvg-logo="https://tvabierta.net/038.png" group-title="🇩🇴 República Dominicana",Acento TV
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coral 39" tvg-chno="36" tvg-logo="https://tvabierta.net/039.png" group-title="🇩🇴 República Dominicana",Coral 39
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Altanto TV" tvg-chno="37" tvg-logo="https://tvabierta.net/altantotv.png" group-title="🇩🇴 República Dominicana",Altanto TV
-#EXTGRP:🇩🇴 República Dominicana
-https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Romana TV" tvg-chno="38" tvg-logo="https://tvabierta.net/042.png" group-title="🇩🇴 República Dominicana",Romana TV
-#EXTGRP:🇩🇴 República Dominicana
-https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Puerto TV" tvg-chno="39" tvg-logo="https://tvabierta.net/elpuertotv.png" group-title="🇩🇴 República Dominicana",El Puerto TV
-#EXTGRP:🇩🇴 República Dominicana
-https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="La Tora" tvg-chno="40" tvg-logo="https://tvabierta.net/toratv.png" group-title="🇩🇴 República Dominicana",La Tora
-#EXTGRP:🇩🇴 República Dominicana
-https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal DTV Latino" tvg-chno="41" tvg-logo="https://tvabierta.net/dtv.png" group-title="🇩🇴 República Dominicana",Canal DTV Latino
-#EXTGRP:🇩🇴 República Dominicana
-https://s.emisoras.tv:8081/dtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-chno="42" tvg-logo="https://tvabierta.net/tvo.png" group-title="🇩🇴 República Dominicana",TVO
-#EXTGRP:🇩🇴 República Dominicana
-https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETV" tvg-chno="43" tvg-logo="https://tvabierta.net/retv.png" group-title="🇩🇴 República Dominicana",RETV
-#EXTGRP:🇩🇴 República Dominicana
-https://cloud2.streaminglivehd.com/8072/8072/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Valle Nuevo TV" tvg-chno="44" tvg-logo="https://tvabierta.net/vallenuevotv.png" group-title="🇩🇴 República Dominicana",Valle Nuevo TV
-#EXTGRP:🇩🇴 República Dominicana
-https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleimpacto" tvg-chno="45" tvg-logo="https://tvabierta.net/teleimpacto.png" group-title="🇩🇴 República Dominicana",Teleimpacto
-#EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-chno="46" tvg-logo="https://tvabierta.net/lunatv.png" group-title="🇩🇴 República Dominicana",Luna TV
+#EXTINF:-1 tvg-id="" tvg-name="Luna TV" tvg-chno="29" tvg-logo="https://tvabierta.net/lunatv.png" group-title="🇩🇴 República Dominicana",Luna TV
 #EXTGRP:🇩🇴 República Dominicana
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="47" tvg-logo="https://tvabierta.net/latinatvint.png" group-title="🇩🇴 República Dominicana",Latinatvinternacional
+#EXTINF:-1 tvg-id="" tvg-name="Cotubanama TV" tvg-chno="30" tvg-logo="https://tvabierta.net/cotubanamatv.png" group-title="🇩🇴 República Dominicana",Cotubanama TV
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/cotubanamatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Microvisión" tvg-chno="31" tvg-logo="https://tvabierta.net/microvision.png" group-title="🇩🇴 República Dominicana",Microvisión
+#EXTGRP:🇩🇴 República Dominicana
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ready Television" tvg-chno="32" tvg-logo="https://tvabierta.net/readyhd.png" group-title="🇩🇴 República Dominicana",Ready Television
+#EXTGRP:🇩🇴 República Dominicana
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vallevisión" tvg-chno="33" tvg-logo="https://tvabierta.net/vallevision.png" group-title="🇩🇴 República Dominicana",Vallevisión
+#EXTGRP:🇩🇴 República Dominicana
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="34" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDN Deportes" tvg-chno="35" tvg-logo="https://tvabierta.net/036.jpeg" group-title="🇩🇴 República Dominicana",CDN Deportes
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CDN 37" tvg-chno="36" tvg-logo="https://tvabierta.net/037.png" group-title="🇩🇴 República Dominicana",CDN 37
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Acento TV" tvg-chno="37" tvg-logo="https://tvabierta.net/038.png" group-title="🇩🇴 República Dominicana",Acento TV
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Coral 39" tvg-chno="38" tvg-logo="https://tvabierta.net/039.png" group-title="🇩🇴 República Dominicana",Coral 39
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Altanto TV" tvg-chno="39" tvg-logo="https://tvabierta.net/altantotv.png" group-title="🇩🇴 República Dominicana",Altanto TV
+#EXTGRP:🇩🇴 República Dominicana
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Romana TV" tvg-chno="40" tvg-logo="https://tvabierta.net/042.png" group-title="🇩🇴 República Dominicana",Romana TV
+#EXTGRP:🇩🇴 República Dominicana
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Puerto TV" tvg-chno="41" tvg-logo="https://tvabierta.net/elpuertotv.png" group-title="🇩🇴 República Dominicana",El Puerto TV
+#EXTGRP:🇩🇴 República Dominicana
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Tora" tvg-chno="42" tvg-logo="https://tvabierta.net/toratv.png" group-title="🇩🇴 República Dominicana",La Tora
+#EXTGRP:🇩🇴 República Dominicana
+https://tv.wracanal10.com:3012/live/latoratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal DTV Latino" tvg-chno="43" tvg-logo="https://tvabierta.net/dtv.png" group-title="🇩🇴 República Dominicana",Canal DTV Latino
+#EXTGRP:🇩🇴 República Dominicana
+https://s.emisoras.tv:8081/dtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVO" tvg-chno="44" tvg-logo="https://tvabierta.net/tvo.png" group-title="🇩🇴 República Dominicana",TVO
+#EXTGRP:🇩🇴 República Dominicana
+https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RETV" tvg-chno="45" tvg-logo="https://tvabierta.net/retv.png" group-title="🇩🇴 República Dominicana",RETV
+#EXTGRP:🇩🇴 República Dominicana
+https://cloud2.streaminglivehd.com/8072/8072/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Valle Nuevo TV" tvg-chno="46" tvg-logo="https://tvabierta.net/vallenuevotv.png" group-title="🇩🇴 República Dominicana",Valle Nuevo TV
+#EXTGRP:🇩🇴 República Dominicana
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleimpacto" tvg-chno="47" tvg-logo="https://tvabierta.net/teleimpacto.png" group-title="🇩🇴 República Dominicana",Teleimpacto
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/052.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latinatvinternacional" tvg-chno="48" tvg-logo="https://tvabierta.net/latinatvint.png" group-title="🇩🇴 República Dominicana",Latinatvinternacional
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 67 TV" tvg-chno="48" tvg-logo="https://tvabierta.net/radio67tv.jpg" group-title="🇩🇴 República Dominicana",Radio 67 TV
+#EXTINF:-1 tvg-id="" tvg-name="Radio 67 TV" tvg-chno="49" tvg-logo="https://tvabierta.net/radio67tv.jpg" group-title="🇩🇴 República Dominicana",Radio 67 TV
 #EXTGRP:🇩🇴 República Dominicana
 https://radio67tv.tvabierta.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lareina" tvg-chno="49" tvg-logo="https://tvabierta.net/lareinatv.png" group-title="🇩🇴 República Dominicana",Lareina
+#EXTINF:-1 tvg-id="" tvg-name="Lareina" tvg-chno="50" tvg-logo="https://tvabierta.net/lareinatv.png" group-title="🇩🇴 República Dominicana",Lareina
 #EXTGRP:🇩🇴 República Dominicana
 https://cloud2.streaminglivehd.com/lareinatv/lareinatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jimani TV" tvg-chno="50" tvg-logo="https://tvabierta.net/jimanitv.png" group-title="🇩🇴 República Dominicana",Jimani TV
+#EXTINF:-1 tvg-id="" tvg-name="Jimani TV" tvg-chno="51" tvg-logo="https://tvabierta.net/jimanitv.png" group-title="🇩🇴 República Dominicana",Jimani TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hilandofino" tvg-chno="51" tvg-logo="https://tvabierta.net/hilandofino.png" group-title="🇩🇴 República Dominicana",Hilandofino
+#EXTINF:-1 tvg-id="" tvg-name="Hilandofino" tvg-chno="52" tvg-logo="https://tvabierta.net/hilandofino.png" group-title="🇩🇴 República Dominicana",Hilandofino
 #EXTGRP:🇩🇴 República Dominicana
 https://hilandofinotv.essastream.com/p/3606/live/canalhilandofinotvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televida" tvg-chno="52" tvg-logo="https://tvabierta.net/televida.png" group-title="🇩🇴 República Dominicana",Televida
+#EXTINF:-1 tvg-id="" tvg-name="Televida" tvg-chno="53" tvg-logo="https://tvabierta.net/televida.png" group-title="🇩🇴 República Dominicana",Televida
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/televida/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cananga TV" tvg-chno="53" tvg-logo="https://tvabierta.net/canangatv.png" group-title="🇩🇴 República Dominicana",Cananga TV
+#EXTINF:-1 tvg-id="" tvg-name="Cananga TV" tvg-chno="54" tvg-logo="https://tvabierta.net/canangatv.png" group-title="🇩🇴 República Dominicana",Cananga TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OEPM" tvg-chno="54" tvg-logo="https://tvabierta.net/oepm.jpeg" group-title="🇩🇴 República Dominicana",OEPM
+#EXTINF:-1 tvg-id="" tvg-name="OEPM" tvg-chno="55" tvg-logo="https://tvabierta.net/oepm.jpeg" group-title="🇩🇴 República Dominicana",OEPM
 #EXTGRP:🇩🇴 República Dominicana
 https://cnn.hostlagarto.com/oepmtelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coco TV" tvg-chno="55" tvg-logo="https://tvabierta.net/cocotv.png" group-title="🇩🇴 República Dominicana",Coco TV
+#EXTINF:-1 tvg-id="" tvg-name="Coco TV" tvg-chno="56" tvg-logo="https://tvabierta.net/cocotv.png" group-title="🇩🇴 República Dominicana",Coco TV
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/canalcocotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Manaclar TV" tvg-chno="56" tvg-logo="https://tvabierta.net/manaclartv.png" group-title="🇩🇴 República Dominicana",Manaclar TV
+#EXTINF:-1 tvg-id="" tvg-name="Manaclar TV" tvg-chno="57" tvg-logo="https://tvabierta.net/manaclartv.png" group-title="🇩🇴 República Dominicana",Manaclar TV
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/manaclar/manaclar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Palmar TV" tvg-chno="57" tvg-logo="https://tvabierta.net/palmartv.png" group-title="🇩🇴 República Dominicana",Palmar TV
+#EXTINF:-1 tvg-id="" tvg-name="Palmar TV" tvg-chno="58" tvg-logo="https://tvabierta.net/palmartv.png" group-title="🇩🇴 República Dominicana",Palmar TV
 #EXTGRP:🇩🇴 República Dominicana
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radioemanuel" tvg-chno="58" tvg-logo="https://tvabierta.net/emanuel.png" group-title="🇩🇴 República Dominicana",Radioemanuel
+#EXTINF:-1 tvg-id="" tvg-name="Radioemanuel" tvg-chno="59" tvg-logo="https://tvabierta.net/emanuel.png" group-title="🇩🇴 República Dominicana",Radioemanuel
 #EXTGRP:🇩🇴 República Dominicana
 https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extra 86" tvg-chno="59" tvg-logo="https://tvabierta.net/extra86.png" group-title="🇩🇴 República Dominicana",Extra 86
+#EXTINF:-1 tvg-id="" tvg-name="Extra 86" tvg-chno="60" tvg-logo="https://tvabierta.net/extra86.png" group-title="🇩🇴 República Dominicana",Extra 86
 #EXTGRP:🇩🇴 República Dominicana
 https://video.streamerr.co/hls/sc23910f2cd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cntmas" tvg-chno="60" tvg-logo="https://tvabierta.net/ctnmas.jpg" group-title="🇩🇴 República Dominicana",Cntmas
+#EXTINF:-1 tvg-id="" tvg-name="Cntmas" tvg-chno="61" tvg-logo="https://tvabierta.net/ctnmas.jpg" group-title="🇩🇴 República Dominicana",Cntmas
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/cntmas/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portaldigital TV" tvg-chno="61" tvg-logo="https://tvabierta.net/portaldigital.png" group-title="🇩🇴 República Dominicana",Portaldigital TV
+#EXTINF:-1 tvg-id="" tvg-name="Portaldigital TV" tvg-chno="62" tvg-logo="https://tvabierta.net/portaldigital.png" group-title="🇩🇴 República Dominicana",Portaldigital TV
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/portaldigital/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Crom TV" tvg-chno="62" tvg-logo="https://tvabierta.net/cromtv.png" group-title="🇩🇴 República Dominicana",Crom TV
+#EXTINF:-1 tvg-id="" tvg-name="Crom TV" tvg-chno="63" tvg-logo="https://tvabierta.net/cromtv.png" group-title="🇩🇴 República Dominicana",Crom TV
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/cromtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Chinola TV" tvg-chno="63" tvg-logo="https://tvabierta.net/chinolatv.png" group-title="🇩🇴 República Dominicana",Chinola TV
+#EXTINF:-1 tvg-id="" tvg-name="Chinola TV" tvg-chno="64" tvg-logo="https://tvabierta.net/chinolatv.png" group-title="🇩🇴 República Dominicana",Chinola TV
 #EXTGRP:🇩🇴 República Dominicana
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latinostvny" tvg-chno="64" tvg-logo="https://tvabierta.net/latinostvny.jpg" group-title="🇩🇴 República Dominicana",Latinostvny
+#EXTINF:-1 tvg-id="" tvg-name="Latinostvny" tvg-chno="65" tvg-logo="https://tvabierta.net/latinostvny.jpg" group-title="🇩🇴 República Dominicana",Latinostvny
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Visionndv" tvg-chno="65" tvg-logo="https://tvabierta.net/visionndv.png" group-title="🇩🇴 República Dominicana",Visionndv
+#EXTINF:-1 tvg-id="" tvg-name="Visionndv" tvg-chno="66" tvg-logo="https://tvabierta.net/visionndv.png" group-title="🇩🇴 República Dominicana",Visionndv
 #EXTGRP:🇩🇴 República Dominicana
 https://soportedvb.click:3891/live/visionndvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HMTV" tvg-chno="66" tvg-logo="https://tvabierta.net/hmtv.png" group-title="🇩🇴 República Dominicana",HMTV
+#EXTINF:-1 tvg-id="" tvg-name="HMTV" tvg-chno="67" tvg-logo="https://tvabierta.net/hmtv.png" group-title="🇩🇴 República Dominicana",HMTV
 #EXTGRP:🇩🇴 República Dominicana
 https://fox.hostlagarto.com:8081/hmtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecanal 12" tvg-chno="67" tvg-logo="https://tvabierta.net/telecanal12.png" group-title="🇩🇴 República Dominicana",Telecanal 12
+#EXTINF:-1 tvg-id="" tvg-name="Telecanal 12" tvg-chno="68" tvg-logo="https://tvabierta.net/telecanal12.png" group-title="🇩🇴 República Dominicana",Telecanal 12
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/telecanal12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televisiondeleste" tvg-chno="68" tvg-logo="https://tvabierta.net/televisiondeleste.png" group-title="🇩🇴 República Dominicana",Televisiondeleste
+#EXTINF:-1 tvg-id="" tvg-name="Televisiondeleste" tvg-chno="69" tvg-logo="https://tvabierta.net/televisiondeleste.png" group-title="🇩🇴 República Dominicana",Televisiondeleste
 #EXTGRP:🇩🇴 República Dominicana
 https://mlb.essastream.com:8081/televisiondeleste/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hainavision" tvg-chno="69" tvg-logo="https://tvabierta.net/hainavision.png" group-title="🇩🇴 República Dominicana",Hainavision
+#EXTINF:-1 tvg-id="" tvg-name="Hainavision" tvg-chno="70" tvg-logo="https://tvabierta.net/hainavision.png" group-title="🇩🇴 República Dominicana",Hainavision
 #EXTGRP:🇩🇴 República Dominicana
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Santacruz TV" tvg-chno="70" tvg-logo="https://tvabierta.net/santacruztv.png" group-title="🇩🇴 República Dominicana",Santacruz TV
+#EXTINF:-1 tvg-id="" tvg-name="Santacruz TV" tvg-chno="71" tvg-logo="https://tvabierta.net/santacruztv.png" group-title="🇩🇴 República Dominicana",Santacruz TV
 #EXTGRP:🇩🇴 República Dominicana
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boreal" tvg-chno="71" tvg-logo="https://tvabierta.net/boreal.png" group-title="🇩🇴 República Dominicana",Boreal
+#EXTINF:-1 tvg-id="" tvg-name="Boreal" tvg-chno="72" tvg-logo="https://tvabierta.net/boreal.png" group-title="🇩🇴 República Dominicana",Boreal
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/borealtelevision/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Senal Digital" tvg-chno="72" tvg-logo="https://tvabierta.net/senaldigitaltv.png" group-title="🇩🇴 República Dominicana",Senal Digital
+#EXTINF:-1 tvg-id="" tvg-name="Senal Digital" tvg-chno="73" tvg-logo="https://tvabierta.net/senaldigitaltv.png" group-title="🇩🇴 República Dominicana",Senal Digital
 #EXTGRP:🇩🇴 República Dominicana
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pulso Visión" tvg-chno="73" tvg-logo="https://tvabierta.net/pulsovision.png" group-title="🇩🇴 República Dominicana",Pulso Visión
+#EXTINF:-1 tvg-id="" tvg-name="Pulso Visión" tvg-chno="74" tvg-logo="https://tvabierta.net/pulsovision.png" group-title="🇩🇴 República Dominicana",Pulso Visión
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zona Vision" tvg-chno="74" tvg-logo="https://tvabierta.net/zonavision.jpeg" group-title="🇩🇴 República Dominicana",Zona Vision
+#EXTINF:-1 tvg-id="" tvg-name="Zona Vision" tvg-chno="75" tvg-logo="https://tvabierta.net/zonavision.jpeg" group-title="🇩🇴 República Dominicana",Zona Vision
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="75" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba
+#EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="76" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/rumba.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canaldelsol" tvg-chno="76" tvg-logo="https://tvabierta.net/canaldelsol.png" group-title="🇩🇴 República Dominicana",Canaldelsol
+#EXTINF:-1 tvg-id="" tvg-name="Canaldelsol" tvg-chno="77" tvg-logo="https://tvabierta.net/canaldelsol.png" group-title="🇩🇴 República Dominicana",Canaldelsol
 #EXTGRP:🇩🇴 República Dominicana
 https://stream.canaldelsol.com/sol26/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 8" tvg-chno="77" tvg-logo="https://tvabierta.net/telenord8.png" group-title="🇩🇴 República Dominicana",Telenord 8
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 8" tvg-chno="78" tvg-logo="https://tvabierta.net/telenord8.png" group-title="🇩🇴 República Dominicana",Telenord 8
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenord8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 10" tvg-chno="78" tvg-logo="https://tvabierta.net/telenord10.png" group-title="🇩🇴 República Dominicana",Telenord 10
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 10" tvg-chno="79" tvg-logo="https://tvabierta.net/telenord10.png" group-title="🇩🇴 República Dominicana",Telenord 10
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenord10/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-chno="79" tvg-logo="https://tvabierta.net/telenord12.png" group-title="🇩🇴 República Dominicana",Telenord 12
+#EXTINF:-1 tvg-id="" tvg-name="Telenord 12" tvg-chno="80" tvg-logo="https://tvabierta.net/telenord12.png" group-title="🇩🇴 República Dominicana",Telenord 12
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenord12/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecibao" tvg-chno="80" tvg-logo="https://tvabierta.net/telecibao.png" group-title="🇩🇴 República Dominicana",Telecibao
+#EXTINF:-1 tvg-id="" tvg-name="Telecibao" tvg-chno="81" tvg-logo="https://tvabierta.net/telecibao.png" group-title="🇩🇴 República Dominicana",Telecibao
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/telecibaotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Punta Cana TV" tvg-chno="81" tvg-logo="https://tvabierta.net/puntacanatv.png" group-title="🇩🇴 República Dominicana",Punta Cana TV
+#EXTINF:-1 tvg-id="" tvg-name="Punta Cana TV" tvg-chno="82" tvg-logo="https://tvabierta.net/puntacanatv.png" group-title="🇩🇴 República Dominicana",Punta Cana TV
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/puntacanatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A 7 TV" tvg-chno="82" tvg-logo="https://tvabierta.net/a7tv.png" group-title="🇩🇴 República Dominicana",A 7 TV
+#EXTINF:-1 tvg-id="" tvg-name="A 7 TV" tvg-chno="83" tvg-logo="https://tvabierta.net/a7tv.png" group-title="🇩🇴 República Dominicana",A 7 TV
 #EXTGRP:🇩🇴 República Dominicana
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JarabacoaTV" tvg-chno="83" tvg-logo="https://tvabierta.net/jarabacoatv.png" group-title="🇩🇴 República Dominicana",JarabacoaTV
+#EXTINF:-1 tvg-id="" tvg-name="JarabacoaTV" tvg-chno="84" tvg-logo="https://tvabierta.net/jarabacoatv.png" group-title="🇩🇴 República Dominicana",JarabacoaTV
 #EXTGRP:🇩🇴 República Dominicana
 https://streaming.jarabacoatv.com/Jarabacoa_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adoram" tvg-chno="84" tvg-logo="https://tvabierta.net/adoramtv.png" group-title="🇩🇴 República Dominicana",Adoram
+#EXTINF:-1 tvg-id="" tvg-name="Adoram" tvg-chno="85" tvg-logo="https://tvabierta.net/adoramtv.png" group-title="🇩🇴 República Dominicana",Adoram
 #EXTGRP:🇩🇴 República Dominicana
 https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alegretvrd" tvg-chno="85" tvg-logo="https://tvabierta.net/alegretvrd.png" group-title="🇩🇴 República Dominicana",Alegretvrd
+#EXTINF:-1 tvg-id="" tvg-name="Alegretvrd" tvg-chno="86" tvg-logo="https://tvabierta.net/alegretvrd.png" group-title="🇩🇴 República Dominicana",Alegretvrd
 #EXTGRP:🇩🇴 República Dominicana
 https://streamunoapp.com:3149/live/alegretvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bonao TV" tvg-chno="86" tvg-logo="https://tvabierta.net/bonaotv.png" group-title="🇩🇴 República Dominicana",Bonao TV
+#EXTINF:-1 tvg-id="" tvg-name="Bonao TV" tvg-chno="87" tvg-logo="https://tvabierta.net/bonaotv.png" group-title="🇩🇴 República Dominicana",Bonao TV
 #EXTGRP:🇩🇴 República Dominicana
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boncheslatinos TV" tvg-chno="87" tvg-logo="https://tvabierta.net/boncheslatinostv.png" group-title="🇩🇴 República Dominicana",Boncheslatinos TV
+#EXTINF:-1 tvg-id="" tvg-name="Boncheslatinos TV" tvg-chno="88" tvg-logo="https://tvabierta.net/boncheslatinostv.png" group-title="🇩🇴 República Dominicana",Boncheslatinos TV
 #EXTGRP:🇩🇴 República Dominicana
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caoba TV" tvg-chno="88" tvg-logo="https://tvabierta.net/caobatv.png" group-title="🇩🇴 República Dominicana",Caoba TV
+#EXTINF:-1 tvg-id="" tvg-name="Caoba TV" tvg-chno="89" tvg-logo="https://tvabierta.net/caobatv.png" group-title="🇩🇴 República Dominicana",Caoba TV
 #EXTGRP:🇩🇴 República Dominicana
 https://host.streamingnation.live:3940/live/caobatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ConstanzaTV" tvg-chno="89" tvg-logo="https://tvabierta.net/constanzatv.png" group-title="🇩🇴 República Dominicana",ConstanzaTV
+#EXTINF:-1 tvg-id="" tvg-name="ConstanzaTV" tvg-chno="90" tvg-logo="https://tvabierta.net/constanzatv.png" group-title="🇩🇴 República Dominicana",ConstanzaTV
 #EXTGRP:🇩🇴 República Dominicana
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvm" tvg-chno="90" tvg-logo="https://tvabierta.net/tvm.png" group-title="🇩🇴 República Dominicana",Tvm
+#EXTINF:-1 tvg-id="" tvg-name="Tvm" tvg-chno="91" tvg-logo="https://tvabierta.net/tvm.png" group-title="🇩🇴 República Dominicana",Tvm
 #EXTGRP:🇩🇴 República Dominicana
 https://lbgo.bozztv.com/ssh101/ssh101/tvmontana10tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="91" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
-#EXTGRP:🇩🇴 República Dominicana
-https://edge.livestreaminggroup.info/vtv32live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super TV" tvg-chno="92" tvg-logo="https://tvabierta.net/supertv.png" group-title="🇩🇴 República Dominicana",Super TV
 #EXTGRP:🇩🇴 República Dominicana
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
@@ -770,175 +770,169 @@ https://hls.tvabierta.net/hls/atb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zuraca TV" tvg-chno="549" tvg-logo="https://tvabierta.net/zuracatv.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV
 #EXTGRP:🇧🇴 Bolivia
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA Global News Toronto" tvg-chno="583" tvg-logo="https://tvabierta.net/globalnews.jpg" group-title="🇨🇦 Canadá",CA Global News Toronto
+#EXTINF:-1 tvg-id="" tvg-name="CA Global News Toronto" tvg-chno="581" tvg-logo="https://tvabierta.net/globalnews.jpg" group-title="🇨🇦 Canadá",CA Global News Toronto
 #EXTGRP:🇨🇦 Canadá
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA Global News Halifax" tvg-chno="584" tvg-logo="https://tvabierta.net/globalnews.jpg" group-title="🇨🇦 Canadá",CA Global News Halifax
+#EXTINF:-1 tvg-id="" tvg-name="CA Global News Halifax" tvg-chno="582" tvg-logo="https://tvabierta.net/globalnews.jpg" group-title="🇨🇦 Canadá",CA Global News Halifax
 #EXTGRP:🇨🇦 Canadá
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="585" tvg-logo="https://tvabierta.net/uniteve.png" group-title="🇨🇱 Chile",Uniteve
+#EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="583" tvg-logo="https://tvabierta.net/uniteve.png" group-title="🇨🇱 Chile",Uniteve
 #EXTGRP:🇨🇱 Chile
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-chno="586" tvg-logo="https://tvabierta.net/13c.png" group-title="🇨🇱 Chile",13 C
+#EXTINF:-1 tvg-id="" tvg-name="13 C" tvg-chno="584" tvg-logo="https://tvabierta.net/13c.png" group-title="🇨🇱 Chile",13 C
 #EXTGRP:🇨🇱 Chile
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13 T" tvg-chno="587" tvg-logo="https://tvabierta.net/13t.png" group-title="🇨🇱 Chile",13 T
+#EXTINF:-1 tvg-id="" tvg-name="13 T" tvg-chno="585" tvg-logo="https://tvabierta.net/13t.png" group-title="🇨🇱 Chile",13 T
 #EXTGRP:🇨🇱 Chile
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15.1 BPB" tvg-chno="588" tvg-logo="https://tvabierta.net/15.1bpb.png" group-title="🇨🇱 Chile",15.1 BPB
+#EXTINF:-1 tvg-id="" tvg-name="15.1 BPB" tvg-chno="586" tvg-logo="https://tvabierta.net/15.1bpb.png" group-title="🇨🇱 Chile",15.1 BPB
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Adntv" tvg-chno="589" tvg-logo="https://tvabierta.net/adn.png" group-title="🇨🇱 Chile",Adntv
+#EXTINF:-1 tvg-id="" tvg-name="Adntv" tvg-chno="587" tvg-logo="https://tvabierta.net/adn.png" group-title="🇨🇱 Chile",Adntv
 #EXTGRP:🇨🇱 Chile
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alternativa TV" tvg-chno="590" tvg-logo="https://tvabierta.net/alternativatv.png" group-title="🇨🇱 Chile",Alternativa TV
-#EXTGRP:🇨🇱 Chile
-https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atacamanoticias" tvg-chno="591" tvg-logo="https://tvabierta.net/atacamanoticias.png" group-title="🇨🇱 Chile",Atacamanoticias
+#EXTINF:-1 tvg-id="" tvg-name="Atacamanoticias" tvg-chno="588" tvg-logo="https://tvabierta.net/atacamanoticias.png" group-title="🇨🇱 Chile",Atacamanoticias
 #EXTGRP:🇨🇱 Chile
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aysen TV" tvg-chno="592" tvg-logo="https://tvabierta.net/aysetntv.png" group-title="🇨🇱 Chile",Aysen TV
+#EXTINF:-1 tvg-id="" tvg-name="Aysen TV" tvg-chno="589" tvg-logo="https://tvabierta.net/aysetntv.png" group-title="🇨🇱 Chile",Aysen TV
 #EXTGRP:🇨🇱 Chile
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bio Bio TV" tvg-chno="593" tvg-logo="https://tvabierta.net/biobiotv.png" group-title="🇨🇱 Chile",Bio Bio TV
+#EXTINF:-1 tvg-id="" tvg-name="Bio Bio TV" tvg-chno="590" tvg-logo="https://tvabierta.net/biobiotv.png" group-title="🇨🇱 Chile",Bio Bio TV
 #EXTGRP:🇨🇱 Chile
 https://jireh-7-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="io-Bio Television" tvg-chno="594" tvg-logo="https://tvabierta.net/biobio.png" group-title="🇨🇱 Chile",io-Bio Television
+#EXTINF:-1 tvg-id="" tvg-name="io-Bio Television" tvg-chno="591" tvg-logo="https://tvabierta.net/biobio.png" group-title="🇨🇱 Chile",io-Bio Television
 #EXTGRP:🇨🇱 Chile
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Quellon" tvg-chno="595" tvg-logo="https://tvabierta.net/quellon.png" group-title="🇨🇱 Chile",Quellon
+#EXTINF:-1 tvg-id="" tvg-name="Quellon" tvg-chno="592" tvg-logo="https://tvabierta.net/quellon.png" group-title="🇨🇱 Chile",Quellon
 #EXTGRP:🇨🇱 Chile
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-chno="596" tvg-logo="https://tvabierta.net/caracolatv.png" group-title="🇨🇱 Chile",Caracola TV
+#EXTINF:-1 tvg-id="" tvg-name="Caracola TV" tvg-chno="593" tvg-logo="https://tvabierta.net/caracolatv.png" group-title="🇨🇱 Chile",Caracola TV
 #EXTGRP:🇨🇱 Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vconline" tvg-chno="597" tvg-logo="https://tvabierta.net/vconline.png" group-title="🇨🇱 Chile",Vconline
+#EXTINF:-1 tvg-id="" tvg-name="Vconline" tvg-chno="594" tvg-logo="https://tvabierta.net/vconline.png" group-title="🇨🇱 Chile",Vconline
 #EXTGRP:🇨🇱 Chile
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Del SUR" tvg-chno="598" tvg-logo="https://tvabierta.net/canaldelsur.png" group-title="🇨🇱 Chile",Canal Del SUR
+#EXTINF:-1 tvg-id="" tvg-name="Canal Del SUR" tvg-chno="595" tvg-logo="https://tvabierta.net/canaldelsur.png" group-title="🇨🇱 Chile",Canal Del SUR
 #EXTGRP:🇨🇱 Chile
 https://oracle.streaminghd.cl/canal-del-sur/canal-del-sur/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ConcepcionTV" tvg-chno="599" tvg-logo="https://tvabierta.net/concepciontv.jpeg" group-title="🇨🇱 Chile",ConcepcionTV
+#EXTINF:-1 tvg-id="" tvg-name="ConcepcionTV" tvg-chno="596" tvg-logo="https://tvabierta.net/concepciontv.jpeg" group-title="🇨🇱 Chile",ConcepcionTV
 #EXTGRP:🇨🇱 Chile
 https://stream.blserver.cl/hls/ctv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-chno="606" tvg-logo="https://tvabierta.net/telecafe.png" group-title="🇨🇴 Colombia",Telecafe
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-chno="603" tvg-logo="https://tvabierta.net/telecafe.png" group-title="🇨🇴 Colombia",Telecafe
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/telecafe.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-chno="607" tvg-logo="https://tvabierta.net/canalcapital.png" group-title="🇨🇴 Colombia",Canal Capital
+#EXTINF:-1 tvg-id="" tvg-name="Canal Capital" tvg-chno="604" tvg-logo="https://tvabierta.net/canalcapital.png" group-title="🇨🇴 Colombia",Canal Capital
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/canalcapital.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sealcolombia" tvg-chno="608" tvg-logo="https://tvabierta.net/senalcolombia.png" group-title="🇨🇴 Colombia",Sealcolombia
+#EXTINF:-1 tvg-id="" tvg-name="Sealcolombia" tvg-chno="605" tvg-logo="https://tvabierta.net/senalcolombia.png" group-title="🇨🇴 Colombia",Sealcolombia
 #EXTGRP:🇨🇴 Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canalinstitucional" tvg-chno="609" tvg-logo="https://tvabierta.net/canalinstitucional.png" group-title="🇨🇴 Colombia",Canalinstitucional
+#EXTINF:-1 tvg-id="" tvg-name="Canalinstitucional" tvg-chno="606" tvg-logo="https://tvabierta.net/canalinstitucional.png" group-title="🇨🇴 Colombia",Canalinstitucional
 #EXTGRP:🇨🇴 Colombia
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Blu Radio" tvg-chno="610" tvg-logo="https://tvabierta.net/bluradio.png" group-title="🇨🇴 Colombia",Blu Radio
+#EXTINF:-1 tvg-id="" tvg-name="Blu Radio" tvg-chno="607" tvg-logo="https://tvabierta.net/bluradio.png" group-title="🇨🇴 Colombia",Blu Radio
 #EXTGRP:🇨🇴 Colombia
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Avivamiento TV" tvg-chno="611" tvg-logo="https://tvabierta.net/avivamientotv.png" group-title="🇨🇴 Colombia",Avivamiento TV
+#EXTINF:-1 tvg-id="" tvg-name="Avivamiento TV" tvg-chno="608" tvg-logo="https://tvabierta.net/avivamientotv.png" group-title="🇨🇴 Colombia",Avivamiento TV
 #EXTGRP:🇨🇴 Colombia
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV+" tvg-chno="612" tvg-logo="https://tvabierta.net/8tv" group-title="🇨🇴 Colombia",Canal 8 TV+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8 TV+" tvg-chno="609" tvg-logo="https://tvabierta.net/8tv" group-title="🇨🇴 Colombia",Canal 8 TV+
 #EXTGRP:🇨🇴 Colombia
 https://live.obslivestream.com/canal8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Cine Dios" tvg-chno="613" tvg-logo="https://tvabierta.net/cinecondios.png" group-title="🇨🇴 Colombia",Canal Cine Dios
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cine Dios" tvg-chno="610" tvg-logo="https://tvabierta.net/cinecondios.png" group-title="🇨🇴 Colombia",Canal Cine Dios
 #EXTGRP:🇨🇴 Colombia
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal PyC" tvg-chno="614" tvg-logo="https://tvabierta.net/pyctv.png" group-title="🇨🇴 Colombia",Canal PyC
+#EXTINF:-1 tvg-id="" tvg-name="Canal PyC" tvg-chno="611" tvg-logo="https://tvabierta.net/pyctv.png" group-title="🇨🇴 Colombia",Canal PyC
 #EXTGRP:🇨🇴 Colombia
 https://live20.bozztv.com/akamaissh101/ssh101/pyctelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Tro" tvg-chno="615" tvg-logo="https://tvabierta.net/canaltro.png" group-title="🇨🇴 Colombia",Canal Tro
+#EXTINF:-1 tvg-id="" tvg-name="Canal Tro" tvg-chno="612" tvg-logo="https://tvabierta.net/canaltro.png" group-title="🇨🇴 Colombia",Canal Tro
 #EXTGRP:🇨🇴 Colombia
 https://hls.tvabierta.net/hls/canaltro.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Tro+" tvg-chno="616" tvg-logo="https://tvabierta.net/canaltroplus.png" group-title="🇨🇴 Colombia",Canal Tro+
-#EXTGRP:🇨🇴 Colombia
-https://hls.tvabierta.net/hls/proplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMB" tvg-chno="715" tvg-logo="https://tvabierta.net/cmb.png" group-title="🇨🇴 Colombia",CMB
+#EXTINF:-1 tvg-id="" tvg-name="CMB" tvg-chno="708" tvg-logo="https://tvabierta.net/cmb.png" group-title="🇨🇴 Colombia",CMB
 #EXTGRP:🇨🇴 Colombia
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="716" tvg-logo="https://tvabierta.net/cosmosivion.png" group-title="🇨🇴 Colombia",Cosmovision
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="709" tvg-logo="https://tvabierta.net/cosmosivion.png" group-title="🇨🇴 Colombia",Cosmovision
 #EXTGRP:🇨🇴 Colombia
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cncsantander" tvg-chno="717" tvg-logo="https://tvabierta.net/cncsantander.jpeg" group-title="🇨🇴 Colombia",Cncsantander
+#EXTINF:-1 tvg-id="" tvg-name="Cncsantander" tvg-chno="710" tvg-logo="https://tvabierta.net/cncsantander.jpeg" group-title="🇨🇴 Colombia",Cncsantander
 #EXTGRP:🇨🇴 Colombia
 https://movil.ejeserver.com/live/cncsantander.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cnctulua" tvg-chno="718" tvg-logo="https://tvabierta.net/cnctulua.png" group-title="🇨🇴 Colombia",Cnctulua
+#EXTINF:-1 tvg-id="" tvg-name="Cnctulua" tvg-chno="711" tvg-logo="https://tvabierta.net/cnctulua.png" group-title="🇨🇴 Colombia",Cnctulua
 #EXTGRP:🇨🇴 Colombia
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sinart" tvg-chno="600" tvg-logo="https://tvabierta.net/sinart.jpeg" group-title="🇨🇷 Costa Rica",Sinart
+#EXTINF:-1 tvg-id="" tvg-name="Sinart" tvg-chno="597" tvg-logo="https://tvabierta.net/sinart.jpeg" group-title="🇨🇷 Costa Rica",Sinart
 #EXTGRP:🇨🇷 Costa Rica
 https://hls.tvabierta.net/hls/sinart.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvsur" tvg-chno="601" tvg-logo="https://tvabierta.net/tvsur.png" group-title="🇨🇷 Costa Rica",Tvsur
+#EXTINF:-1 tvg-id="" tvg-name="Tvsur" tvg-chno="598" tvg-logo="https://tvabierta.net/tvsur.png" group-title="🇨🇷 Costa Rica",Tvsur
 #EXTGRP:🇨🇷 Costa Rica
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-chno="602" tvg-logo="https://tvabierta.net/multimedioscr.png" group-title="🇨🇷 Costa Rica",Canal 8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 8" tvg-chno="599" tvg-logo="https://tvabierta.net/multimedioscr.png" group-title="🇨🇷 Costa Rica",Canal 8
 #EXTGRP:🇨🇷 Costa Rica
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-chno="603" tvg-logo="https://tvabierta.net/costaricachannel.png" group-title="🇨🇷 Costa Rica",Costa Rica Channel
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-chno="600" tvg-logo="https://tvabierta.net/costaricachannel.png" group-title="🇨🇷 Costa Rica",Costa Rica Channel
 #EXTGRP:🇨🇷 Costa Rica
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-chno="604" tvg-logo="https://tvabierta.net/cbtvcr.png" group-title="🇨🇷 Costa Rica",Coto Brus TV
+#EXTINF:-1 tvg-id="" tvg-name="Coto Brus TV" tvg-chno="601" tvg-logo="https://tvabierta.net/cbtvcr.png" group-title="🇨🇷 Costa Rica",Coto Brus TV
 #EXTGRP:🇨🇷 Costa Rica
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turrialba Digital" tvg-chno="605" tvg-logo="https://tvabierta.net/turrialbadigital.jpg" group-title="🇨🇷 Costa Rica",Turrialba Digital
+#EXTINF:-1 tvg-id="" tvg-name="Turrialba Digital" tvg-chno="602" tvg-logo="https://tvabierta.net/turrialbadigital.jpg" group-title="🇨🇷 Costa Rica",Turrialba Digital
 #EXTGRP:🇨🇷 Costa Rica
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="617" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="613" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
 #EXTGRP:🇪🇨 Ecuador
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="618" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="614" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
 #EXTGRP:🇪🇨 Ecuador
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="619" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
+#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="615" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
 #EXTGRP:🇪🇨 Ecuador
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ciracu TV" tvg-chno="620" tvg-logo="https://tvabierta.net/ciracu.png" group-title="🇪🇨 Ecuador",Ciracu TV
+#EXTINF:-1 tvg-id="" tvg-name="Ciracu TV" tvg-chno="616" tvg-logo="https://tvabierta.net/ciracu.png" group-title="🇪🇨 Ecuador",Ciracu TV
 #EXTGRP:🇪🇨 Ecuador
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Megavision 19" tvg-chno="621" tvg-logo="https://tvabierta.net/19sv.png" group-title="🇸🇻 El Salvador",Megavision 19
+#EXTINF:-1 tvg-id="" tvg-name="Megavision 19" tvg-chno="617" tvg-logo="https://tvabierta.net/19sv.png" group-title="🇸🇻 El Salvador",Megavision 19
 #EXTGRP:🇸🇻 El Salvador
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Megavision 21" tvg-chno="622" tvg-logo="https://tvabierta.net/21sv.png" group-title="🇸🇻 El Salvador",Megavision 21
+#EXTINF:-1 tvg-id="" tvg-name="Megavision 21" tvg-chno="618" tvg-logo="https://tvabierta.net/21sv.png" group-title="🇸🇻 El Salvador",Megavision 21
 #EXTGRP:🇸🇻 El Salvador
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ectv" tvg-chno="623" tvg-logo="https://tvabierta.net/ectv.png" group-title="🇸🇻 El Salvador",Ectv
+#EXTINF:-1 tvg-id="" tvg-name="Ectv" tvg-chno="619" tvg-logo="https://tvabierta.net/ectv.png" group-title="🇸🇻 El Salvador",Ectv
 #EXTGRP:🇸🇻 El Salvador
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="732" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="725" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
 #EXTGRP:🇪🇸 España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional America" tvg-chno="733" tvg-logo="https://tvabierta.net/tve.png" group-title="🇪🇸 España",TVE Internacional America
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional America" tvg-chno="726" tvg-logo="https://tvabierta.net/tve.png" group-title="🇪🇸 España",TVE Internacional America
 #EXTGRP:🇪🇸 España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele Elx" tvg-chno="734" tvg-logo="https://tvabierta.net/teleelx.png" group-title="🇪🇸 España",Tele Elx
+#EXTINF:-1 tvg-id="" tvg-name="Tele Elx" tvg-chno="727" tvg-logo="https://tvabierta.net/teleelx.png" group-title="🇪🇸 España",Tele Elx
 #EXTGRP:🇪🇸 España
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-chno="735" tvg-logo="https://tvabierta.net/canalmalaga.jpg" group-title="🇪🇸 España",Canal Málaga
+#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-chno="728" tvg-logo="https://tvabierta.net/canalmalaga.jpg" group-title="🇪🇸 España",Canal Málaga
 #EXTGRP:🇪🇸 España
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40" tvg-chno="736" tvg-logo="https://tvabierta.net/mijas.jpg" group-title="🇪🇸 España",Mijas 3.40
+#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40" tvg-chno="729" tvg-logo="https://tvabierta.net/mijas.jpg" group-title="🇪🇸 España",Mijas 3.40
 #EXTGRP:🇪🇸 España
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alacanti TV" tvg-chno="737" tvg-logo="https://tvabierta.net/alacanti.jpg" group-title="🇪🇸 España",Alacanti TV
+#EXTINF:-1 tvg-id="" tvg-name="Alacanti TV" tvg-chno="730" tvg-logo="https://tvabierta.net/alacanti.jpg" group-title="🇪🇸 España",Alacanti TV
 #EXTGRP:🇪🇸 España
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alcarriatv" tvg-chno="738" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇪🇸 España",Alcarriatv
+#EXTINF:-1 tvg-id="" tvg-name="Alcarriatv" tvg-chno="731" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇪🇸 España",Alcarriatv
 #EXTGRP:🇪🇸 España
 https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Televalencia" tvg-chno="739" tvg-logo="https://tvabierta.net/televalencia.png" group-title="🇪🇸 España",Televalencia
+#EXTINF:-1 tvg-id="" tvg-name="Televalencia" tvg-chno="732" tvg-logo="https://tvabierta.net/televalencia.png" group-title="🇪🇸 España",Televalencia
 #EXTGRP:🇪🇸 España
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-chno="740" tvg-logo="https://tvabierta.net/cmm.png" group-title="🇪🇸 España",CMM
+#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-chno="733" tvg-logo="https://tvabierta.net/cmm.png" group-title="🇪🇸 España",CMM
 #EXTGRP:🇪🇸 España
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cordoba TV" tvg-chno="741" tvg-logo="https://tvabierta.net/cordobatv.png" group-title="🇪🇸 España",Cordoba TV
+#EXTINF:-1 tvg-id="" tvg-name="Cordoba TV" tvg-chno="734" tvg-logo="https://tvabierta.net/cordobatv.png" group-title="🇪🇸 España",Cordoba TV
 #EXTGRP:🇪🇸 España
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="742" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
+#EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="735" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
 #EXTGRP:🇪🇸 España
 https://hls.tvabierta.net/hls/rtvce.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AragonTV" tvg-chno="743" tvg-logo="https://tvabierta.net/aragontv.png" group-title="🇪🇸 España",AragonTV
+#EXTINF:-1 tvg-id="" tvg-name="AragonTV" tvg-chno="736" tvg-logo="https://tvabierta.net/aragontv.png" group-title="🇪🇸 España",AragonTV
 #EXTGRP:🇪🇸 España
 https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/d1hajab2w2oajq/504a744747b04321bc8042af57c2f7db/699341967864450d4f062ba9/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS News Boston" tvg-chno="199" tvg-logo="https://tvabierta.net/cbs-news-boston.png" group-title="🇺🇸 Estados Unidos",CBS News Boston
@@ -1421,199 +1415,193 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Very Cincinnati By WLWT" tvg-chno="358" tvg-logo="https://tvabierta.net/very-cincinnati-by-wlwt.png" group-title="🇺🇸 Estados Unidos",Very Cincinnati By WLWT
 #EXTGRP:🇺🇸 Estados Unidos
 https://s3host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config4/7dfd08e9c0e8457a9377ece24f35ee27/master.m3u8?Key-Pair-Id=K1BEGSWP8YSEGF&Expires=4854278400&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zeW5kaWNhdGlvbi1hdXNlMS5jZi5jZG4udXBseW5rLmNvbS83ZGZkMDhlOWMwZTg0NTdhOTM3N2VjZTI0ZjM1ZWUyNy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjo0ODU0Mjc4NDAwfX19XX0%3D&Signature=mtg%7Emi%7EEs01WOB58HZrB4-Mlr2e3lW5qASGMzPSTIfP26qp5DgRhnECgf9l%7EX41nbIIBuFboLJ3W6eUEmtlcVZ%7Eqt9kCplq5OJVzBcdVC5geyOiYjf7cZkwBXYt3gAlUiuW6gPDGqgGPctP%7EXQba2h1CEV-y6gmnY5vfuMOPQev7zmYlKS%7EGNCtF7l%7EuSkhkG7ce7r86HMWWn9DEw1CvXdmIq6a80B5MScS%7E3zpmDTLaEfX39Dy0cX8dS-U1zHZmPtA66Gz05N9sfMhCZ87P9B8MKdBp88HE0LG9hrU60qojt2Dl-P1FThlZpOwn4yLdP%7EWQJVHauPXlS8XNchPhKw__&device_devicetype=desktop_web&height=1080&ip_addr=193.228.206.147&page_url=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&width=1920&app_version=0.0.0&ccpa_us_privacy=1YNY&ads.cdnhost=s3host5.localnow.api.cms.amdvids.com&ads.playbackid=2B402FCE-4A9E-4BF8-8C69-7EF948488972&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=2B402FCE-4A9E-4BF8-8C69-7EF948488972&ads.n4=content_name&ads.v4=EPG%20%7C%20WLWT%20Cincinnati%2C%20OH&ads.n21=channel_language&ads.v21=en&ads.n22=device_model&ads.v22=&ads.n23=content_custom_1_param&ads.v23=2B402FCE-4A9E-4BF8-8C69-7EF948488972&ads.n24=did&ads.v24=&ads.n25=cust_devicename&ads.v25=desktop_web&ads.n26=channel_title&ads.v26=EPG%20%20WLWT%20Cincinnati%2C%20OH&ads.n27=app_store_url&ads.v27=&ads.n28=w&ads.v28=1920&ads.n29=channel_rating&ads.v29=TV-PG&ads.n30=channel_id&ads.v30=2B402FCE-4A9E-4BF8-8C69-7EF948488972&ads.n31=content_producer_name&ads.v31=Hearst%20Corporation&ads.n32=network_name&ads.v32=wlwt&ads.n33=ip&ads.v33=193.228.206.147&ads.n34=url&ads.v34=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n35=us_privacy&ads.v35=1YNY&ads.n36=content_livestream&ads.v36=1&ads.n37=ua&ads.v37=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n38=channel_company_id&ads.v38=AMDP500425&ads.n39=content_type&ads.v39=channel&ads.n40=app_bundle&ads.v40=&ads.n41=device_make&ads.v41=&ads.n42=content_custom_3_param&ads.v42=channel&ads.n43=channel_corp&ads.v43=Hearst%20Corporation&ads.n44=content_custom_2_param&ads.v44=AMDB012881&ads.n45=gpp_sid&ads.v45=&ads.n46=dnt&ads.v46=&ads.n47=channel_name&ads.v47=EPG%20%20WLWT%20Cincinnati%2C%20OH&ads.n48=channel_brand_id&ads.v48=AMDB012881&ads.n49=pos&ads.v49=midroll&ads.n50=content_provider&ads.v50=wlwt&ads.n51=app_name&ads.v51=&ads.n52=h&ads.v52=1080&ads.n53=device_type&ads.v53=&ads.n54=app_version&ads.v54=0.0.0&ads.n55=ifa_type&ads.v55=&ads.n56=channel_ext_id&ads.v56=630e8322d067e0689b0634e2&ads.n57=channel_genre&ads.v57=News&ads.n58=gpp&ads.v58=
-#EXTINF:-1 tvg-id="" tvg-name="Chinohillsca" tvg-chno="714" tvg-logo="https://tvabierta.net/chinohillsca.png" group-title="🇺🇸 Estados Unidos",Chinohillsca
+#EXTINF:-1 tvg-id="" tvg-name="Chinohillsca" tvg-chno="707" tvg-logo="https://tvabierta.net/chinohillsca.png" group-title="🇺🇸 Estados Unidos",Chinohillsca
 #EXTGRP:🇺🇸 Estados Unidos
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canalantigua" tvg-chno="624" tvg-logo="https://tvabierta.net/ca.png" group-title="🇬🇹 Guatemala",Canalantigua
+#EXTINF:-1 tvg-id="" tvg-name="Canalantigua" tvg-chno="620" tvg-logo="https://tvabierta.net/ca.png" group-title="🇬🇹 Guatemala",Canalantigua
 #EXTGRP:🇬🇹 Guatemala
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Penielfamiliar" tvg-chno="625" tvg-logo="https://tvabierta.net/peniel.png" group-title="🇬🇹 Guatemala",Penielfamiliar
+#EXTINF:-1 tvg-id="" tvg-name="Penielfamiliar" tvg-chno="621" tvg-logo="https://tvabierta.net/peniel.png" group-title="🇬🇹 Guatemala",Penielfamiliar
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/penielfamiliar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal27" tvg-chno="626" tvg-logo="https://tvabierta.net/canal27.png" group-title="🇬🇹 Guatemala",Canal27
+#EXTINF:-1 tvg-id="" tvg-name="Canal27" tvg-chno="622" tvg-logo="https://tvabierta.net/canal27.png" group-title="🇬🇹 Guatemala",Canal27
 #EXTGRP:🇬🇹 Guatemala
 https://ch1-c27.duin.dev/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="627" tvg-logo="https://tvabierta.net/amigostv.png" group-title="🇬🇹 Guatemala",Amigos TV
+#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="623" tvg-logo="https://tvabierta.net/amigostv.png" group-title="🇬🇹 Guatemala",Amigos TV
 #EXTGRP:🇬🇹 Guatemala
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="628" tvg-logo="https://tvabierta.net/barbetv.png" group-title="🇬🇹 Guatemala",Barbe TV
+#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="624" tvg-logo="https://tvabierta.net/barbetv.png" group-title="🇬🇹 Guatemala",Barbe TV
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conectados" tvg-chno="629" tvg-logo="https://tvabierta.net/conectados.png" group-title="🇬🇹 Guatemala",Conectados
+#EXTINF:-1 tvg-id="" tvg-name="Conectados" tvg-chno="625" tvg-logo="https://tvabierta.net/conectados.png" group-title="🇬🇹 Guatemala",Conectados
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="630" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
+#EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="626" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-chno="631" tvg-logo="https://tvabierta.net/canal11.png" group-title="🇭🇳 Honduras",Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11" tvg-chno="627" tvg-logo="https://tvabierta.net/canal11.png" group-title="🇭🇳 Honduras",Canal 11
 #EXTGRP:🇭🇳 Honduras
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b2186154189968603c063a555
-#EXTINF:-1 tvg-id="" tvg-name="Tentv" tvg-chno="632" tvg-logo="https://tvabierta.net/tentv.jpg" group-title="🇭🇳 Honduras",Tentv
+#EXTINF:-1 tvg-id="" tvg-name="Tentv" tvg-chno="628" tvg-logo="https://tvabierta.net/tentv.jpg" group-title="🇭🇳 Honduras",Tentv
 #EXTGRP:🇭🇳 Honduras
 https://hls.tvabierta.net/hls/tentv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-chno="633" tvg-logo="https://tvabierta.net/metrotv.png" group-title="🇭🇳 Honduras",Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-chno="629" tvg-logo="https://tvabierta.net/metrotv.png" group-title="🇭🇳 Honduras",Metro TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dteve" tvg-chno="634" tvg-logo="https://tvabierta.net/dteve.png" group-title="🇭🇳 Honduras",Dteve
+#EXTINF:-1 tvg-id="" tvg-name="Dteve" tvg-chno="630" tvg-logo="https://tvabierta.net/dteve.png" group-title="🇭🇳 Honduras",Dteve
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-chno="635" tvg-logo="https://tvabierta.net/cholutecatv.png" group-title="🇭🇳 Honduras",Choluteca TV
+#EXTINF:-1 tvg-id="" tvg-name="Choluteca TV" tvg-chno="631" tvg-logo="https://tvabierta.net/cholutecatv.png" group-title="🇭🇳 Honduras",Choluteca TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/cholutecatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alsacias TV" tvg-chno="636" tvg-logo="https://tvabierta.net/alsaciastv.png" group-title="🇭🇳 Honduras",Alsacias TV
+#EXTINF:-1 tvg-id="" tvg-name="Alsacias TV" tvg-chno="632" tvg-logo="https://tvabierta.net/alsaciastv.png" group-title="🇭🇳 Honduras",Alsacias TV
 #EXTGRP:🇭🇳 Honduras
 https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azatv" tvg-chno="637" tvg-logo="https://tvabierta.net/azatv.png" group-title="🇭🇳 Honduras",Azatv
+#EXTINF:-1 tvg-id="" tvg-name="Azatv" tvg-chno="633" tvg-logo="https://tvabierta.net/azatv.png" group-title="🇭🇳 Honduras",Azatv
 #EXTGRP:🇭🇳 Honduras
 https://tv.webmedialive.com/azatvhn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Buendia TV" tvg-chno="638" tvg-logo="https://tvabierta.net/buendiatv.png" group-title="🇭🇳 Honduras",Buendia TV
+#EXTINF:-1 tvg-id="" tvg-name="Buendia TV" tvg-chno="634" tvg-logo="https://tvabierta.net/buendiatv.png" group-title="🇭🇳 Honduras",Buendia TV
 #EXTGRP:🇭🇳 Honduras
 https://servilive.com:3508/stream/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-chno="639" tvg-logo="https://tvabierta.net/chtv.png" group-title="🇭🇳 Honduras",CHTV
+#EXTINF:-1 tvg-id="" tvg-name="CHTV" tvg-chno="635" tvg-logo="https://tvabierta.net/chtv.png" group-title="🇭🇳 Honduras",CHTV
 #EXTGRP:🇭🇳 Honduras
 https://viewhn.com/chtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGNTV Japan" tvg-chno="744" tvg-logo="https://tvabierta.net/cgntv.png" group-title="🇯🇵 Japón",CGNTV Japan
+#EXTINF:-1 tvg-id="" tvg-name="CGNTV Japan" tvg-chno="737" tvg-logo="https://tvabierta.net/cgntv.png" group-title="🇯🇵 Japón",CGNTV Japan
 #EXTGRP:🇯🇵 Japón
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-chno="745" tvg-logo="https://tvabierta.net/nhk.png" group-title="🇯🇵 Japón",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-chno="738" tvg-logo="https://tvabierta.net/nhk.png" group-title="🇯🇵 Japón",NHK World
 #EXTGRP:🇯🇵 Japón
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Milenio" tvg-chno="656" tvg-logo="https://tvabierta.net/milenio.png" group-title="🇲🇽 México",Milenio
-#EXTGRP:🇲🇽 México
-https://hls.tvabierta.net/hls/milenio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-chno="657" tvg-logo="https://tvabierta.net/adn40.png" group-title="🇲🇽 México",ADN 40
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40" tvg-chno="652" tvg-logo="https://tvabierta.net/adn40.png" group-title="🇲🇽 México",ADN 40
 #EXTGRP:🇲🇽 México
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AlcarriaTV" tvg-chno="658" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇲🇽 México",AlcarriaTV
+#EXTINF:-1 tvg-id="" tvg-name="AlcarriaTV" tvg-chno="653" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇲🇽 México",AlcarriaTV
 #EXTGRP:🇲🇽 México
 https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Mundo" tvg-chno="659" tvg-logo="https://tvabierta.net/aztecaint.png" group-title="🇲🇽 México",Azteca Mundo
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Mundo" tvg-chno="654" tvg-logo="https://tvabierta.net/aztecaint.png" group-title="🇲🇽 México",Azteca Mundo
 #EXTGRP:🇲🇽 México
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Azteca Int." tvg-chno="660" tvg-logo="https://tvabierta.net/aztecaint.png" group-title="🇲🇽 México",Azteca Int.
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Int." tvg-chno="655" tvg-logo="https://tvabierta.net/aztecaint.png" group-title="🇲🇽 México",Azteca Int.
 #EXTGRP:🇲🇽 México
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AZ Clip" tvg-chno="661" tvg-logo="https://tvabierta.net/aztecaint.png" group-title="🇲🇽 México",AZ Clip
+#EXTINF:-1 tvg-id="" tvg-name="AZ Clip" tvg-chno="656" tvg-logo="https://tvabierta.net/aztecaint.png" group-title="🇲🇽 México",AZ Clip
 #EXTGRP:🇲🇽 México
 https://azt-cl.otteravision.com/azt/cl/cl.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ImagenTV" tvg-chno="662" tvg-logo="https://tvabierta.net/imagentv.png" group-title="🇲🇽 México",ImagenTV
+#EXTINF:-1 tvg-id="" tvg-name="ImagenTV" tvg-chno="657" tvg-logo="https://tvabierta.net/imagentv.png" group-title="🇲🇽 México",ImagenTV
 #EXTGRP:🇲🇽 México
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-id="" tvg-name="QuieroTV" tvg-chno="663" tvg-logo="https://tvabierta.net/quierotv.png" group-title="🇲🇽 México",QuieroTV
+#EXTINF:-1 tvg-id="" tvg-name="QuieroTV" tvg-chno="658" tvg-logo="https://tvabierta.net/quierotv.png" group-title="🇲🇽 México",QuieroTV
 #EXTGRP:🇲🇽 México
 https://d3c8tise3a7ihl.cloudfront.net/out/v1/20a1877171a242298e4df9e05f4c2070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="664" tvg-logo="https://tvabierta.net/oncetv.png" group-title="🇲🇽 México",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="659" tvg-logo="https://tvabierta.net/oncetv.png" group-title="🇲🇽 México",Canal Once
 #EXTGRP:🇲🇽 México
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Monterrey" tvg-chno="665" tvg-logo="https://tvabierta.net/canal6.png" group-title="🇲🇽 México",Monterrey
+#EXTINF:-1 tvg-id="" tvg-name="Monterrey" tvg-chno="660" tvg-logo="https://tvabierta.net/canal6.png" group-title="🇲🇽 México",Monterrey
 #EXTGRP:🇲🇽 México
 https://ds.tvabierta.net/memfs/4be77a2d-0db8-4be9-b55d-8402a0baecb3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mexiquense" tvg-chno="666" tvg-logo="https://tvabierta.net/mexiquense.png" group-title="🇲🇽 México",Mexiquense
+#EXTINF:-1 tvg-id="" tvg-name="Mexiquense" tvg-chno="661" tvg-logo="https://tvabierta.net/mexiquense.png" group-title="🇲🇽 México",Mexiquense
 #EXTGRP:🇲🇽 México
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias" tvg-chno="667" tvg-logo="https://tvabierta.net/amxnoticias.jpeg" group-title="🇲🇽 México",AMX Noticias
+#EXTINF:-1 tvg-id="" tvg-name="AMX Noticias" tvg-chno="662" tvg-logo="https://tvabierta.net/amxnoticias.jpeg" group-title="🇲🇽 México",AMX Noticias
 #EXTGRP:🇲🇽 México
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV MAR La Paz" tvg-chno="668" tvg-logo="https://tvabierta.net/tvmar.png" group-title="🇲🇽 México",TV MAR La Paz
+#EXTINF:-1 tvg-id="" tvg-name="TV MAR La Paz" tvg-chno="663" tvg-logo="https://tvabierta.net/tvmar.png" group-title="🇲🇽 México",TV MAR La Paz
 #EXTGRP:🇲🇽 México
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVP Culliacan" tvg-chno="669" tvg-logo="https://tvabierta.net/tvp.png" group-title="🇲🇽 México",TVP Culliacan
+#EXTINF:-1 tvg-id="" tvg-name="TVP Culliacan" tvg-chno="664" tvg-logo="https://tvabierta.net/tvp.png" group-title="🇲🇽 México",TVP Culliacan
 #EXTGRP:🇲🇽 México
 https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15 TV" tvg-chno="670" tvg-logo="https://tvabierta.net/15tv.png" group-title="🇲🇽 México",15 TV
+#EXTINF:-1 tvg-id="" tvg-name="15 TV" tvg-chno="665" tvg-logo="https://tvabierta.net/15tv.png" group-title="🇲🇽 México",15 TV
 #EXTGRP:🇲🇽 México
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alcance TV" tvg-chno="671" tvg-logo="https://tvabierta.net/alcancetv.png" group-title="🇲🇽 México",Alcance TV
-#EXTGRP:🇲🇽 México
-https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CB TV Michoacan" tvg-chno="672" tvg-logo="https://tvabierta.net/cbtv.png" group-title="🇲🇽 México",CB TV Michoacan
+#EXTINF:-1 tvg-id="" tvg-name="CB TV Michoacan" tvg-chno="666" tvg-logo="https://tvabierta.net/cbtv.png" group-title="🇲🇽 México",CB TV Michoacan
 #EXTGRP:🇲🇽 México
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Corazon TV" tvg-chno="719" tvg-logo="https://tvabierta.net/corazontv.png" group-title="🇵🇦 Panamá",Corazon TV
+#EXTINF:-1 tvg-id="" tvg-name="Corazon TV" tvg-chno="712" tvg-logo="https://tvabierta.net/corazontv.png" group-title="🇵🇦 Panamá",Corazon TV
 #EXTGRP:🇵🇦 Panamá
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-chno="720" tvg-logo="https://tvabierta.net/cosmostv.jpeg" group-title="🇵🇦 Panamá",Cosmos TV
+#EXTINF:-1 tvg-id="" tvg-name="Cosmos TV" tvg-chno="713" tvg-logo="https://tvabierta.net/cosmostv.jpeg" group-title="🇵🇦 Panamá",Cosmos TV
 #EXTGRP:🇵🇦 Panamá
 https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="647" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
+#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="643" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
 #EXTGRP:🇵🇪 Perú
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b26855869e192dbb546d&sid=ba5t1l1xb2209352846369e1932eb5884&ndvc=0
-#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-chno="648" tvg-logo="https://tvabieta.net/panamericana.png" group-title="🇵🇪 Perú",Panamericana
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-chno="644" tvg-logo="https://tvabieta.net/panamericana.png" group-title="🇵🇪 Perú",Panamericana
 #EXTGRP:🇵🇪 Perú
 https://hls.tvabierta.net/hls/panamericana.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="649" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="645" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
 #EXTGRP:🇵🇪 Perú
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alpha" tvg-chno="650" tvg-logo="https://tvabierta.net/alpha.png" group-title="🇵🇪 Perú",Alpha
+#EXTINF:-1 tvg-id="" tvg-name="Alpha" tvg-chno="646" tvg-logo="https://tvabierta.net/alpha.png" group-title="🇵🇪 Perú",Alpha
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="651" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
+#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="647" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
 #EXTGRP:🇵🇪 Perú
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="652" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
+#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="648" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
 #EXTGRP:🇵🇪 Perú
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-chno="653" tvg-logo="https://tvabierta.net/antena1.jpeg" group-title="🇵🇪 Perú",Antena 1
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-chno="649" tvg-logo="https://tvabierta.net/antena1.jpeg" group-title="🇵🇪 Perú",Antena 1
 #EXTGRP:🇵🇪 Perú
 https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="654" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
+#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="650" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
 #EXTGRP:🇵🇪 Perú
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Andes TV" tvg-chno="655" tvg-logo="https://tvabierta.net/andestv.png" group-title="🇵🇪 Perú",Andes TV
+#EXTINF:-1 tvg-id="" tvg-name="Andes TV" tvg-chno="651" tvg-logo="https://tvabierta.net/andestv.png" group-title="🇵🇪 Perú",Andes TV
 #EXTGRP:🇵🇪 Perú
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CDM" tvg-chno="640" tvg-logo="https://tvabierta.net/cdm.png" group-title="🇵🇷 Puerto Rico",CDM
+#EXTINF:-1 tvg-id="" tvg-name="CDM" tvg-chno="636" tvg-logo="https://tvabierta.net/cdm.png" group-title="🇵🇷 Puerto Rico",CDM
 #EXTGRP:🇵🇷 Puerto Rico
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nuevavida" tvg-chno="641" tvg-logo="https://tvabierta.net/nuevavida.png" group-title="🇵🇷 Puerto Rico",Nuevavida
+#EXTINF:-1 tvg-id="" tvg-name="Nuevavida" tvg-chno="637" tvg-logo="https://tvabierta.net/nuevavida.png" group-title="🇵🇷 Puerto Rico",Nuevavida
 #EXTGRP:🇵🇷 Puerto Rico
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boricua" tvg-chno="642" tvg-logo="https://tvabierta.net/boricuatv.png" group-title="🇵🇷 Puerto Rico",Boricua
+#EXTINF:-1 tvg-id="" tvg-name="Boricua" tvg-chno="638" tvg-logo="https://tvabierta.net/boricuatv.png" group-title="🇵🇷 Puerto Rico",Boricua
 #EXTGRP:🇵🇷 Puerto Rico
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele11" tvg-chno="643" tvg-logo="https://tvabierta.net/tele11.png" group-title="🇵🇷 Puerto Rico",Tele11
+#EXTINF:-1 tvg-id="" tvg-name="Tele11" tvg-chno="639" tvg-logo="https://tvabierta.net/tele11.png" group-title="🇵🇷 Puerto Rico",Tele11
 #EXTGRP:🇵🇷 Puerto Rico
 https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Punto2" tvg-chno="644" tvg-logo="https://tvabierta.net/punto.png" group-title="🇵🇷 Puerto Rico",Punto2
+#EXTINF:-1 tvg-id="" tvg-name="Punto2" tvg-chno="640" tvg-logo="https://tvabierta.net/punto.png" group-title="🇵🇷 Puerto Rico",Punto2
 #EXTGRP:🇵🇷 Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Candelita TV" tvg-chno="645" tvg-logo="https://tvabierta.net/candelitatv.png" group-title="🇵🇷 Puerto Rico",Candelita TV
+#EXTINF:-1 tvg-id="" tvg-name="Candelita TV" tvg-chno="641" tvg-logo="https://tvabierta.net/candelitatv.png" group-title="🇵🇷 Puerto Rico",Candelita TV
 #EXTGRP:🇵🇷 Puerto Rico
 https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Buena TV" tvg-chno="646" tvg-logo="https://tvabierta.net/buenatv.jpg" group-title="🇵🇷 Puerto Rico",Buena TV
+#EXTINF:-1 tvg-id="" tvg-name="Buena TV" tvg-chno="642" tvg-logo="https://tvabierta.net/buenatv.jpg" group-title="🇵🇷 Puerto Rico",Buena TV
 #EXTGRP:🇵🇷 Puerto Rico
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="721" tvg-logo="" group-title="🇻🇪 Venezuela",Globovision
+#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="714" tvg-logo="" group-title="🇻🇪 Venezuela",Globovision
 #EXTGRP:🇻🇪 Venezuela
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="722" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",Promar
+#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="715" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",Promar
 #EXTGRP:🇻🇪 Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="723" tvg-logo="https://tvabierta.net/venevision.png" group-title="🇻🇪 Venezuela",Venevision
+#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="716" tvg-logo="https://tvabierta.net/venevision.png" group-title="🇻🇪 Venezuela",Venevision
 #EXTGRP:🇻🇪 Venezuela
 https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tlt" tvg-chno="724" tvg-logo="https://tvabierta.net/tlt.png" group-title="🇻🇪 Venezuela",Tlt
+#EXTINF:-1 tvg-id="" tvg-name="Tlt" tvg-chno="717" tvg-logo="https://tvabierta.net/tlt.png" group-title="🇻🇪 Venezuela",Tlt
 #EXTGRP:🇻🇪 Venezuela
 https://hls.tvabierta.net/hls/teletuya.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21 Tachira" tvg-chno="725" tvg-logo="https://tvabierta.net/21tachira.jpeg" group-title="🇻🇪 Venezuela",21 Tachira
+#EXTINF:-1 tvg-id="" tvg-name="21 Tachira" tvg-chno="718" tvg-logo="https://tvabierta.net/21tachira.jpeg" group-title="🇻🇪 Venezuela",21 Tachira
 #EXTGRP:🇻🇪 Venezuela
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="726" tvg-logo="https://tvabierta.net/catatumbotv.png" group-title="🇻🇪 Venezuela",Catatumbo TV
+#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="719" tvg-logo="https://tvabierta.net/catatumbotv.png" group-title="🇻🇪 Venezuela",Catatumbo TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="727" tvg-logo="https://tvabierta.net/canalonce.png" group-title="🇻🇪 Venezuela",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="720" tvg-logo="https://tvabierta.net/canalonce.png" group-title="🇻🇪 Venezuela",Canal Once
 #EXTGRP:🇻🇪 Venezuela
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="527 | TV Familia" tvg-chno="728" tvg-logo="https://tvabierta.net/tv-familia.png" group-title="🇻🇪 Venezuela",527 | TV Familia
+#EXTINF:-1 tvg-id="" tvg-name="527 | TV Familia" tvg-chno="721" tvg-logo="https://tvabierta.net/tv-familia.png" group-title="🇻🇪 Venezuela",527 | TV Familia
 #EXTGRP:🇻🇪 Venezuela
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="514 | Vepaco TV" tvg-chno="729" tvg-logo="https://tvabierta.net/vepaco-tv.png" group-title="🇻🇪 Venezuela",514 | Vepaco TV
+#EXTINF:-1 tvg-id="" tvg-name="514 | Vepaco TV" tvg-chno="722" tvg-logo="https://tvabierta.net/vepaco-tv.png" group-title="🇻🇪 Venezuela",514 | Vepaco TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="515 | BTA TV" tvg-chno="730" tvg-logo="https://tvabierta.net/515-bta-tv-venezuela.png" group-title="🇻🇪 Venezuela",515 | BTA TV
+#EXTINF:-1 tvg-id="" tvg-name="515 | BTA TV" tvg-chno="723" tvg-logo="https://tvabierta.net/515-bta-tv-venezuela.png" group-title="🇻🇪 Venezuela",515 | BTA TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="532 | Promar TV" tvg-chno="731" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",532 | Promar TV
+#EXTINF:-1 tvg-id="" tvg-name="532 | Promar TV" tvg-chno="724" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",532 | Promar TV
 #EXTGRP:🇻🇪 Venezuela
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cocinafamiliar" tvg-chno="171" tvg-logo="https://tvabierta.net/cocinafamiliar.png" group-title="📺 Otros",Cocinafamiliar
@@ -2069,168 +2057,159 @@ https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="541 | TVE" tvg-chno="568" tvg-logo="https://tvabierta.net/541-tve-brasil.jpg" group-title="📺 Otros",541 | TVE
 #EXTGRP:📺 Otros
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="631 | TV Conquista" tvg-chno="569" tvg-logo="https://tvabierta.net/631-tv-conquista-brasil.png" group-title="📺 Otros",631 | TV Conquista
-#EXTGRP:📺 Otros
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="558 | Viva Eduque TV" tvg-chno="570" tvg-logo="https://www.vivaedeixeviver.org.br/images/stories/cursos/viva-eduque.png" group-title="📺 Otros",558 | Viva Eduque TV
+#EXTINF:-1 tvg-id="" tvg-name="558 | Viva Eduque TV" tvg-chno="569" tvg-logo="https://www.vivaedeixeviver.org.br/images/stories/cursos/viva-eduque.png" group-title="📺 Otros",558 | Viva Eduque TV
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="600 | TVA A Folha" tvg-chno="571" tvg-logo="https://tvabierta.net/600-tva-a-folha-brasil.png" group-title="📺 Otros",600 | TVA A Folha
+#EXTINF:-1 tvg-id="" tvg-name="600 | TVA A Folha" tvg-chno="570" tvg-logo="https://tvabierta.net/600-tva-a-folha-brasil.png" group-title="📺 Otros",600 | TVA A Folha
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="605 | Rede SPTV" tvg-chno="572" tvg-logo="https://tvabierta.net/605-rede-sptv-brasil.png" group-title="📺 Otros",605 | Rede SPTV
-#EXTGRP:📺 Otros
-https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="615 | TVídeo News" tvg-chno="573" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtzM69t1Rqpf6csQ1mSQnkCqw3W3Wq95gQ2JoqtYQLm0uk9FDKBIH84fD0Z7TA6rn2cU&usqp=CAU" group-title="📺 Otros",615 | TVídeo News
+#EXTINF:-1 tvg-id="" tvg-name="615 | TVídeo News" tvg-chno="571" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtzM69t1Rqpf6csQ1mSQnkCqw3W3Wq95gQ2JoqtYQLm0uk9FDKBIH84fD0Z7TA6rn2cU&usqp=CAU" group-title="📺 Otros",615 | TVídeo News
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="617 | RAE TV" tvg-chno="574" tvg-logo="https://tvabierta.net/617-rae-tv-brasil.jpg" group-title="📺 Otros",617 | RAE TV
+#EXTINF:-1 tvg-id="" tvg-name="617 | RAE TV" tvg-chno="572" tvg-logo="https://tvabierta.net/617-rae-tv-brasil.jpg" group-title="📺 Otros",617 | RAE TV
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="560 | TV Río Preto" tvg-chno="575" tvg-logo="https://tvabierta.net/560-tv-rio-preto-brasil.webp" group-title="📺 Otros",560 | TV Río Preto
+#EXTINF:-1 tvg-id="" tvg-name="560 | TV Río Preto" tvg-chno="573" tvg-logo="https://tvabierta.net/560-tv-rio-preto-brasil.webp" group-title="📺 Otros",560 | TV Río Preto
 #EXTGRP:📺 Otros
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="581 | TV WTJ Minas" tvg-chno="576" tvg-logo="https://www.wtjtvminas.com.br/images/galeria/29032023/o_1gsnce48g16mr1bmk1qcl167f9ps13.jpg" group-title="📺 Otros",581 | TV WTJ Minas
+#EXTINF:-1 tvg-id="" tvg-name="581 | TV WTJ Minas" tvg-chno="574" tvg-logo="https://www.wtjtvminas.com.br/images/galeria/29032023/o_1gsnce48g16mr1bmk1qcl167f9ps13.jpg" group-title="📺 Otros",581 | TV WTJ Minas
 #EXTGRP:📺 Otros
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="544 | TV Aracati" tvg-chno="577" tvg-logo="https://tvabierta.net/544-tv-aracati-brasil.webp" group-title="📺 Otros",544 | TV Aracati
+#EXTINF:-1 tvg-id="" tvg-name="544 | TV Aracati" tvg-chno="575" tvg-logo="https://tvabierta.net/544-tv-aracati-brasil.webp" group-title="📺 Otros",544 | TV Aracati
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="545 | Rede Mundo TV" tvg-chno="578" tvg-logo="https://tvabierta.net/545-rede-mundo-tv-brasil.webp" group-title="📺 Otros",545 | Rede Mundo TV
+#EXTINF:-1 tvg-id="" tvg-name="545 | Rede Mundo TV" tvg-chno="576" tvg-logo="https://tvabierta.net/545-rede-mundo-tv-brasil.webp" group-title="📺 Otros",545 | Rede Mundo TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="555 | Pet Lovers TV" tvg-chno="579" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b452dd39e4ab9787fc4c0eb8ba651112.webp" group-title="📺 Otros",555 | Pet Lovers TV
+#EXTINF:-1 tvg-id="" tvg-name="555 | Pet Lovers TV" tvg-chno="577" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b452dd39e4ab9787fc4c0eb8ba651112.webp" group-title="📺 Otros",555 | Pet Lovers TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="556 | TV Reconcavo" tvg-chno="580" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMruJ1_cIWLY8sVdQ9Aj6TDfa_3aPwiDFJ380d_e6Cg4o7TCWhu-B8nFiTkiCdDqKRZFA&usqp=CAU" group-title="📺 Otros",556 | TV Reconcavo
+#EXTINF:-1 tvg-id="" tvg-name="556 | TV Reconcavo" tvg-chno="578" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMruJ1_cIWLY8sVdQ9Aj6TDfa_3aPwiDFJ380d_e6Cg4o7TCWhu-B8nFiTkiCdDqKRZFA&usqp=CAU" group-title="📺 Otros",556 | TV Reconcavo
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="578 | Assime Portugal TV" tvg-chno="581" tvg-logo="https://tvabierta.net/578-assime-portugal-tv-brasil.webp" group-title="📺 Otros",578 | Assime Portugal TV
+#EXTINF:-1 tvg-id="" tvg-name="578 | Assime Portugal TV" tvg-chno="579" tvg-logo="https://tvabierta.net/578-assime-portugal-tv-brasil.webp" group-title="📺 Otros",578 | Assime Portugal TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="608 | Hackathon TV" tvg-chno="582" tvg-logo="https://tvabierta.net/608-hackathon-tv-brasil.png" group-title="📺 Otros",608 | Hackathon TV
+#EXTINF:-1 tvg-id="" tvg-name="608 | Hackathon TV" tvg-chno="580" tvg-logo="https://tvabierta.net/608-hackathon-tv-brasil.png" group-title="📺 Otros",608 | Hackathon TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Djazz" tvg-chno="673" tvg-logo="https://tvabierta.net/djazz.png" group-title="📺 Otros",Djazz
+#EXTINF:-1 tvg-id="" tvg-name="Djazz" tvg-chno="667" tvg-logo="https://tvabierta.net/djazz.png" group-title="📺 Otros",Djazz
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Energytvmusic" tvg-chno="674" tvg-logo="https://tvabierta.net/energytvmusic.png" group-title="📺 Otros",Energytvmusic
+#EXTINF:-1 tvg-id="" tvg-name="Energytvmusic" tvg-chno="668" tvg-logo="https://tvabierta.net/energytvmusic.png" group-title="📺 Otros",Energytvmusic
 #EXTGRP:📺 Otros
 https://59ec5453559f0.streamlock.net/energytvmusic/smil:VIVALIVETV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-chno="675" tvg-logo="https://tvabierta.net/classicartsshowcase.png" group-title="📺 Otros",Classic Arts Showcase
+#EXTINF:-1 tvg-id="" tvg-name="Classic Arts Showcase" tvg-chno="669" tvg-logo="https://tvabierta.net/classicartsshowcase.png" group-title="📺 Otros",Classic Arts Showcase
 #EXTGRP:📺 Otros
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Holiday Hits" tvg-chno="676" tvg-logo="https://tvabierta.net/stingraygreatesthits.png" group-title="📺 Otros",Stingray Greatest Holiday Hits
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Greatest Holiday Hits" tvg-chno="670" tvg-logo="https://tvabierta.net/stingraygreatesthits.png" group-title="📺 Otros",Stingray Greatest Holiday Hits
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992457&ads.xumo_streamId=99992457&ads.channelId=99992457&ads.ad_tag_id=15713&ads.csid=lgchannels_es_stingraygreatesthits_ssai&ads.channelName=stingraygreatesthits_es&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_contentId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_providerId=1857&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="677" tvg-logo="https://tvabierta.net/stingrayhitlist.png" group-title="📺 Otros",Stingray Hit List
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="671" tvg-logo="https://tvabierta.net/stingrayhitlist.png" group-title="📺 Otros",Stingray Hit List
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992456&ads.xumo_streamId=99992456&ads.channelId=99992456&ads.ad_tag_id=15712&ads.csid=lgchannels_es_stingrayhitlist_ssai&ads.channelName=stingrayhitlist_it&ads.xumo_contentName=StingrayHitlist&ads.xumo_contentId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_providerId=1858&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="678" tvg-logo="https://tvabierta.net/stingrayrememberthe80s.png" group-title="📺 Otros",Stingray Remember The 80s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="672" tvg-logo="https://tvabierta.net/stingrayrememberthe80s.png" group-title="📺 Otros",Stingray Remember The 80s
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992461&ads.xumo_streamId=99992461&ads.channelId=99992461&ads.ad_tag_id=15707&ads.csid=lgchannels_es_stingrayeverything80s_ssai&ads.channelName=stingrayeverything80s_mx&ads.xumo_contentName=StingrayEverything80s&ads.xumo_contentId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_providerId=2184&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="679" tvg-logo="https://tvabierta.net/stingrayclassicrock.png" group-title="📺 Otros",Stingray Classic Rock
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="673" tvg-logo="https://tvabierta.net/stingrayclassicrock.png" group-title="📺 Otros",Stingray Classic Rock
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992459&ads.xumo_streamId=99992459&ads.channelId=99992459&ads.ad_tag_id=15723&ads.csid=lgchannels_es_stingrayclassicrock_ssai&ads.channelName=stingrayclassicrock_es&ads.xumo_contentName=StingrayClassicRock&ads.xumo_contentId=1856&ads.xumo_providerName=StingrayClassicRock&ads.xumo_providerId=1856&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="680" tvg-logo="https://tvabierta.net/stingraypopadult.png" group-title="📺 Otros",Stingray Pop Adult
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="674" tvg-logo="https://tvabierta.net/stingraypopadult.png" group-title="📺 Otros",Stingray Pop Adult
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992453&ads.xumo_streamId=99992453&ads.channelId=99992453&ads.ad_tag_id=15716&ads.csid=lgchannels_es_stingraypopadult_ssai&ads.channelName=stingraypopadult_it&ads.xumo_contentName=StingrayPopAdult&ads.xumo_contentId=3197&ads.xumo_providerName=StingrayPopAdult&ads.xumo_providerId=3197&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hip Hop" tvg-chno="681" tvg-logo="https://tvabierta.net/stingrayhiphop.png" group-title="📺 Otros",Stingray Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hip Hop" tvg-chno="675" tvg-logo="https://tvabierta.net/stingrayhiphop.png" group-title="📺 Otros",Stingray Hip Hop
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992454&ads.xumo_streamId=99992454&ads.channelId=99992454&ads.ad_tag_id=15715&ads.csid=lgchannels_es_stingrayhiphop_ssai&ads.channelName=stingrayhiphop_it&ads.xumo_contentName=StingrayHipHop&ads.xumo_contentId=3195&ads.xumo_providerName=StingrayHipHop&ads.xumo_providerId=3195&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="682" tvg-logo="https://tvabierta.net/stingraykaraoke.png" group-title="📺 Otros",Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="676" tvg-logo="https://tvabierta.net/stingraykaraoke.png" group-title="📺 Otros",Stingray Karaoke
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992079&ads.xumo_streamId=99992079&ads.channelId=99992079&ads.ad_tag_id=15718&ads.csid=lgchannels_es_stingraykaraokeeu_ssai&ads.channelName=stingraykaraokeeu_es&ads.xumo_contentName=StingrayKaraokeEU&ads.xumo_contentId=3199&ads.xumo_providerName=StingrayKaraokeEU&ads.xumo_providerId=3199&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm" tvg-chno="683" tvg-logo="https://tvabierta.net/stingraysoulstorm.png" group-title="📺 Otros",Stingray Soul Storm
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Soul Storm" tvg-chno="677" tvg-logo="https://tvabierta.net/stingraysoulstorm.png" group-title="📺 Otros",Stingray Soul Storm
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992460&ads.xumo_streamId=99992460&ads.channelId=99992460&ads.ad_tag_id=15710&ads.csid=lgchannels_es_stingraysoulstorm_ssai&ads.channelName=stingraysoulstorm_it&ads.xumo_contentName=StingraySoulStorm&ads.xumo_contentId=1860&ads.xumo_providerName=StingraySoulStorm&ads.xumo_providerId=1860&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country" tvg-chno="684" tvg-logo="https://tvabierta.net/stingrayhotcountry.png" group-title="📺 Otros",Stingray Hot Country
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hot Country" tvg-chno="678" tvg-logo="https://tvabierta.net/stingrayhotcountry.png" group-title="📺 Otros",Stingray Hot Country
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992458&ads.xumo_streamId=99992458&ads.channelId=99992458&ads.ad_tag_id=15711&ads.csid=lgchannels_es_stingrayhotcountry_ssai&ads.channelName=stingrayhotcountry_it&ads.xumo_contentName=StingrayHotCountry&ads.xumo_contentId=1859&ads.xumo_providerName=StingrayHotCountry&ads.xumo_providerId=1859&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Qello Concerts By Stingray" tvg-chno="685" tvg-logo="https://tvabierta.net/stingrayquelloconcerts.png" group-title="📺 Otros",Qello Concerts By Stingray
+#EXTINF:-1 tvg-id="" tvg-name="Qello Concerts By Stingray" tvg-chno="679" tvg-logo="https://tvabierta.net/stingrayquelloconcerts.png" group-title="📺 Otros",Qello Concerts By Stingray
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992075&ads.xumo_streamId=99992075&ads.channelId=99992075&ads.ad_tag_id=15708&ads.csid=lgchannels_es_stingrayqelloeu_ssai&ads.channelName=stingrayqelloeu_es&ads.xumo_contentName=StingrayQelloEU&ads.xumo_contentId=3478&ads.xumo_providerName=StingrayQelloEU&ads.xumo_providerId=3478&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Now Rock" tvg-chno="686" tvg-logo="https://tvabierta.net/nowrock.png" group-title="📺 Otros",Now Rock
+#EXTINF:-1 tvg-id="" tvg-name="Now Rock" tvg-chno="680" tvg-logo="https://tvabierta.net/nowrock.png" group-title="📺 Otros",Now Rock
 #EXTGRP:📺 Otros
 https://amg01076-lightning-amg01076c3-lg-es-10364.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-nowrock-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Now90s00s" tvg-chno="687" tvg-logo="https://tvabierta.net/now90s.png" group-title="📺 Otros",Now90s00s
+#EXTINF:-1 tvg-id="" tvg-name="Now90s00s" tvg-chno="681" tvg-logo="https://tvabierta.net/now90s.png" group-title="📺 Otros",Now90s00s
 #EXTGRP:📺 Otros
 https://amg01076-amg01076c19-lg-es-10331.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-lges/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-id="" tvg-name="974 Qwest TV" tvg-chno="688" tvg-logo="" group-title="📺 Otros",974 Qwest TV
+#EXTINF:-1 tvg-id="" tvg-name="974 Qwest TV" tvg-chno="682" tvg-logo="" group-title="📺 Otros",974 Qwest TV
 #EXTGRP:📺 Otros
 https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="979 SOL MÚSICA" tvg-chno="689" tvg-logo="https://tvabierta.net/solmusica.png" group-title="📺 Otros",979 SOL MÚSICA
+#EXTINF:-1 tvg-id="" tvg-name="979 SOL MÚSICA" tvg-chno="683" tvg-logo="https://tvabierta.net/solmusica.png" group-title="📺 Otros",979 SOL MÚSICA
 #EXTGRP:📺 Otros
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12865&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Del Momento" tvg-chno="690" tvg-logo="https://tvabierta.net/todayslatinpop.png" group-title="📺 Otros",Stingray Exitos Del Momento
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Exitos Del Momento" tvg-chno="684" tvg-logo="https://tvabierta.net/todayslatinpop.png" group-title="📺 Otros",Stingray Exitos Del Momento
 #EXTGRP:📺 Otros
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992455&ads.xumo_streamId=99992455&ads.channelId=99992455&ads.ad_tag_id=15714&ads.csid=lgchannels_es_stingraylatinpop_ssai&ads.channelName=stingraylatinpop_it&ads.xumo_contentName=StingrayExitosdelMomento&ads.xumo_contentId=3196&ads.xumo_providerName=StingrayExitosdelMomento&ads.xumo_providerId=3196&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="@k-music" tvg-chno="691" tvg-logo="https://tvabierta.net/kmusic.png" group-title="📺 Otros",@k-music
+#EXTINF:-1 tvg-id="" tvg-name="@k-music" tvg-chno="685" tvg-logo="https://tvabierta.net/kmusic.png" group-title="📺 Otros",@k-music
 #EXTGRP:📺 Otros
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=%40k-music&channel_id=newid_040&mpf=aad3b8c2-39af1962-c7dcb782&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=bae6e858-318865f3-1c09cb62-46f8ff5f&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="692" tvg-logo="" group-title="📺 Otros",Stingray Remember The 80s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="686" tvg-logo="" group-title="📺 Otros",Stingray Remember The 80s
 #EXTGRP:📺 Otros
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-chno="693" tvg-logo="https://tvabierta.net/fashiontv.png" group-title="📺 Otros",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-chno="687" tvg-logo="https://tvabierta.net/fashiontv.png" group-title="📺 Otros",Fashion TV
 #EXTGRP:📺 Otros
 https://cdn.wfc.tv/cdn/stream-eng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-chno="694" tvg-logo="https://tvabierta.net/vevo-80s.jpg" group-title="📺 Otros",Vevo '80s
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '80s" tvg-chno="688" tvg-logo="https://tvabierta.net/vevo-80s.jpg" group-title="📺 Otros",Vevo '80s
 #EXTGRP:📺 Otros
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42
-#EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-chno="695" tvg-logo="https://tvabierta.net/vevo-90s.jpg" group-title="📺 Otros",Vevo '90s
+#EXTINF:-1 tvg-id="" tvg-name="Vevo '90s" tvg-chno="689" tvg-logo="https://tvabierta.net/vevo-90s.jpg" group-title="📺 Otros",Vevo '90s
 #EXTGRP:📺 Otros
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1
-#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-chno="696" tvg-logo="https://tvabierta.net/vevo-2k.jpg" group-title="📺 Otros",Vevo 2K
+#EXTINF:-1 tvg-id="" tvg-name="Vevo 2K" tvg-chno="690" tvg-logo="https://tvabierta.net/vevo-2k.jpg" group-title="📺 Otros",Vevo 2K
 #EXTGRP:📺 Otros
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343
-#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-chno="697" tvg-logo="https://tvabierta.net/vevo-pop.png" group-title="📺 Otros",Vevo Pop
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Pop" tvg-chno="691" tvg-logo="https://tvabierta.net/vevo-pop.png" group-title="📺 Otros",Vevo Pop
 #EXTGRP:📺 Otros
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classica" tvg-chno="698" tvg-logo="https://tvabierta.net/stingray-classica.png" group-title="📺 Otros",Stingray Classica
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classica" tvg-chno="692" tvg-logo="https://tvabierta.net/stingray-classica.png" group-title="📺 Otros",Stingray Classica
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="699" tvg-logo="https://tvabierta.net/stingray-karaoke.png" group-title="📺 Otros",Stingray Karaoke
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Karaoke" tvg-chno="693" tvg-logo="https://tvabierta.net/stingray-karaoke.png" group-title="📺 Otros",Stingray Karaoke
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="700" tvg-logo="https://tvabierta.net/stingray-classic-rock.png" group-title="📺 Otros",Stingray Classic Rock
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Classic Rock" tvg-chno="694" tvg-logo="https://tvabierta.net/stingray-classic-rock.png" group-title="📺 Otros",Stingray Classic Rock
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Rock Alternative" tvg-chno="701" tvg-logo="https://tvabierta.net/stingray-rock-alternative.png" group-title="📺 Otros",Stingray Rock Alternative
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Rock Alternative" tvg-chno="695" tvg-logo="https://tvabierta.net/stingray-rock-alternative.png" group-title="📺 Otros",Stingray Rock Alternative
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="702" tvg-logo="https://tvabierta.net/stingray-pop-adult.png" group-title="📺 Otros",Stingray Pop Adult
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Pop Adult" tvg-chno="696" tvg-logo="https://tvabierta.net/stingray-pop-adult.png" group-title="📺 Otros",Stingray Pop Adult
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="703" tvg-logo="https://tvabierta.net/stingray-hit-list.png" group-title="📺 Otros",Stingray Hit List
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Hit List" tvg-chno="697" tvg-logo="https://tvabierta.net/stingray-hit-list.png" group-title="📺 Otros",Stingray Hit List
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s" tvg-chno="704" tvg-logo="https://tvabierta.net/stingray-flashback-70s.png" group-title="📺 Otros",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Flashback 70s" tvg-chno="698" tvg-logo="https://tvabierta.net/stingray-flashback-70s.png" group-title="📺 Otros",Stingray Flashback 70s
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray The Spa" tvg-chno="705" tvg-logo="https://tvabierta.net/stingray-the-spa.png" group-title="📺 Otros",Stingray The Spa
+#EXTINF:-1 tvg-id="" tvg-name="Stingray The Spa" tvg-chno="699" tvg-logo="https://tvabierta.net/stingray-the-spa.png" group-title="📺 Otros",Stingray The Spa
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="706" tvg-logo="https://tvabierta.net/stingray-remember-the-80s.png" group-title="📺 Otros",Stingray Remember The 80s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Remember The 80s" tvg-chno="700" tvg-logo="https://tvabierta.net/stingray-remember-the-80s.png" group-title="📺 Otros",Stingray Remember The 80s
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Easy Listening" tvg-chno="707" tvg-logo="https://tvabierta.net/stingray-easy-listening.png" group-title="📺 Otros",Stingray Easy Listening
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Easy Listening" tvg-chno="701" tvg-logo="https://tvabierta.net/stingray-easy-listening.png" group-title="📺 Otros",Stingray Easy Listening
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Smooth Jazz" tvg-chno="708" tvg-logo="https://tvabierta.net/stingray-smooth-jazz.png" group-title="📺 Otros",Stingray Smooth Jazz
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Smooth Jazz" tvg-chno="702" tvg-logo="https://tvabierta.net/stingray-smooth-jazz.png" group-title="📺 Otros",Stingray Smooth Jazz
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Nothin' But 90s" tvg-chno="709" tvg-logo="https://tvabierta.net/stingray-nothin-but-90s.png" group-title="📺 Otros",Stingray Nothin' But 90s
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Nothin' But 90s" tvg-chno="703" tvg-logo="https://tvabierta.net/stingray-nothin-but-90s.png" group-title="📺 Otros",Stingray Nothin' But 90s
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-chno="710" tvg-logo="https://tvabierta.net/stingray-holiday-hits.png" group-title="📺 Otros",Stingray Holiday Hits
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Holiday Hits" tvg-chno="704" tvg-logo="https://tvabierta.net/stingray-holiday-hits.png" group-title="📺 Otros",Stingray Holiday Hits
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's Latin Pop" tvg-chno="711" tvg-logo="https://tvabierta.net/stingray-today-s-latin-pop.png" group-title="📺 Otros",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's Latin Pop" tvg-chno="705" tvg-logo="https://tvabierta.net/stingray-today-s-latin-pop.png" group-title="📺 Otros",Stingray Today's Latin Pop
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's KPOP" tvg-chno="712" tvg-logo="https://tvabierta.net/stingray-today-s-kpop.png" group-title="📺 Otros",Stingray Today's KPOP
+#EXTINF:-1 tvg-id="" tvg-name="Stingray Today's KPOP" tvg-chno="706" tvg-logo="https://tvabierta.net/stingray-today-s-kpop.png" group-title="📺 Otros",Stingray Today's KPOP
 #EXTGRP:📺 Otros
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tdn" tvg-chno="713" tvg-logo="https://tvabierta.net/tdn.png" group-title="📺 Otros",Tdn
-#EXTGRP:📺 Otros
-https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8

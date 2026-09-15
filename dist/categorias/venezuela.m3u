@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="721" tvg-logo="" group-title="🇻🇪 Venezuela",Globovision
+#EXTINF:-1 tvg-id="" tvg-name="Globovision" tvg-chno="714" tvg-logo="" group-title="🇻🇪 Venezuela",Globovision
 #EXTGRP:🇻🇪 Venezuela
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="722" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",Promar
+#EXTINF:-1 tvg-id="" tvg-name="Promar" tvg-chno="715" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",Promar
 #EXTGRP:🇻🇪 Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="723" tvg-logo="https://tvabierta.net/venevision.png" group-title="🇻🇪 Venezuela",Venevision
+#EXTINF:-1 tvg-id="" tvg-name="Venevision" tvg-chno="716" tvg-logo="https://tvabierta.net/venevision.png" group-title="🇻🇪 Venezuela",Venevision
 #EXTGRP:🇻🇪 Venezuela
 https://dai.google.com/linear/hls/event/q2LqrJ2ZRP6UuyzA6X0VsA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tlt" tvg-chno="724" tvg-logo="https://tvabierta.net/tlt.png" group-title="🇻🇪 Venezuela",Tlt
+#EXTINF:-1 tvg-id="" tvg-name="Tlt" tvg-chno="717" tvg-logo="https://tvabierta.net/tlt.png" group-title="🇻🇪 Venezuela",Tlt
 #EXTGRP:🇻🇪 Venezuela
 https://hls.tvabierta.net/hls/teletuya.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21 Tachira" tvg-chno="725" tvg-logo="https://tvabierta.net/21tachira.jpeg" group-title="🇻🇪 Venezuela",21 Tachira
+#EXTINF:-1 tvg-id="" tvg-name="21 Tachira" tvg-chno="718" tvg-logo="https://tvabierta.net/21tachira.jpeg" group-title="🇻🇪 Venezuela",21 Tachira
 #EXTGRP:🇻🇪 Venezuela
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="726" tvg-logo="https://tvabierta.net/catatumbotv.png" group-title="🇻🇪 Venezuela",Catatumbo TV
+#EXTINF:-1 tvg-id="" tvg-name="Catatumbo TV" tvg-chno="719" tvg-logo="https://tvabierta.net/catatumbotv.png" group-title="🇻🇪 Venezuela",Catatumbo TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="727" tvg-logo="https://tvabierta.net/canalonce.png" group-title="🇻🇪 Venezuela",Canal Once
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-chno="720" tvg-logo="https://tvabierta.net/canalonce.png" group-title="🇻🇪 Venezuela",Canal Once
 #EXTGRP:🇻🇪 Venezuela
 https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="527 | TV Familia" tvg-chno="728" tvg-logo="https://tvabierta.net/tv-familia.png" group-title="🇻🇪 Venezuela",527 | TV Familia
+#EXTINF:-1 tvg-id="" tvg-name="527 | TV Familia" tvg-chno="721" tvg-logo="https://tvabierta.net/tv-familia.png" group-title="🇻🇪 Venezuela",527 | TV Familia
 #EXTGRP:🇻🇪 Venezuela
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="514 | Vepaco TV" tvg-chno="729" tvg-logo="https://tvabierta.net/vepaco-tv.png" group-title="🇻🇪 Venezuela",514 | Vepaco TV
+#EXTINF:-1 tvg-id="" tvg-name="514 | Vepaco TV" tvg-chno="722" tvg-logo="https://tvabierta.net/vepaco-tv.png" group-title="🇻🇪 Venezuela",514 | Vepaco TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="515 | BTA TV" tvg-chno="730" tvg-logo="https://tvabierta.net/515-bta-tv-venezuela.png" group-title="🇻🇪 Venezuela",515 | BTA TV
+#EXTINF:-1 tvg-id="" tvg-name="515 | BTA TV" tvg-chno="723" tvg-logo="https://tvabierta.net/515-bta-tv-venezuela.png" group-title="🇻🇪 Venezuela",515 | BTA TV
 #EXTGRP:🇻🇪 Venezuela
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="532 | Promar TV" tvg-chno="731" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",532 | Promar TV
+#EXTINF:-1 tvg-id="" tvg-name="532 | Promar TV" tvg-chno="724" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",532 | Promar TV
 #EXTGRP:🇻🇪 Venezuela
 http://vcp1.myplaytv.com/promar/promar/playlist.m3u8

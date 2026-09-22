@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="547" tvg-logo="https://tvabierta.net/amitel.jpeg" group-title="🇧🇴 Bolivia",Amitel
+#EXTINF:-1 tvg-id="" tvg-name="Bolivia TV" tvg-chno="538" tvg-logo="https://tvabierta.net/boliviatv.jpeg" group-title="🇧🇴 Bolivia",Bolivia TV
+#EXTGRP:🇧🇴 Bolivia
+https://hls.tvabierta.net/hls/boliviatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amitel" tvg-chno="539" tvg-logo="https://tvabierta.net/amitel.jpeg" group-title="🇧🇴 Bolivia",Amitel
 #EXTGRP:🇧🇴 Bolivia
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="548" tvg-logo="https://tvabierta.net/atb.png" group-title="🇧🇴 Bolivia",Atb
+#EXTINF:-1 tvg-id="" tvg-name="Atb" tvg-chno="540" tvg-logo="https://tvabierta.net/atb.png" group-title="🇧🇴 Bolivia",Atb
 #EXTGRP:🇧🇴 Bolivia
 https://hls.tvabierta.net/hls/atb.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zuraca TV" tvg-chno="549" tvg-logo="https://tvabierta.net/zuracatv.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV
+#EXTINF:-1 tvg-id="" tvg-name="Zuraca TV" tvg-chno="541" tvg-logo="https://tvabierta.net/zuracatv.jpeg" group-title="🇧🇴 Bolivia",Zuraca TV
 #EXTGRP:🇧🇴 Bolivia
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8

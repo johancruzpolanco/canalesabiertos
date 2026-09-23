@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="628" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
-#EXTGRP:🇵🇪 Perú
-https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b26855869e192dbb546d&sid=ba5t1l1xb2209352846369e1932eb5884&ndvc=0
-#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="629" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="506" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
 #EXTGRP:🇵🇪 Perú
 https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="630" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
-#EXTGRP:🇵🇪 Perú
-https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="631" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
-#EXTGRP:🇵🇪 Perú
-https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="632" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
+#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="507" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
 #EXTGRP:🇵🇪 Perú
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="508" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
+#EXTGRP:🇵🇪 Perú
+https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b26855869e192dbb546d&sid=ba5t1l1xb2209352846369e1932eb5884&ndvc=0
+#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="509" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/conecta2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="510" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
+#EXTGRP:🇵🇪 Perú
+https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8

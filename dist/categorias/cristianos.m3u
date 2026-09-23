@@ -1,70 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Hischannel.com" tvg-chno="480" tvg-logo="https://tvabierta.net/hischannel.png" group-title="✝️ Cristianos",Hischannel.com
-#EXTGRP:✝️ Cristianos
-https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lightsource.com" tvg-chno="481" tvg-logo="https://tvabierta.net/lightsourcetv.jpg" group-title="✝️ Cristianos",Lightsource.com
-#EXTGRP:✝️ Cristianos
-https://lstv.swncdn.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gbntv" tvg-chno="482" tvg-logo="https://tvabierta.net/gbntv.png" group-title="✝️ Cristianos",Gbntv
-#EXTGRP:✝️ Cristianos
-https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ctvn" tvg-chno="483" tvg-logo="https://tvabierta.net/ctvn.png" group-title="✝️ Cristianos",Ctvn
+#EXTINF:-1 tvg-id="" tvg-name="Ctvn" tvg-chno="147" tvg-logo="https://tvabierta.net/ctvn.png" group-title="✝️ Cristianos",Ctvn
 #EXTGRP:✝️ Cristianos
 https://2-fss-1.themediacdn.com/pl_122/206280-3059514-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABN Africa" tvg-chno="484" tvg-logo="https://tvabierta.net/abnafrica.png" group-title="✝️ Cristianos",ABN Africa
-#EXTGRP:✝️ Cristianos
-https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Trinity" tvg-chno="485" tvg-logo="https://tvabierta.net/trinitychannel.png" group-title="✝️ Cristianos",Trinity
-#EXTGRP:✝️ Cristianos
-https://mediaserver.abnvideos.com/streams/trinitychannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 Finlandia 1" tvg-chno="486" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",TV7 Finlandia 1
-#EXTGRP:✝️ Cristianos
-https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 Finlandia 2" tvg-chno="487" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",TV7 Finlandia 2
-#EXTGRP:✝️ Cristianos
-https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taevas TV7" tvg-chno="488" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",Taevas TV7
-#EXTGRP:✝️ Cristianos
-https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Himlen TV7" tvg-chno="489" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",Himlen TV7
-#EXTGRP:✝️ Cristianos
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Family" tvg-chno="490" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Family
-#EXTGRP:✝️ Cristianos
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Middle East" tvg-chno="491" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Middle East
-#EXTGRP:✝️ Cristianos
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Praise" tvg-chno="492" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Praise
-#EXTGRP:✝️ Cristianos
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Talmaza" tvg-chno="493" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Talmaza
-#EXTGRP:✝️ Cristianos
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LifeTV Europe" tvg-chno="494" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",LifeTV Europe
-#EXTGRP:✝️ Cristianos
-https://lifetv.bitflip.ee/live/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LifeTV Estonia" tvg-chno="495" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",LifeTV Estonia
-#EXTGRP:✝️ Cristianos
-https://lifetv.bitflip.ee/live/stream2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBN Nejat" tvg-chno="496" tvg-logo="https://tvabierta.net/tbnnejat.png" group-title="✝️ Cristianos",TBN Nejat
-#EXTGRP:✝️ Cristianos
-https://hls.nejat.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PFFC" tvg-chno="497" tvg-logo="https://tvabierta.net/pffc.png" group-title="✝️ Cristianos",PFFC
+#EXTINF:-1 tvg-id="" tvg-name="PFFC" tvg-chno="148" tvg-logo="https://tvabierta.net/pffc.png" group-title="✝️ Cristianos",PFFC
 #EXTGRP:✝️ Cristianos
 https://2-fss-1.themediacdn.com/pl_122/206280-3060352-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-chno="498" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",Life
+#EXTINF:-1 tvg-id="" tvg-name="Life" tvg-chno="149" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",Life
 #EXTGRP:✝️ Cristianos
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bible Discovery" tvg-chno="499" tvg-logo="https://tvabierta.net/biblediscovery.png" group-title="✝️ Cristianos",Bible Discovery
+#EXTINF:-1 tvg-id="" tvg-name="Bible Discovery" tvg-chno="150" tvg-logo="https://tvabierta.net/biblediscovery.png" group-title="✝️ Cristianos",Bible Discovery
 #EXTGRP:✝️ Cristianos
 https://2-fss-2.streamhoster.com/pl_138/amlst:200226-1452410/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABN Urdu" tvg-chno="500" tvg-logo="https://tvabierta.net/abnurdu.png" group-title="✝️ Cristianos",ABN Urdu
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Middle East" tvg-chno="151" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Middle East
 #EXTGRP:✝️ Cristianos
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABN Afganistan" tvg-chno="501" tvg-logo="https://tvabierta.net/abnafganistan.png" group-title="✝️ Cristianos",ABN Afganistan
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Talmaza" tvg-chno="152" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Talmaza
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Family" tvg-chno="153" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Family
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Praise" tvg-chno="154" tvg-logo="https://tvabierta.net/alakarma.png" group-title="✝️ Cristianos",Alkarma TV Praise
+#EXTGRP:✝️ Cristianos
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gbntv" tvg-chno="155" tvg-logo="https://tvabierta.net/gbntv.png" group-title="✝️ Cristianos",Gbntv
+#EXTGRP:✝️ Cristianos
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN Nejat" tvg-chno="156" tvg-logo="https://tvabierta.net/tbnnejat.png" group-title="✝️ Cristianos",TBN Nejat
+#EXTGRP:✝️ Cristianos
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LifeTV Europe" tvg-chno="157" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",LifeTV Europe
+#EXTGRP:✝️ Cristianos
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LifeTV Estonia" tvg-chno="158" tvg-logo="https://tvabierta.net/lifetv.jpeg" group-title="✝️ Cristianos",LifeTV Estonia
+#EXTGRP:✝️ Cristianos
+https://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lightsource.com" tvg-chno="159" tvg-logo="https://tvabierta.net/lightsourcetv.jpg" group-title="✝️ Cristianos",Lightsource.com
+#EXTGRP:✝️ Cristianos
+https://lstv.swncdn.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABN Afganistan" tvg-chno="160" tvg-logo="https://tvabierta.net/abnafganistan.png" group-title="✝️ Cristianos",ABN Afganistan
 #EXTGRP:✝️ Cristianos
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nrbtv" tvg-chno="502" tvg-logo="https://tvabierta.net/nrbtv.png" group-title="✝️ Cristianos",Nrbtv
+#EXTINF:-1 tvg-id="" tvg-name="ABN Africa" tvg-chno="161" tvg-logo="https://tvabierta.net/abnafrica.png" group-title="✝️ Cristianos",ABN Africa
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABN Urdu" tvg-chno="162" tvg-logo="https://tvabierta.net/abnurdu.png" group-title="✝️ Cristianos",ABN Urdu
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Trinity" tvg-chno="163" tvg-logo="https://tvabierta.net/trinitychannel.png" group-title="✝️ Cristianos",Trinity
+#EXTGRP:✝️ Cristianos
+https://mediaserver.abnvideos.com/streams/trinitychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nrbtv" tvg-chno="164" tvg-logo="https://tvabierta.net/nrbtv.png" group-title="✝️ Cristianos",Nrbtv
 #EXTGRP:✝️ Cristianos
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taevas TV7" tvg-chno="165" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",Taevas TV7
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Finlandia 1" tvg-chno="166" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",TV7 Finlandia 1
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV7 Finlandia 2" tvg-chno="167" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",TV7 Finlandia 2
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Himlen TV7" tvg-chno="168" tvg-logo="https://tvabierta.net/tv7.png" group-title="✝️ Cristianos",Himlen TV7
+#EXTGRP:✝️ Cristianos
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hischannel.com" tvg-chno="169" tvg-logo="https://tvabierta.net/hischannel.png" group-title="✝️ Cristianos",Hischannel.com
+#EXTGRP:✝️ Cristianos
+https://www1.hischannel.com/liveedge/smil:hls.smil/playlist.m3u8

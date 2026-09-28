@@ -1,31 +1,31 @@
 # 📺 Canales disponibles
 
-**Total:** 707 canales en 28 categorías  
-**Actualizado:** 2026-09-28 12:53 UTC  
+**Total:** 698 canales en 28 categorías  
+**Actualizado:** 2026-09-28 22:55 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 88 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 86 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 26 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 26 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 3 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
-| 🇦🇷 Argentina | 20 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
+| 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
-| 🇨🇱 Chile | 14 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
+| 🇨🇱 Chile | 12 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
 | 🇨🇴 Colombia | 11 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 3 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 4 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
-| 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
+| 🇪🇸 España | 11 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 161 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 7 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 8 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
@@ -35,11 +35,11 @@
 | 🇵🇪 Perú | 5 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 8 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 198 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 197 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (88 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (86 canales)</summary>
 
 - Bloomberg
 - A 7 TV
@@ -74,7 +74,6 @@
 - Telecibao
 - Cvvision
 - RTVD
-- Antena 7
 - Telemedios
 - Teleantillas
 - Telesistema
@@ -87,7 +86,6 @@
 - Acento TV
 - Teleimpacto
 - Cotubanama TV
-- HMTV
 - Misionel TV
 - TV Luz
 - Santacruz TV
@@ -132,7 +130,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (27 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (26 canales)</summary>
 
 - Bethel TV
 - EWTN
@@ -142,7 +140,6 @@
 - Telemundo PR
 - Telemundo Noreste
 - Dwe
-- Cvi
 - Estrella News
 - Cn 247
 - Enlace
@@ -298,10 +295,8 @@
 
 </details>
 
-<details><summary><b>🇦🇷 Argentina</b> (20 canales)</summary>
+<details><summary><b>🇦🇷 Argentina</b> (18 canales)</summary>
 
-- Sublime Gracia TV
-- Corrientes TV
 - 9 Link
 - 5 TV
 - Pinguino TV
@@ -345,10 +340,9 @@
 
 </details>
 
-<details><summary><b>🇨🇱 Chile</b> (14 canales)</summary>
+<details><summary><b>🇨🇱 Chile</b> (12 canales)</summary>
 
 - Bio Bio TV
-- Canal Del SUR
 - 13 T
 - 13 C
 - Vconline
@@ -360,7 +354,6 @@
 - Atacamanoticias
 - 15.1 BPB
 - Uniteve
-- Caracola TV
 
 </details>
 
@@ -404,7 +397,7 @@
 
 </details>
 
-<details><summary><b>🇪🇸 España</b> (12 canales)</summary>
+<details><summary><b>🇪🇸 España</b> (11 canales)</summary>
 
 - Canal Málaga
 - CMM
@@ -412,7 +405,6 @@
 - Alcarriatv
 - AragonTV
 - Rtvce
-- Televalencia
 - Star TVE
 - TVE Internacional America
 - Mijas 3.40
@@ -683,7 +675,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (198 canales)</summary>
+<details><summary><b>📺 Otros</b> (197 canales)</summary>
 
 - 607 | Primer TV
 - 557 | Br Global Station
@@ -709,7 +701,6 @@
 - 615 | TVídeo News
 - 558 | Viva Eduque TV
 - 560 | TV Río Preto
-- 581 | TV WTJ Minas
 - 578 | Assime Portugal TV
 - 608 | Hackathon TV
 - 555 | Pet Lovers TV

@@ -479,6 +479,9 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 #EXTINF:-1 tvg-id="" tvg-name="WCCA 194 Worcester MA" tvg-chno="687" tvg-logo="https://tvabierta.net/wcca-194-worcester-ma.png" group-title="🇺🇸 Estados Unidos",WCCA 194 Worcester MA
 #EXTGRP:🇺🇸 Estados Unidos
 https://worcester.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBC Comedy Vault" tvg-chno="688" tvg-logo="" group-title="🇺🇸 Estados Unidos",NBC Comedy Vault
+#EXTINF:-1 tvg-id="" tvg-name="Thelonestar" tvg-chno="688" tvg-logo="https://tvabierta.net/thelonestar.png" group-title="🇺🇸 Estados Unidos",Thelonestar
 #EXTGRP:🇺🇸 Estados Unidos
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?ads.dpname=distrotv&app_bundle=&app_name=DistroTV&app_store_url=&url=https%3A%2F%2Fwww.google.com%2F&genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ic=IAB1&us_privacy=0&gdpr=0&gdpr_consent=0&did=&dnt=0&coppa=0&ads.rnd=srmh&ads.env_i=f0c48dee-9a01-4c94-82cf-78753e58f568&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1140&ads.height=641&ads.deviceId=&ads.deviceDNT=&ads.gdpr=&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=148.255.18.172&ads.geo=DO&ads.lat=18.46150&ads.long=-69.89650&ads.dma=&ads.geoType=2&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250702
+#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-chno="689" tvg-logo="https://tvabierta.net/moviesphere.jpeg" group-title="🇺🇸 Estados Unidos",MovieSphere
+#EXTGRP:🇺🇸 Estados Unidos
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8

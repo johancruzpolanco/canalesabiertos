@@ -1,8 +1,8 @@
 {
-  "generado": "2026-09-29 12:07 UTC",
+  "generado": "2026-09-29 21:51 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
-  "total": 698,
-  "hash": "62fedd763277ced9b4fcf5b3281e18fb53390d6a0c19f54b37b934a44ea85816",
+  "total": 699,
+  "hash": "8f9e8928c841f0b1e16273c59a05e77cf964ea68f553fb0190ef3755fbea254a",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -96,7 +96,7 @@
     },
     {
       "nombre": "🇺🇸 Estados Unidos",
-      "canales": 161,
+      "canales": 162,
       "archivo": "categorias/estados-unidos.m3u"
     },
     {
@@ -747,20 +747,8 @@
       "slug": "tvm"
     },
     {
-      "id": "lvm-37eb9be2",
-      "numero": 51,
-      "nombre": "LVM",
-      "categoria": "🇩🇴 República Dominicana",
-      "categoria_codigo": "RD",
-      "categoria_orden": 10,
-      "logo": "https://i.imgur.com/FO6176j.png",
-      "url": "https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8",
-      "tvg_id": "",
-      "slug": "lvm"
-    },
-    {
       "id": "makaotv-7b9bab84",
-      "numero": 52,
+      "numero": 51,
       "nombre": "Makao TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -772,7 +760,7 @@
     },
     {
       "id": "adoram-948c6775",
-      "numero": 53,
+      "numero": 52,
       "nombre": "Adoram",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -784,7 +772,7 @@
     },
     {
       "id": "radioemanuel-39f39b86",
-      "numero": 54,
+      "numero": 53,
       "nombre": "Radioemanuel",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -796,7 +784,7 @@
     },
     {
       "id": "cocotv-f39d1a13",
-      "numero": 55,
+      "numero": 54,
       "nombre": "Coco TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -808,7 +796,7 @@
     },
     {
       "id": "cntmas-deeb5440",
-      "numero": 56,
+      "numero": 55,
       "nombre": "Cntmas",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -820,7 +808,7 @@
     },
     {
       "id": "portaldigitaltv-537c1bf2",
-      "numero": 57,
+      "numero": 56,
       "nombre": "Portaldigital TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -832,7 +820,7 @@
     },
     {
       "id": "telecanal12-5b2fed08",
-      "numero": 58,
+      "numero": 57,
       "nombre": "Telecanal 12",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -844,7 +832,7 @@
     },
     {
       "id": "televisiondeleste-2a00d19d",
-      "numero": 59,
+      "numero": 58,
       "nombre": "Televisiondeleste",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -856,7 +844,7 @@
     },
     {
       "id": "radio67tv-12e0fc1c",
-      "numero": 60,
+      "numero": 59,
       "nombre": "Radio 67 TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -868,7 +856,7 @@
     },
     {
       "id": "canaldtvlatino-8c48c5ae",
-      "numero": 61,
+      "numero": 60,
       "nombre": "Canal DTV Latino",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -880,7 +868,7 @@
     },
     {
       "id": "senal-digital-4486df36",
-      "numero": 62,
+      "numero": 61,
       "nombre": "Senal Digital",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -892,7 +880,7 @@
     },
     {
       "id": "visionndv-09739083",
-      "numero": 63,
+      "numero": 62,
       "nombre": "Visionndv",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -904,7 +892,7 @@
     },
     {
       "id": "carivision-c92e16f0",
-      "numero": 64,
+      "numero": 63,
       "nombre": "Carivisión",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -916,7 +904,7 @@
     },
     {
       "id": "valle-nuevo-tv-d5bd4bb4",
-      "numero": 65,
+      "numero": 64,
       "nombre": "Valle Nuevo TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -928,7 +916,7 @@
     },
     {
       "id": "canaldelsol-2459dbc5",
-      "numero": 66,
+      "numero": 65,
       "nombre": "Canaldelsol",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -940,7 +928,7 @@
     },
     {
       "id": "elseis-83d137e4",
-      "numero": 67,
+      "numero": 66,
       "nombre": "El Seis",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -952,7 +940,7 @@
     },
     {
       "id": "14tv-b4995c00",
-      "numero": 68,
+      "numero": 67,
       "nombre": "14 TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -964,7 +952,7 @@
     },
     {
       "id": "ahoratv-722293b4",
-      "numero": 69,
+      "numero": 68,
       "nombre": "Ahora TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -976,7 +964,7 @@
     },
     {
       "id": "entelevision-5a4995ae",
-      "numero": 70,
+      "numero": 69,
       "nombre": "En Televisión",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -988,7 +976,7 @@
     },
     {
       "id": "altantotv-c2eaa6dd",
-      "numero": 71,
+      "numero": 70,
       "nombre": "Altanto TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1000,7 +988,7 @@
     },
     {
       "id": "super7-7b8fc95c",
-      "numero": 72,
+      "numero": 71,
       "nombre": "Super7",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1012,7 +1000,7 @@
     },
     {
       "id": "telecontacto-524c8f8e",
-      "numero": 73,
+      "numero": 72,
       "nombre": "Telecontacto",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1024,7 +1012,7 @@
     },
     {
       "id": "jarabacoatv-93b68d17",
-      "numero": 74,
+      "numero": 73,
       "nombre": "JarabacoaTV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1036,7 +1024,7 @@
     },
     {
       "id": "microvision-e7ef1dad",
-      "numero": 75,
+      "numero": 74,
       "nombre": "Microvisión",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1048,7 +1036,7 @@
     },
     {
       "id": "readytelevision-826cb618",
-      "numero": 76,
+      "numero": 75,
       "nombre": "Ready Television",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1060,7 +1048,7 @@
     },
     {
       "id": "vallevision-c0093d5e",
-      "numero": 77,
+      "numero": 76,
       "nombre": "Vallevisión",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1072,7 +1060,7 @@
     },
     {
       "id": "alegretvrd-a4de79b5",
-      "numero": 78,
+      "numero": 77,
       "nombre": "Alegretvrd",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1084,7 +1072,7 @@
     },
     {
       "id": "palmartv-e9ffecde",
-      "numero": 79,
+      "numero": 78,
       "nombre": "Palmar TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1096,7 +1084,7 @@
     },
     {
       "id": "bonaotv-ab0a7bb3",
-      "numero": 80,
+      "numero": 79,
       "nombre": "Bonao TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1108,7 +1096,7 @@
     },
     {
       "id": "la-tora-bf0e2427",
-      "numero": 81,
+      "numero": 80,
       "nombre": "La Tora",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1120,7 +1108,7 @@
     },
     {
       "id": "chinolatv-68287960",
-      "numero": 82,
+      "numero": 81,
       "nombre": "Chinola TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1132,7 +1120,7 @@
     },
     {
       "id": "lunatv-aa806b83",
-      "numero": 83,
+      "numero": 82,
       "nombre": "Luna TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1144,7 +1132,7 @@
     },
     {
       "id": "extra86-28a9be1f",
-      "numero": 84,
+      "numero": 83,
       "nombre": "Extra 86",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1156,7 +1144,7 @@
     },
     {
       "id": "romanatv-d56bd76f",
-      "numero": 85,
+      "numero": 84,
       "nombre": "Romana TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
@@ -1165,6 +1153,18 @@
       "url": "https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8",
       "tvg_id": "",
       "slug": "romana-tv"
+    },
+    {
+      "id": "zol-f2539027",
+      "numero": 85,
+      "nombre": "Zol",
+      "categoria": "🇩🇴 República Dominicana",
+      "categoria_codigo": "RD",
+      "categoria_orden": 10,
+      "logo": "https://i.imgur.com/VgguXoM.png",
+      "url": "https://hls.tvabierta.net/hls/zol.m3u8",
+      "tvg_id": "",
+      "slug": "zol"
     },
     {
       "id": "tvo-be28d6ca",
@@ -2997,7 +2997,7 @@
       "categoria": "🇧🇴 Bolivia",
       "categoria_codigo": "BO",
       "categoria_orden": 112,
-      "logo": "https://tvabierta.net/amitel.jpeg",
+      "logo": "https://tvabierta.net/amitel.png",
       "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
       "tvg_id": "",
       "slug": "amitel"
@@ -5475,16 +5475,28 @@
       "slug": "wcca-194-worcester-ma"
     },
     {
-      "id": "nbc-comedy-vault-132b8b96",
+      "id": "thelonestar-6247e680",
       "numero": 688,
-      "nombre": "NBC Comedy Vault",
+      "nombre": "Thelonestar",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
       "categoria_orden": 120,
-      "logo": "",
-      "url": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8",
+      "logo": "https://tvabierta.net/thelonestar.png",
+      "url": "https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8?ads.dpname=distrotv&app_bundle=&app_name=DistroTV&app_store_url=&url=https%3A%2F%2Fwww.google.com%2F&genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ic=IAB1&us_privacy=0&gdpr=0&gdpr_consent=0&did=&dnt=0&coppa=0&ads.rnd=srmh&ads.env_i=f0c48dee-9a01-4c94-82cf-78753e58f568&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=1140&ads.height=641&ads.deviceId=&ads.deviceDNT=&ads.gdpr=&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=148.255.18.172&ads.geo=DO&ads.lat=18.46150&ads.long=-69.89650&ads.dma=&ads.geoType=2&ads.contentid=22759&ads.content_duration=18000&ads.episode_id=28953&ads.show_id=1055&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CWestern%2CClassic%20Movies%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Lone%20Star&ads.episodetitle=Lone%20Star&ads.keywords=lone%20star%2Cfilm%20detective&ads.contenturl=https%3A%2F%2Fwww.google.com%2F&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250702",
       "tvg_id": "",
-      "slug": "nbc-comedy-vault"
+      "slug": "thelonestar"
+    },
+    {
+      "id": "moviesphere-5f63c045",
+      "numero": 689,
+      "nombre": "MovieSphere",
+      "categoria": "🇺🇸 Estados Unidos",
+      "categoria_codigo": "US",
+      "categoria_orden": 120,
+      "logo": "https://tvabierta.net/moviesphere.jpeg",
+      "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8",
+      "tvg_id": "",
+      "slug": "moviesphere"
     },
     {
       "id": "canalantigua-86ccf727",
@@ -6040,7 +6052,7 @@
     },
     {
       "id": "532-promar-tv-d006e586",
-      "numero": 689,
+      "numero": 690,
       "nombre": "532 | Promar TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6052,7 +6064,7 @@
     },
     {
       "id": "globovision-255fdaf7",
-      "numero": 690,
+      "numero": 691,
       "nombre": "Globovision",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6064,7 +6076,7 @@
     },
     {
       "id": "527-tv-familia-2615c8c4",
-      "numero": 691,
+      "numero": 692,
       "nombre": "527 | TV Familia",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6076,7 +6088,7 @@
     },
     {
       "id": "515-bta-tv-2e0fcc29",
-      "numero": 692,
+      "numero": 693,
       "nombre": "515 | BTA TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6088,7 +6100,7 @@
     },
     {
       "id": "catatumbotv-edf09a03",
-      "numero": 693,
+      "numero": 694,
       "nombre": "Catatumbo TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6100,7 +6112,7 @@
     },
     {
       "id": "514-vepaco-tv-1b5aac2d",
-      "numero": 694,
+      "numero": 695,
       "nombre": "514 | Vepaco TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6112,7 +6124,7 @@
     },
     {
       "id": "venevision-c403ab72",
-      "numero": 695,
+      "numero": 696,
       "nombre": "Venevision",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6124,7 +6136,7 @@
     },
     {
       "id": "tlt-5c7b19b0",
-      "numero": 696,
+      "numero": 697,
       "nombre": "Tlt",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6136,7 +6148,7 @@
     },
     {
       "id": "21tachira-8ae3e268",
-      "numero": 697,
+      "numero": 698,
       "nombre": "21 Tachira",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6148,7 +6160,7 @@
     },
     {
       "id": "promar-258a7867",
-      "numero": 698,
+      "numero": 699,
       "nombre": "Promar",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",

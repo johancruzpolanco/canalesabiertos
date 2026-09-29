@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 698 canales en 28 categorías  
-**Actualizado:** 2026-09-29 12:07 UTC  
+**Total:** 699 canales en 28 categorías  
+**Actualizado:** 2026-09-29 21:51 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -26,7 +26,7 @@
 | 🇪🇨 Ecuador | 4 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 11 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
-| 🇺🇸 Estados Unidos | 161 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
+| 🇺🇸 Estados Unidos | 162 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 7 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 8 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
@@ -91,7 +91,6 @@
 - Santacruz TV
 - Caoba TV
 - Tvm
-- LVM
 - Makao TV
 - Adoram
 - Radioemanuel
@@ -126,6 +125,7 @@
 - Luna TV
 - Extra 86
 - Romana TV
+- Zol
 - TVO
 
 </details>
@@ -413,7 +413,7 @@
 
 </details>
 
-<details><summary><b>🇺🇸 Estados Unidos</b> (161 canales)</summary>
+<details><summary><b>🇺🇸 Estados Unidos</b> (162 canales)</summary>
 
 - Game Show Network
 - Stories By AMC
@@ -575,7 +575,8 @@
 - OK-Oklahoma City | News 9 (KWTV)
 - 9&10 News Northern Michigan
 - WCCA 194 Worcester MA
-- NBC Comedy Vault
+- Thelonestar
+- MovieSphere
 
 </details>
 

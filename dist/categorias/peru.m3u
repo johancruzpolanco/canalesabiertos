@@ -1,16 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="496" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
-#EXTGRP:🇵🇪 Perú
-https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="497" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
-#EXTGRP:🇵🇪 Perú
-https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="498" tvg-logo="https://tvabierta.net/latina.png" group-title="🇵🇪 Perú",Latina.pe
+#EXTINF:-1 tvg-id="" tvg-name="Latina.pe" tvg-chno="607" tvg-logo="https://tvabierta.net/img/pe/latina.png" group-title="🇵🇪 Perú",Latina.pe
 #EXTGRP:🇵🇪 Perú
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b26855869e192dbb546d&sid=ba5t1l1xb2209352846369e1932eb5884&ndvc=0
-#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="499" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-chno="608" tvg-logo="https://tvabierta.net/atv.png" group-title="🇵🇪 Perú",ATV
+#EXTGRP:🇵🇪 Perú
+http://190.93.224.42/ATV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV SUR" tvg-chno="609" tvg-logo="https://tvabierta.net/atvsur.png" group-title="🇵🇪 Perú",ATV SUR
+#EXTGRP:🇵🇪 Perú
+http://190.93.224.42/ATV-SUR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-chno="626" tvg-logo="https://tvabierta.net/panamericana.png" group-title="🇵🇪 Perú",Panamericana
+#EXTGRP:🇵🇪 Perú
+https://hls.tvabierta.net/hls/panamericana.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Andes TV" tvg-chno="627" tvg-logo="https://tvabierta.net/andestv.png" group-title="🇵🇪 Perú",Andes TV
+#EXTGRP:🇵🇪 Perú
+https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antares TV" tvg-chno="628" tvg-logo="https://tvabierta.net/antarestv.png" group-title="🇵🇪 Perú",Antares TV
+#EXTGRP:🇵🇪 Perú
+https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1" tvg-chno="629" tvg-logo="https://tvabierta.net/antena1.jpeg" group-title="🇵🇪 Perú",Antena 1
+#EXTGRP:🇵🇪 Perú
+https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenasur" tvg-chno="630" tvg-logo="https://tvabierta.net/antenasur.jpeg" group-title="🇵🇪 Perú",Antenasur
+#EXTGRP:🇵🇪 Perú
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conecta2" tvg-chno="631" tvg-logo="https://tvabierta.net/conecta2.png" group-title="🇵🇪 Perú",Conecta2
 #EXTGRP:🇵🇪 Perú
 https://live.obslivestream.com/conecta2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DeltaTV" tvg-chno="500" tvg-logo="https://tvabierta.net/deltatvpe.png" group-title="🇵🇪 Perú",DeltaTV
+#EXTINF:-1 tvg-id="" tvg-name="417 | CNC || Cajamarca" tvg-chno="632" tvg-logo="https://i.imgur.com/l9OJjoT.png" group-title="🇵🇪 Perú",417 | CNC || Cajamarca
 #EXTGRP:🇵🇪 Perú
-https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="414 | Impacto Televisión || Cajamarca" tvg-chno="633" tvg-logo="https://tvabierta.net/414-impacto-television-cajamarca.png" group-title="🇵🇪 Perú",414 | Impacto Televisión || Cajamarca
+#EXTGRP:🇵🇪 Perú
+https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="14 | Vinilos TV || Moyobamba" tvg-chno="634" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="🇵🇪 Perú",14 | Vinilos TV || Moyobamba
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="17 | Radio Selva Televisión || Moyobamba" tvg-chno="635" tvg-logo="https://tvabierta.net/17-radio-selva-television-moyobamba.png" group-title="🇵🇪 Perú",17 | Radio Selva Televisión || Moyobamba
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="19 | Auténtica Televisión || Moyobamba" tvg-chno="636" tvg-logo="https://tvabierta.net/19-autentica-television-moyobamba.png" group-title="🇵🇪 Perú",19 | Auténtica Televisión || Moyobamba
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="21 | CR Televisión || Moyobamba" tvg-chno="637" tvg-logo="https://tvabierta.net/21-cr-television-moyobamba.png" group-title="🇵🇪 Perú",21 | CR Televisión || Moyobamba
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="25 | Cumo TV || Moyobamba" tvg-chno="638" tvg-logo="https://tvabierta.net/25-cumo-tv-moyobamba.png" group-title="🇵🇪 Perú",25 | Cumo TV || Moyobamba
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/cumo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="27 | Sanjuanera Televisión || Moyobamba" tvg-chno="639" tvg-logo="http://tv.10dailythings.com/images/channels/PE/sanjuaneratv-1080p-not-247/normal.png" group-title="🇵🇪 Perú",27 | Sanjuanera Televisión || Moyobamba
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="28 | OK Television || Soritor" tvg-chno="640" tvg-logo="https://playmax.tv/wp-content/uploads/2022/11/oktv.png" group-title="🇵🇪 Perú",28 | OK Television || Soritor
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0
+#EXTINF:-1 tvg-id="" tvg-name="29 | Vía Alto Mayo Televisión || Rioja" tvg-chno="641" tvg-logo="https://tvabierta.net/29-via-alto-mayo-television-rioja.png" group-title="🇵🇪 Perú",29 | Vía Alto Mayo Televisión || Rioja
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="30 | Nor Selva Televisión || Rioja" tvg-chno="642" tvg-logo="https://tvabierta.net/30-nor-selva-television-rioja.webp" group-title="🇵🇪 Perú",30 | Nor Selva Televisión || Rioja
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="39 | Uranio TV || Yurimaguas" tvg-chno="643" tvg-logo="https://yt3.ggpht.com/DA2asU0w91KyOcHQWUFEtBECgv-NG1pUtRrWw78Negq5uH6gEeLaaxTJkxe8f9CNTDHZJHLfpJM=s88-c-k-c0x00ffffff-no-rj" group-title="🇵🇪 Perú",39 | Uranio TV || Yurimaguas
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="40 | Super Canal Televisión || Yurimaguas" tvg-chno="644" tvg-logo="https://tvabierta.net/supercanal.png" group-title="🇵🇪 Perú",40 | Super Canal Televisión || Yurimaguas
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="42 | Radio Televisión Oriente || Yurimaguas" tvg-chno="645" tvg-logo="https://www.planetaradios.com/content/radios_fm/bo49.png" group-title="🇵🇪 Perú",42 | Radio Televisión Oriente || Yurimaguas
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/tvoriente/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="43 | Telecolor || Yurimaguas" tvg-chno="646" tvg-logo="https://tvabierta.net/43-telecolor-yurimaguas.png" group-title="🇵🇪 Perú",43 | Telecolor || Yurimaguas
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="46 | Viva TV || Yurimaguas" tvg-chno="647" tvg-logo="https://i.imgur.com/GkSoxhx.png" group-title="🇵🇪 Perú",46 | Viva TV || Yurimaguas
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="406 | Piura TV || Piura" tvg-chno="648" tvg-logo="http://core1.hdlatam.tv/media/images/channel/PiuraTVCanal.png" group-title="🇵🇪 Perú",406 | Piura TV || Piura
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/piuratv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="408 | Canal 8 Catacaos || Catacaos; Piura" tvg-chno="649" tvg-logo="https://canal8tv.pe/wp-content/uploads/2023/05/cable8.png" group-title="🇵🇪 Perú",408 | Canal 8 Catacaos || Catacaos; Piura
+#EXTGRP:🇵🇪 Perú
+https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="8 | Conectad2 Televisión" tvg-chno="650" tvg-logo="https://tvabierta.net/8-conectad2-television.png" group-title="🇵🇪 Perú",8 | Conectad2 Televisión
+#EXTGRP:🇵🇪 Perú
+https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="33 | Televisión Tarapoto || Tarapoto" tvg-chno="651" tvg-logo="https://tvabierta.net/33-television-tarapoto-tarapoto.png" group-title="🇵🇪 Perú",33 | Televisión Tarapoto || Tarapoto
+#EXTGRP:🇵🇪 Perú
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="35 | Vía Televisión || Tarapoto" tvg-chno="652" tvg-logo="https://tvabierta.net/35-via-television-tarapoto.png" group-title="🇵🇪 Perú",35 | Vía Televisión || Tarapoto
+#EXTGRP:🇵🇪 Perú
+https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="416 | Radio Televisión Charles || Cajamarca" tvg-chno="653" tvg-logo="http://core1.hdlatam.tv/media/images/channel/RTVC.jpeg" group-title="🇵🇪 Perú",416 | Radio Televisión Charles || Cajamarca
+#EXTGRP:🇵🇪 Perú
+https://ott1.hdlatam.tv/live/cajamarca/RTVC/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="449 | Visión SUR || Arequipa" tvg-chno="654" tvg-logo="https://yt3.ggpht.com/7gYYwN5Vcc60oExLwR3qVffR8Hln2KwuwkGB4v95cfk4TsvazLINUrXt9MWagrzjbuWee8Vc=s900-c-k-c0x00ffffff-no-rj" group-title="🇵🇪 Perú",449 | Visión SUR || Arequipa
+#EXTGRP:🇵🇪 Perú
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="404 | Región TV || Callao" tvg-chno="655" tvg-logo="https://tvabierta.net/404-region-tv-callao.png" group-title="🇵🇪 Perú",404 | Región TV || Callao
+#EXTGRP:🇵🇪 Perú
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="56 | Top TV || Aguaytía" tvg-chno="656" tvg-logo="https://tvabierta.net/56-top-tv-aguaytia.jpg" group-title="🇵🇪 Perú",56 | Top TV || Aguaytía
+#EXTGRP:🇵🇪 Perú
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="En Prueba | Sol TV || Trujillo" tvg-chno="657" tvg-logo="https://tvabierta.net/sol-tv.png" group-title="🇵🇪 Perú",En Prueba | Sol TV || Trujillo
+#EXTGRP:🇵🇪 Perú
+https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="36 | TV Tropical || Tarapoto" tvg-chno="658" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILk-jY1zv90_cln_aHQVRYRO2VEvi7tDWxSaym1za11jp-36P7vBbdIQKJbWOEj9Na4Y&usqp=CAU" group-title="🇵🇪 Perú",36 | TV Tropical || Tarapoto
+#EXTGRP:🇵🇪 Perú
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="44 | RN Televisión || Yurimaguas" tvg-chno="659" tvg-logo="https://tvabierta.net/44-rn-television-yurimaguas.png" group-title="🇵🇪 Perú",44 | RN Televisión || Yurimaguas
+#EXTGRP:🇵🇪 Perú
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8

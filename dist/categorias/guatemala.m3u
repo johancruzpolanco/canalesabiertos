@@ -1,22 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canalantigua" tvg-chno="232" tvg-logo="https://tvabierta.net/ca.png" group-title="🇬🇹 Guatemala",Canalantigua
+#EXTINF:-1 tvg-id="" tvg-name="Canalantigua" tvg-chno="662" tvg-logo="https://tvabierta.net/ca.png" group-title="🇬🇹 Guatemala",Canalantigua
 #EXTGRP:🇬🇹 Guatemala
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="233" tvg-logo="https://tvabierta.net/amigostv.png" group-title="🇬🇹 Guatemala",Amigos TV
-#EXTGRP:🇬🇹 Guatemala
-https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conectados" tvg-chno="234" tvg-logo="https://tvabierta.net/conectados.png" group-title="🇬🇹 Guatemala",Conectados
-#EXTGRP:🇬🇹 Guatemala
-https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="235" tvg-logo="https://tvabierta.net/barbetv.png" group-title="🇬🇹 Guatemala",Barbe TV
-#EXTGRP:🇬🇹 Guatemala
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal27" tvg-chno="236" tvg-logo="https://tvabierta.net/canal27.png" group-title="🇬🇹 Guatemala",Canal27
-#EXTGRP:🇬🇹 Guatemala
-https://ch1-c27.duin.dev/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Penielfamiliar" tvg-chno="237" tvg-logo="https://tvabierta.net/peniel.png" group-title="🇬🇹 Guatemala",Penielfamiliar
+#EXTINF:-1 tvg-id="" tvg-name="Peniel Familia" tvg-chno="663" tvg-logo="https://tvabierta.net/peniel.png" group-title="🇬🇹 Guatemala",Peniel Familia
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/penielfamiliar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="238" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
+#EXTINF:-1 tvg-id="" tvg-name="Canal27" tvg-chno="664" tvg-logo="https://tvabierta.net/canal27.png" group-title="🇬🇹 Guatemala",Canal27
+#EXTGRP:🇬🇹 Guatemala
+https://ch1-c27.duin.dev/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="665" tvg-logo="https://tvabierta.net/amigostv.png" group-title="🇬🇹 Guatemala",Amigos TV
+#EXTGRP:🇬🇹 Guatemala
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="666" tvg-logo="https://tvabierta.net/barbetv.png" group-title="🇬🇹 Guatemala",Barbe TV
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="667" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conectados" tvg-chno="668" tvg-logo="https://tvabierta.net/conectados.png" group-title="🇬🇹 Guatemala",Conectados
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="891 | Visión TV" tvg-chno="669" tvg-logo="https://static.wixstatic.com/media/7acae1_68253d580c29475b9be0be44ae441758~mv2.png" group-title="🇬🇹 Guatemala",891 | Visión TV
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="889 | Nim TV" tvg-chno="670" tvg-logo="https://static.wixstatic.com/media/7acae1_a52030788e08407abb6f67a51e0d5276~mv2.png" group-title="🇬🇹 Guatemala",889 | Nim TV
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="881 | TVS Retro" tvg-chno="671" tvg-logo="https://static.wixstatic.com/media/7acae1_cedb3160f2f54e378f9990c5a5a49a1d~mv2.png" group-title="🇬🇹 Guatemala",881 | TVS Retro
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="883 | Canal TV 6" tvg-chno="672" tvg-logo="https://tvabierta.net/883-canal-tv-6.png" group-title="🇬🇹 Guatemala",883 | Canal TV 6
+#EXTGRP:🇬🇹 Guatemala
+https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="915 | Maxivisión" tvg-chno="673" tvg-logo="https://tvabierta.net/915-maxivision.png" group-title="🇬🇹 Guatemala",915 | Maxivisión
+#EXTGRP:🇬🇹 Guatemala
+https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8

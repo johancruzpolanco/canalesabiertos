@@ -1,40 +1,139 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canela" tvg-chno="501" tvg-logo="https://tvabierta.net/canela.jpeg" group-title="🎬 Películas y Series",Canela
-#EXTGRP:🎬 Películas y Series
-https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8?rights_holder_id=canela-tv2&user_id=&vip=154.88.131.7&ic=IAB1-7&content_livestream=1&app_bundle=canela.tv&app_name=CanelaTV&app_store_url=NA&dnt=0&did=aa3bde15-3258-4b6a-b044-b154c741b1ac&url=https://www.canela.tv/&us_privacy=null_us_privacy&ifa_type=NA&lmt=NA&device_language=es&coppa=0
-#EXTINF:-1 tvg-id="" tvg-name="Pelimex" tvg-chno="502" tvg-logo="https://tvabierta.net/pelimex.jpeg" group-title="🎬 Películas y Series",Pelimex
-#EXTGRP:🎬 Películas y Series
-https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC Drama" tvg-chno="503" tvg-logo="https://tvabierta.net/bbcdrama.png" group-title="🎬 Películas y Series",BBC Drama
-#EXTGRP:🎬 Películas y Series
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-chno="504" tvg-logo="https://tvabierta.net/wtv.png" group-title="🎬 Películas y Series",WTV
-#EXTGRP:🎬 Películas y Series
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="505" tvg-logo="https://tvabierta.net/orbit.png" group-title="🎬 Películas y Series",Orbit TV
-#EXTGRP:🎬 Películas y Series
-https://cnn.hostlagarto.com/orbittv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="506" tvg-logo="https://tvabierta.net/iutv.png" group-title="🎬 Películas y Series",Imagenuniversal TV
-#EXTGRP:🎬 Películas y Series
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten Comedia" tvg-chno="507" tvg-logo="https://tvabierta.net/rakutentv.png" group-title="🎬 Películas y Series",Rakuten Comedia
-#EXTGRP:🎬 Películas y Series
-https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FMTV" tvg-chno="508" tvg-logo="https://tvabierta.net/fmtv.png" group-title="🎬 Películas y Series",FMTV
-#EXTGRP:🎬 Películas y Series
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ametv" tvg-chno="509" tvg-logo="https://tvabierta.net/ametv.png" group-title="🎬 Películas y Series",Ametv
+#EXTINF:-1 tvg-id="" tvg-name="Ametv" tvg-chno="102" tvg-logo="https://tvabierta.net/ametv.png" group-title="🎬 Películas y Series",Ametv
 #EXTGRP:🎬 Películas y Series
 https://ss2.tvrdomi.com:1936/ame47/ame47/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="510" tvg-logo="https://tvabierta.net/cascaratv.png" group-title="🎬 Películas y Series",Cascara TV
+#EXTINF:-1 tvg-id="" tvg-name="Dhe" tvg-chno="103" tvg-logo="https://tvabierta.net/dhe.png" group-title="🎬 Películas y Series",Dhe
 #EXTGRP:🎬 Películas y Series
-https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LG +1" tvg-chno="511" tvg-logo="https://tvabierta.net/lg1.png" group-title="🎬 Películas y Series",LG +1
+https://ds.tvabierta.net/memfs/59e83090-cdc4-4075-80ca-a4a17ac84f2a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-chno="104" tvg-logo="https://tvabierta.net/cinecanal.png" group-title="🎬 Películas y Series",Cinecanal
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/8580a7fd-8ba5-4832-9796-c31cc83acbff.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-chno="105" tvg-logo="https://tvabierta.net/cinelatino.png" group-title="🎬 Películas y Series",Cine Latino
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/db14dac2-bd3e-4769-8173-d82ebcbf4244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LG +1" tvg-chno="106" tvg-logo="https://tvabierta.net/lg1.png" group-title="🎬 Películas y Series",LG +1
 #EXTGRP:🎬 Películas y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Runtime Series" tvg-chno="512" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Runtime Series
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-chno="107" tvg-logo="https://tvabierta.net/space.png" group-title="🎬 Películas y Series",Space
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/53c69c4b-f12b-4ff2-9117-d18d2cf8b8dc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-chno="108" tvg-logo="https://tvabierta.net/tnt.png" group-title="🎬 Películas y Series",TNT
+#EXTGRP:🎬 Películas y Series
+http://205.235.6.29:8000/play/a0yr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tntseries" tvg-chno="109" tvg-logo="https://tvabierta.net/tntseries.png" group-title="🎬 Películas y Series",Tntseries
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/82a393a4-6713-4f20-bcb3-87a927b9bb99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-chno="110" tvg-logo="https://tvabierta.net/cinemax.png" group-title="🎬 Películas y Series",Cinemax
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/144c3770-68f6-4550-a733-93a884fef12c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Axn" tvg-chno="111" tvg-logo="https://tvabierta.net/axn.png" group-title="🎬 Películas y Series",Axn
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/cd024342-8486-485f-8ee0-fa7077f64fe6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&e" tvg-chno="112" tvg-logo="https://tvabierta.net/ae.png" group-title="🎬 Películas y Series",A&e
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/3503d0c9-c70f-4d38-b3cc-59eea5a336de.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tcm" tvg-chno="113" tvg-logo="https://tvabierta.net/tcm.png" group-title="🎬 Películas y Series",Tcm
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/606d73be-8630-41f3-822b-c2ea203ba3a2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1" tvg-chno="114" tvg-logo="https://tvabierta.net/hbo.png" group-title="🎬 Películas y Series",HBO 1
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/08a872d2-ba8f-44a6-86fc-4fdf7df1f2eb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-chno="115" tvg-logo="https://tvabierta.net/hbo2.png" group-title="🎬 Películas y Series",HBO 2
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/609d35c5-a37a-4cf5-b61a-b7e89855c0e3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-chno="116" tvg-logo="https://tvabierta.net/uc.png" group-title="🎬 Películas y Series",Universal Cinema
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/4e245103-3195-4575-8755-b4d266d16937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden 1" tvg-chno="117" tvg-logo="https://tvabierta.net/golden.png" group-title="🎬 Películas y Series",Golden 1
+#EXTGRP:🎬 Películas y Series
+http://201.216.147.90:8729/play/a0df
+#EXTINF:-1 tvg-id="" tvg-name="Golden 2" tvg-chno="118" tvg-logo="https://tvabierta.net/golden.png" group-title="🎬 Películas y Series",Golden 2
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/cf884de0-aa4e-4387-9817-9c318fc678e0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premiere" tvg-chno="119" tvg-logo="https://tvabierta.net/golden.png" group-title="🎬 Películas y Series",Golden Premiere
+#EXTGRP:🎬 Películas y Series
+http://45.166.93.156:9999/play/a0g3
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-chno="120" tvg-logo="https://tvabierta.net/sonymovies.png" group-title="🎬 Películas y Series",Sony
+#EXTGRP:🎬 Películas y Series
+http://45.166.93.156:9999/play/a0bw
+#EXTINF:-1 tvg-id="" tvg-name="FMTV" tvg-chno="121" tvg-logo="https://tvabierta.net/fmtv.png" group-title="🎬 Películas y Series",FMTV
+#EXTGRP:🎬 Películas y Series
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-chno="122" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Romance
+#EXTGRP:🎬 Películas y Series
+https://run-rr-es.otteravision.com/run/rr_es/rr_es.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clasicos" tvg-chno="123" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Clasicos
+#EXTGRP:🎬 Películas y Series
+https://run-cl-es.otteravision.com/run/cl_es/cl_es.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Crimen" tvg-chno="124" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Crimen
+#EXTGRP:🎬 Películas y Series
+https://run-cr-es.otteravision.com/run/cr_es/cr_es.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedia" tvg-chno="125" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Comedia
+#EXTGRP:🎬 Películas y Series
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine" tvg-chno="126" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Cine
+#EXTGRP:🎬 Películas y Series
+https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Accion" tvg-chno="127" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",Accion
+#EXTGRP:🎬 Películas y Series
+https://run-ra-es.otteravision.com/run/ra_es/ra_es.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="312 Runtime Series" tvg-chno="128" tvg-logo="https://tvabierta.net/runtime.png" group-title="🎬 Películas y Series",312 Runtime Series
 #EXTGRP:🎬 Películas y Series
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12863&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
-#EXTINF:-1 tvg-id="" tvg-name="Ladescarga TV" tvg-chno="513" tvg-logo="https://tvabierta.net/ladescargatv.jpeg" group-title="🎬 Películas y Series",Ladescarga TV
+#EXTINF:-1 tvg-id="" tvg-name="Mytime 1" tvg-chno="129" tvg-logo="https://tvabierta.net/mytime.png" group-title="🎬 Películas y Series",Mytime 1
+#EXTGRP:🎬 Películas y Series
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mytime 2" tvg-chno="130" tvg-logo="https://tvabierta.net/mytime.png" group-title="🎬 Películas y Series",Mytime 2
+#EXTGRP:🎬 Películas y Series
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canaldelsol" tvg-chno="131" tvg-logo="https://tvabierta.net/canaldelsol.png" group-title="🎬 Películas y Series",Canaldelsol
+#EXTGRP:🎬 Películas y Series
+https://stream.canaldelsol.com/sol26/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Artflix - Películas Clásicas" tvg-chno="132" tvg-logo="https://tvabierta.net/artflix.png" group-title="🎬 Películas y Series",Artflix - Películas Clásicas
+#EXTGRP:🎬 Películas y Series
+https://90f79c4ea0dc44b783cdb19b0f10fc2c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_ARTFLIXPeliculasClasicas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Grjngo - Películas Del Oeste" tvg-chno="133" tvg-logo="https://tvabierta.net/grjngo.png" group-title="🎬 Películas y Series",Grjngo - Películas Del Oeste
+#EXTGRP:🎬 Películas y Series
+https://7ae9adf49f134692a2be9c23c25d6b46.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/LG-es_GrjngoPeliculasDelOeste-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Orbit TV" tvg-chno="134" tvg-logo="https://tvabierta.net/orbit.png" group-title="🎬 Películas y Series",Orbit TV
+#EXTGRP:🎬 Películas y Series
+https://mlb.essastream.com:8081/orbittv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imagenuniversal TV" tvg-chno="135" tvg-logo="https://tvabierta.net/iutv.png" group-title="🎬 Películas y Series",Imagenuniversal TV
+#EXTGRP:🎬 Películas y Series
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cascara TV" tvg-chno="136" tvg-logo="https://tvabierta.net/cascaratv.png" group-title="🎬 Películas y Series",Cascara TV
+#EXTGRP:🎬 Películas y Series
+https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WTV" tvg-chno="137" tvg-logo="https://tvabierta.net/wtv.png" group-title="🎬 Películas y Series",WTV
+#EXTGRP:🎬 Películas y Series
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ladescarga TV" tvg-chno="138" tvg-logo="https://tvabierta.net/ladescargatv.jpeg" group-title="🎬 Películas y Series",Ladescarga TV
 #EXTGRP:🎬 Películas y Series
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pelimex" tvg-chno="139" tvg-logo="https://tvabierta.net/pelimex.jpeg" group-title="🎬 Películas y Series",Pelimex
+#EXTGRP:🎬 Películas y Series
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="En Familia" tvg-chno="140" tvg-logo="https://tvabierta.net/rakutentv.png" group-title="🎬 Películas y Series",En Familia
+#EXTGRP:🎬 Películas y Series
+https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Familiar" tvg-chno="141" tvg-logo="https://tvabierta.net/cinefamiliar.png" group-title="🎬 Películas y Series",Cine Familiar
+#EXTGRP:🎬 Películas y Series
+http://177.234.218.66:8084/play/a001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Friki" tvg-chno="142" tvg-logo="https://tvabierta.net/cinefriki.png" group-title="🎬 Películas y Series",Cine Friki
+#EXTGRP:🎬 Películas y Series
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Western" tvg-chno="143" tvg-logo="https://tvabierta.net/cinewestern.png" group-title="🎬 Películas y Series",Cine Western
+#EXTGRP:🎬 Películas y Series
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-chno="144" tvg-logo="https://tvabierta.net/sonymovies.png" group-title="🎬 Películas y Series",Sony Movies
+#EXTGRP:🎬 Películas y Series
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-chno="145" tvg-logo="https://tvabierta.net/cc.png" group-title="🎬 Películas y Series",Comedy Central
+#EXTGRP:🎬 Películas y Series
+https://ds.tvabierta.net/memfs/3d31d224-a5e1-4dd1-9ce3-949bc9b6a222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MovieSphere" tvg-chno="146" tvg-logo="https://tvabierta.net/moviesphere.png" group-title="🎬 Películas y Series",MovieSphere
+#EXTGRP:🎬 Películas y Series
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hi-Yah!" tvg-chno="147" tvg-logo="https://tvabierta.net/dove-channel.png" group-title="🎬 Películas y Series",Hi-Yah!
+#EXTGRP:🎬 Películas y Series
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8

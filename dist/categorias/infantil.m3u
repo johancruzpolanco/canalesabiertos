@@ -1,40 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bpskids" tvg-chno="276" tvg-logo="https://tvabierta.net/bpskdis.png" group-title="🧒 Infantil",Bpskids
-#EXTGRP:🧒 Infantil
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-chno="277" tvg-logo="https://tvabierta.net/extremakids.png" group-title="🧒 Infantil",Extrema Kids
-#EXTGRP:🧒 Infantil
-https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="154 | TVG Xabarín" tvg-chno="278" tvg-logo="https://tvabierta.net/154-tvg-xabarin.png" group-title="🧒 Infantil",154 | TVG Xabarín
-#EXTGRP:🧒 Infantil
-https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Baby Einstein" tvg-chno="279" tvg-logo="https://tvabierta.net/babyeinstein.png" group-title="🧒 Infantil",Baby Einstein
-#EXTGRP:🧒 Infantil
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992134&ads.xumo_streamId=99992134&ads.channelId=99992134&ads.csid=lgchannels_es_babyeinstein_ssai&ads.channelName=babyeinstein_es&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.xumo_providerName=BabyEinstein&ads.xumo_providerId=3517&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-y&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="MojiTV" tvg-chno="280" tvg-logo="https://tvabierta.net/mojitv.png" group-title="🧒 Infantil",MojiTV
-#EXTGRP:🧒 Infantil
-https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992452&ads.xumo_streamId=99992452&ads.channelId=99992452&ads.csid=lgchannels_es_odmediamexico_ssai&ads.channelName=lospitufos_es&ads.xumo_contentName=ODMediaMexico&ads.xumo_contentId=3194&ads.xumo_providerName=ODMediaMexico&ads.xumo_providerId=3194&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=es&ads.content_rating=tv-g&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-chno="281" tvg-logo="https://tvabierta.net/ducktv.png" group-title="🧒 Infantil",Duck TV
-#EXTGRP:🧒 Infantil
-https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="143 | Toon Goggles TV" tvg-chno="282" tvg-logo="https://tvabierta.net/toon-goggles.png" group-title="🧒 Infantil",143 | Toon Goggles TV
-#EXTGRP:🧒 Infantil
-https://ds.tvabierta.net/memfs/42e79213-cc6b-4f3d-b0f9-216772339631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sin Nombre" tvg-chno="283" tvg-logo="https://tvabierta.net/extremakids.png" group-title="🧒 Infantil",Canal Sin Nombre
-#EXTGRP:🧒 Infantil
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="163 | 13 Kids" tvg-chno="284" tvg-logo="https://tvabierta.net/163-13-kids.svg" group-title="🧒 Infantil",163 | 13 Kids
-#EXTGRP:🧒 Infantil
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dios Te VE Kids" tvg-chno="285" tvg-logo="https://tvabierta.net/diostevekids.png" group-title="🧒 Infantil",Dios Te VE Kids
+#EXTINF:-1 tvg-id="" tvg-name="Dios Te VE Kids" tvg-chno="565" tvg-logo="https://tvabierta.net/diostevekids.png" group-title="🧒 Infantil",Dios Te VE Kids
 #EXTGRP:🧒 Infantil
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sensical" tvg-chno="286" tvg-logo="https://tvabierta.net/sensical.png" group-title="🧒 Infantil",Sensical
+#EXTINF:-1 tvg-id="" tvg-name="Extrema Kids" tvg-chno="566" tvg-logo="https://tvabierta.net/extremakids.png" group-title="🧒 Infantil",Extrema Kids
 #EXTGRP:🧒 Infantil
-https://sensical2up-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sat" tvg-chno="287" tvg-logo="https://tvabierta.net/satkids.png" group-title="🧒 Infantil",Sat
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-chno="567" tvg-logo="https://tvabierta.net/dkids.png" group-title="🧒 Infantil",Discovery Kids
 #EXTGRP:🧒 Infantil
-https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-chno="288" tvg-logo="https://tvabierta.net/zoomoo.png" group-title="🧒 Infantil",Zoomoo
+https://ds.tvabierta.net/memfs/d6930ae5-a420-456e-a5f2-ee06f9852946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-chno="568" tvg-logo="https://tvabierta.net/cartoonito.png" group-title="🧒 Infantil",Cartoonito
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/50b08961-ec8b-4f19-9330-7291da6eea51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-chno="569" tvg-logo="https://tvabierta.net/nick.png" group-title="🧒 Infantil",Nick
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/240ec70f-be42-442f-a13c-31066d245bb5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-chno="570" tvg-logo="https://tvabierta.net/nickjr.png" group-title="🧒 Infantil",Nick Jr
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/88b7e45c-0575-4ab3-8007-5ad0ece0dfff.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-chno="571" tvg-logo="https://tvabierta.net/disney.png" group-title="🧒 Infantil",Disney
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/8a167141-1e8f-4346-a13b-4ed7c72ef962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disneyjr" tvg-chno="572" tvg-logo="https://tvabierta.net/disneyjr.png" group-title="🧒 Infantil",Disneyjr
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/df3658ac-3609-4ba5-9834-498c4e0344a5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disneyxd" tvg-chno="573" tvg-logo="https://tvabierta.net/disneyxd.png" group-title="🧒 Infantil",Disneyxd
+#EXTGRP:🧒 Infantil
+http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-chno="574" tvg-logo="https://tvabierta.net/zoomoo.png" group-title="🧒 Infantil",Zoomoo
 #EXTGRP:🧒 Infantil
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bpskids" tvg-chno="575" tvg-logo="https://tvabierta.net/bpskdis.png" group-title="🧒 Infantil",Bpskids
+#EXTGRP:🧒 Infantil
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="Sensical" tvg-chno="576" tvg-logo="https://tvabierta.net/sensical.png" group-title="🧒 Infantil",Sensical
+#EXTGRP:🧒 Infantil
+https://sensical2up-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cn" tvg-chno="577" tvg-logo="https://tvabierta.net/cn.png" group-title="🧒 Infantil",Cn
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/208ad47a-225c-4b3a-ac08-cb324f3ca508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Goku TV" tvg-chno="578" tvg-logo="https://tvabierta.net/gokutv.png" group-title="🧒 Infantil",Goku TV
+#EXTGRP:🧒 Infantil
+http://38.3.162.3:18009/play/a0c2
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-chno="580" tvg-logo="https://tvabierta.net/ducktv.png" group-title="🧒 Infantil",Duck TV
+#EXTGRP:🧒 Infantil
+https://dlir9brl2ge8j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9u2v4ro40jww6-ssai-prd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="846 Clan" tvg-chno="581" tvg-logo="https://tvabierta.net/clan.png" group-title="🧒 Infantil",846 Clan
+#EXTGRP:🧒 Infantil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15620&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
+#EXTINF:-1 tvg-id="" tvg-name="848 Robocar POLI" tvg-chno="582" tvg-logo="https://tvabierta.net/robocarpoli.png" group-title="🧒 Infantil",848 Robocar POLI
+#EXTGRP:🧒 Infantil
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=robocarpoli&channel_id=newid_260&mpf=9b610e2e-39af1962-a2806264&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=72ebce45-a3d44d6d-0dfd91ac-d4a4d7c1&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-id="" tvg-name="849 Tayo+" tvg-chno="583" tvg-logo="https://tvabierta.net/tayo.png" group-title="🧒 Infantil",849 Tayo+
+#EXTGRP:🧒 Infantil
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=tayo%2B&channel_id=newid_251&mpf=c74b6d7b-39af1962-57c029da&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=4b807018-efd96888-b187ba80-98a9f224&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-id="" tvg-name="Cbckids" tvg-chno="584" tvg-logo="https://tvabierta.net/cbckids.jpg" group-title="🧒 Infantil",Cbckids
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/1e853efd-373b-4280-a08c-5332881f2591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOKids" tvg-chno="585" tvg-logo="" group-title="🧒 Infantil",TVOKids
+#EXTGRP:🧒 Infantil
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Babyfirst" tvg-chno="586" tvg-logo="https://tvabierta.net/babyfirst.png" group-title="🧒 Infantil",Babyfirst
+#EXTGRP:🧒 Infantil
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-chno="587" tvg-logo="https://tvabierta.net/babytv.png" group-title="🧒 Infantil",Baby TV
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/875da895-8836-441a-81a4-4e1940420ed7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby Einstein" tvg-chno="588" tvg-logo="https://tvabierta.net/babyeinstein.png" group-title="🧒 Infantil",Baby Einstein
+#EXTGRP:🧒 Infantil
+https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992134&ads.xumo_streamId=99992134&ads.channelId=99992134&ads.csid=lgchannels_es_babyeinstein_ssai&ads.channelName=babyeinstein_es&ads.xumo_contentName=BabyEinstein&ads.xumo_contentId=3517&ads.xumo_providerName=BabyEinstein&ads.xumo_providerId=3517&ads.content_category=IAB6&ads.content_genre=kids&ads.content_language=en&ads.content_rating=tv-y&ads.coppa=1&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
+#EXTINF:-1 tvg-id="" tvg-name="La Abeja Maya" tvg-chno="589" tvg-logo="https://tvabierta.net/laabejamaya.jpeg" group-title="🧒 Infantil",La Abeja Maya
+#EXTGRP:🧒 Infantil
+https://daiconnect.com/live/hls/tvup/lg-planetajunior/.m3u8?DID=[DEVICE_ID]&DAdID=[IFA]&DAdIDT=[IFA_TYPE]&ULAdT=[LMT]&UDNS=[DNS]&UUA=[UA]&UIP=[IP]&UGDPR=[GDPR]&USrGDPRC=[GDPR_CONSENT]&Ucntr=[COUNTRY]&UPP=[US_PRIVACY]&ApStURL=[APP_STOREURL]&ApBdl=[APP_BUNDLE]&ApNm=[APP_NAME]&ApV=[APP_VERSION]&DT=[DEVICE_TYPE]&DMk=[DEVICE_MAKE]&DMdl=[DEVICE_MODEL]&VwSz=[VIEWSIZE]&FCK=[FCK]
+#EXTINF:-1 tvg-id="" tvg-name="PBS Kids" tvg-chno="590" tvg-logo="https://tvabierta.net/doctor-who-classic.png" group-title="🧒 Infantil",PBS Kids
+#EXTGRP:🧒 Infantil
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="154 | TVG Xabarín" tvg-chno="591" tvg-logo="https://tvabierta.net/154-tvg-xabarin.png" group-title="🧒 Infantil",154 | TVG Xabarín
+#EXTGRP:🧒 Infantil
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="143 | Toon Goggles TV" tvg-chno="592" tvg-logo="https://tvabierta.net/toon-goggles.png" group-title="🧒 Infantil",143 | Toon Goggles TV
+#EXTGRP:🧒 Infantil
+https://ds.tvabierta.net/memfs/42e79213-cc6b-4f3d-b0f9-216772339631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="163 | 13 Kids" tvg-chno="593" tvg-logo="https://tvabierta.net/163-13-kids.svg" group-title="🧒 Infantil",163 | 13 Kids
+#EXTGRP:🧒 Infantil
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8

@@ -1,15 +1,15 @@
 # 📺 Canales disponibles
 
-**Total:** 699 canales en 28 categorías  
-**Actualizado:** 2026-09-29 21:51 UTC  
+**Total:** 698 canales en 28 categorías  
+**Actualizado:** 2026-09-30 03:57 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 86 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 26 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 84 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 26 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -39,13 +39,11 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (86 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (84 canales)</summary>
 
 - Bloomberg
 - A 7 TV
 - RNN
-- Latinatvinternacional
-- Latinatvinternacional
 - Latinostvny
 - Boncheslatinos TV
 - Manaclar TV
@@ -130,8 +128,9 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (26 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (27 canales)</summary>
 
+- CNN en Español
 - Bethel TV
 - EWTN
 - Kanald

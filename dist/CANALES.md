@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 701 canales en 28 categorías  
-**Actualizado:** 2026-10-02 11:52 UTC  
+**Total:** 694 canales en 28 categorías  
+**Actualizado:** 2026-10-02 17:26 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 86 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 85 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 26 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -16,7 +16,7 @@
 | 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 3 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
-| 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
+| 🇦🇷 Argentina | 17 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
@@ -27,19 +27,19 @@
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 11 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 162 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
-| 🇬🇹 Guatemala | 7 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
-| 🇭🇳 Honduras | 8 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
+| 🇬🇹 Guatemala | 6 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
+| 🇭🇳 Honduras | 7 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 15 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
-| 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
+| 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 8 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 196 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 192 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (86 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (85 canales)</summary>
 
 - Bloomberg
 - A 7 TV
@@ -52,7 +52,6 @@
 - El Puerto TV
 - Canalda
 - Hainavision
-- Cananga TV
 - Bajo Techo TV
 - Bellavisión
 - Punta Cana TV
@@ -296,12 +295,11 @@
 
 </details>
 
-<details><summary><b>🇦🇷 Argentina</b> (18 canales)</summary>
+<details><summary><b>🇦🇷 Argentina</b> (17 canales)</summary>
 
 - 9 Link
 - 5 TV
 - Pinguino TV
-- BravoTV
 - Viento Recio
 - Catamarca TV
 - Canal Orbe 21
@@ -581,19 +579,18 @@
 
 </details>
 
-<details><summary><b>🇬🇹 Guatemala</b> (7 canales)</summary>
+<details><summary><b>🇬🇹 Guatemala</b> (6 canales)</summary>
 
 - Canalantigua
 - Amigos TV
 - Conectados
-- Barbe TV
 - Canal27
 - Penielfamiliar
 - Barivision
 
 </details>
 
-<details><summary><b>🇭🇳 Honduras</b> (8 canales)</summary>
+<details><summary><b>🇭🇳 Honduras</b> (7 canales)</summary>
 
 - Canal 11
 - Alsacias TV
@@ -601,7 +598,6 @@
 - Dteve
 - Metro TV
 - Buendia TV
-- Azatv
 - CHTV
 
 </details>
@@ -640,8 +636,9 @@
 
 </details>
 
-<details><summary><b>🇵🇪 Perú</b> (6 canales)</summary>
+<details><summary><b>🇵🇪 Perú</b> (7 canales)</summary>
 
+- Willax
 - Panamericana
 - Antares TV
 - Antenasur
@@ -679,17 +676,14 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (196 canales)</summary>
+<details><summary><b>📺 Otros</b> (192 canales)</summary>
 
-- 607 | Primer TV
-- 557 | Br Global Station
 - 541 | TVE
 - 654 | TV Nordestina
 - 601 | TV CNB
 - 639 | CNB American
 - 577 | TV Max
 - 588 | Yeeaah TV
-- 593 | Amazon Sat TV
 - 580 | Com Brasil
 - 640 | TV Amplitude
 - 612 | Adesso TV
@@ -792,7 +786,6 @@
 - KAVU Crossroads Today Victoria TX
 - TheGrio
 - WFTV (ABC) News 9 Orlando FL
-- WDRB Louisville KY
 - WHIO (CBS) News 7 Dayton OH
 - WGBA NBC26 News Green Bay
 - WFXT (FOX) News 25 Boston MA

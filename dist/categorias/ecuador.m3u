@@ -1,40 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ecuadortv 1" tvg-chno="594" tvg-logo="https://tvabierta.net/ecuadortv.png" group-title="🇪🇨 Ecuador",Ecuadortv 1
-#EXTGRP:🇪🇨 Ecuador
-http://205.235.6.29:8000/play/a0ye
-#EXTINF:-1 tvg-id="" tvg-name="Ecuadortv 2" tvg-chno="595" tvg-logo="https://tvabierta.net/ecuadortv.png" group-title="🇪🇨 Ecuador",Ecuadortv 2
-#EXTGRP:🇪🇨 Ecuador
-https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="596" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
-#EXTGRP:🇪🇨 Ecuador
-https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="597" tvg-logo="https://tvabierta.net/ecuavisa.png group-title=" group-title="🇪🇨 Ecuador",Ecuavisa 2
-#EXTGRP:🇪🇨 Ecuador
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gamavisión" tvg-chno="598" tvg-logo="https://tvabierta.net/gamavision.png" group-title="🇪🇨 Ecuador",Gamavisión
-#EXTGRP:🇪🇨 Ecuador
-http://205.235.6.29:8000/play/a0yf
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-chno="599" tvg-logo="https://tvabierta.net/teleamazonas.jpg" group-title="🇪🇨 Ecuador",Teleamazonas
-#EXTGRP:🇪🇨 Ecuador
-http://205.235.6.29:8000/play/a0yd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Austral TV" tvg-chno="600" tvg-logo="https://tvabierta.net/australtv.png" group-title="🇪🇨 Ecuador",Austral TV
-#EXTGRP:🇪🇨 Ecuador
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ciracu TV" tvg-chno="601" tvg-logo="https://tvabierta.net/ciracu.png" group-title="🇪🇨 Ecuador",Ciracu TV
+#EXTINF:-1 tvg-id="" tvg-name="Ciracu TV" tvg-chno="219" tvg-logo="https://tvabierta.net/ciracu.png" group-title="🇪🇨 Ecuador",Ciracu TV
 #EXTGRP:🇪🇨 Ecuador
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="464 | Ecotel TV || ECUADOR" tvg-chno="602" tvg-logo="https://tvabierta.net/464-ecotel-tv-ecuador.png" group-title="🇪🇨 Ecuador",464 | Ecotel TV || ECUADOR
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="220" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
 #EXTGRP:🇪🇨 Ecuador
-https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="470 | Sono Onda TV || ECUADOR" tvg-chno="603" tvg-logo="https://tvabierta.net/470-sono-onda-tv-ecuador.png" group-title="🇪🇨 Ecuador",470 | Sono Onda TV || ECUADOR
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="221" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
 #EXTGRP:🇪🇨 Ecuador
-https://live.obslivestream.com/sonoondatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="458 | Ecuavisa || ECUADOR" tvg-chno="604" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",458 | Ecuavisa || ECUADOR
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="222" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
 #EXTGRP:🇪🇨 Ecuador
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="480 | RTV || ECUADOR" tvg-chno="605" tvg-logo="https://tvabierta.net/480-rtv-ecuador.png" group-title="🇪🇨 Ecuador",480 | RTV || ECUADOR
-#EXTGRP:🇪🇨 Ecuador
-https://sv72.ecuaradiotv.net/rtvhd/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="474 | TV Color Canal 36 Cotopaxi || ECUADOR" tvg-chno="606" tvg-logo="https://tvabierta.net/474-tv-color-canal-36-cotopaxi-ecuador.webp" group-title="🇪🇨 Ecuador",474 | TV Color Canal 36 Cotopaxi || ECUADOR
-#EXTGRP:🇪🇨 Ecuador
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8

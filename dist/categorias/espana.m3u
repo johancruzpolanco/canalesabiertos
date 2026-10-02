@@ -1,55 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="La 1" tvg-chno="763" tvg-logo="https://tvabierta.net/la1.png" group-title="🇪🇸 España",La 1
-#EXTGRP:🇪🇸 España
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-chno="764" tvg-logo="https://tvabierta.net/antena3.png" group-title="🇪🇸 España",Antena 3
-#EXTGRP:🇪🇸 España
-http://45.166.93.156:9999/play/a0fo
-#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="765" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
-#EXTGRP:🇪🇸 España
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional America" tvg-chno="766" tvg-logo="https://tvabierta.net/tve.png" group-title="🇪🇸 España",TVE Internacional America
-#EXTGRP:🇪🇸 España
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AragonTV" tvg-chno="767" tvg-logo="https://tvabierta.net/aragontv.png" group-title="🇪🇸 España",AragonTV
-#EXTGRP:🇪🇸 España
-https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/d1hajab2w2oajq/504a744747b04321bc8042af57c2f7db/699341967864450d4f062ba9/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Clan Internacional" tvg-chno="768" tvg-logo="https://tvabierta.net/clan.png" group-title="🇪🇸 España",Clan Internacional
-#EXTGRP:🇪🇸 España
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tele Elx" tvg-chno="769" tvg-logo="https://tvabierta.net/teleelx.png" group-title="🇪🇸 España",Tele Elx
-#EXTGRP:🇪🇸 España
-https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-chno="770" tvg-logo="https://tvabierta.net/canalmalaga.jpg" group-title="🇪🇸 España",Canal Málaga
+#EXTINF:-1 tvg-id="" tvg-name="Canal Málaga" tvg-chno="223" tvg-logo="https://tvabierta.net/canalmalaga.jpg" group-title="🇪🇸 España",Canal Málaga
 #EXTGRP:🇪🇸 España
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="771" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
+#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-chno="224" tvg-logo="https://tvabierta.net/cmm.png" group-title="🇪🇸 España",CMM
 #EXTGRP:🇪🇸 España
-https://hls.tvabierta.net/hls/rtvce.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40" tvg-chno="772" tvg-logo="https://tvabierta.net/mijas.jpg" group-title="🇪🇸 España",Mijas 3.40
-#EXTGRP:🇪🇸 España
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alacanti TV" tvg-chno="773" tvg-logo="https://tvabierta.net/alacanti.jpg" group-title="🇪🇸 España",Alacanti TV
-#EXTGRP:🇪🇸 España
-https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Coin TV" tvg-chno="774" tvg-logo="https://tvabierta.net/cointv.png" group-title="🇪🇸 España",Canal Coin TV
-#EXTGRP:🇪🇸 España
-https://canalcoin.garjim.es/hls/directo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sierra De Cadiz" tvg-chno="775" tvg-logo="https://tvabierta.net/sierracadiz.png" group-title="🇪🇸 España",Canal Sierra De Cadiz
-#EXTGRP:🇪🇸 España
-https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal SUR Andalucia" tvg-chno="776" tvg-logo="https://tvabierta.net/canalsurandalucia.png" group-title="🇪🇸 España",Canal SUR Andalucia
-#EXTGRP:🇪🇸 España
-https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal SUR Noticias" tvg-chno="777" tvg-logo="https://tvabierta.net/canalsurnoticias.png" group-title="🇪🇸 España",Canal SUR Noticias
-#EXTGRP:🇪🇸 España
-https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvsurvision Alerce" tvg-chno="778" tvg-logo="https://tvabierta.net/tvsurvision.png" group-title="🇪🇸 España",Tvsurvision Alerce
-#EXTGRP:🇪🇸 España
-https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ciudades Del Ocio TV" tvg-chno="779" tvg-logo="https://tvabierta.net/ciudadesdelociotv.png" group-title="🇪🇸 España",Ciudades Del Ocio TV
-#EXTGRP:🇪🇸 España
-https://cloudvideo.servers10.com:8081/8024/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cordoba TV" tvg-chno="780" tvg-logo="https://tvabierta.net/cordobatv.png" group-title="🇪🇸 España",Cordoba TV
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cordoba TV" tvg-chno="225" tvg-logo="https://tvabierta.net/cordobatv.png" group-title="🇪🇸 España",Cordoba TV
 #EXTGRP:🇪🇸 España
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alcarriatv" tvg-chno="226" tvg-logo="https://tvabierta.net/alcarriatv.png" group-title="🇪🇸 España",Alcarriatv
+#EXTGRP:🇪🇸 España
+https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AragonTV" tvg-chno="227" tvg-logo="https://tvabierta.net/aragontv.png" group-title="🇪🇸 España",AragonTV
+#EXTGRP:🇪🇸 España
+https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/d1hajab2w2oajq/504a744747b04321bc8042af57c2f7db/699341967864450d4f062ba9/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="228" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
+#EXTGRP:🇪🇸 España
+https://hls.tvabierta.net/hls/rtvce.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="229" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
+#EXTGRP:🇪🇸 España
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional America" tvg-chno="230" tvg-logo="https://tvabierta.net/tve.png" group-title="🇪🇸 España",TVE Internacional America
+#EXTGRP:🇪🇸 España
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40" tvg-chno="231" tvg-logo="https://tvabierta.net/mijas.jpg" group-title="🇪🇸 España",Mijas 3.40
+#EXTGRP:🇪🇸 España
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alacanti TV" tvg-chno="232" tvg-logo="https://tvabierta.net/alacanti.jpg" group-title="🇪🇸 España",Alacanti TV
+#EXTGRP:🇪🇸 España
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Elx" tvg-chno="233" tvg-logo="https://tvabierta.net/teleelx.png" group-title="🇪🇸 España",Tele Elx
+#EXTGRP:🇪🇸 España
+https://tvdirecto.teleelx.es/stream/teleelx.m3u8

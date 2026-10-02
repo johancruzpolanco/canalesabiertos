@@ -1,19 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-chno="96" tvg-logo="https://tvabierta.net/bloomberg.png" group-title="📈 Trading y Finanzas",Bloomberg
-#EXTGRP:📈 Trading y Finanzas
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bloombergoriginals" tvg-chno="97" tvg-logo="https://tvabierta.net/bloombergoriginals.png" group-title="📈 Trading y Finanzas",Bloombergoriginals
-#EXTGRP:📈 Trading y Finanzas
-https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="98" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
-#EXTGRP:📈 Trading y Finanzas
-https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negociostv-lges/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="99" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
+#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="527" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
 #EXTGRP:📈 Trading y Finanzas
 https://hls.tvabierta.net/hls/bbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="100" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
+#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="528" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
+#EXTGRP:📈 Trading y Finanzas
+https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negociostv-lges/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="529" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
 #EXTGRP:📈 Trading y Finanzas
 https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comercio TV" tvg-chno="101" tvg-logo="https://tvabierta.net/comercio.jpg" group-title="📈 Trading y Finanzas",Comercio TV
-#EXTGRP:📈 Trading y Finanzas
-https://amg00082-amg00082c1-zapitv-emea-7424.playouts.now.amagi.tv/playlist.m3u8

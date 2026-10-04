@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 694 canales en 28 categorías  
-**Actualizado:** 2026-10-04 11:46 UTC  
+**Total:** 696 canales en 28 categorías  
+**Actualizado:** 2026-10-04 16:25 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -16,7 +16,7 @@
 | 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 3 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
-| 🇦🇷 Argentina | 17 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
+| 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 8 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 192 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 193 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -295,8 +295,9 @@
 
 </details>
 
-<details><summary><b>🇦🇷 Argentina</b> (17 canales)</summary>
+<details><summary><b>🇦🇷 Argentina</b> (18 canales)</summary>
 
+- Net
 - 9 Link
 - 5 TV
 - Pinguino TV
@@ -676,7 +677,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (192 canales)</summary>
+<details><summary><b>📺 Otros</b> (193 canales)</summary>
 
 - 541 | TVE
 - 654 | TV Nordestina
@@ -707,6 +708,7 @@
 - 556 | TV Reconcavo
 - Lxhome
 - Cocinafamiliar
+- Wild TV Network
 - Perfect Game TV
 - Just For Laughs
 - Just For Laughs Gags

@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 696 canales en 28 categorías  
-**Actualizado:** 2026-10-05 23:43 UTC  
+**Total:** 697 canales en 28 categorías  
+**Actualizado:** 2026-10-06 04:50 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 85 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 86 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 26 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (85 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (86 canales)</summary>
 
 - Bloomberg
 - A 7 TV
@@ -50,6 +50,7 @@
 - Pulso Visión
 - Canal 19
 - El Puerto TV
+- Multivisión
 - Canalda
 - Hainavision
 - Bajo Techo TV

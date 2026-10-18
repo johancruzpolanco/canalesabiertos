@@ -1,15 +1,15 @@
 # 📺 Canales disponibles
 
-**Total:** 697 canales en 28 categorías  
-**Actualizado:** 2026-10-17 20:06 UTC  
+**Total:** 700 canales en 28 categorías  
+**Actualizado:** 2026-10-18 02:59 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 86 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 88 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 28 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 26 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -39,15 +39,11 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (86 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (88 canales)</summary>
 
 - Bloomberg
-- A 7 TV
-- RNN
-- Latinostvny
-- Boncheslatinos TV
-- Manaclar TV
-- Pulso Visión
+- Ahora TV
+- Teleantillas
 - Canal 19
 - El Puerto TV
 - Multivisión
@@ -60,28 +56,28 @@
 - Telenord 12
 - Telenord 8
 - RETV
-- Lareina
-- Jimani TV
-- OEPM
+- Teleuniverso
 - Colorvisión
 - Digital 15
 - Telecentro
 - Zona Vision
 - Telemicro
-- Boreal
 - Telecibao
 - Cvvision
 - RTVD
 - Telemedios
-- Teleantillas
 - Telesistema
 - Teleunión
 - Cielo TV
 - Antena 21
 - Telefuturo
+- Makao TV
+- RNN
 - Vtv 32
 - CDN 37
-- Acento TV
+- Acentotva
+- Coral
+- Xtremo Channel
 - Teleimpacto
 - Cotubanama TV
 - Misionel TV
@@ -89,13 +85,18 @@
 - Santacruz TV
 - Caoba TV
 - Tvm
-- Makao TV
+- A 7 TV
 - Adoram
 - Radioemanuel
 - Coco TV
 - Cntmas
+- OEPM
 - Portaldigital TV
 - Telecanal 12
+- Latinostvny
+- Boncheslatinos TV
+- Manaclar TV
+- Pulso Visión
 - Televisiondeleste
 - Radio 67 TV
 - Canal DTV Latino
@@ -103,10 +104,9 @@
 - Visionndv
 - Carivisión
 - Valle Nuevo TV
-- Canaldelsol
+- Boreal
 - El Seis
 - 14 TV
-- Ahora TV
 - En Televisión
 - Altanto TV
 - Super7
@@ -126,13 +126,16 @@
 - Zol
 - TVO
 - Vega Teve
+- Lareina
+- Jimani TV
 - Sitvrd
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (27 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (28 canales)</summary>
 
 - CNN en Español
+- Euronews
 - Bethel TV
 - EWTN
 - Kanald

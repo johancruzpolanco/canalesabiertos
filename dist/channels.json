@@ -1,8 +1,8 @@
 {
-  "generado": "2026-10-18 20:05 UTC",
+  "generado": "2026-10-19 03:13 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 700,
-  "hash": "f1c68af00fe9ca69a7b8dede49831dbb7e413478bb4f13a5a45a58b11157fb7e",
+  "hash": "9a00e6c928874daabe2006487a026af2658c8527006a6621a60017ddc26788f5",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -207,14 +207,14 @@
       "slug": "el-puerto-tv"
     },
     {
-      "id": "multivision-e88b2559",
+      "id": "multivision-9cd2acb4",
       "numero": 6,
       "nombre": "Multivisión",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/022.png",
-      "url": "https://w.tvabierta.net/frombroadcaster/streams/XqCr6383hCzjoNY45397620613847089.m3u8",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/canalmulti24/chunks.m3u8",
       "tvg_id": "",
       "slug": "multivision"
     },
@@ -351,14 +351,14 @@
       "slug": "colorvision"
     },
     {
-      "id": "digital15-ad289d97",
+      "id": "digital15-f4d87b9f",
       "numero": 18,
       "nombre": "Digital 15",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/015.png",
-      "url": "https://ds.tvabierta.net/memfs/505f0d04-159c-4e4f-a834-8137c183573c.m3u8",
+      "url": "https://hls.tvabierta.net/hls/015.m3u8",
       "tvg_id": "",
       "slug": "digital-15"
     },

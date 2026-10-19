@@ -16,7 +16,7 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multivisión" tvg-chno="6" tvg-logo="https://tvabierta.net/022.png" group-title="🇩🇴 República Dominicana",Multivisión
 #EXTGRP:🇩🇴 República Dominicana
-https://w.tvabierta.net/frombroadcaster/streams/XqCr6383hCzjoNY45397620613847089.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/canalmulti24/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canalda" tvg-chno="7" tvg-logo="https://tvabierta.net/canalda.png" group-title="🇩🇴 República Dominicana",Canalda
 #EXTGRP:🇩🇴 República Dominicana
 https://canalda.rgradio.net:3084/live/canaldalive.m3u8
@@ -52,7 +52,7 @@ https://hls.tvabierta.net/hls/029.m3u8
 https://ds.tvabierta.net/memfs/2493e646-b24d-489b-8603-0879abb93123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digital 15" tvg-chno="18" tvg-logo="https://tvabierta.net/015.png" group-title="🇩🇴 República Dominicana",Digital 15
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/505f0d04-159c-4e4f-a834-8137c183573c.m3u8
+https://hls.tvabierta.net/hls/015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecentro" tvg-chno="19" tvg-logo="https://tvabierta.net/013.png" group-title="🇩🇴 República Dominicana",Telecentro
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/a581f58a-76a9-4025-8eda-4b0e5c37963e.m3u8

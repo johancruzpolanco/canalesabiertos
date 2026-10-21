@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 682 canales en 28 categorías  
-**Actualizado:** 2026-10-21 11:09 UTC  
+**Total:** 683 canales en 28 categorías  
+**Actualizado:** 2026-10-21 16:35 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 83 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 84 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 27 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -39,51 +39,58 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (83 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (84 canales)</summary>
 
 - Bloomberg
+- Misionel TV
 - Ahora TV
-- Teleantillas
-- Canal 19
-- El Puerto TV
-- Multivisión
-- RETV
-- Teleuniverso
-- Colorvisión
-- Digital 15
-- Telecentro
-- Zona Vision
-- Telemicro
-- Telecibao
-- Cvvision
 - RTVD
+- Telemicro
+- TV Luz
+- Antena 7
 - Telemedios
+- Colorvisión
+- Teleantillas
 - Telesistema
 - Teleunión
+- Telecentro
+- 14 TV
+- Digital 15
+- Carivisión
+- Super7
+- El Seis
+- Canal 19
 - Cielo TV
 - Antena 21
+- Multivisión
 - Telefuturo
+- Bellavisión
+- Luna TV
 - Makao TV
 - RNN
+- En Televisión
+- Teleuniverso
+- El Nuevo Diario
+- Cotubanama TV
 - Vtv 32
+- Cvvision
 - CDN Deportes
 - CDN 37
 - Acentotva
 - Coral
 - Xtremo Channel
 - Teleimpacto
-- Cotubanama TV
-- Misionel TV
-- TV Luz
+- Telecibao
+- El Puerto TV
 - Santacruz TV
 - Canalda
 - Hainavision
 - Bajo Techo TV
-- Bellavisión
 - Punta Cana TV
 - Telenord 10
 - Telenord 12
 - Telenord 8
+- RETV
 - Caoba TV
 - Tvm
 - A 7 TV
@@ -103,14 +110,9 @@
 - Canal DTV Latino
 - Senal Digital
 - Visionndv
-- Carivisión
 - Valle Nuevo TV
 - Boreal
-- El Seis
-- 14 TV
-- En Televisión
 - Altanto TV
-- Super7
 - Telecontacto
 - Microvisión
 - Ready Television
@@ -119,7 +121,6 @@
 - Palmar TV
 - La Tora
 - Chinola TV
-- Luna TV
 - Extra 86
 - Romana TV
 - Vega Teve

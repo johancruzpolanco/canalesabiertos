@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 683 canales en 28 categorías  
-**Actualizado:** 2026-10-21 16:35 UTC  
+**Total:** 684 canales en 28 categorías  
+**Actualizado:** 2026-10-21 21:14 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -15,7 +15,7 @@
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 3 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 15 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
@@ -74,22 +74,22 @@
 - Cotubanama TV
 - Vtv 32
 - Cvvision
+- Telecibao
+- Xtremo Channel
 - CDN Deportes
 - CDN 37
 - Acentotva
 - Coral
-- Xtremo Channel
-- Teleimpacto
-- Telecibao
-- El Puerto TV
-- Santacruz TV
-- Canalda
-- Hainavision
 - Bajo Techo TV
 - Punta Cana TV
 - Telenord 10
 - Telenord 12
 - Telenord 8
+- Teleimpacto
+- El Puerto TV
+- Santacruz TV
+- Canalda
+- Hainavision
 - RETV
 - Caoba TV
 - Tvm
@@ -286,11 +286,12 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (3 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (4 canales)</summary>
 
 - Bbcnews
 - Negocios
 - Finance.yahoo
+- Foxbusiness
 
 </details>
 

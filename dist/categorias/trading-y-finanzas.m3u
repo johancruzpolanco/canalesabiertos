@@ -8,3 +8,6 @@ https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negocio
 #EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="513" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
 #EXTGRP:📈 Trading y Finanzas
 https://yahoo-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foxbusiness" tvg-chno="514" tvg-logo="https://tvabierta.net/foxbusiness.png" group-title="📈 Trading y Finanzas",Foxbusiness
+#EXTGRP:📈 Trading y Finanzas
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8

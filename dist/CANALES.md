@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 684 canales en 28 categorías  
-**Actualizado:** 2026-10-22 11:08 UTC  
+**Total:** 685 canales en 28 categorías  
+**Actualizado:** 2026-10-22 16:37 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -15,8 +15,8 @@
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 4 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
-| 🇦🇷 Argentina | 15 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
+| 📈 Trading y Finanzas | 5 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 🇦🇷 Argentina | 16 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
@@ -30,7 +30,7 @@
 | 🇬🇹 Guatemala | 6 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 6 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
-| 🇲🇽 México | 15 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
+| 🇲🇽 México | 14 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
@@ -286,16 +286,17 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (4 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (5 canales)</summary>
 
 - Bbcnews
+- Cnbc
 - Negocios
 - Finance.yahoo
 - Foxbusiness
 
 </details>
 
-<details><summary><b>🇦🇷 Argentina</b> (15 canales)</summary>
+<details><summary><b>🇦🇷 Argentina</b> (16 canales)</summary>
 
 - Net
 - 9 Link
@@ -312,6 +313,7 @@
 - Bvc
 - 7 Salta
 - Celta TV
+- Zoom TV
 
 </details>
 
@@ -603,7 +605,7 @@
 
 </details>
 
-<details><summary><b>🇲🇽 México</b> (15 canales)</summary>
+<details><summary><b>🇲🇽 México</b> (14 canales)</summary>
 
 - CB TV Michoacan
 - TVP Culliacan
@@ -619,7 +621,6 @@
 - Azteca Int.
 - ImagenTV
 - Canal Once
-- El Heraldo Radio
 
 </details>
 

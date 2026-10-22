@@ -251,3 +251,6 @@ https://ds.tvabierta.net/memfs/f09eae46-9675-467a-99cf-8361c9b466ed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitvrd" tvg-chno="84" tvg-logo="https://tvabierta.net/sitvrd.png" group-title="🇩🇴 República Dominicana",Sitvrd
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/sitvrd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telenovisa" tvg-chno="85" tvg-logo="https://tvabierta.net/sitvrd.png" group-title="🇩🇴 República Dominicana",Telenovisa
+#EXTGRP:🇩🇴 República Dominicana
+https://cdnfox.hostlagarto.com/telenonisa43/tracks-v1a1/mono.m3u8

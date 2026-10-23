@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 611 canales en 27 categorías  
-**Actualizado:** 2026-10-23 10:59 UTC  
+**Total:** 693 canales en 28 categorías  
+**Actualizado:** 2026-10-23 16:26 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -26,7 +26,7 @@
 | 🇪🇨 Ecuador | 3 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 11 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
-| 🇺🇸 Estados Unidos | 89 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
+| 🇺🇸 Estados Unidos | 160 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 6 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 6 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
@@ -34,6 +34,7 @@
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
+| 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 | 📺 Otros | 190 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
@@ -418,7 +419,7 @@
 
 </details>
 
-<details><summary><b>🇺🇸 Estados Unidos</b> (89 canales)</summary>
+<details><summary><b>🇺🇸 Estados Unidos</b> (160 canales)</summary>
 
 - Game Show Network
 - Stories By AMC
@@ -509,6 +510,77 @@
 - WJRT (ABC) News 12 Flint MI
 - Very Carolina By WYFF 4
 - KY-Lexington | LEX18 (WLEX)
+- TMJ4 News Milwaukee
+- KDRV (ABC) News 12 Medford OR
+- Very South Florida By WPBF 25
+- News 12 New York
+- WTKR News 3 Norfolk
+- Very Sacramento By KCRA-TV
+- KOAA News 5 Colorado
+- Very Baltimore By WBAL-TV
+- Very Orlando By WESH 2-TV
+- Very Savannah By WJCL
+- KTVH News Helena
+- Very Cincinnati By WLWT
+- WKBW 7 News Buffalo
+- TN-Nashville | Channel5 News (WTVF)
+- KIMT (CBS) News 3 Rochester MN
+- Very Maine By WMTW
+- Very Milwaukee By WISN 12
+- Very Omaha By KETV
+- KPAX News Missoula
+- KVOA Tucson AZ
+- Very Carolina By WXII
+- WJAX (CBS) News 47 Jacksonville FL
+- KTNV 13 Action News Las Vegas
+- Very Louisville By WLKY
+- MS-Jackson | Very Jackson (WAPT)
+- FOX 17 West Michigan
+- KERO 23 News Bakersfield
+- Very Oklahoma By KOCO
+- FOX 4 Ft Myers
+- KXXV 25 News Waco
+- Very Kansas City By KMBC/KCWE
+- KRIS6 News Corpus Christi
+- KMGH Denver 7 News
+- Very Pennsylvania By WGAL
+- Very Tampa Bay By WMOR
+- WAOW Wausau WI
+- WSOC (ABC) News 9 Charlotte NC
+- WKOW Madison WI
+- WKBT (CBS) News 8 La Crosse WI
+- KITV (ABC) News 4 Honolulu HI
+- WISC Madison WI
+- KTVQ Q2 News Billings
+- WXYZ 7 Action News Detroit
+- Tampa Bay 28
+- WRAL News Raleigh
+- KAVU Crossroads Today Victoria TX
+- WFTV (ABC) News 9 Orlando FL
+- WHIO (CBS) News 7 Dayton OH
+- NBC 26 Green Bay
+- FOX 25 Boston MA
+- AL-Birmingham | Very Alabama (WVTM)
+- KSHB 41 News Kansas City
+- KNXV ABC15 News Arizona
+- TN-Memphis | FOX 13 (WHBQ)
+- FOX 23 Tulsa OK
+- FOX 13 News Salt Lake
+- IL-Chicago | NBC 5 (WMAQ)
+- NBC 4 New York News
+- NBC 5 Salt Lake City UT
+- KEYT ABC News Channel 3 Santa Barbara CA
+- KRDO ABC 13 News Colorado Springs CO
+- KMIZ ABC 17 News Columbia MO
+- KVIA ABC-7 News El Paso TX
+- KIFI ABC Local News 8 Idaho Falls ID
+- KTVZ News Bend OR
+- KOTV News On 6 Tulsa OK
+- OK-Oklahoma City | News 9 (KWTV)
+- 9&10 News Northern Michigan
+- WCCA 194 Worcester MA
+- Thelonestar
+- MovieSphere
 
 </details>
 
@@ -586,6 +658,22 @@
 - Telemundo PR
 - Punto2
 - Nuevavida
+
+</details>
+
+<details><summary><b>🇻🇪 Venezuela</b> (11 canales)</summary>
+
+- VTV
+- 532 | Promar TV
+- Globovision
+- 527 | TV Familia
+- 515 | BTA TV
+- Catatumbo TV
+- 514 | Vepaco TV
+- Venevision
+- Tlt
+- 21 Tachira
+- Promar
 
 </details>
 

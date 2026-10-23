@@ -1,18 +1,18 @@
 # 📺 Canales disponibles
 
-**Total:** 693 canales en 28 categorías  
-**Actualizado:** 2026-10-23 16:26 UTC  
+**Total:** 695 canales en 28 categorías  
+**Actualizado:** 2026-10-23 20:58 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 90 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 91 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 28 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 28 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
-| 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
+| ⚽ Deportes | 29 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 6 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (90 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (91 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -131,10 +131,11 @@
 - Telenovisa
 - TV Plata
 - TV Quisqueya
+- Ametv
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (27 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (28 canales)</summary>
 
 - CNN en Español
 - Euronews
@@ -163,6 +164,7 @@
 - Bendicionchannel
 - 24 H
 - Mastalk
+- Telemedellin
 
 </details>
 
@@ -197,10 +199,11 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (28 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (29 canales)</summary>
 
 - Gigantes
 - Nica 4
+- Wapa
 - Red Bull TV
 - MPATV
 - WaypointTV
@@ -230,7 +233,7 @@
 
 </details>
 
-<details><summary><b>🎬 Películas y Series</b> (13 canales)</summary>
+<details><summary><b>🎬 Películas y Series</b> (12 canales)</summary>
 
 - Canela
 - Pelimex
@@ -240,7 +243,6 @@
 - Imagenuniversal TV
 - Rakuten Comedia
 - FMTV
-- Ametv
 - Cascara TV
 - LG +1
 - Runtime Series

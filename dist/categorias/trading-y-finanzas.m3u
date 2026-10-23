@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="B" tvg-chno="91" tvg-logo="https://tvabierta.net/bloomberg.png" group-title="📈 Trading y Finanzas",B
+#EXTINF:-1 tvg-id="" tvg-name="B" tvg-chno="92" tvg-logo="https://tvabierta.net/bloomberg.png" group-title="📈 Trading y Finanzas",B
 #EXTGRP:📈 Trading y Finanzas
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="92" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
+#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="93" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
 #EXTGRP:📈 Trading y Finanzas
 https://hls.tvabierta.net/hls/bbcnews.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cnbc" tvg-chno="93" tvg-logo="https://tvabierta.net/cnbc.jpg" group-title="📈 Trading y Finanzas",Cnbc
+#EXTINF:-1 tvg-id="" tvg-name="Cnbc" tvg-chno="94" tvg-logo="https://tvabierta.net/cnbc.jpg" group-title="📈 Trading y Finanzas",Cnbc
 #EXTGRP:📈 Trading y Finanzas
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="94" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
+#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="95" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
 #EXTGRP:📈 Trading y Finanzas
 https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negociostv-lges/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="95" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
+#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="96" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
 #EXTGRP:📈 Trading y Finanzas
 https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxbusiness" tvg-chno="96" tvg-logo="https://tvabierta.net/foxbusiness.png" group-title="📈 Trading y Finanzas",Foxbusiness
+#EXTINF:-1 tvg-id="" tvg-name="Foxbusiness" tvg-chno="97" tvg-logo="https://tvabierta.net/foxbusiness.png" group-title="📈 Trading y Finanzas",Foxbusiness
 #EXTGRP:📈 Trading y Finanzas
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8

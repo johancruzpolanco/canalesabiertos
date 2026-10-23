@@ -263,3 +263,9 @@ https://hls.tvabierta.net/hls/sitvrd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telenovisa" tvg-chno="88" tvg-logo="https://tvabierta.net/sitvrd.png" group-title="🇩🇴 República Dominicana",Telenovisa
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenonisa43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Plata" tvg-chno="89" tvg-logo="https://tvabierta.net/tvplata.png" group-title="🇩🇴 República Dominicana",TV Plata
+#EXTGRP:🇩🇴 República Dominicana
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Quisqueya" tvg-chno="90" tvg-logo="https://tvabierta.net/tvquisqueya.png" group-title="🇩🇴 República Dominicana",TV Quisqueya
+#EXTGRP:🇩🇴 República Dominicana
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8

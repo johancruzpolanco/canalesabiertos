@@ -1,17 +1,17 @@
 # 📺 Canales disponibles
 
-**Total:** 687 canales en 28 categorías  
-**Actualizado:** 2026-10-22 21:10 UTC  
+**Total:** 691 canales en 28 categorías  
+**Actualizado:** 2026-10-23 03:21 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 85 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 88 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 27 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 27 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| ⚽ Deportes | 28 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (85 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (88 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -80,8 +80,11 @@
 - CDN 37
 - Acentotva
 - Coral
+- Ctt 49
 - Bajo Techo TV
 - Punta Cana TV
+- ZTV
+- Zol
 - Telenord 10
 - Telenord 12
 - Telenord 8
@@ -192,8 +195,9 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (27 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (28 canales)</summary>
 
+- Gigantes
 - Nica 4
 - Red Bull TV
 - MPATV

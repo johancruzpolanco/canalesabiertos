@@ -1,8 +1,8 @@
 {
-  "generado": "2026-10-23 20:58 UTC",
+  "generado": "2026-10-24 03:15 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
-  "total": 695,
-  "hash": "cba551827cc8acd3d54350d46409539b5014e28e7ae5b88dc7df916d44e84ba2",
+  "total": 696,
+  "hash": "2e94fd27af6aeb4da23eca22a6e03cf2b0efb19699b4f20ab8f5861bb4330b19",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -26,7 +26,7 @@
     },
     {
       "nombre": "🎬 Películas y Series",
-      "canales": 12,
+      "canales": 13,
       "archivo": "categorias/peliculas-y-series.m3u"
     },
     {
@@ -2379,6 +2379,18 @@
       "slug": "ladescarga-tv"
     },
     {
+      "id": "en-familia-972d93ce",
+      "numero": 516,
+      "nombre": "En Familia",
+      "categoria": "🎬 Películas y Series",
+      "categoria_codigo": "PELICULAS",
+      "categoria_orden": 50,
+      "logo": "https://tvabierta.net/rakutentv.png",
+      "url": "https://rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8",
+      "tvg_id": "",
+      "slug": "en-familia"
+    },
+    {
       "id": "bpskids-53d7ca39",
       "numero": 284,
       "nombre": "Bpskids",
@@ -3496,7 +3508,7 @@
     },
     {
       "id": "megavision-19-9aba91bd",
-      "numero": 523,
+      "numero": 524,
       "nombre": "Megavision 19",
       "categoria": "🇸🇻 El Salvador",
       "categoria_codigo": "SV",
@@ -3508,7 +3520,7 @@
     },
     {
       "id": "megavision-21-7255d247",
-      "numero": 524,
+      "numero": 525,
       "nombre": "Megavision 21",
       "categoria": "🇸🇻 El Salvador",
       "categoria_codigo": "SV",
@@ -3652,7 +3664,7 @@
     },
     {
       "id": "game-show-network-ee8107f4",
-      "numero": 525,
+      "numero": 526,
       "nombre": "Game Show Network",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3664,7 +3676,7 @@
     },
     {
       "id": "stories-by-amc-1d98311c",
-      "numero": 526,
+      "numero": 527,
       "nombre": "Stories By AMC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3676,7 +3688,7 @@
     },
     {
       "id": "portlandia-d0de22d7",
-      "numero": 527,
+      "numero": 528,
       "nombre": "Portlandia",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3688,7 +3700,7 @@
     },
     {
       "id": "cbs-news-boston-26c476d8",
-      "numero": 528,
+      "numero": 529,
       "nombre": "CBS News Boston",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3700,7 +3712,7 @@
     },
     {
       "id": "doctor-who-classic-ffd0aedf",
-      "numero": 529,
+      "numero": 530,
       "nombre": "Doctor Who Classic",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3712,7 +3724,7 @@
     },
     {
       "id": "circle-df729550",
-      "numero": 530,
+      "numero": 531,
       "nombre": "Circle",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3724,7 +3736,7 @@
     },
     {
       "id": "chinohillsca-f925ad6b",
-      "numero": 531,
+      "numero": 532,
       "nombre": "Chinohillsca",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3736,7 +3748,7 @@
     },
     {
       "id": "dove-channel-eb17d756",
-      "numero": 532,
+      "numero": 533,
       "nombre": "Dove Channel",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3748,7 +3760,7 @@
     },
     {
       "id": "fox-25-boston-ec0a3ca3",
-      "numero": 533,
+      "numero": 534,
       "nombre": "Fox 25 Boston",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3760,7 +3772,7 @@
     },
     {
       "id": "nbc-10-providence-04f151e5",
-      "numero": 534,
+      "numero": 535,
       "nombre": "NBC 10 Providence",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3772,7 +3784,7 @@
     },
     {
       "id": "cbs-8-san-diego-ca-e05b6c1a",
-      "numero": 535,
+      "numero": 536,
       "nombre": "CBS 8 San Diego CA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3784,7 +3796,7 @@
     },
     {
       "id": "erie-news-now-9dc721c8",
-      "numero": 536,
+      "numero": 537,
       "nombre": "Erie News Now",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3796,7 +3808,7 @@
     },
     {
       "id": "cbs-2-news-greensboro-nc-7db35a69",
-      "numero": 537,
+      "numero": 538,
       "nombre": "CBS 2 News Greensboro NC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3808,7 +3820,7 @@
     },
     {
       "id": "nbc-2-buffalo-ny-7301886d",
-      "numero": 538,
+      "numero": 539,
       "nombre": "NBC 2 Buffalo NY",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3820,7 +3832,7 @@
     },
     {
       "id": "cbs-4-new-orleans-la-47d0bdb5",
-      "numero": 539,
+      "numero": 540,
       "nombre": "CBS 4 New Orleans LA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3832,7 +3844,7 @@
     },
     {
       "id": "fox-54-huntsville-al-c9a48e89",
-      "numero": 540,
+      "numero": 541,
       "nombre": "FOX 54 Huntsville AL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3844,7 +3856,7 @@
     },
     {
       "id": "fox-west-texas-tx-5e2df89c",
-      "numero": 541,
+      "numero": 542,
       "nombre": "FOX West Texas TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3856,7 +3868,7 @@
     },
     {
       "id": "cbs-11-news-little-rock-ar-669c1377",
-      "numero": 542,
+      "numero": 543,
       "nombre": "CBS 11 News Little Rock AR",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3868,7 +3880,7 @@
     },
     {
       "id": "ktvb-7-idaho-s-news-channel-bosie-id-d7247579",
-      "numero": 543,
+      "numero": 544,
       "nombre": "KTVB 7 Idaho's News Channel Bosie ID",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3880,7 +3892,7 @@
     },
     {
       "id": "kwes-newswest9-midland-odessa-tx-8ca59718",
-      "numero": 544,
+      "numero": 545,
       "nombre": "KWES NewsWest9 Midland-Odessa TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3892,7 +3904,7 @@
     },
     {
       "id": "cbs-19-tyler-tx-b211b805",
-      "numero": 545,
+      "numero": 546,
       "nombre": "CBS 19 Tyler TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3904,7 +3916,7 @@
     },
     {
       "id": "nbc-portland-me-ba9a5175",
-      "numero": 546,
+      "numero": 547,
       "nombre": "NBC Portland ME",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3916,7 +3928,7 @@
     },
     {
       "id": "tn-memphis-abc-24-news-right-now-watn-510876ab",
-      "numero": 547,
+      "numero": 548,
       "nombre": "TN-Memphis | ABC 24 News Right Now (WATN)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3928,7 +3940,7 @@
     },
     {
       "id": "tn-knoxville-nbc-10-wbir-85bb7cca",
-      "numero": 548,
+      "numero": 549,
       "nombre": "TN-Knoxville | NBC 10 (WBIR)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3940,7 +3952,7 @@
     },
     {
       "id": "cbs-19-columbia-sc-cb5785aa",
-      "numero": 549,
+      "numero": 550,
       "nombre": "CBS 19 Columbia SC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3952,7 +3964,7 @@
     },
     {
       "id": "cbs-13-macon-ga-d2f1e90f",
-      "numero": 550,
+      "numero": 551,
       "nombre": "CBS 13 Macon GA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3964,7 +3976,7 @@
     },
     {
       "id": "wnep-abc-16-the-news-station-ne-central-pa-9292818a",
-      "numero": 551,
+      "numero": 552,
       "nombre": "WNEP ABC 16 The News Station NE/Central PA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3976,7 +3988,7 @@
     },
     {
       "id": "nbc-news-13-indianapolis-in-d073db28",
-      "numero": 552,
+      "numero": 553,
       "nombre": "NBC News 13 Indianapolis IN",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -3988,7 +4000,7 @@
     },
     {
       "id": "nbc-jacksonville-fl-c16170af",
-      "numero": 553,
+      "numero": 554,
       "nombre": "NBC Jacksonville FL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4000,7 +4012,7 @@
     },
     {
       "id": "cbs-10-tampa-bay-fl-4f99cbb9",
-      "numero": 554,
+      "numero": 555,
       "nombre": "CBS 10 Tampa Bay FL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4012,7 +4024,7 @@
     },
     {
       "id": "wzzm-abc-13-on-your-side-grand-rapids-mi-e5830993",
-      "numero": 555,
+      "numero": 556,
       "nombre": "WZZM ABC 13 On Your Side Grand Rapids MI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4024,7 +4036,7 @@
     },
     {
       "id": "nbc-11-minneapolis-mn-060f9918",
-      "numero": 556,
+      "numero": 557,
       "nombre": "NBC 11 Minneapolis MN",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4036,7 +4048,7 @@
     },
     {
       "id": "12-news-beaumont-tx-e181c289",
-      "numero": 557,
+      "numero": 558,
       "nombre": "12 News Beaumont TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4048,7 +4060,7 @@
     },
     {
       "id": "cbs-5-san-antonio-tx-12247eb0",
-      "numero": 558,
+      "numero": 559,
       "nombre": "CBS 5 San Antonio TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4060,7 +4072,7 @@
     },
     {
       "id": "ar-fort-smith-cbs-5-kfsm-7d27bba1",
-      "numero": 559,
+      "numero": 560,
       "nombre": "AR-Fort Smith | CBS 5 (KFSM)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4072,7 +4084,7 @@
     },
     {
       "id": "nbc-8-portland-or-667fe9e0",
-      "numero": 560,
+      "numero": 561,
       "nombre": "NBC 8 Portland OR",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4084,7 +4096,7 @@
     },
     {
       "id": "khou-11-news-houston-tx-2bf4e500",
-      "numero": 561,
+      "numero": 562,
       "nombre": "KHOU 11 News Houston TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4096,7 +4108,7 @@
     },
     {
       "id": "kiii-3-news-corpus-christi-tx-caab36c7",
-      "numero": 562,
+      "numero": 563,
       "nombre": "KIII 3 News Corpus Christi TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4108,7 +4120,7 @@
     },
     {
       "id": "nbc-phoenix-az-6d5b18c7",
-      "numero": 563,
+      "numero": 564,
       "nombre": "NBC Phoenix AZ",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4120,7 +4132,7 @@
     },
     {
       "id": "nbc-st-louis-mo-e954e194",
-      "numero": 564,
+      "numero": 565,
       "nombre": "NBC St. Louis MO",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4132,7 +4144,7 @@
     },
     {
       "id": "nbc-9-denver-co-cc2fe73c",
-      "numero": 565,
+      "numero": 566,
       "nombre": "NBC 9 Denver CO",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4144,7 +4156,7 @@
     },
     {
       "id": "kvue-abc-austin-tx-0ebfc530",
-      "numero": 566,
+      "numero": 567,
       "nombre": "KVUE ABC Austin TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4156,7 +4168,7 @@
     },
     {
       "id": "nbc-charlotte-nc-51817c0b",
-      "numero": 567,
+      "numero": 568,
       "nombre": "NBC Charlotte NC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4168,7 +4180,7 @@
     },
     {
       "id": "wfaa-abc-8-news-dallas-tx-a715829f",
-      "numero": 568,
+      "numero": 569,
       "nombre": "WFAA ABC 8 News Dallas TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4180,7 +4192,7 @@
     },
     {
       "id": "whas-abc-11-on-your-side-louisville-ky-2b176a52",
-      "numero": 569,
+      "numero": 570,
       "nombre": "WHAS ABC 11 On Your Side Louisville KY",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4192,7 +4204,7 @@
     },
     {
       "id": "wkyc-3-news-cleveland-oh-ac348aa8",
-      "numero": 570,
+      "numero": 571,
       "nombre": "WKYC 3 News Cleveland OH",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4204,7 +4216,7 @@
     },
     {
       "id": "fox-43-harrisburg-pa-b1735eb8",
-      "numero": 571,
+      "numero": 572,
       "nombre": "FOX 43 Harrisburg PA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4216,7 +4228,7 @@
     },
     {
       "id": "cbs-9-washington-dc-1dd22b97",
-      "numero": 572,
+      "numero": 573,
       "nombre": "CBS 9 Washington DC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4228,7 +4240,7 @@
     },
     {
       "id": "wvec-abc-13-news-norfolk-va-b054e010",
-      "numero": 573,
+      "numero": 574,
       "nombre": "WVEC ABC 13 News Norfolk VA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4240,7 +4252,7 @@
     },
     {
       "id": "newsday-tv-long-island-ny-3a95af19",
-      "numero": 574,
+      "numero": 575,
       "nombre": "Newsday TV Long Island NY",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4252,7 +4264,7 @@
     },
     {
       "id": "very-gulf-coast-by-wbbh-c4128aed",
-      "numero": 575,
+      "numero": 576,
       "nombre": "Very Gulf Coast By WBBH",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4264,7 +4276,7 @@
     },
     {
       "id": "kcen-waco-tx-249a260d",
-      "numero": 576,
+      "numero": 577,
       "nombre": "KCEN Waco TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4276,7 +4288,7 @@
     },
     {
       "id": "wfmz-69-allentown-pa-172bb955",
-      "numero": 577,
+      "numero": 578,
       "nombre": "WFMZ 69 Allentown PA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4288,7 +4300,7 @@
     },
     {
       "id": "nbc-11-atlanta-ga-e4f71911",
-      "numero": 578,
+      "numero": 579,
       "nombre": "NBC 11 Atlanta GA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4300,7 +4312,7 @@
     },
     {
       "id": "fox-5-atlanta-ga-fdc552c8",
-      "numero": 579,
+      "numero": 580,
       "nombre": "FOX 5 Atlanta GA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4312,7 +4324,7 @@
     },
     {
       "id": "fox-5-washington-dc-6e70f2c8",
-      "numero": 580,
+      "numero": 581,
       "nombre": "FOX 5 Washington DC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4324,7 +4336,7 @@
     },
     {
       "id": "fox-5-new-york-ny-f7001ce3",
-      "numero": 581,
+      "numero": 582,
       "nombre": "FOX 5 New York NY",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4336,7 +4348,7 @@
     },
     {
       "id": "fox-10-phoenix-az-085768b0",
-      "numero": 582,
+      "numero": 583,
       "nombre": "FOX 10 Phoenix AZ",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4348,7 +4360,7 @@
     },
     {
       "id": "fox-13-tampa-bay-fl-c5a901b0",
-      "numero": 583,
+      "numero": 584,
       "nombre": "FOX 13 Tampa Bay FL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4360,7 +4372,7 @@
     },
     {
       "id": "il-chicago-fox-32-wfld-8eb75985",
-      "numero": 584,
+      "numero": 585,
       "nombre": "IL-Chicago | FOX 32 (WFLD)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4372,7 +4384,7 @@
     },
     {
       "id": "fox-13-seattle-wa-ef1528e7",
-      "numero": 585,
+      "numero": 586,
       "nombre": "FOX 13 Seattle WA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4384,7 +4396,7 @@
     },
     {
       "id": "fox-4-dallas-fort-worth-tx-c9a9a32c",
-      "numero": 586,
+      "numero": 587,
       "nombre": "FOX 4 Dallas Fort Worth TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4396,7 +4408,7 @@
     },
     {
       "id": "fox-29-philadelphia-pa-4521903e",
-      "numero": 587,
+      "numero": 588,
       "nombre": "FOX 29 Philadelphia PA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4408,7 +4420,7 @@
     },
     {
       "id": "fox-26-houston-tx-0fa686fe",
-      "numero": 588,
+      "numero": 589,
       "nombre": "FOX 26 Houston TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4420,7 +4432,7 @@
     },
     {
       "id": "fox-9-minneapolis-mn-9f435380",
-      "numero": 589,
+      "numero": 590,
       "nombre": "FOX 9 Minneapolis MN",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4432,7 +4444,7 @@
     },
     {
       "id": "fox-7-austin-tx-e5050fc6",
-      "numero": 590,
+      "numero": 591,
       "nombre": "FOX 7 Austin TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4444,7 +4456,7 @@
     },
     {
       "id": "mi-detroit-fox-2-wjbk-5f398ef1",
-      "numero": 591,
+      "numero": 592,
       "nombre": "MI-Detroit | FOX 2 (WJBK)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4456,7 +4468,7 @@
     },
     {
       "id": "krtv-news-great-falls-21d16613",
-      "numero": 592,
+      "numero": 593,
       "nombre": "KRTV News Great Falls",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4468,7 +4480,7 @@
     },
     {
       "id": "very-new-mexico-by-koat-d8fce407",
-      "numero": 593,
+      "numero": 594,
       "nombre": "Very New Mexico By KOAT",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4480,7 +4492,7 @@
     },
     {
       "id": "wews-news-5-cleveland-84c8cbf2",
-      "numero": 594,
+      "numero": 595,
       "nombre": "WEWS News 5 Cleveland",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4492,7 +4504,7 @@
     },
     {
       "id": "cbs-6-richmond-1d156fa3",
-      "numero": 595,
+      "numero": 596,
       "nombre": "CBS 6 Richmond",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4504,7 +4516,7 @@
     },
     {
       "id": "kbzk-news-bozeman-21691e5f",
-      "numero": 596,
+      "numero": 597,
       "nombre": "KBZK News Bozeman",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4516,7 +4528,7 @@
     },
     {
       "id": "wsb-abc-news-2-atlanta-ga-f9856d69",
-      "numero": 597,
+      "numero": 598,
       "nombre": "WSB (ABC) News 2 Atlanta GA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4528,7 +4540,7 @@
     },
     {
       "id": "kgun-9-news-tucson-b9f6ebcf",
-      "numero": 598,
+      "numero": 599,
       "nombre": "KGUN 9 News Tucson",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4540,7 +4552,7 @@
     },
     {
       "id": "kjrh-2-news-oklahoma-482de1f3",
-      "numero": 599,
+      "numero": 600,
       "nombre": "KJRH 2 News Oklahoma",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4552,7 +4564,7 @@
     },
     {
       "id": "wtxl-abc27-news-tallahassee-20d9ebc1",
-      "numero": 600,
+      "numero": 601,
       "nombre": "WTXL ABC27 News Tallahassee",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4564,7 +4576,7 @@
     },
     {
       "id": "very-new-orleans-by-wdsu-921a99b2",
-      "numero": 601,
+      "numero": 602,
       "nombre": "Very New Orleans By WDSU",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4576,7 +4588,7 @@
     },
     {
       "id": "ar-fort-smith-very-arkansas-khbs-5bfb9c6a",
-      "numero": 602,
+      "numero": 603,
       "nombre": "AR-Fort Smith | Very Arkansas (KHBS)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4588,7 +4600,7 @@
     },
     {
       "id": "fox47-news-lansing-cae42c3c",
-      "numero": 603,
+      "numero": 604,
       "nombre": "FOX47 News Lansing",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4600,7 +4612,7 @@
     },
     {
       "id": "ky-paducah-nbc-6-wpsd-32f5ff9f",
-      "numero": 604,
+      "numero": 605,
       "nombre": "KY-Paducah | NBC 6 (WPSD)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4612,7 +4624,7 @@
     },
     {
       "id": "kgtv-abc10-news-san-diego-830700dc",
-      "numero": 605,
+      "numero": 606,
       "nombre": "KGTV ABC10 News San Diego",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4624,7 +4636,7 @@
     },
     {
       "id": "kivi-idaho-news-6-boise-cbab348f",
-      "numero": 606,
+      "numero": 607,
       "nombre": "KIVI Idaho News 6 Boise",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4636,7 +4648,7 @@
     },
     {
       "id": "wptv-channel5-news-west-palm-beach-7b927a2d",
-      "numero": 607,
+      "numero": 608,
       "nombre": "WPTV Channel5 News West Palm Beach",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4648,7 +4660,7 @@
     },
     {
       "id": "kiro-cbs-news-7-seattle-wa-73b91ca3",
-      "numero": 608,
+      "numero": 609,
       "nombre": "KIRO (CBS) News 7 Seattle WA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4660,7 +4672,7 @@
     },
     {
       "id": "kmtv-3-news-now-omaha-db99a3b3",
-      "numero": 609,
+      "numero": 610,
       "nombre": "KMTV 3 News Now Omaha",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4672,7 +4684,7 @@
     },
     {
       "id": "very-pittsburgh-by-wtae-5f8d1b01",
-      "numero": 610,
+      "numero": 611,
       "nombre": "Very Pittsburgh By WTAE",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4684,7 +4696,7 @@
     },
     {
       "id": "wjrt-abc-news-12-flint-mi-0efe0904",
-      "numero": 611,
+      "numero": 612,
       "nombre": "WJRT (ABC) News 12 Flint MI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4696,7 +4708,7 @@
     },
     {
       "id": "very-carolina-by-wyff-4-cd651bdb",
-      "numero": 612,
+      "numero": 613,
       "nombre": "Very Carolina By WYFF 4",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4708,7 +4720,7 @@
     },
     {
       "id": "ky-lexington-lex18-wlex-e6cad07d",
-      "numero": 613,
+      "numero": 614,
       "nombre": "KY-Lexington | LEX18 (WLEX)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4720,7 +4732,7 @@
     },
     {
       "id": "tmj4-news-milwaukee-3d82b7d1",
-      "numero": 614,
+      "numero": 615,
       "nombre": "TMJ4 News Milwaukee",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4732,7 +4744,7 @@
     },
     {
       "id": "kdrv-abc-news-12-medford-or-603bca1f",
-      "numero": 615,
+      "numero": 616,
       "nombre": "KDRV (ABC) News 12 Medford OR",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4744,7 +4756,7 @@
     },
     {
       "id": "very-south-florida-by-wpbf-25-349ed3c3",
-      "numero": 616,
+      "numero": 617,
       "nombre": "Very South Florida By WPBF 25",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4756,7 +4768,7 @@
     },
     {
       "id": "news-12-new-york-19cf0617",
-      "numero": 617,
+      "numero": 618,
       "nombre": "News 12 New York",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4768,7 +4780,7 @@
     },
     {
       "id": "wtkr-news-3-norfolk-fe2ad0ad",
-      "numero": 618,
+      "numero": 619,
       "nombre": "WTKR News 3 Norfolk",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4780,7 +4792,7 @@
     },
     {
       "id": "very-sacramento-by-kcra-tv-7c3cfed5",
-      "numero": 619,
+      "numero": 620,
       "nombre": "Very Sacramento By KCRA-TV",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4792,7 +4804,7 @@
     },
     {
       "id": "koaa-news-5-colorado-c2ed4c8f",
-      "numero": 620,
+      "numero": 621,
       "nombre": "KOAA News 5 Colorado",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4804,7 +4816,7 @@
     },
     {
       "id": "very-baltimore-by-wbal-tv-b1a7f543",
-      "numero": 621,
+      "numero": 622,
       "nombre": "Very Baltimore By WBAL-TV",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4816,7 +4828,7 @@
     },
     {
       "id": "very-orlando-by-wesh-2-tv-366a2d16",
-      "numero": 622,
+      "numero": 623,
       "nombre": "Very Orlando By WESH 2-TV",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4828,7 +4840,7 @@
     },
     {
       "id": "very-savannah-by-wjcl-33dda91b",
-      "numero": 623,
+      "numero": 624,
       "nombre": "Very Savannah By WJCL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4840,7 +4852,7 @@
     },
     {
       "id": "ktvh-news-helena-66b761e8",
-      "numero": 624,
+      "numero": 625,
       "nombre": "KTVH News Helena",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4852,7 +4864,7 @@
     },
     {
       "id": "very-cincinnati-by-wlwt-a44f51f2",
-      "numero": 625,
+      "numero": 626,
       "nombre": "Very Cincinnati By WLWT",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4864,7 +4876,7 @@
     },
     {
       "id": "wkbw-7-news-buffalo-3db1ebba",
-      "numero": 626,
+      "numero": 627,
       "nombre": "WKBW 7 News Buffalo",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4876,7 +4888,7 @@
     },
     {
       "id": "tn-nashville-channel5-news-wtvf-452d5f78",
-      "numero": 627,
+      "numero": 628,
       "nombre": "TN-Nashville | Channel5 News (WTVF)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4888,7 +4900,7 @@
     },
     {
       "id": "kimt-cbs-news-3-rochester-mn-ef1f36d2",
-      "numero": 628,
+      "numero": 629,
       "nombre": "KIMT (CBS) News 3 Rochester MN",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4900,7 +4912,7 @@
     },
     {
       "id": "very-maine-by-wmtw-4791edc5",
-      "numero": 629,
+      "numero": 630,
       "nombre": "Very Maine By WMTW",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4912,7 +4924,7 @@
     },
     {
       "id": "very-milwaukee-by-wisn-12-bf09c019",
-      "numero": 630,
+      "numero": 631,
       "nombre": "Very Milwaukee By WISN 12",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4924,7 +4936,7 @@
     },
     {
       "id": "very-omaha-by-ketv-b832f177",
-      "numero": 631,
+      "numero": 632,
       "nombre": "Very Omaha By KETV",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4936,7 +4948,7 @@
     },
     {
       "id": "kpax-news-missoula-e65c9be8",
-      "numero": 632,
+      "numero": 633,
       "nombre": "KPAX News Missoula",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4948,7 +4960,7 @@
     },
     {
       "id": "kvoa-tucson-az-49ac383e",
-      "numero": 633,
+      "numero": 634,
       "nombre": "KVOA Tucson AZ",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4960,7 +4972,7 @@
     },
     {
       "id": "very-carolina-by-wxii-f11186b6",
-      "numero": 634,
+      "numero": 635,
       "nombre": "Very Carolina By WXII",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4972,7 +4984,7 @@
     },
     {
       "id": "wjax-cbs-news-47-jacksonville-fl-15e8f141",
-      "numero": 635,
+      "numero": 636,
       "nombre": "WJAX (CBS) News 47 Jacksonville FL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4984,7 +4996,7 @@
     },
     {
       "id": "ktnv-13-action-news-las-vegas-8d4d77b1",
-      "numero": 636,
+      "numero": 637,
       "nombre": "KTNV 13 Action News Las Vegas",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -4996,7 +5008,7 @@
     },
     {
       "id": "very-louisville-by-wlky-48d48241",
-      "numero": 637,
+      "numero": 638,
       "nombre": "Very Louisville By WLKY",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5008,7 +5020,7 @@
     },
     {
       "id": "ms-jackson-very-jackson-wapt-33434d41",
-      "numero": 638,
+      "numero": 639,
       "nombre": "MS-Jackson | Very Jackson (WAPT)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5020,7 +5032,7 @@
     },
     {
       "id": "fox-17-west-michigan-3883eddc",
-      "numero": 639,
+      "numero": 640,
       "nombre": "FOX 17 West Michigan",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5032,7 +5044,7 @@
     },
     {
       "id": "kero-23-news-bakersfield-c90ddf31",
-      "numero": 640,
+      "numero": 641,
       "nombre": "KERO 23 News Bakersfield",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5044,7 +5056,7 @@
     },
     {
       "id": "very-oklahoma-by-koco-a3c1faa5",
-      "numero": 641,
+      "numero": 642,
       "nombre": "Very Oklahoma By KOCO",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5056,7 +5068,7 @@
     },
     {
       "id": "fox-4-ft-myers-ce01ed56",
-      "numero": 642,
+      "numero": 643,
       "nombre": "FOX 4 Ft Myers",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5068,7 +5080,7 @@
     },
     {
       "id": "kxxv-25-news-waco-f069476a",
-      "numero": 643,
+      "numero": 644,
       "nombre": "KXXV 25 News Waco",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5080,7 +5092,7 @@
     },
     {
       "id": "very-kansas-city-by-kmbc-kcwe-12dc6ec9",
-      "numero": 644,
+      "numero": 645,
       "nombre": "Very Kansas City By KMBC/KCWE",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5092,7 +5104,7 @@
     },
     {
       "id": "kris6-news-corpus-christi-39df53f3",
-      "numero": 645,
+      "numero": 646,
       "nombre": "KRIS6 News Corpus Christi",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5104,7 +5116,7 @@
     },
     {
       "id": "kmgh-denver-7-news-6a202bde",
-      "numero": 646,
+      "numero": 647,
       "nombre": "KMGH Denver 7 News",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5116,7 +5128,7 @@
     },
     {
       "id": "very-pennsylvania-by-wgal-b1078d6c",
-      "numero": 647,
+      "numero": 648,
       "nombre": "Very Pennsylvania By WGAL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5128,7 +5140,7 @@
     },
     {
       "id": "very-tampa-bay-by-wmor-e8991d87",
-      "numero": 648,
+      "numero": 649,
       "nombre": "Very Tampa Bay By WMOR",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5140,7 +5152,7 @@
     },
     {
       "id": "waow-wausau-wi-c79d188f",
-      "numero": 649,
+      "numero": 650,
       "nombre": "WAOW Wausau WI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5152,7 +5164,7 @@
     },
     {
       "id": "wsoc-abc-news-9-charlotte-nc-f75f472c",
-      "numero": 650,
+      "numero": 651,
       "nombre": "WSOC (ABC) News 9 Charlotte NC",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5164,7 +5176,7 @@
     },
     {
       "id": "wkow-madison-wi-6fa5a292",
-      "numero": 651,
+      "numero": 652,
       "nombre": "WKOW Madison WI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5176,7 +5188,7 @@
     },
     {
       "id": "wkbt-cbs-news-8-la-crosse-wi-83193b3b",
-      "numero": 652,
+      "numero": 653,
       "nombre": "WKBT (CBS) News 8 La Crosse WI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5188,7 +5200,7 @@
     },
     {
       "id": "kitv-abc-news-4-honolulu-hi-062362b5",
-      "numero": 653,
+      "numero": 654,
       "nombre": "KITV (ABC) News 4 Honolulu HI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5200,7 +5212,7 @@
     },
     {
       "id": "wisc-madison-wi-d496635e",
-      "numero": 654,
+      "numero": 655,
       "nombre": "WISC Madison WI",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5212,7 +5224,7 @@
     },
     {
       "id": "ktvq-q2-news-billings-5212d593",
-      "numero": 655,
+      "numero": 656,
       "nombre": "KTVQ Q2 News Billings",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5224,7 +5236,7 @@
     },
     {
       "id": "wxyz-7-action-news-detroit-91067692",
-      "numero": 656,
+      "numero": 657,
       "nombre": "WXYZ 7 Action News Detroit",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5236,7 +5248,7 @@
     },
     {
       "id": "tampa-bay-28-43b8038f",
-      "numero": 657,
+      "numero": 658,
       "nombre": "Tampa Bay 28",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5248,7 +5260,7 @@
     },
     {
       "id": "wral-news-raleigh-753735ef",
-      "numero": 658,
+      "numero": 659,
       "nombre": "WRAL News Raleigh",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5260,7 +5272,7 @@
     },
     {
       "id": "kavu-crossroads-today-victoria-tx-431080f7",
-      "numero": 659,
+      "numero": 660,
       "nombre": "KAVU Crossroads Today Victoria TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5272,7 +5284,7 @@
     },
     {
       "id": "wftv-abc-news-9-orlando-fl-7829866c",
-      "numero": 660,
+      "numero": 661,
       "nombre": "WFTV (ABC) News 9 Orlando FL",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5284,7 +5296,7 @@
     },
     {
       "id": "whio-cbs-news-7-dayton-oh-5bc5a569",
-      "numero": 661,
+      "numero": 662,
       "nombre": "WHIO (CBS) News 7 Dayton OH",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5296,7 +5308,7 @@
     },
     {
       "id": "nbc-26-green-bay-9895f064",
-      "numero": 662,
+      "numero": 663,
       "nombre": "NBC 26 Green Bay",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5308,7 +5320,7 @@
     },
     {
       "id": "fox-25-boston-ma-52f26a9f",
-      "numero": 663,
+      "numero": 664,
       "nombre": "FOX 25 Boston MA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5320,7 +5332,7 @@
     },
     {
       "id": "al-birmingham-very-alabama-wvtm-d00e95ed",
-      "numero": 664,
+      "numero": 665,
       "nombre": "AL-Birmingham | Very Alabama (WVTM)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5332,7 +5344,7 @@
     },
     {
       "id": "kshb-41-news-kansas-city-969d5a90",
-      "numero": 665,
+      "numero": 666,
       "nombre": "KSHB 41 News Kansas City",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5344,7 +5356,7 @@
     },
     {
       "id": "knxv-abc15-news-arizona-9ce36cce",
-      "numero": 666,
+      "numero": 667,
       "nombre": "KNXV ABC15 News Arizona",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5356,7 +5368,7 @@
     },
     {
       "id": "tn-memphis-fox-13-whbq-4c9505d6",
-      "numero": 667,
+      "numero": 668,
       "nombre": "TN-Memphis | FOX 13 (WHBQ)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5368,7 +5380,7 @@
     },
     {
       "id": "fox-23-tulsa-ok-48b683d7",
-      "numero": 668,
+      "numero": 669,
       "nombre": "FOX 23 Tulsa OK",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5380,7 +5392,7 @@
     },
     {
       "id": "fox-13-news-salt-lake-a94c781b",
-      "numero": 669,
+      "numero": 670,
       "nombre": "FOX 13 News Salt Lake",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5392,7 +5404,7 @@
     },
     {
       "id": "il-chicago-nbc-5-wmaq-7ef5b593",
-      "numero": 670,
+      "numero": 671,
       "nombre": "IL-Chicago | NBC 5 (WMAQ)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5404,7 +5416,7 @@
     },
     {
       "id": "nbc-4-new-york-news-164bd4b1",
-      "numero": 671,
+      "numero": 672,
       "nombre": "NBC 4 New York News",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5416,7 +5428,7 @@
     },
     {
       "id": "nbc-5-salt-lake-city-ut-319d98ad",
-      "numero": 672,
+      "numero": 673,
       "nombre": "NBC 5 Salt Lake City UT",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5428,7 +5440,7 @@
     },
     {
       "id": "keyt-abc-news-channel-3-santa-barbara-ca-2125fb4a",
-      "numero": 673,
+      "numero": 674,
       "nombre": "KEYT ABC News Channel 3 Santa Barbara CA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5440,7 +5452,7 @@
     },
     {
       "id": "krdo-abc-13-news-colorado-springs-co-ae38bde4",
-      "numero": 674,
+      "numero": 675,
       "nombre": "KRDO ABC 13 News Colorado Springs CO",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5452,7 +5464,7 @@
     },
     {
       "id": "kmiz-abc-17-news-columbia-mo-f52cc213",
-      "numero": 675,
+      "numero": 676,
       "nombre": "KMIZ ABC 17 News Columbia MO",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5464,7 +5476,7 @@
     },
     {
       "id": "kvia-abc-7-news-el-paso-tx-d899c047",
-      "numero": 676,
+      "numero": 677,
       "nombre": "KVIA ABC-7 News El Paso TX",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5476,7 +5488,7 @@
     },
     {
       "id": "kifi-abc-local-news-8-idaho-falls-id-1357a650",
-      "numero": 677,
+      "numero": 678,
       "nombre": "KIFI ABC Local News 8 Idaho Falls ID",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5488,7 +5500,7 @@
     },
     {
       "id": "ktvz-news-bend-or-cda08878",
-      "numero": 678,
+      "numero": 679,
       "nombre": "KTVZ News Bend OR",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5500,7 +5512,7 @@
     },
     {
       "id": "kotv-news-on-6-tulsa-ok-6fa750b8",
-      "numero": 679,
+      "numero": 680,
       "nombre": "KOTV News On 6 Tulsa OK",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5512,7 +5524,7 @@
     },
     {
       "id": "ok-oklahoma-city-news-9-kwtv-bc665196",
-      "numero": 680,
+      "numero": 681,
       "nombre": "OK-Oklahoma City | News 9 (KWTV)",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5524,7 +5536,7 @@
     },
     {
       "id": "9-10-news-northern-michigan-678d1f80",
-      "numero": 681,
+      "numero": 682,
       "nombre": "9&10 News Northern Michigan",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5536,7 +5548,7 @@
     },
     {
       "id": "wcca-194-worcester-ma-b111bdc3",
-      "numero": 682,
+      "numero": 683,
       "nombre": "WCCA 194 Worcester MA",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5548,7 +5560,7 @@
     },
     {
       "id": "thelonestar-6247e680",
-      "numero": 683,
+      "numero": 684,
       "nombre": "Thelonestar",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5560,7 +5572,7 @@
     },
     {
       "id": "moviesphere-5f63c045",
-      "numero": 684,
+      "numero": 685,
       "nombre": "MovieSphere",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
@@ -5992,7 +6004,7 @@
     },
     {
       "id": "boricua-d9af7732",
-      "numero": 516,
+      "numero": 517,
       "nombre": "Boricua",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6004,7 +6016,7 @@
     },
     {
       "id": "candelita-tv-df9dd79e",
-      "numero": 517,
+      "numero": 518,
       "nombre": "Candelita TV",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6016,7 +6028,7 @@
     },
     {
       "id": "cdm-9b5f15c1",
-      "numero": 518,
+      "numero": 519,
       "nombre": "CDM",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6028,7 +6040,7 @@
     },
     {
       "id": "tele11-aee6afed",
-      "numero": 519,
+      "numero": 520,
       "nombre": "Tele11",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6040,7 +6052,7 @@
     },
     {
       "id": "telemundo-pr-6d7faada",
-      "numero": 520,
+      "numero": 521,
       "nombre": "Telemundo PR",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6052,7 +6064,7 @@
     },
     {
       "id": "punto2-055e9db4",
-      "numero": 521,
+      "numero": 522,
       "nombre": "Punto2",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6064,7 +6076,7 @@
     },
     {
       "id": "nuevavida-18a72d9d",
-      "numero": 522,
+      "numero": 523,
       "nombre": "Nuevavida",
       "categoria": "🇵🇷 Puerto Rico",
       "categoria_codigo": "PR",
@@ -6076,7 +6088,7 @@
     },
     {
       "id": "vtv-290175fb",
-      "numero": 685,
+      "numero": 686,
       "nombre": "VTV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6088,7 +6100,7 @@
     },
     {
       "id": "532-promar-tv-d006e586",
-      "numero": 686,
+      "numero": 687,
       "nombre": "532 | Promar TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6100,7 +6112,7 @@
     },
     {
       "id": "globovision-255fdaf7",
-      "numero": 687,
+      "numero": 688,
       "nombre": "Globovision",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6112,7 +6124,7 @@
     },
     {
       "id": "527-tv-familia-2615c8c4",
-      "numero": 688,
+      "numero": 689,
       "nombre": "527 | TV Familia",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6124,7 +6136,7 @@
     },
     {
       "id": "515-bta-tv-2e0fcc29",
-      "numero": 689,
+      "numero": 690,
       "nombre": "515 | BTA TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6136,7 +6148,7 @@
     },
     {
       "id": "catatumbotv-edf09a03",
-      "numero": 690,
+      "numero": 691,
       "nombre": "Catatumbo TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6148,7 +6160,7 @@
     },
     {
       "id": "514-vepaco-tv-1b5aac2d",
-      "numero": 691,
+      "numero": 692,
       "nombre": "514 | Vepaco TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6160,7 +6172,7 @@
     },
     {
       "id": "venevision-c403ab72",
-      "numero": 692,
+      "numero": 693,
       "nombre": "Venevision",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6172,7 +6184,7 @@
     },
     {
       "id": "tlt-5c7b19b0",
-      "numero": 693,
+      "numero": 694,
       "nombre": "Tlt",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6184,7 +6196,7 @@
     },
     {
       "id": "21tachira-8ae3e268",
-      "numero": 694,
+      "numero": 695,
       "nombre": "21 Tachira",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
@@ -6196,7 +6208,7 @@
     },
     {
       "id": "promar-258a7867",
-      "numero": 695,
+      "numero": 696,
       "nombre": "Promar",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",

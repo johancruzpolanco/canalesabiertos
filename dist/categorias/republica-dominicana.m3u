@@ -94,7 +94,7 @@ https://hls.tvabierta.net/hls/end.m3u8
 https://hls.tvabierta.net/hls/cotubanamatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="32" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/032.m3u8
+https://ds.tvabierta.net/memfs/c8e72669-4249-4195-a8a0-3adfca56df46.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cvvision" tvg-chno="33" tvg-logo="https://tvabierta.net/cvvision.png" group-title="🇩🇴 República Dominicana",Cvvision
 #EXTGRP:🇩🇴 República Dominicana
 https://eu1.servers10.com:8081/8128/index.m3u8

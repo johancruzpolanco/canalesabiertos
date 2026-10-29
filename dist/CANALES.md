@@ -1,15 +1,15 @@
 # 📺 Canales disponibles
 
-**Total:** 704 canales en 28 categorías  
-**Actualizado:** 2026-10-29 12:16 UTC  
+**Total:** 706 canales en 28 categorías  
+**Actualizado:** 2026-10-29 22:25 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 92 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 28 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 93 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 32 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (92 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (93 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -132,11 +132,12 @@
 - Chinola TV
 - Alegretvrd
 - Palmar TV
+- Noticiassin
 - Extra 86
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (28 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (29 canales)</summary>
 
 - CNN en Español
 - Euronews
@@ -147,6 +148,7 @@
 - Ntn 24
 - Telemundo PR
 - Telemundo Noreste
+- Noticiasahora
 - Dwe
 - Estrella News
 - Enlace
@@ -214,15 +216,15 @@
 - Tgn
 - FITE 24/7
 - Extreme+
-- Sports First⚕️
+- Sports First
 - Wild TV
-- Surfing +⚕️
+- Surfing
 - Televen
 - BeIN Sports XTRA
 - Fuel TV
 - Swerve Combat
-- Speed Sport 1⚕️
-- Outdoor America⚕️
+- Speed Sport
+- Outdoor America
 - Ufc
 - Pac 12 Insider
 - Strongman Champions League

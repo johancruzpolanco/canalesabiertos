@@ -272,6 +272,9 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Palmar TV" tvg-chno="91" tvg-logo="https://tvabierta.net/palmartv.png" group-title="🇩🇴 República Dominicana",Palmar TV
 #EXTGRP:🇩🇴 República Dominicana
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Extra 86" tvg-chno="92" tvg-logo="https://tvabierta.net/extra86.png" group-title="🇩🇴 República Dominicana",Extra 86
+#EXTINF:-1 tvg-id="" tvg-name="Noticiassin" tvg-chno="92" tvg-logo="https://tvabierta.net/noticiassin.jpg" group-title="🇩🇴 República Dominicana",Noticiassin
+#EXTGRP:🇩🇴 República Dominicana
+https://hls.tvabierta.net/hls/noticiassin.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Extra 86" tvg-chno="93" tvg-logo="https://tvabierta.net/extra86.png" group-title="🇩🇴 República Dominicana",Extra 86
 #EXTGRP:🇩🇴 República Dominicana
 https://video.streamerr.co/hls/sc23910f2cd/live.m3u8

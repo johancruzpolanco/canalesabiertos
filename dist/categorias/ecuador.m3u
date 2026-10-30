@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-chno="234" tvg-logo="https://tvabierta.net/teleamazonas.png" group-title="🇪🇨 Ecuador",Teleamazonas
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-chno="235" tvg-logo="https://tvabierta.net/teleamazonas.png" group-title="🇪🇨 Ecuador",Teleamazonas
 #EXTGRP:🇪🇨 Ecuador
 https://ds.tvabierta.net/memfs/743842fa-a19f-46b6-8f71-bcc01c1bff2b.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-chno="235" tvg-logo="https://tvabierta.net/ecuadortv.png" group-title="🇪🇨 Ecuador",Ecuador TV
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-chno="236" tvg-logo="https://tvabierta.net/ecuadortv.png" group-title="🇪🇨 Ecuador",Ecuador TV
 #EXTGRP:🇪🇨 Ecuador
 https://ds.tvabierta.net/memfs/e809e72b-176b-4548-b9fc-8bf8602aa088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gamavisión" tvg-chno="236" tvg-logo="https://tvabierta.net/gamavision.png" group-title="🇪🇨 Ecuador",Gamavisión
+#EXTINF:-1 tvg-id="" tvg-name="Gamavisión" tvg-chno="237" tvg-logo="https://tvabierta.net/gamavision.png" group-title="🇪🇨 Ecuador",Gamavisión
 #EXTGRP:🇪🇨 Ecuador
 https://ds.tvabierta.net/memfs/f0d1b3ed-ec6e-419e-8211-a79cf26bb9ef.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="237" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 2" tvg-chno="238" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 2
 #EXTGRP:🇪🇨 Ecuador
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="238" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
+#EXTINF:-1 tvg-id="" tvg-name="Ecuavisa 1" tvg-chno="239" tvg-logo="https://tvabierta.net/ecuavisa.png" group-title="🇪🇨 Ecuador",Ecuavisa 1
 #EXTGRP:🇪🇨 Ecuador
 https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="239" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
+#EXTINF:-1 tvg-id="" tvg-name="Bacan Te Veo" tvg-chno="240" tvg-logo="https://tvabierta.net/bacanteveo.png" group-title="🇪🇨 Ecuador",Bacan Te Veo
 #EXTGRP:🇪🇨 Ecuador
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8

@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 706 canales en 28 categorías  
-**Actualizado:** 2026-10-30 12:07 UTC  
+**Total:** 709 canales en 28 categorías  
+**Actualizado:** 2026-10-30 21:55 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -21,7 +21,7 @@
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
 | 🇨🇱 Chile | 12 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 11 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇴 Colombia | 12 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 3 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 6 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 190 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 192 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -373,11 +373,12 @@
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (11 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (12 canales)</summary>
 
 - Canal Cine Dios
 - CMB
 - Caracol
+- Canalcapital
 - Cosmovision
 - Cnctulua
 - Canal 8 TV+
@@ -690,7 +691,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (190 canales)</summary>
+<details><summary><b>📺 Otros</b> (192 canales)</summary>
 
 - 541 | TVE
 - 654 | TV Nordestina
@@ -722,6 +723,8 @@
 - Lxhome
 - Cocinafamiliar
 - Wild TV Network
+- Nicanal 10
+- Vivanicaragua
 - Perfect Game TV
 - Just For Laughs
 - Just For Laughs Gags

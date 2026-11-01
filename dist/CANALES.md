@@ -1,21 +1,21 @@
 # 📺 Canales disponibles
 
-**Total:** 709 canales en 28 categorías  
-**Actualizado:** 2026-11-01 04:22 UTC  
+**Total:** 713 canales en 28 categorías  
+**Actualizado:** 2026-11-01 12:39 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 93 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 95 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 32 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 6 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 📈 Trading y Finanzas | 7 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 16 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
@@ -28,7 +28,7 @@
 | 🇪🇸 España | 11 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 160 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 6 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
-| 🇭🇳 Honduras | 6 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
+| 🇭🇳 Honduras | 7 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 14 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (93 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (95 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -66,7 +66,7 @@
 - Telefuturo
 - Bellavisión
 - Luna TV
-- Makao TV
+- Makaoradio
 - RNN
 - En Televisión
 - Teleuniverso
@@ -85,6 +85,7 @@
 - Punta Cana TV
 - ZTV
 - Zol
+- Rumba
 - Telenord 10
 - Telenord 12
 - Telenord 8
@@ -133,6 +134,7 @@
 - Alegretvrd
 - Palmar TV
 - Noticiassin
+- Hilandofino
 - Extra 86
 
 </details>
@@ -302,10 +304,11 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (6 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (7 canales)</summary>
 
 - B
 - Bbcnews
+- Bbcnews 2
 - Cnbc
 - Negocios
 - Finance.yahoo
@@ -608,7 +611,7 @@
 
 </details>
 
-<details><summary><b>🇭🇳 Honduras</b> (6 canales)</summary>
+<details><summary><b>🇭🇳 Honduras</b> (7 canales)</summary>
 
 - Canal 11
 - Alsacias TV
@@ -616,6 +619,7 @@
 - Dteve
 - Metro TV
 - Buendia TV
+- Tentv
 
 </details>
 

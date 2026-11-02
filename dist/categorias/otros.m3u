@@ -1,92 +1,92 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="541 | TVE" tvg-chno="124" tvg-logo="https://tvabierta.net/541-tve-brasil.jpg" group-title="📺 Otros",541 | TVE
+#EXTINF:-1 tvg-id="" tvg-name="541 | TVE" tvg-chno="122" tvg-logo="https://tvabierta.net/541-tve-brasil.jpg" group-title="📺 Otros",541 | TVE
 #EXTGRP:📺 Otros
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="654 | TV Nordestina" tvg-chno="125" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3e049a2ae92c266234e366a9b4ece76.webp" group-title="📺 Otros",654 | TV Nordestina
+#EXTINF:-1 tvg-id="" tvg-name="654 | TV Nordestina" tvg-chno="123" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3e049a2ae92c266234e366a9b4ece76.webp" group-title="📺 Otros",654 | TV Nordestina
 #EXTGRP:📺 Otros
 https://5ad482a77183d.streamlock.net/estudiosabiliojosegmail.com/estudiosabiliojosegmail.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="601 | TV CNB" tvg-chno="126" tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="📺 Otros",601 | TV CNB
+#EXTINF:-1 tvg-id="" tvg-name="601 | TV CNB" tvg-chno="124" tvg-logo="https://tvcnb.com/wp-content/uploads/2017/10/logo_TVCNB_camisa-e1526345548164.png" group-title="📺 Otros",601 | TV CNB
 #EXTGRP:📺 Otros
 https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="639 | CNB American" tvg-chno="127" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjynDkalFFhIMJNBonthDJbly27AVBDV01anRXO-1jqG0qhqXpxiXc5v9E8oAaVjmrzWeIzJlBd1zZmcqNL2oij8Vq7n47S7dc6yFn69WqrVFDd8XIt-172U34uN_QJSOfIwEj4z2etXDiDIJjoWGA6-WPaP2Bd01mi7SedapjC8THfyTDYOzObYzq4=w1200-h630-p-k-no-nu" group-title="📺 Otros",639 | CNB American
+#EXTINF:-1 tvg-id="" tvg-name="639 | CNB American" tvg-chno="125" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjynDkalFFhIMJNBonthDJbly27AVBDV01anRXO-1jqG0qhqXpxiXc5v9E8oAaVjmrzWeIzJlBd1zZmcqNL2oij8Vq7n47S7dc6yFn69WqrVFDd8XIt-172U34uN_QJSOfIwEj4z2etXDiDIJjoWGA6-WPaP2Bd01mi7SedapjC8THfyTDYOzObYzq4=w1200-h630-p-k-no-nu" group-title="📺 Otros",639 | CNB American
 #EXTGRP:📺 Otros
 https://5cf4a2c2512a2.streamlock.net/tvcnbamerican/tvcnbamerican/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="577 | TV Max" tvg-chno="128" tvg-logo="https://tvabierta.net/577-tv-max-brasil.webp" group-title="📺 Otros",577 | TV Max
+#EXTINF:-1 tvg-id="" tvg-name="577 | TV Max" tvg-chno="126" tvg-logo="https://tvabierta.net/577-tv-max-brasil.webp" group-title="📺 Otros",577 | TV Max
 #EXTGRP:📺 Otros
 https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="588 | Yeeaah TV" tvg-chno="129" tvg-logo="https://tvabierta.net/588-yeeaah-tv-brasil.png" group-title="📺 Otros",588 | Yeeaah TV
+#EXTINF:-1 tvg-id="" tvg-name="588 | Yeeaah TV" tvg-chno="127" tvg-logo="https://tvabierta.net/588-yeeaah-tv-brasil.png" group-title="📺 Otros",588 | Yeeaah TV
 #EXTGRP:📺 Otros
 https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="580 | Com Brasil" tvg-chno="130" tvg-logo="https://tvabierta.net/580-com-brasil-brasil.png" group-title="📺 Otros",580 | Com Brasil
+#EXTINF:-1 tvg-id="" tvg-name="580 | Com Brasil" tvg-chno="128" tvg-logo="https://tvabierta.net/580-com-brasil-brasil.png" group-title="📺 Otros",580 | Com Brasil
 #EXTGRP:📺 Otros
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="640 | TV Amplitude" tvg-chno="131" tvg-logo="https://tvabierta.net/tv-amplitude.png" group-title="📺 Otros",640 | TV Amplitude
+#EXTINF:-1 tvg-id="" tvg-name="640 | TV Amplitude" tvg-chno="129" tvg-logo="https://tvabierta.net/tv-amplitude.png" group-title="📺 Otros",640 | TV Amplitude
 #EXTGRP:📺 Otros
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="612 | Adesso TV" tvg-chno="132" tvg-logo="https://tvabierta.net/612-adesso-tv-brasil.png" group-title="📺 Otros",612 | Adesso TV
+#EXTINF:-1 tvg-id="" tvg-name="612 | Adesso TV" tvg-chno="130" tvg-logo="https://tvabierta.net/612-adesso-tv-brasil.png" group-title="📺 Otros",612 | Adesso TV
 #EXTGRP:📺 Otros
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="630 | TV Zoom" tvg-chno="133" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b9e29405fcb5d0ea24baa173a953c256.webp" group-title="📺 Otros",630 | TV Zoom
+#EXTINF:-1 tvg-id="" tvg-name="630 | TV Zoom" tvg-chno="131" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b9e29405fcb5d0ea24baa173a953c256.webp" group-title="📺 Otros",630 | TV Zoom
 #EXTGRP:📺 Otros
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="652 | Rede NGT" tvg-chno="134" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="📺 Otros",652 | Rede NGT
+#EXTINF:-1 tvg-id="" tvg-name="652 | Rede NGT" tvg-chno="132" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6044f74f88a8d13430fb41e4caeca5f0.webp" group-title="📺 Otros",652 | Rede NGT
 #EXTGRP:📺 Otros
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="614 | VRT Channel" tvg-chno="135" tvg-logo="https://tvabierta.net/614-vrt-channel-brasil.webp" group-title="📺 Otros",614 | VRT Channel
+#EXTINF:-1 tvg-id="" tvg-name="614 | VRT Channel" tvg-chno="133" tvg-logo="https://tvabierta.net/614-vrt-channel-brasil.webp" group-title="📺 Otros",614 | VRT Channel
 #EXTGRP:📺 Otros
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="583 | Demais TV" tvg-chno="136" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="📺 Otros",583 | Demais TV
+#EXTINF:-1 tvg-id="" tvg-name="583 | Demais TV" tvg-chno="134" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="📺 Otros",583 | Demais TV
 #EXTGRP:📺 Otros
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="551 | ISTV" tvg-chno="137" tvg-logo="https://istv.com.br/static/media/Logo_ISTV_01.f4e9bd182d5e3afaa8ff.png" group-title="📺 Otros",551 | ISTV
+#EXTINF:-1 tvg-id="" tvg-name="551 | ISTV" tvg-chno="135" tvg-logo="https://istv.com.br/static/media/Logo_ISTV_01.f4e9bd182d5e3afaa8ff.png" group-title="📺 Otros",551 | ISTV
 #EXTGRP:📺 Otros
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="626 | TV Ondas De Maricá" tvg-chno="138" tvg-logo="https://tvondasplay.com.br/wp-content/uploads/2022/10/tv_ondas_play_logo-1536x633.png" group-title="📺 Otros",626 | TV Ondas De Maricá
+#EXTINF:-1 tvg-id="" tvg-name="626 | TV Ondas De Maricá" tvg-chno="136" tvg-logo="https://tvondasplay.com.br/wp-content/uploads/2022/10/tv_ondas_play_logo-1536x633.png" group-title="📺 Otros",626 | TV Ondas De Maricá
 #EXTGRP:📺 Otros
 https://stmv5.samcast.com.br/portalondasdemarica/portalondasdemarica/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="587 | TV Alternativa" tvg-chno="139" tvg-logo="https://tvabierta.net/587-tv-alternativa-brasil.png" group-title="📺 Otros",587 | TV Alternativa
+#EXTINF:-1 tvg-id="" tvg-name="587 | TV Alternativa" tvg-chno="137" tvg-logo="https://tvabierta.net/587-tv-alternativa-brasil.png" group-title="📺 Otros",587 | TV Alternativa
 #EXTGRP:📺 Otros
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="617 | RAE TV" tvg-chno="140" tvg-logo="https://tvabierta.net/617-rae-tv-brasil.jpg" group-title="📺 Otros",617 | RAE TV
+#EXTINF:-1 tvg-id="" tvg-name="617 | RAE TV" tvg-chno="138" tvg-logo="https://tvabierta.net/617-rae-tv-brasil.jpg" group-title="📺 Otros",617 | RAE TV
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/raetv/raetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="600 | TVA A Folha" tvg-chno="141" tvg-logo="https://tvabierta.net/600-tva-a-folha-brasil.png" group-title="📺 Otros",600 | TVA A Folha
+#EXTINF:-1 tvg-id="" tvg-name="600 | TVA A Folha" tvg-chno="139" tvg-logo="https://tvabierta.net/600-tva-a-folha-brasil.png" group-title="📺 Otros",600 | TVA A Folha
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="615 | TVídeo News" tvg-chno="142" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtzM69t1Rqpf6csQ1mSQnkCqw3W3Wq95gQ2JoqtYQLm0uk9FDKBIH84fD0Z7TA6rn2cU&usqp=CAU" group-title="📺 Otros",615 | TVídeo News
+#EXTINF:-1 tvg-id="" tvg-name="615 | TVídeo News" tvg-chno="140" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtzM69t1Rqpf6csQ1mSQnkCqw3W3Wq95gQ2JoqtYQLm0uk9FDKBIH84fD0Z7TA6rn2cU&usqp=CAU" group-title="📺 Otros",615 | TVídeo News
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="558 | Viva Eduque TV" tvg-chno="143" tvg-logo="https://www.vivaedeixeviver.org.br/images/stories/cursos/viva-eduque.png" group-title="📺 Otros",558 | Viva Eduque TV
+#EXTINF:-1 tvg-id="" tvg-name="558 | Viva Eduque TV" tvg-chno="141" tvg-logo="https://www.vivaedeixeviver.org.br/images/stories/cursos/viva-eduque.png" group-title="📺 Otros",558 | Viva Eduque TV
 #EXTGRP:📺 Otros
 https://video01.logicahost.com.br/vivaedeixeviver/vivaedeixeviver/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="560 | TV Río Preto" tvg-chno="144" tvg-logo="https://tvabierta.net/560-tv-rio-preto-brasil.webp" group-title="📺 Otros",560 | TV Río Preto
+#EXTINF:-1 tvg-id="" tvg-name="560 | TV Río Preto" tvg-chno="142" tvg-logo="https://tvabierta.net/560-tv-rio-preto-brasil.webp" group-title="📺 Otros",560 | TV Río Preto
 #EXTGRP:📺 Otros
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="578 | Assime Portugal TV" tvg-chno="145" tvg-logo="https://tvabierta.net/578-assime-portugal-tv-brasil.webp" group-title="📺 Otros",578 | Assime Portugal TV
+#EXTINF:-1 tvg-id="" tvg-name="578 | Assime Portugal TV" tvg-chno="143" tvg-logo="https://tvabierta.net/578-assime-portugal-tv-brasil.webp" group-title="📺 Otros",578 | Assime Portugal TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="608 | Hackathon TV" tvg-chno="146" tvg-logo="https://tvabierta.net/608-hackathon-tv-brasil.png" group-title="📺 Otros",608 | Hackathon TV
+#EXTINF:-1 tvg-id="" tvg-name="608 | Hackathon TV" tvg-chno="144" tvg-logo="https://tvabierta.net/608-hackathon-tv-brasil.png" group-title="📺 Otros",608 | Hackathon TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/hackathonbrasil/hackathonbrasil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="555 | Pet Lovers TV" tvg-chno="147" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b452dd39e4ab9787fc4c0eb8ba651112.webp" group-title="📺 Otros",555 | Pet Lovers TV
+#EXTINF:-1 tvg-id="" tvg-name="555 | Pet Lovers TV" tvg-chno="145" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b452dd39e4ab9787fc4c0eb8ba651112.webp" group-title="📺 Otros",555 | Pet Lovers TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="545 | Rede Mundo TV" tvg-chno="148" tvg-logo="https://tvabierta.net/545-rede-mundo-tv-brasil.webp" group-title="📺 Otros",545 | Rede Mundo TV
+#EXTINF:-1 tvg-id="" tvg-name="545 | Rede Mundo TV" tvg-chno="146" tvg-logo="https://tvabierta.net/545-rede-mundo-tv-brasil.webp" group-title="📺 Otros",545 | Rede Mundo TV
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="544 | TV Aracati" tvg-chno="149" tvg-logo="https://tvabierta.net/544-tv-aracati-brasil.webp" group-title="📺 Otros",544 | TV Aracati
+#EXTINF:-1 tvg-id="" tvg-name="544 | TV Aracati" tvg-chno="147" tvg-logo="https://tvabierta.net/544-tv-aracati-brasil.webp" group-title="📺 Otros",544 | TV Aracati
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="556 | TV Reconcavo" tvg-chno="150" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMruJ1_cIWLY8sVdQ9Aj6TDfa_3aPwiDFJ380d_e6Cg4o7TCWhu-B8nFiTkiCdDqKRZFA&usqp=CAU" group-title="📺 Otros",556 | TV Reconcavo
+#EXTINF:-1 tvg-id="" tvg-name="556 | TV Reconcavo" tvg-chno="148" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMruJ1_cIWLY8sVdQ9Aj6TDfa_3aPwiDFJ380d_e6Cg4o7TCWhu-B8nFiTkiCdDqKRZFA&usqp=CAU" group-title="📺 Otros",556 | TV Reconcavo
 #EXTGRP:📺 Otros
 https://video04.logicahost.com.br/tvreconcavo/tvreconcavo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lxhome" tvg-chno="203" tvg-logo="https://tvabierta.net/lxhome.png" group-title="📺 Otros",Lxhome
+#EXTINF:-1 tvg-id="" tvg-name="Lxhome" tvg-chno="201" tvg-logo="https://tvabierta.net/lxhome.png" group-title="📺 Otros",Lxhome
 #EXTGRP:📺 Otros
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cocinafamiliar" tvg-chno="204" tvg-logo="https://tvabierta.net/cocinafamiliar.png" group-title="📺 Otros",Cocinafamiliar
+#EXTINF:-1 tvg-id="" tvg-name="Cocinafamiliar" tvg-chno="202" tvg-logo="https://tvabierta.net/cocinafamiliar.png" group-title="📺 Otros",Cocinafamiliar
 #EXTGRP:📺 Otros
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12108
-#EXTINF:-1 tvg-id="" tvg-name="Wild TV Network" tvg-chno="205" tvg-logo="" group-title="📺 Otros",Wild TV Network
+#EXTINF:-1 tvg-id="" tvg-name="Wild TV Network" tvg-chno="203" tvg-logo="" group-title="📺 Otros",Wild TV Network
 #EXTGRP:📺 Otros
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nicanal 10" tvg-chno="296" tvg-logo="https://tvabierta.net/nicanal10.png" group-title="📺 Otros",Nicanal 10
@@ -575,3 +575,6 @@ https://qwest-jazz-lg.amagi.tv/hls/amagi_hls_data_qwestAAAA-qwest-jazz-lg/CDN/ma
 #EXTINF:-1 tvg-id="" tvg-name="979 SOL MÚSICA" tvg-chno="471" tvg-logo="https://tvabierta.net/solmusica.png" group-title="📺 Otros",979 SOL MÚSICA
 #EXTGRP:📺 Otros
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12865&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-chno="472" tvg-logo="https://tvabierta.net/telemedellin.png" group-title="📺 Otros",Telemedellin
+#EXTGRP:📺 Otros
+https://live20.bozztv.com/akamaissh101/ssh101/telemed2/playlist.m3u8

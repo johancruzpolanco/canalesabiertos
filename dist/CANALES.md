@@ -1,21 +1,21 @@
 # 📺 Canales disponibles
 
 **Total:** 713 canales en 28 categorías  
-**Actualizado:** 2026-11-01 21:41 UTC  
+**Actualizado:** 2026-11-02 04:23 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 95 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 94 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 32 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| ⚽ Deportes | 33 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 7 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 📈 Trading y Finanzas | 6 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 16 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
@@ -35,18 +35,18 @@
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 192 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 193 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (95 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (94 canales)</summary>
 
 - Bloomberg
 - Misionel TV
 - Ahora TV
 - RTVD
 - Telemicro
-- TV Luz
+- Telemicrointernacional
 - Antena 7
 - Telemedios
 - Colorvisión
@@ -57,7 +57,7 @@
 - 14 TV
 - Digital 15
 - Carivisión
-- Super7
+- TV Luz
 - El Seis
 - Canal 19
 - Cielo TV
@@ -86,6 +86,7 @@
 - ZTV
 - Zol
 - Rumba
+- Super7
 - Telenord 10
 - Telenord 12
 - Telenord 8
@@ -102,11 +103,9 @@
 - Radioemanuel
 - Coco TV
 - Cntmas
-- OEPM
 - Portaldigital TV
 - Telecanal 12
 - Latinostvny
-- Boncheslatinos TV
 - Manaclar TV
 - Pulso Visión
 - Televisiondeleste
@@ -114,7 +113,7 @@
 - Canal DTV Latino
 - Senal Digital
 - Visionndv
-- Valle Nuevo TV
+- Vallenuevo TV
 - Boreal
 - Altanto TV
 - Telecontacto
@@ -169,7 +168,7 @@
 - Bendicionchannel
 - 24 H
 - Mastalk
-- Telemedellin
+- Mega. TV
 
 </details>
 
@@ -204,7 +203,7 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (32 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (33 canales)</summary>
 
 - Aguilas
 - Licey
@@ -222,7 +221,8 @@
 - Wild TV
 - Surfing
 - Televen
-- BeIN Sports XTRA
+- Bein
+- Beinxtra
 - Fuel TV
 - Swerve Combat
 - Speed Sport
@@ -304,11 +304,10 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (7 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (6 canales)</summary>
 
 - B
 - Bbcnews
-- Bbcnews 2
 - Cnbc
 - Negocios
 - Finance.yahoo
@@ -695,7 +694,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (192 canales)</summary>
+<details><summary><b>📺 Otros</b> (193 canales)</summary>
 
 - 541 | TVE
 - 654 | TV Nordestina
@@ -889,6 +888,7 @@
 - Stingray Today's KPOP
 - 974 Qwest TV
 - 979 SOL MÚSICA
+- Telemedellin
 
 </details>
 

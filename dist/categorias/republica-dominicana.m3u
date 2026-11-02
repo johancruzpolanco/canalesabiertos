@@ -10,7 +10,7 @@ https://hls.tvabierta.net/hls/misioneltv.m3u8
 https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTVD" tvg-chno="4" tvg-logo="https://tvabierta.net/004.png" group-title="🇩🇴 República Dominicana",RTVD
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/004.m3u8
+https://ds.tvabierta.net/memfs/9ac8ebf9-42fd-4753-9b49-f79416d87a5a.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-chno="5" tvg-logo="https://tvabierta.net/005.png" group-title="🇩🇴 República Dominicana",Telemicro
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944.m3u8
@@ -58,7 +58,7 @@ https://stream.elseis.do/canal6/live_480.m3u8
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cielo TV" tvg-chno="20" tvg-logo="https://tvabierta.net/cielotv.png" group-title="🇩🇴 República Dominicana",Cielo TV
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/020.m3u8
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 21" tvg-chno="21" tvg-logo="https://tvabierta.net/021.png" group-title="🇩🇴 República Dominicana",Antena 21
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/021.m3u8
@@ -274,7 +274,7 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 https://streamunoapp.com:3255/live/palmartvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticiassin" tvg-chno="92" tvg-logo="https://tvabierta.net/noticiassin.jpg" group-title="🇩🇴 República Dominicana",Noticiassin
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/noticiassin.m3u8
+https://us.tvabierta.net/memfs/7b3a8246-d2a2-46b8-819b-8eb132536776.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hilandofino" tvg-chno="93" tvg-logo="https://tvabierta.net/hilandofino.png" group-title="🇩🇴 República Dominicana",Hilandofino
 #EXTGRP:🇩🇴 República Dominicana
 https://stream1.28tv.online/HilandoFinoTvcanal77/index.m3u8

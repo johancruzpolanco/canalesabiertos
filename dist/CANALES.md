@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 713 canales en 28 categorías  
-**Actualizado:** 2026-11-02 04:23 UTC  
+**Total:** 718 canales en 28 categorías  
+**Actualizado:** 2026-11-02 14:44 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -9,9 +9,9 @@
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
 | 🇩🇴 República Dominicana | 94 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🌎 Hispanos | 30 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 33 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
@@ -21,7 +21,7 @@
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
 | 🇨🇱 Chile | 12 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 12 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇴 Colombia | 13 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 3 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 6 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
@@ -30,12 +30,12 @@
 | 🇬🇹 Guatemala | 6 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 7 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
-| 🇲🇽 México | 14 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
+| 🇲🇽 México | 15 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 193 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 194 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -138,7 +138,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (29 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (30 canales)</summary>
 
 - CNN en Español
 - Euronews
@@ -169,6 +169,7 @@
 - 24 H
 - Mastalk
 - Mega. TV
+- Las Estrellas
 
 </details>
 
@@ -203,7 +204,7 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (33 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (34 canales)</summary>
 
 - Aguilas
 - Licey
@@ -238,6 +239,7 @@
 - Unbeaten
 - NBC Sports
 - Cbssportsgonzalo
+- Deportestvc
 
 </details>
 
@@ -375,11 +377,12 @@
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (12 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (13 canales)</summary>
 
 - Canal Cine Dios
 - CMB
 - Caracol
+- Caracol Internacional
 - Canalcapital
 - Cosmovision
 - Cnctulua
@@ -604,7 +607,7 @@
 - Canalantigua
 - Amigos TV
 - Conectados
-- Canal27
+- Canal 27
 - Penielfamiliar
 - Barivision
 
@@ -629,7 +632,7 @@
 
 </details>
 
-<details><summary><b>🇲🇽 México</b> (14 canales)</summary>
+<details><summary><b>🇲🇽 México</b> (15 canales)</summary>
 
 - TVP Culliacan
 - Mexiquense
@@ -641,7 +644,8 @@
 - AlcarriaTV
 - QuieroTV
 - ADN 40
-- Monterrey
+- 6 Monterrey
+- 6 Monterrey Original
 - Azteca Int.
 - ImagenTV
 - Canal Once
@@ -694,7 +698,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (193 canales)</summary>
+<details><summary><b>📺 Otros</b> (194 canales)</summary>
 
 - 541 | TVE
 - 654 | TV Nordestina
@@ -889,6 +893,7 @@
 - 974 Qwest TV
 - 979 SOL MÚSICA
 - Telemedellin
+- Bandamax
 
 </details>
 

@@ -1,8 +1,8 @@
 {
-  "generado": "2026-11-03 00:29 UTC",
+  "generado": "2026-11-03 13:37 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
-  "total": 726,
-  "hash": "c72e449b577a03ea73a818d1e5a0e258a6e24fef1585d1d7471f95a99b5345a8",
+  "total": 725,
+  "hash": "f9e6d47ad281d341f8336afc7c6bcf7e3f8e4f0ecaaf0a515448efcbd52c2cab",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -136,7 +136,7 @@
     },
     {
       "nombre": "🇻🇪 Venezuela",
-      "canales": 11,
+      "canales": 10,
       "archivo": "categorias/venezuela.m3u"
     },
     {
@@ -603,14 +603,14 @@
       "slug": "acentotva"
     },
     {
-      "id": "coral-15edf400",
+      "id": "coral-5f4c2950",
       "numero": 39,
       "nombre": "Coral",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/039.png",
-      "url": "https://us.tvabierta.net/memfs/9aa305d3-a20e-4634-9edf-d2e1d14bb3a4.m3u8",
+      "url": "https://us.tvabierta.net/memfs/129f0603-c367-4cdc-b2c6-3470433031f8.m3u8",
       "tvg_id": "",
       "slug": "coral"
     },
@@ -5837,7 +5837,7 @@
     {
       "id": "moviesphere-5f63c045",
       "numero": 715,
-      "nombre": "MovieSphere",
+      "nombre": "movieSphere",
       "categoria": "🇺🇸 Estados Unidos",
       "categoria_codigo": "US",
       "categoria_orden": 120,
@@ -6411,16 +6411,16 @@
       "slug": "vtv"
     },
     {
-      "id": "532-promar-tv-d006e586",
+      "id": "promartv-ec2a61dd",
       "numero": 717,
-      "nombre": "532 | Promar TV",
+      "nombre": "Promar TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
       "logo": "https://tvabierta.net/promartv.png",
-      "url": "http://vcp1.myplaytv.com/promar/promar/playlist.m3u8",
+      "url": "https://hls.tvabierta.net/hls/promar.m3u8",
       "tvg_id": "",
-      "slug": "532-promar-tv"
+      "slug": "promar-tv"
     },
     {
       "id": "globovision-255fdaf7",
@@ -6429,34 +6429,34 @@
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
-      "logo": "",
+      "logo": "https://tvabierta.net/globovision.png",
       "url": "https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8",
       "tvg_id": "",
       "slug": "globovision"
     },
     {
-      "id": "527-tv-familia-2615c8c4",
+      "id": "tvfamilia-2615c8c4",
       "numero": 719,
-      "nombre": "527 | TV Familia",
+      "nombre": "TV Familia",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
       "logo": "https://tvabierta.net/tv-familia.png",
       "url": "https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8",
       "tvg_id": "",
-      "slug": "527-tv-familia"
+      "slug": "tv-familia"
     },
     {
-      "id": "515-bta-tv-2e0fcc29",
+      "id": "bta-2e0fcc29",
       "numero": 720,
-      "nombre": "515 | BTA TV",
+      "nombre": "Bta",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
       "logo": "https://tvabierta.net/515-bta-tv-venezuela.png",
       "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
       "tvg_id": "",
-      "slug": "515-bta-tv"
+      "slug": "bta"
     },
     {
       "id": "catatumbotv-edf09a03",
@@ -6471,16 +6471,16 @@
       "slug": "catatumbo-tv"
     },
     {
-      "id": "514-vepaco-tv-1b5aac2d",
+      "id": "vepacotv-1b5aac2d",
       "numero": 722,
-      "nombre": "514 | Vepaco TV",
+      "nombre": "Vepaco TV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
       "logo": "https://tvabierta.net/vepaco-tv.png",
       "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8",
       "tvg_id": "",
-      "slug": "514-vepaco-tv"
+      "slug": "vepaco-tv"
     },
     {
       "id": "venevision-c403ab72",
@@ -6495,14 +6495,14 @@
       "slug": "venevision"
     },
     {
-      "id": "tlt-5c7b19b0",
+      "id": "tlt-249c1cde",
       "numero": 724,
       "nombre": "Tlt",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
       "logo": "https://tvabierta.net/tlt.png",
-      "url": "https://hls.tvabierta.net/hls/teletuya.m3u8",
+      "url": "https://us.tvabierta.net/memfs/fc64a5f2-2c12-4652-91e6-256008aafb05.m3u8",
       "tvg_id": "",
       "slug": "tlt"
     },
@@ -6517,18 +6517,6 @@
       "url": "https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8",
       "tvg_id": "",
       "slug": "21-tachira"
-    },
-    {
-      "id": "promar-258a7867",
-      "numero": 726,
-      "nombre": "Promar",
-      "categoria": "🇻🇪 Venezuela",
-      "categoria_codigo": "VE",
-      "categoria_orden": 129,
-      "logo": "https://tvabierta.net/promartv.png",
-      "url": "https://vcp.myplaytv.com/promar/promar/playlist.m3u8",
-      "tvg_id": "",
-      "slug": "promar"
     },
     {
       "id": "541-tve-7ef98b2e",

@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 726 canales en 28 categorías  
-**Actualizado:** 2026-11-03 00:29 UTC  
+**Total:** 725 canales en 28 categorías  
+**Actualizado:** 2026-11-03 13:37 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -34,7 +34,7 @@
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
 | 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 11 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
+| 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 | 📺 Otros | 194 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
@@ -605,7 +605,7 @@
 - 9&10 News Northern Michigan
 - WCCA 194 Worcester MA
 - Thelonestar
-- MovieSphere
+- movieSphere
 
 </details>
 
@@ -690,19 +690,18 @@
 
 </details>
 
-<details><summary><b>🇻🇪 Venezuela</b> (11 canales)</summary>
+<details><summary><b>🇻🇪 Venezuela</b> (10 canales)</summary>
 
 - VTV
-- 532 | Promar TV
+- Promar TV
 - Globovision
-- 527 | TV Familia
-- 515 | BTA TV
+- TV Familia
+- Bta
 - Catatumbo TV
-- 514 | Vepaco TV
+- Vepaco TV
 - Venevision
 - Tlt
 - 21 Tachira
-- Promar
 
 </details>
 

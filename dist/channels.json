@@ -1,8 +1,8 @@
 {
-  "generado": "2026-11-03 22:53 UTC",
+  "generado": "2026-11-04 04:48 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 725,
-  "hash": "f9e6d47ad281d341f8336afc7c6bcf7e3f8e4f0ecaaf0a515448efcbd52c2cab",
+  "hash": "2f57a9f6ee9774babe45256833d1cb8991bb0545382c31ffd7b3fd6a5106b554",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -603,14 +603,14 @@
       "slug": "acentotva"
     },
     {
-      "id": "coral-5f4c2950",
+      "id": "coral-463bf9f4",
       "numero": 39,
       "nombre": "Coral",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/039.png",
-      "url": "https://us.tvabierta.net/memfs/129f0603-c367-4cdc-b2c6-3470433031f8.m3u8",
+      "url": "https://hls.tvabierta.net/hls/039.m3u8",
       "tvg_id": "",
       "slug": "coral"
     },

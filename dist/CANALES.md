@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 725 canales en 28 categorías  
-**Actualizado:** 2026-11-05 13:58 UTC  
+**Total:** 726 canales en 28 categorías  
+**Actualizado:** 2026-11-05 23:15 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 97 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 98 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (97 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (98 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -138,6 +138,7 @@
 - Nexxo TV
 - Miavision
 - Noticias 16
+- TV 3
 
 </details>
 

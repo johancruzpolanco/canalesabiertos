@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Aruba TV" tvg-chno="122" tvg-logo="https://tvabierta.net/arubatv.svg" group-title="🇦🇼 Aruba",Aruba TV
+#EXTINF:-1 tvg-id="" tvg-name="Aruba TV" tvg-chno="123" tvg-logo="https://tvabierta.net/arubatv.svg" group-title="🇦🇼 Aruba",Aruba TV
 #EXTGRP:🇦🇼 Aruba
 https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telearuba" tvg-chno="123" tvg-logo="https://tvabierta.net/telearuba.png" group-title="🇦🇼 Aruba",Telearuba
+#EXTINF:-1 tvg-id="" tvg-name="Telearuba" tvg-chno="124" tvg-logo="https://tvabierta.net/telearuba.png" group-title="🇦🇼 Aruba",Telearuba
 #EXTGRP:🇦🇼 Aruba
 https://us.tvabierta.net/memfs/7939ace2-6930-4901-9bfa-ac12f48afd02.m3u8

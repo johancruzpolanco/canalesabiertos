@@ -290,3 +290,6 @@ https://us.tvabierta.net/memfs/5d9bfe9b-4b52-4884-b41d-56b907c29709.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticias 16" tvg-chno="97" tvg-logo="https://tvabierta.net/016.png" group-title="🇩🇴 República Dominicana",Noticias 16
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/noticias16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-chno="98" tvg-logo="https://tvabierta.net/televiaducto.png" group-title="🇩🇴 República Dominicana",TV 3
+#EXTGRP:🇩🇴 República Dominicana
+https://stream.televiaducto.com.do/secure-hls/canal3.m3u8

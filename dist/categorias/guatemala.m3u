@@ -17,3 +17,15 @@ https://s.emisoras.tv:8081/penielfamiliar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="268" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvs Retro" tvg-chno="269" tvg-logo="https://tvabierta.net/tvsretro.png" group-title="🇬🇹 Guatemala",Tvs Retro
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lunavision" tvg-chno="270" tvg-logo="https://tvabierta.net/lunavision.png" group-title="🇬🇹 Guatemala",Lunavision
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tvogt" tvg-chno="271" tvg-logo="https://tvabierta.net/tvogt.png" group-title="🇬🇹 Guatemala",Tvogt
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Regional 3" tvg-chno="272" tvg-logo="https://tvabierta.net/regional3.png" group-title="🇬🇹 Guatemala",Regional 3
+#EXTGRP:🇬🇹 Guatemala
+https://cdn.streamhispanatv.net:3833/live/canal3regionallive.m3u8

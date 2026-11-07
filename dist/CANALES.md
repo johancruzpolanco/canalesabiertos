@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 730 canales en 28 categorías  
-**Actualizado:** 2026-11-07 12:26 UTC  
+**Total:** 735 canales en 28 categorías  
+**Actualizado:** 2026-11-07 21:26 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 97 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 98 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 30 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -27,7 +27,7 @@
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 160 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
-| 🇬🇹 Guatemala | 10 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
+| 🇬🇹 Guatemala | 14 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 7 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 15 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (97 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (98 canales)</summary>
 
 - Bloomberg
 - Misionel TV
@@ -138,6 +138,7 @@
 - Nexxo TV
 - Miavision
 - Noticias 16
+- Televidard
 
 </details>
 
@@ -306,7 +307,7 @@
 - TV7 Finlandia 1
 - TV7 Finlandia 2
 - Himlen TV7
-- Hischannel.com
+- Hischannel
 
 </details>
 
@@ -610,11 +611,10 @@
 
 </details>
 
-<details><summary><b>🇬🇹 Guatemala</b> (10 canales)</summary>
+<details><summary><b>🇬🇹 Guatemala</b> (14 canales)</summary>
 
 - Canalantigua
 - Amigos TV
-- Conectados
 - Canal 27
 - Penielfamiliar
 - Barivision
@@ -622,6 +622,11 @@
 - Lunavision
 - Tvogt
 - Regional 3
+- Ccdtv
+- Barbe TV
+- Mastvdigital
+- Imagentvgt
+- Sastv
 
 </details>
 

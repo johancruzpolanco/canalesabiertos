@@ -34,7 +34,7 @@ https://hls.tvabierta.net/hls/010.m3u8
 https://hls.tvabierta.net/hls/011.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teleunión" tvg-chno="12" tvg-logo="https://tvabierta.net/teleunion.png" group-title="🇩🇴 República Dominicana",Teleunión
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/012.m3u8
+https://us.tvabierta.net/memfs/c652f360-0eae-4e5f-afe0-277e6d5e2f16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecentro" tvg-chno="13" tvg-logo="https://tvabierta.net/013.png" group-title="🇩🇴 República Dominicana",Telecentro
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/a581f58a-76a9-4025-8eda-4b0e5c37963e.m3u8
@@ -130,7 +130,7 @@ https://cdnfox.hostlagarto.com/puntacanatv/index.m3u8
 https://hls.tvabierta.net/hls/ztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zol" tvg-chno="44" tvg-logo="https://tvabierta.net/zol.png" group-title="🇩🇴 República Dominicana",Zol
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/zol.m3u8
+https://us.tvabierta.net/memfs/0ba2eba3-9f49-4940-92aa-635085797e47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="45" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba
 #EXTGRP:🇩🇴 República Dominicana
 https://us.tvabierta.net/memfs/1bd48399-399d-4073-b1a0-0f395b89e416.m3u8
@@ -290,3 +290,6 @@ https://us.tvabierta.net/memfs/5d9bfe9b-4b52-4884-b41d-56b907c29709.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticias 16" tvg-chno="97" tvg-logo="https://tvabierta.net/016.png" group-title="🇩🇴 República Dominicana",Noticias 16
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/noticias16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Televidard" tvg-chno="98" tvg-logo="https://i.imgur.com/ENw9wgk.png" group-title="🇩🇴 República Dominicana",Televidard
+#EXTGRP:🇩🇴 República Dominicana
+https://cdnfox.hostlagarto.com/televida/tracks-v1a1/mono.m3u8

@@ -35,3 +35,6 @@ https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Uniteve" tvg-chno="191" tvg-logo="https://tvabierta.net/uniteve.png" group-title="🇨🇱 Chile",Uniteve
 #EXTGRP:🇨🇱 Chile
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meganoticias" tvg-chno="192" tvg-logo="https://tvabierta.net/meganoticias.jpg" group-title="🇨🇱 Chile",Meganoticias
+#EXTGRP:🇨🇱 Chile
+https://hls.tvabierta.net/hls/meganoticias.m3u8

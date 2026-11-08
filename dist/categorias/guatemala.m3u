@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Canalantigua" tvg-chno="265" tvg-logo="https://tvabierta.net/ca.png" group-title="🇬🇹 Guatemala",Canalantigua
+#EXTINF:-1 tvg-id="" tvg-name="Canalantigua" tvg-chno="267" tvg-logo="https://tvabierta.net/ca.png" group-title="🇬🇹 Guatemala",Canalantigua
 #EXTGRP:🇬🇹 Guatemala
 https://5ca9af4645e15.streamlock.net/antigua/antigua.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="266" tvg-logo="https://tvabierta.net/amigostv.png" group-title="🇬🇹 Guatemala",Amigos TV
+#EXTINF:-1 tvg-id="" tvg-name="Amigos TV" tvg-chno="268" tvg-logo="https://tvabierta.net/amigostv.png" group-title="🇬🇹 Guatemala",Amigos TV
 #EXTGRP:🇬🇹 Guatemala
 https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal 27" tvg-chno="267" tvg-logo="https://tvabierta.net/canal27.png" group-title="🇬🇹 Guatemala",Canal 27
+#EXTINF:-1 tvg-id="" tvg-name="Canal 27" tvg-chno="269" tvg-logo="https://tvabierta.net/canal27.png" group-title="🇬🇹 Guatemala",Canal 27
 #EXTGRP:🇬🇹 Guatemala
 https://ch1-c27.duin.dev/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Penielfamiliar" tvg-chno="268" tvg-logo="https://tvabierta.net/peniel.png" group-title="🇬🇹 Guatemala",Penielfamiliar
+#EXTINF:-1 tvg-id="" tvg-name="Penielfamiliar" tvg-chno="270" tvg-logo="https://tvabierta.net/peniel.png" group-title="🇬🇹 Guatemala",Penielfamiliar
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/penielfamiliar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="269" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
+#EXTINF:-1 tvg-id="" tvg-name="Barivision" tvg-chno="271" tvg-logo="https://tvabierta.net/barivision.png" group-title="🇬🇹 Guatemala",Barivision
 #EXTGRP:🇬🇹 Guatemala
 https://s.emisoras.tv:8081/radiomaya/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvs Retro" tvg-chno="270" tvg-logo="https://tvabierta.net/tvsretro.png" group-title="🇬🇹 Guatemala",Tvs Retro
+#EXTINF:-1 tvg-id="" tvg-name="Tvs Retro" tvg-chno="272" tvg-logo="https://tvabierta.net/tvsretro.png" group-title="🇬🇹 Guatemala",Tvs Retro
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lunavision" tvg-chno="271" tvg-logo="https://tvabierta.net/lunavision.png" group-title="🇬🇹 Guatemala",Lunavision
+#EXTINF:-1 tvg-id="" tvg-name="Lunavision" tvg-chno="273" tvg-logo="https://tvabierta.net/lunavision.png" group-title="🇬🇹 Guatemala",Lunavision
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tvogt" tvg-chno="272" tvg-logo="https://tvabierta.net/tvogt.png" group-title="🇬🇹 Guatemala",Tvogt
+#EXTINF:-1 tvg-id="" tvg-name="Tvogt" tvg-chno="274" tvg-logo="https://tvabierta.net/tvogt.png" group-title="🇬🇹 Guatemala",Tvogt
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Regional 3" tvg-chno="273" tvg-logo="https://tvabierta.net/regional3.png" group-title="🇬🇹 Guatemala",Regional 3
+#EXTINF:-1 tvg-id="" tvg-name="Regional 3" tvg-chno="275" tvg-logo="https://tvabierta.net/regional3.png" group-title="🇬🇹 Guatemala",Regional 3
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3833/live/canal3regionallive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ccdtv" tvg-chno="274" tvg-logo="https://tvabierta.net/ccdtv.png" group-title="🇬🇹 Guatemala",Ccdtv
+#EXTINF:-1 tvg-id="" tvg-name="Ccdtv" tvg-chno="276" tvg-logo="https://tvabierta.net/ccdtv.png" group-title="🇬🇹 Guatemala",Ccdtv
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.oktvus.com/ConectadoConDios/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="275" tvg-logo="https://tvabierta.net/barbetv.png" group-title="🇬🇹 Guatemala",Barbe TV
+#EXTINF:-1 tvg-id="" tvg-name="Barbe TV" tvg-chno="277" tvg-logo="https://tvabierta.net/barbetv.png" group-title="🇬🇹 Guatemala",Barbe TV
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mastvdigital" tvg-chno="276" tvg-logo="https://tvabierta.net/mastvdigital.png" group-title="🇬🇹 Guatemala",Mastvdigital
+#EXTINF:-1 tvg-id="" tvg-name="Mastvdigital" tvg-chno="278" tvg-logo="https://tvabierta.net/mastvdigital.png" group-title="🇬🇹 Guatemala",Mastvdigital
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Imagentvgt" tvg-chno="277" tvg-logo="https://tvabierta.net/imagentvgt.png" group-title="🇬🇹 Guatemala",Imagentvgt
+#EXTINF:-1 tvg-id="" tvg-name="Imagentvgt" tvg-chno="279" tvg-logo="https://tvabierta.net/imagentvgt.png" group-title="🇬🇹 Guatemala",Imagentvgt
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sastv" tvg-chno="278" tvg-logo="https://tvabierta.net/sastv.png" group-title="🇬🇹 Guatemala",Sastv
+#EXTINF:-1 tvg-id="" tvg-name="Sastv" tvg-chno="280" tvg-logo="https://tvabierta.net/sastv.png" group-title="🇬🇹 Guatemala",Sastv
 #EXTGRP:🇬🇹 Guatemala
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8

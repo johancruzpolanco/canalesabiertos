@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 735 canales en 28 categorías  
-**Actualizado:** 2026-11-08 12:44 UTC  
+**Total:** 738 canales en 28 categorías  
+**Actualizado:** 2026-11-08 21:39 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -9,7 +9,7 @@
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
 | 🇩🇴 República Dominicana | 98 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 30 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -20,8 +20,8 @@
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
-| 🇨🇱 Chile | 12 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 14 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇱 Chile | 13 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
+| 🇨🇴 Colombia | 15 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 4 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 6 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
@@ -142,7 +142,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (30 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (31 canales)</summary>
 
 - CNN en Español
 - Euronews
@@ -151,6 +151,7 @@
 - Kanald
 - T 31
 - Ntn 24
+- Ntn 24 Yt
 - Telemundo PR
 - Telemundo Noreste
 - Noticiasahora
@@ -367,7 +368,7 @@
 
 </details>
 
-<details><summary><b>🇨🇱 Chile</b> (12 canales)</summary>
+<details><summary><b>🇨🇱 Chile</b> (13 canales)</summary>
 
 - Bio Bio TV
 - 13 T
@@ -381,15 +382,17 @@
 - Atacamanoticias
 - 15.1 BPB
 - Uniteve
+- Meganoticias
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (14 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (15 canales)</summary>
 
 - Canal Cine Dios
 - CMB
 - Caracol
 - Caracol Internacional
+- Telemedellin
 - Canalcapital
 - Cosmovision
 - Cnctulua
@@ -909,7 +912,7 @@
 - Stingray Today's KPOP
 - 974 Qwest TV
 - 979 SOL MÚSICA
-- Telemedellin
+- Telemedellin 2
 - Bandamax
 
 </details>

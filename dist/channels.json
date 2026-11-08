@@ -1,8 +1,8 @@
 {
-  "generado": "2026-11-08 04:25 UTC",
+  "generado": "2026-11-08 12:44 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 735,
-  "hash": "8d76ce6608d115afed3c5a78ac55305a342a3daf933779dc9fd7e82c7842933f",
+  "hash": "1264c8612c8d858600bb501dd8589b0a3382e0c85351ab6e8182d83ac64a2b92",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -231,14 +231,14 @@
       "slug": "antena-7"
     },
     {
-      "id": "telemedios-a7d6350f",
+      "id": "telemedios-1d36ef23",
       "numero": 8,
       "nombre": "Telemedios",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/008.png",
-      "url": "https://hls.tvabierta.net/hls/008.m3u8",
+      "url": "https://us.tvabierta.net/memfs/8c8c6f31-9a29-431e-b3c3-d4675498e53e.m3u8",
       "tvg_id": "",
       "slug": "telemedios"
     },

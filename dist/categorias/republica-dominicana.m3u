@@ -10,7 +10,7 @@ https://hls.tvabierta.net/hls/misioneltv.m3u8
 https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTVD" tvg-chno="4" tvg-logo="https://tvabierta.net/004.png" group-title="🇩🇴 República Dominicana",RTVD
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/9ac8ebf9-42fd-4753-9b49-f79416d87a5a.m3u8
+https://hls.tvabierta.net/hls/004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicro" tvg-chno="5" tvg-logo="https://tvabierta.net/005.png" group-title="🇩🇴 República Dominicana",Telemicro
 #EXTGRP:🇩🇴 República Dominicana
 https://ds.tvabierta.net/memfs/efab0d97-68d8-414e-8cdc-23d539b09944.m3u8
@@ -58,7 +58,7 @@ https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/.m3u8
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cielo TV" tvg-chno="20" tvg-logo="https://tvabierta.net/cielotv.png" group-title="🇩🇴 República Dominicana",Cielo TV
 #EXTGRP:🇩🇴 República Dominicana
-https://us.tvabierta.net/memfs/dd8e18b9-deca-4480-8c94-31e63296f593.m3u8
+https://hls.tvabierta.net/hls/020.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 21" tvg-chno="21" tvg-logo="https://tvabierta.net/021.png" group-title="🇩🇴 República Dominicana",Antena 21
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/021.m3u8
@@ -94,7 +94,7 @@ https://hls.tvabierta.net/hls/end.m3u8
 https://hls.tvabierta.net/hls/cotubanamatv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="32" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/c8e72669-4249-4195-a8a0-3adfca56df46.m3u8
+https://hls.tvabierta.net/hls/032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cvvision" tvg-chno="33" tvg-logo="https://tvabierta.net/cvvision.png" group-title="🇩🇴 República Dominicana",Cvvision
 #EXTGRP:🇩🇴 República Dominicana
 https://eu1.servers10.com:8081/8128/index.m3u8
@@ -286,7 +286,7 @@ https://video.streamerr.co/hls/sc23910f2cd/live.m3u8
 https://us.tvabierta.net/memfs/98d80dc9-67c9-4b8c-a638-31c9c5d6a015.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Miavision" tvg-chno="96" tvg-logo="https://tvabierta.net/miavision.png" group-title="🇩🇴 República Dominicana",Miavision
 #EXTGRP:🇩🇴 República Dominicana
-https://us.tvabierta.net/memfs/5d9bfe9b-4b52-4884-b41d-56b907c29709.m3u8
+https://hls.tvabierta.net/hls/miavision.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticias 16" tvg-chno="97" tvg-logo="https://tvabierta.net/016.png" group-title="🇩🇴 República Dominicana",Noticias 16
 #EXTGRP:🇩🇴 República Dominicana
 https://edge.essastream.com/noticias16/index.m3u8

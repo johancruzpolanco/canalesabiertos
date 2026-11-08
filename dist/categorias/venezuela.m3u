@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="VTV" tvg-chno="726" tvg-logo="https://i.imgur.com/shiVmxM.png" group-title="🇻🇪 Venezuela",VTV
 #EXTGRP:🇻🇪 Venezuela
-https://us.tvabierta.net/memfs/3d8deeea-d637-4609-8e65-5357eb36ffe4.m3u8
+https://hls.tvabierta.net/hls/vtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Promar TV" tvg-chno="727" tvg-logo="https://tvabierta.net/promartv.png" group-title="🇻🇪 Venezuela",Promar TV
 #EXTGRP:🇻🇪 Venezuela
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8

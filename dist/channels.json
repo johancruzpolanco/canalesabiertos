@@ -1,8 +1,8 @@
 {
-  "generado": "2026-11-07 21:26 UTC",
+  "generado": "2026-11-08 04:25 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 735,
-  "hash": "95ecab8b43188fffbf7ecadab0df5604ff4389323fa995d22d55b5b331d45862",
+  "hash": "8d76ce6608d115afed3c5a78ac55305a342a3daf933779dc9fd7e82c7842933f",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -71,7 +71,7 @@
     },
     {
       "nombre": "🇨🇴 Colombia",
-      "canales": 13,
+      "canales": 14,
       "archivo": "categorias/colombia.m3u"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "nombre": "🇲🇽 México",
-      "canales": 15,
+      "canales": 14,
       "archivo": "categorias/mexico.m3u"
     },
     {
@@ -183,14 +183,14 @@
       "slug": "ahora-tv"
     },
     {
-      "id": "rtvd-674a58cc",
+      "id": "rtvd-b246bff8",
       "numero": 4,
       "nombre": "RTVD",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/004.png",
-      "url": "https://ds.tvabierta.net/memfs/9ac8ebf9-42fd-4753-9b49-f79416d87a5a.m3u8",
+      "url": "https://hls.tvabierta.net/hls/004.m3u8",
       "tvg_id": "",
       "slug": "rtvd"
     },
@@ -375,14 +375,14 @@
       "slug": "canal-19"
     },
     {
-      "id": "cielotv-25994f88",
+      "id": "cielotv-9a4b4898",
       "numero": 20,
       "nombre": "Cielo TV",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/cielotv.png",
-      "url": "https://us.tvabierta.net/memfs/dd8e18b9-deca-4480-8c94-31e63296f593.m3u8",
+      "url": "https://hls.tvabierta.net/hls/020.m3u8",
       "tvg_id": "",
       "slug": "cielo-tv"
     },
@@ -519,14 +519,14 @@
       "slug": "cotubanama-tv"
     },
     {
-      "id": "vtv32-5e00802d",
+      "id": "vtv32-18819b86",
       "numero": 32,
       "nombre": "Vtv 32",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/vtv32.png",
-      "url": "https://ds.tvabierta.net/memfs/c8e72669-4249-4195-a8a0-3adfca56df46.m3u8",
+      "url": "https://hls.tvabierta.net/hls/032.m3u8",
       "tvg_id": "",
       "slug": "vtv-32"
     },
@@ -1287,14 +1287,14 @@
       "slug": "nexxo-tv"
     },
     {
-      "id": "miavision-d97ee85a",
+      "id": "miavision-90659152",
       "numero": 96,
       "nombre": "Miavision",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/miavision.png",
-      "url": "https://us.tvabierta.net/memfs/5d9bfe9b-4b52-4884-b41d-56b907c29709.m3u8",
+      "url": "https://hls.tvabierta.net/hls/miavision.m3u8",
       "tvg_id": "",
       "slug": "miavision"
     },
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "cnne-92b94ccc",
-      "numero": 278,
+      "numero": 279,
       "nombre": "CNN en Español",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "euronews-a8035df6",
-      "numero": 279,
+      "numero": 280,
       "nombre": "Euronews",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "betheltv-2c2adf43",
-      "numero": 280,
+      "numero": 281,
       "nombre": "Bethel TV",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1360,7 +1360,7 @@
     },
     {
       "id": "ewtn-c641d893",
-      "numero": 281,
+      "numero": 282,
       "nombre": "EWTN",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1372,7 +1372,7 @@
     },
     {
       "id": "kanald-03c4c8f4",
-      "numero": 282,
+      "numero": 283,
       "nombre": "Kanald",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1384,7 +1384,7 @@
     },
     {
       "id": "t31-768dd191",
-      "numero": 283,
+      "numero": 284,
       "nombre": "T 31",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1396,7 +1396,7 @@
     },
     {
       "id": "ntn24-43cf213a",
-      "numero": 284,
+      "numero": 285,
       "nombre": "Ntn 24",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1408,7 +1408,7 @@
     },
     {
       "id": "telemundo-pr-ac1738b5",
-      "numero": 285,
+      "numero": 286,
       "nombre": "Telemundo PR",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1420,7 +1420,7 @@
     },
     {
       "id": "telemundo-noreste-a4749192",
-      "numero": 286,
+      "numero": 287,
       "nombre": "Telemundo Noreste",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1432,7 +1432,7 @@
     },
     {
       "id": "noticiasahora-53a6514c",
-      "numero": 287,
+      "numero": 288,
       "nombre": "Noticiasahora",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1444,7 +1444,7 @@
     },
     {
       "id": "dwe-475b6040",
-      "numero": 288,
+      "numero": 289,
       "nombre": "Dwe",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1456,7 +1456,7 @@
     },
     {
       "id": "estrella-news-02319a27",
-      "numero": 289,
+      "numero": 290,
       "nombre": "Estrella News",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1468,7 +1468,7 @@
     },
     {
       "id": "enlace-cfb51640",
-      "numero": 290,
+      "numero": 291,
       "nombre": "Enlace",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1480,7 +1480,7 @@
     },
     {
       "id": "estrellatv-1dbfa42f",
-      "numero": 291,
+      "numero": 292,
       "nombre": "Estrellatv",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1492,7 +1492,7 @@
     },
     {
       "id": "univision-chicago-084c15ac",
-      "numero": 292,
+      "numero": 293,
       "nombre": "Univision Chicago",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1504,7 +1504,7 @@
     },
     {
       "id": "f24e-315f09a8",
-      "numero": 293,
+      "numero": 294,
       "nombre": "F 24 E",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1516,7 +1516,7 @@
     },
     {
       "id": "americateve-fba0ec05",
-      "numero": 294,
+      "numero": 295,
       "nombre": "Americateve",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1528,7 +1528,7 @@
     },
     {
       "id": "el-chavo-5a787d67",
-      "numero": 295,
+      "numero": 296,
       "nombre": "El Chavo",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1540,7 +1540,7 @@
     },
     {
       "id": "ejtv-c55211a8",
-      "numero": 296,
+      "numero": 297,
       "nombre": "EJTV",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1552,7 +1552,7 @@
     },
     {
       "id": "ucl-6f5fff09",
-      "numero": 297,
+      "numero": 298,
       "nombre": "UCL",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": "daystar-5b6b8bdb",
-      "numero": 298,
+      "numero": 299,
       "nombre": "Daystar",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1576,7 +1576,7 @@
     },
     {
       "id": "telesur-fac28c24",
-      "numero": 299,
+      "numero": 300,
       "nombre": "Telesur",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1588,7 +1588,7 @@
     },
     {
       "id": "martinoticias-32b524de",
-      "numero": 300,
+      "numero": 301,
       "nombre": "Martinoticias",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1600,7 +1600,7 @@
     },
     {
       "id": "oromartv-14346b22",
-      "numero": 301,
+      "numero": 302,
       "nombre": "Oromar TV",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1612,7 +1612,7 @@
     },
     {
       "id": "rte-bdeb6686",
-      "numero": 302,
+      "numero": 303,
       "nombre": "Rte",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1624,7 +1624,7 @@
     },
     {
       "id": "24h-09829f54",
-      "numero": 303,
+      "numero": 304,
       "nombre": "24 H",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1636,7 +1636,7 @@
     },
     {
       "id": "mastalk-a7507b3f",
-      "numero": 304,
+      "numero": 305,
       "nombre": "Mastalk",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1648,7 +1648,7 @@
     },
     {
       "id": "mega-tv-1b25c254",
-      "numero": 305,
+      "numero": 306,
       "nombre": "Mega. TV",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1660,7 +1660,7 @@
     },
     {
       "id": "las-estrellas-32257dd7",
-      "numero": 306,
+      "numero": 307,
       "nombre": "Las Estrellas",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
@@ -1671,14 +1671,14 @@
       "slug": "las-estrellas"
     },
     {
-      "id": "cvi-ad5c36a1",
-      "numero": 307,
+      "id": "cvi-665272bc",
+      "numero": 308,
       "nombre": "Cvi",
       "categoria": "🌎 Hispanos",
       "categoria_codigo": "HISPANOS",
       "categoria_orden": 20,
       "logo": "https://tvabierta.net/cvi.png",
-      "url": "https://envivo.tvabierta.net/hls/cvi-webrtc/index.m3u8",
+      "url": "https://hls.tvabierta.net/hls/cvi.m3u8",
       "tvg_id": "",
       "slug": "cvi"
     },
@@ -1996,7 +1996,7 @@
     },
     {
       "id": "aguilas-30d3040f",
-      "numero": 212,
+      "numero": 213,
       "nombre": "Aguilas",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2008,7 +2008,7 @@
     },
     {
       "id": "licey-6f72e99b",
-      "numero": 213,
+      "numero": 214,
       "nombre": "Licey",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "gigantes-c56eee51",
-      "numero": 214,
+      "numero": 215,
       "nombre": "Gigantes",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2032,7 +2032,7 @@
     },
     {
       "id": "nica4-52831f9b",
-      "numero": 215,
+      "numero": 216,
       "nombre": "Nica 4",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2043,20 +2043,20 @@
       "slug": "nica-4"
     },
     {
-      "id": "wapa-808c6235",
-      "numero": 216,
+      "id": "wapa-a79f8da3",
+      "numero": 217,
       "nombre": "Wapa",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
       "logo": "https://tvabierta.net/wapa.png",
-      "url": "https://us.tvabierta.net/memfs/61cb2a9e-20b0-47bc-a102-6f3ec4bbe75c.m3u8",
+      "url": "https://hls.tvabierta.net/hls/wapa.m3u8",
       "tvg_id": "",
       "slug": "wapa"
     },
     {
       "id": "red-bull-tv-efd06f25",
-      "numero": 217,
+      "numero": 218,
       "nombre": "Red Bull TV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2068,7 +2068,7 @@
     },
     {
       "id": "mpatv-15d4ff47",
-      "numero": 218,
+      "numero": 219,
       "nombre": "MPATV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2080,7 +2080,7 @@
     },
     {
       "id": "waypointtv-08f069c2",
-      "numero": 219,
+      "numero": 220,
       "nombre": "WaypointTV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2092,7 +2092,7 @@
     },
     {
       "id": "colimdotv-6cd2e23f",
-      "numero": 220,
+      "numero": 221,
       "nombre": "ColimdoTV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2104,7 +2104,7 @@
     },
     {
       "id": "tgn-ab624b18",
-      "numero": 221,
+      "numero": 222,
       "nombre": "Tgn",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2116,7 +2116,7 @@
     },
     {
       "id": "fite-24-7-50fa1d84",
-      "numero": 222,
+      "numero": 223,
       "nombre": "FITE 24/7",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2128,7 +2128,7 @@
     },
     {
       "id": "extreme-85218ce3",
-      "numero": 223,
+      "numero": 224,
       "nombre": "Extreme+",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2140,7 +2140,7 @@
     },
     {
       "id": "sports-first-99ece39d",
-      "numero": 224,
+      "numero": 225,
       "nombre": "Sports First",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2152,7 +2152,7 @@
     },
     {
       "id": "wild-tv-6e9b3272",
-      "numero": 225,
+      "numero": 226,
       "nombre": "Wild TV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2164,7 +2164,7 @@
     },
     {
       "id": "surfing-54a413e4",
-      "numero": 226,
+      "numero": 227,
       "nombre": "Surfing",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2176,7 +2176,7 @@
     },
     {
       "id": "televen-fe131a13",
-      "numero": 227,
+      "numero": 228,
       "nombre": "Televen",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2188,7 +2188,7 @@
     },
     {
       "id": "bein-da648c18",
-      "numero": 228,
+      "numero": 229,
       "nombre": "Bein",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2200,7 +2200,7 @@
     },
     {
       "id": "beinxtra-b09b9c9a",
-      "numero": 229,
+      "numero": 230,
       "nombre": "Beinxtra",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2212,7 +2212,7 @@
     },
     {
       "id": "fuel-tv-f734c3f4",
-      "numero": 230,
+      "numero": 231,
       "nombre": "Fuel TV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2224,7 +2224,7 @@
     },
     {
       "id": "swerve-combat-0fc89eea",
-      "numero": 231,
+      "numero": 232,
       "nombre": "Swerve Combat",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2236,7 +2236,7 @@
     },
     {
       "id": "speed-sport-965ab0f6",
-      "numero": 232,
+      "numero": 233,
       "nombre": "Speed Sport",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2248,7 +2248,7 @@
     },
     {
       "id": "outdoor-america-001f2e94",
-      "numero": 233,
+      "numero": 234,
       "nombre": "Outdoor America",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2260,7 +2260,7 @@
     },
     {
       "id": "ufc-56431729",
-      "numero": 234,
+      "numero": 235,
       "nombre": "Ufc",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2272,7 +2272,7 @@
     },
     {
       "id": "pac-12-insider-f23f9720",
-      "numero": 235,
+      "numero": 236,
       "nombre": "Pac 12 Insider",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2284,7 +2284,7 @@
     },
     {
       "id": "strongman-champions-league-0a7b9754",
-      "numero": 236,
+      "numero": 237,
       "nombre": "Strongman Champions League",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2296,7 +2296,7 @@
     },
     {
       "id": "real-madrid-495e8894",
-      "numero": 237,
+      "numero": 238,
       "nombre": "Real Madrid",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2308,7 +2308,7 @@
     },
     {
       "id": "real-madrid-2-44153026",
-      "numero": 238,
+      "numero": 239,
       "nombre": "Real Madrid 2",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2320,7 +2320,7 @@
     },
     {
       "id": "sportsgrid-41884a52",
-      "numero": 239,
+      "numero": 240,
       "nombre": "SportsGrid",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2332,7 +2332,7 @@
     },
     {
       "id": "garagetv-8fff0987",
-      "numero": 240,
+      "numero": 241,
       "nombre": "Garage TV",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2344,7 +2344,7 @@
     },
     {
       "id": "itvdeportes-7a6b170e",
-      "numero": 241,
+      "numero": 242,
       "nombre": "Itvdeportes",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2356,7 +2356,7 @@
     },
     {
       "id": "unbeaten-1aad8dbe",
-      "numero": 242,
+      "numero": 243,
       "nombre": "Unbeaten",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2368,7 +2368,7 @@
     },
     {
       "id": "nbc-sports-418c85df",
-      "numero": 243,
+      "numero": 244,
       "nombre": "NBC Sports",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2379,20 +2379,20 @@
       "slug": "nbc-sports"
     },
     {
-      "id": "cbssportsgonzalo-da8bc209",
-      "numero": 244,
+      "id": "cbssportsgonzalo-f5f5b7ff",
+      "numero": 245,
       "nombre": "Cbssportsgonzalo",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
       "categoria_orden": 40,
       "logo": "https://tvabierta.net/cbssportsgolazonetwork.png",
-      "url": "https://us.tvabierta.net/memfs/07dab7f6-81b4-42ae-8818-049726bd13fe.m3u8",
+      "url": "https://hls.tvabierta.net/hls/cbssportgonzalo.m3u8",
       "tvg_id": "",
       "slug": "cbssportsgonzalo"
     },
     {
       "id": "deportestvc-5c2b15cf",
-      "numero": 245,
+      "numero": 246,
       "nombre": "Deportestvc",
       "categoria": "⚽ Deportes",
       "categoria_codigo": "DEPORTES",
@@ -2560,7 +2560,7 @@
     },
     {
       "id": "bpskids-53d7ca39",
-      "numero": 319,
+      "numero": 320,
       "nombre": "Bpskids",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2572,7 +2572,7 @@
     },
     {
       "id": "extrema-kids-b51c308d",
-      "numero": 320,
+      "numero": 321,
       "nombre": "Extrema Kids",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2584,7 +2584,7 @@
     },
     {
       "id": "154-tvg-xabarin-9ce81f8f",
-      "numero": 321,
+      "numero": 322,
       "nombre": "154 | TVG Xabarín",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2596,7 +2596,7 @@
     },
     {
       "id": "baby-einstein-94901253",
-      "numero": 322,
+      "numero": 323,
       "nombre": "Baby Einstein",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2608,7 +2608,7 @@
     },
     {
       "id": "ducktv-9f9ccdc0",
-      "numero": 323,
+      "numero": 324,
       "nombre": "Duck TV",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2620,7 +2620,7 @@
     },
     {
       "id": "143-toon-goggles-tv-233c6067",
-      "numero": 324,
+      "numero": 325,
       "nombre": "143 | Toon Goggles TV",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2632,7 +2632,7 @@
     },
     {
       "id": "canal-sin-nombre-beb58676",
-      "numero": 325,
+      "numero": 326,
       "nombre": "Canal Sin Nombre",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2644,7 +2644,7 @@
     },
     {
       "id": "163-13-kids-2d20606a",
-      "numero": 326,
+      "numero": 327,
       "nombre": "163 | 13 Kids",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2656,7 +2656,7 @@
     },
     {
       "id": "dios-te-ve-kids-7310f7ae",
-      "numero": 327,
+      "numero": 328,
       "nombre": "Dios Te VE Kids",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2668,7 +2668,7 @@
     },
     {
       "id": "sensical-86d415ed",
-      "numero": 328,
+      "numero": 329,
       "nombre": "Sensical",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2680,7 +2680,7 @@
     },
     {
       "id": "sat-794ebeb6",
-      "numero": 329,
+      "numero": 330,
       "nombre": "Sat",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2692,7 +2692,7 @@
     },
     {
       "id": "zoomoo-2a8dac1b",
-      "numero": 330,
+      "numero": 331,
       "nombre": "Zoomoo",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -2704,7 +2704,7 @@
     },
     {
       "id": "toongoodles-c742dea3",
-      "numero": 331,
+      "numero": 332,
       "nombre": "Toongoodles",
       "categoria": "🧒 Infantil",
       "categoria_codigo": "KIDS",
@@ -3531,14 +3531,14 @@
       "slug": "cmb"
     },
     {
-      "id": "caracol-ccf893f2",
+      "id": "caracol-a2c3d8bc",
       "numero": 194,
       "nombre": "Caracol",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
       "categoria_orden": 115,
       "logo": "https://tvabierta.net/caracol.png",
-      "url": "https://us.tvabierta.net/memfs/961f107d-a232-47a4-8f3f-fad1cd3a78b8.m3u8",
+      "url": "https://hls.tvabierta.net/hls/caracol.m3u8",
       "tvg_id": "",
       "slug": "caracol"
     },
@@ -3555,8 +3555,20 @@
       "slug": "caracol-internacional"
     },
     {
-      "id": "cosmovision-7228b9af",
+      "id": "canalcapital-ccf893f2",
       "numero": 196,
+      "nombre": "Canalcapital",
+      "categoria": "🇨🇴 Colombia",
+      "categoria_codigo": "CO",
+      "categoria_orden": 115,
+      "logo": "https://tvabierta.net/canalcapital.png",
+      "url": "https://us.tvabierta.net/memfs/961f107d-a232-47a4-8f3f-fad1cd3a78b8.m3u8",
+      "tvg_id": "",
+      "slug": "canalcapital"
+    },
+    {
+      "id": "cosmovision-7228b9af",
+      "numero": 197,
       "nombre": "Cosmovision",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3568,7 +3580,7 @@
     },
     {
       "id": "cnctulua-81a244df",
-      "numero": 197,
+      "numero": 198,
       "nombre": "Cnctulua",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3580,7 +3592,7 @@
     },
     {
       "id": "canal-8-tv-f9a4d7d9",
-      "numero": 198,
+      "numero": 199,
       "nombre": "Canal 8 TV+",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3592,7 +3604,7 @@
     },
     {
       "id": "canal-pyc-a51b150a",
-      "numero": 199,
+      "numero": 200,
       "nombre": "Canal PyC",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3604,7 +3616,7 @@
     },
     {
       "id": "blu-radio-d7ed9071",
-      "numero": 200,
+      "numero": 201,
       "nombre": "Blu Radio",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3616,7 +3628,7 @@
     },
     {
       "id": "avivamiento-tv-d9b18e89",
-      "numero": 201,
+      "numero": 202,
       "nombre": "Avivamiento TV",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3628,7 +3640,7 @@
     },
     {
       "id": "canalinstitucional-d56e4d12",
-      "numero": 202,
+      "numero": 203,
       "nombre": "Canalinstitucional",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3640,7 +3652,7 @@
     },
     {
       "id": "sealcolombia-f527546f",
-      "numero": 203,
+      "numero": 204,
       "nombre": "Sealcolombia",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3652,7 +3664,7 @@
     },
     {
       "id": "bendicionchannel-1daf1f21",
-      "numero": 204,
+      "numero": 205,
       "nombre": "Bendicionchannel",
       "categoria": "🇨🇴 Colombia",
       "categoria_codigo": "CO",
@@ -3664,7 +3676,7 @@
     },
     {
       "id": "sinart-df078330",
-      "numero": 205,
+      "numero": 206,
       "nombre": "Sinart",
       "categoria": "🇨🇷 Costa Rica",
       "categoria_codigo": "CR",
@@ -3676,7 +3688,7 @@
     },
     {
       "id": "turrialba-digital-6b328411",
-      "numero": 206,
+      "numero": 207,
       "nombre": "Turrialba Digital",
       "categoria": "🇨🇷 Costa Rica",
       "categoria_codigo": "CR",
@@ -3688,7 +3700,7 @@
     },
     {
       "id": "tvsur-4e43196b",
-      "numero": 207,
+      "numero": 208,
       "nombre": "Tvsur",
       "categoria": "🇨🇷 Costa Rica",
       "categoria_codigo": "CR",
@@ -3700,7 +3712,7 @@
     },
     {
       "id": "canal-8-6cc2c89e",
-      "numero": 208,
+      "numero": 209,
       "nombre": "Canal 8",
       "categoria": "🇨🇷 Costa Rica",
       "categoria_codigo": "CR",
@@ -3712,7 +3724,7 @@
     },
     {
       "id": "teleamazonas-d534b9d2",
-      "numero": 246,
+      "numero": 247,
       "nombre": "Teleamazonas",
       "categoria": "🇪🇨 Ecuador",
       "categoria_codigo": "EC",
@@ -3724,7 +3736,7 @@
     },
     {
       "id": "ecuadortv-96323578",
-      "numero": 247,
+      "numero": 248,
       "nombre": "Ecuador TV",
       "categoria": "🇪🇨 Ecuador",
       "categoria_codigo": "EC",
@@ -3736,7 +3748,7 @@
     },
     {
       "id": "gamavision-2e671182",
-      "numero": 248,
+      "numero": 249,
       "nombre": "Gamavisión",
       "categoria": "🇪🇨 Ecuador",
       "categoria_codigo": "EC",
@@ -3748,7 +3760,7 @@
     },
     {
       "id": "ecuavisa-2-42e485b9",
-      "numero": 249,
+      "numero": 250,
       "nombre": "Ecuavisa 2",
       "categoria": "🇪🇨 Ecuador",
       "categoria_codigo": "EC",
@@ -3760,7 +3772,7 @@
     },
     {
       "id": "ecuavisa-1-1c142e28",
-      "numero": 250,
+      "numero": 251,
       "nombre": "Ecuavisa 1",
       "categoria": "🇪🇨 Ecuador",
       "categoria_codigo": "EC",
@@ -3772,7 +3784,7 @@
     },
     {
       "id": "bacan-te-veo-f647a2a2",
-      "numero": 251,
+      "numero": 252,
       "nombre": "Bacan Te Veo",
       "categoria": "🇪🇨 Ecuador",
       "categoria_codigo": "EC",
@@ -3808,7 +3820,7 @@
     },
     {
       "id": "la1-bba0fae1",
-      "numero": 252,
+      "numero": 253,
       "nombre": "La 1",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3820,7 +3832,7 @@
     },
     {
       "id": "canal-malaga-be5befa8",
-      "numero": 253,
+      "numero": 254,
       "nombre": "Canal Málaga",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3832,7 +3844,7 @@
     },
     {
       "id": "cmm-8e19dc79",
-      "numero": 254,
+      "numero": 255,
       "nombre": "CMM",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3844,7 +3856,7 @@
     },
     {
       "id": "cordoba-tv-7346ba87",
-      "numero": 255,
+      "numero": 256,
       "nombre": "Cordoba TV",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3856,7 +3868,7 @@
     },
     {
       "id": "alcarriatv-cd78efd1",
-      "numero": 256,
+      "numero": 257,
       "nombre": "Alcarriatv",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3868,7 +3880,7 @@
     },
     {
       "id": "aragontv-2d89d027",
-      "numero": 257,
+      "numero": 258,
       "nombre": "AragonTV",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3880,7 +3892,7 @@
     },
     {
       "id": "rtvce-22dd7a86",
-      "numero": 258,
+      "numero": 259,
       "nombre": "Rtvce",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3892,7 +3904,7 @@
     },
     {
       "id": "star-tve-a318bf94",
-      "numero": 259,
+      "numero": 260,
       "nombre": "Star TVE",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3904,7 +3916,7 @@
     },
     {
       "id": "tve-internacional-america-c0947cca",
-      "numero": 260,
+      "numero": 261,
       "nombre": "TVE Internacional America",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3916,7 +3928,7 @@
     },
     {
       "id": "mijas-3-40-958f35c8",
-      "numero": 261,
+      "numero": 262,
       "nombre": "Mijas 3.40",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3928,7 +3940,7 @@
     },
     {
       "id": "alacantitv-3e29f83c",
-      "numero": 262,
+      "numero": 263,
       "nombre": "Alacanti TV",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -3940,7 +3952,7 @@
     },
     {
       "id": "tele-elx-21f1af20",
-      "numero": 263,
+      "numero": 264,
       "nombre": "Tele Elx",
       "categoria": "🇪🇸 España",
       "categoria_codigo": "ES",
@@ -5872,7 +5884,7 @@
     },
     {
       "id": "canalantigua-86ccf727",
-      "numero": 264,
+      "numero": 265,
       "nombre": "Canalantigua",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5884,7 +5896,7 @@
     },
     {
       "id": "amigostv-0f4e693b",
-      "numero": 265,
+      "numero": 266,
       "nombre": "Amigos TV",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5896,7 +5908,7 @@
     },
     {
       "id": "canal27-131bb594",
-      "numero": 266,
+      "numero": 267,
       "nombre": "Canal 27",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5908,7 +5920,7 @@
     },
     {
       "id": "penielfamiliar-c6f47953",
-      "numero": 267,
+      "numero": 268,
       "nombre": "Penielfamiliar",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5920,7 +5932,7 @@
     },
     {
       "id": "barivision-0e3584b9",
-      "numero": 268,
+      "numero": 269,
       "nombre": "Barivision",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5932,7 +5944,7 @@
     },
     {
       "id": "tvs-retro-77a633ed",
-      "numero": 269,
+      "numero": 270,
       "nombre": "Tvs Retro",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5944,7 +5956,7 @@
     },
     {
       "id": "lunavision-abe1e573",
-      "numero": 270,
+      "numero": 271,
       "nombre": "Lunavision",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5956,7 +5968,7 @@
     },
     {
       "id": "tvogt-97de2550",
-      "numero": 271,
+      "numero": 272,
       "nombre": "Tvogt",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5968,7 +5980,7 @@
     },
     {
       "id": "regional3-a9bd1e5f",
-      "numero": 272,
+      "numero": 273,
       "nombre": "Regional 3",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5980,7 +5992,7 @@
     },
     {
       "id": "ccdtv-b841ab04",
-      "numero": 273,
+      "numero": 274,
       "nombre": "Ccdtv",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -5992,7 +6004,7 @@
     },
     {
       "id": "barbetv-5f77c613",
-      "numero": 274,
+      "numero": 275,
       "nombre": "Barbe TV",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -6004,7 +6016,7 @@
     },
     {
       "id": "mastvdigital-50d16ac0",
-      "numero": 275,
+      "numero": 276,
       "nombre": "Mastvdigital",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -6016,7 +6028,7 @@
     },
     {
       "id": "imagentvgt-ab746da0",
-      "numero": 276,
+      "numero": 277,
       "nombre": "Imagentvgt",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -6028,7 +6040,7 @@
     },
     {
       "id": "sastv-f8603ca6",
-      "numero": 277,
+      "numero": 278,
       "nombre": "Sastv",
       "categoria": "🇬🇹 Guatemala",
       "categoria_codigo": "GT",
@@ -6040,7 +6052,7 @@
     },
     {
       "id": "canal11-4e0e570d",
-      "numero": 308,
+      "numero": 309,
       "nombre": "Canal 11",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6052,7 +6064,7 @@
     },
     {
       "id": "alsaciastv-7fbb3c36",
-      "numero": 309,
+      "numero": 310,
       "nombre": "Alsacias TV",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6064,7 +6076,7 @@
     },
     {
       "id": "cholutecatv-c121489f",
-      "numero": 310,
+      "numero": 311,
       "nombre": "Choluteca TV",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6076,7 +6088,7 @@
     },
     {
       "id": "dteve-6ce0a5a7",
-      "numero": 311,
+      "numero": 312,
       "nombre": "Dteve",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6088,7 +6100,7 @@
     },
     {
       "id": "metrotv-170c4f3c",
-      "numero": 312,
+      "numero": 313,
       "nombre": "Metro TV",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6100,7 +6112,7 @@
     },
     {
       "id": "buendiatv-02ba3ebf",
-      "numero": 313,
+      "numero": 314,
       "nombre": "Buendia TV",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6112,7 +6124,7 @@
     },
     {
       "id": "tentv-97ba2be0",
-      "numero": 314,
+      "numero": 315,
       "nombre": "Tentv",
       "categoria": "🇭🇳 Honduras",
       "categoria_codigo": "HN",
@@ -6124,7 +6136,7 @@
     },
     {
       "id": "cgntv-japan-cee4c990",
-      "numero": 317,
+      "numero": 318,
       "nombre": "CGNTV Japan",
       "categoria": "🇯🇵 Japón",
       "categoria_codigo": "JP",
@@ -6136,7 +6148,7 @@
     },
     {
       "id": "nhk-world-f87a3471",
-      "numero": 318,
+      "numero": 319,
       "nombre": "NHK World",
       "categoria": "🇯🇵 Japón",
       "categoria_codigo": "JP",
@@ -6148,7 +6160,7 @@
     },
     {
       "id": "tvp-culliacan-5c7d024e",
-      "numero": 494,
+      "numero": 495,
       "nombre": "TVP Culliacan",
       "categoria": "🇲🇽 México",
       "categoria_codigo": "MX",
@@ -6160,7 +6172,7 @@
     },
     {
       "id": "mexiquense-980e20ba",
-      "numero": 495,
+      "numero": 496,
       "nombre": "Mexiquense",
       "categoria": "🇲🇽 México",
       "categoria_codigo": "MX",
@@ -6172,7 +6184,7 @@
     },
     {
       "id": "amx-noticias-4772df4c",
-      "numero": 496,
+      "numero": 497,
       "nombre": "AMX Noticias",
       "categoria": "🇲🇽 México",
       "categoria_codigo": "MX",
@@ -6184,7 +6196,7 @@
     },
     {
       "id": "tv-mar-la-paz-8fc4879f",
-      "numero": 497,
+      "numero": 498,
       "nombre": "TV MAR La Paz",
       "categoria": "🇲🇽 México",
       "categoria_codigo": "MX",
@@ -6196,7 +6208,7 @@
     },
     {
       "id": "az-clip-1e834651",
-      "numero": 498,
+      "numero": 499,
       "nombre": "AZ Clip",
       "categoria": "🇲🇽 México",
       "categoria_codigo": "MX",
@@ -6205,18 +6217,6 @@
       "url": "https://azt-cl.otteravision.com/azt/cl/cl.m3u8",
       "tvg_id": "",
       "slug": "az-clip"
-    },
-    {
-      "id": "clic-6bc3dbcd",
-      "numero": 499,
-      "nombre": "Clic",
-      "categoria": "🇲🇽 México",
-      "categoria_codigo": "MX",
-      "categoria_orden": 124,
-      "logo": "https://tvabierta.net/aztecaintAZ",
-      "url": "https://ds.tvabierta.net/memfs/cb5d419f-8be3-468d-9cbf-930e1569e163.m3u8",
-      "tvg_id": "",
-      "slug": "clic"
     },
     {
       "id": "azteca-mundo-acb19075",
@@ -6519,14 +6519,14 @@
       "slug": "nuevavida"
     },
     {
-      "id": "vtv-b75b07d2",
+      "id": "vtv-290175fb",
       "numero": 726,
       "nombre": "VTV",
       "categoria": "🇻🇪 Venezuela",
       "categoria_codigo": "VE",
       "categoria_orden": 129,
       "logo": "https://i.imgur.com/shiVmxM.png",
-      "url": "https://us.tvabierta.net/memfs/3d8deeea-d637-4609-8e65-5357eb36ffe4.m3u8",
+      "url": "https://hls.tvabierta.net/hls/vtv.m3u8",
       "tvg_id": "",
       "slug": "vtv"
     },
@@ -6964,7 +6964,7 @@
     },
     {
       "id": "lxhome-709446a7",
-      "numero": 209,
+      "numero": 210,
       "nombre": "Lxhome",
       "categoria": "📺 Otros",
       "categoria_codigo": "CULTURA",
@@ -6976,7 +6976,7 @@
     },
     {
       "id": "cocinafamiliar-e5e7c54f",
-      "numero": 210,
+      "numero": 211,
       "nombre": "Cocinafamiliar",
       "categoria": "📺 Otros",
       "categoria_codigo": "CULTURA",
@@ -6988,7 +6988,7 @@
     },
     {
       "id": "wild-tv-network-424ab539",
-      "numero": 211,
+      "numero": 212,
       "nombre": "Wild TV Network",
       "categoria": "📺 Otros",
       "categoria_codigo": "CULTURA",
@@ -7000,7 +7000,7 @@
     },
     {
       "id": "nicanal10-8ebbe4dd",
-      "numero": 315,
+      "numero": 316,
       "nombre": "Nicanal 10",
       "categoria": "📺 Otros",
       "categoria_codigo": "NI",
@@ -7012,7 +7012,7 @@
     },
     {
       "id": "vivanicaragua-69960d8b",
-      "numero": 316,
+      "numero": 317,
       "nombre": "Vivanicaragua",
       "categoria": "📺 Otros",
       "categoria_codigo": "NI",
@@ -7024,7 +7024,7 @@
     },
     {
       "id": "perfect-game-tv-a6bdea65",
-      "numero": 332,
+      "numero": 333,
       "nombre": "Perfect Game TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7036,7 +7036,7 @@
     },
     {
       "id": "just-for-laughs-1301f2d6",
-      "numero": 333,
+      "numero": 334,
       "nombre": "Just For Laughs",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7048,7 +7048,7 @@
     },
     {
       "id": "just-for-laughs-gags-b6424993",
-      "numero": 334,
+      "numero": 335,
       "nombre": "Just For Laughs Gags",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7060,7 +7060,7 @@
     },
     {
       "id": "roi-tv-324a8a2c",
-      "numero": 335,
+      "numero": 336,
       "nombre": "ROI TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7072,7 +7072,7 @@
     },
     {
       "id": "cbs-news-chicago-a1802e47",
-      "numero": 336,
+      "numero": 337,
       "nombre": "CBS News Chicago",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7084,7 +7084,7 @@
     },
     {
       "id": "48-hours-9c4b1d07",
-      "numero": 337,
+      "numero": 338,
       "nombre": "48 Hours",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7096,7 +7096,7 @@
     },
     {
       "id": "cbs-news-bay-area-895c8a49",
-      "numero": 338,
+      "numero": 339,
       "nombre": "CBS News Bay Area",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7108,7 +7108,7 @@
     },
     {
       "id": "cbs-news-philadelphia-0e5f2783",
-      "numero": 339,
+      "numero": 340,
       "nombre": "CBS News Philadelphia",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7120,7 +7120,7 @@
     },
     {
       "id": "cbs-sports-golazo-network-23288ee0",
-      "numero": 340,
+      "numero": 341,
       "nombre": "CBS Sports Golazo Network",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7132,7 +7132,7 @@
     },
     {
       "id": "cbs-news-boston-8b72de5f",
-      "numero": 341,
+      "numero": 342,
       "nombre": "CBS News Boston",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7144,7 +7144,7 @@
     },
     {
       "id": "cbs-news-minnesota-e214d501",
-      "numero": 342,
+      "numero": 343,
       "nombre": "CBS News Minnesota",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7156,7 +7156,7 @@
     },
     {
       "id": "60-minutes-609c7898",
-      "numero": 343,
+      "numero": 344,
       "nombre": "60 Minutes",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7168,7 +7168,7 @@
     },
     {
       "id": "car-chase-b5c36680",
-      "numero": 344,
+      "numero": 345,
       "nombre": "Car Chase",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7180,7 +7180,7 @@
     },
     {
       "id": "cbs-news-colorado-d3c44f13",
-      "numero": 345,
+      "numero": 346,
       "nombre": "CBS News Colorado",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7192,7 +7192,7 @@
     },
     {
       "id": "cbs-news-los-angeles-52e2d7d6",
-      "numero": 346,
+      "numero": 347,
       "nombre": "CBS News Los Angeles",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7204,7 +7204,7 @@
     },
     {
       "id": "cbs-news-texas-b15c44ae",
-      "numero": 347,
+      "numero": 348,
       "nombre": "CBS News Texas",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7216,7 +7216,7 @@
     },
     {
       "id": "cbs-news-detroit-45a172dd",
-      "numero": 348,
+      "numero": 349,
       "nombre": "CBS News Detroit",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7228,7 +7228,7 @@
     },
     {
       "id": "cbs-news-24-7-5ee061cd",
-      "numero": 349,
+      "numero": 350,
       "nombre": "CBS News 24/7",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7240,7 +7240,7 @@
     },
     {
       "id": "cbs-news-baltimore-b1912169",
-      "numero": 350,
+      "numero": 351,
       "nombre": "CBS News Baltimore",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7252,7 +7252,7 @@
     },
     {
       "id": "inside-edition-27c1fee0",
-      "numero": 351,
+      "numero": 352,
       "nombre": "Inside Edition",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7264,7 +7264,7 @@
     },
     {
       "id": "cbs-news-miami-97457414",
-      "numero": 352,
+      "numero": 353,
       "nombre": "CBS News Miami",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7276,7 +7276,7 @@
     },
     {
       "id": "cbs-news-sacramento-d7be146f",
-      "numero": 353,
+      "numero": 354,
       "nombre": "CBS News Sacramento",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7288,7 +7288,7 @@
     },
     {
       "id": "et-b27c127f",
-      "numero": 354,
+      "numero": 355,
       "nombre": "Et",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7300,7 +7300,7 @@
     },
     {
       "id": "three-stooges-1fab478b",
-      "numero": 355,
+      "numero": 356,
       "nombre": "Three Stooges+",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7312,7 +7312,7 @@
     },
     {
       "id": "made-in-hollywood-powered-by-moviefone-bb3d0328",
-      "numero": 356,
+      "numero": 357,
       "nombre": "Made In Hollywood Powered By Moviefone",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7324,7 +7324,7 @@
     },
     {
       "id": "drone-tv-14f3ba8d",
-      "numero": 357,
+      "numero": 358,
       "nombre": "Drone TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7336,7 +7336,7 @@
     },
     {
       "id": "estrella-news-9af5696e",
-      "numero": 358,
+      "numero": 359,
       "nombre": "Estrella News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7348,7 +7348,7 @@
     },
     {
       "id": "the-pet-collective-372fdb13",
-      "numero": 359,
+      "numero": 360,
       "nombre": "The Pet Collective",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7360,7 +7360,7 @@
     },
     {
       "id": "hi-yah-26442b5d",
-      "numero": 360,
+      "numero": 361,
       "nombre": "Hi-Yah!",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7372,7 +7372,7 @@
     },
     {
       "id": "krtv-news-great-falls-4c04e834",
-      "numero": 361,
+      "numero": 362,
       "nombre": "KRTV News Great Falls",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7384,7 +7384,7 @@
     },
     {
       "id": "wtvr-cbs6-news-richmond-73669afb",
-      "numero": 362,
+      "numero": 363,
       "nombre": "WTVR CBS6 News Richmond",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7396,7 +7396,7 @@
     },
     {
       "id": "wsb-abc-news-2-atlanta-ga-72bcb5f5",
-      "numero": 363,
+      "numero": 364,
       "nombre": "WSB (ABC) News 2 Atlanta GA",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7408,7 +7408,7 @@
     },
     {
       "id": "kgun-9-news-tucson-4843bee9",
-      "numero": 364,
+      "numero": 365,
       "nombre": "KGUN 9 News Tucson",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7420,7 +7420,7 @@
     },
     {
       "id": "kjrh-2-news-oklahoma-d48a6c2d",
-      "numero": 365,
+      "numero": 366,
       "nombre": "KJRH 2 News Oklahoma",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7432,7 +7432,7 @@
     },
     {
       "id": "wtxl-abc27-news-tallahassee-7317614b",
-      "numero": 366,
+      "numero": 367,
       "nombre": "WTXL ABC27 News Tallahassee",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7444,7 +7444,7 @@
     },
     {
       "id": "cowboy-classics-632425b1",
-      "numero": 367,
+      "numero": 368,
       "nombre": "Cowboy Classics",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7456,7 +7456,7 @@
     },
     {
       "id": "wsym-fox47-news-lansing-7076389d",
-      "numero": 368,
+      "numero": 369,
       "nombre": "WSYM FOX47 News Lansing",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7468,7 +7468,7 @@
     },
     {
       "id": "wxow-la-crosse-wi-5efa40d4",
-      "numero": 369,
+      "numero": 370,
       "nombre": "WXOW La Crosse WI",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7480,7 +7480,7 @@
     },
     {
       "id": "urban-action-channel-ef48aaef",
-      "numero": 370,
+      "numero": 371,
       "nombre": "Urban Action Channel",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7492,7 +7492,7 @@
     },
     {
       "id": "kung-fu-movies-07ea646b",
-      "numero": 371,
+      "numero": 372,
       "nombre": "Kung Fu Movies",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7504,7 +7504,7 @@
     },
     {
       "id": "wptv-channel5-news-west-palm-beach-5ca0278a",
-      "numero": 372,
+      "numero": 373,
       "nombre": "WPTV Channel5 News West Palm Beach",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7516,7 +7516,7 @@
     },
     {
       "id": "kmtv-3-news-now-omaha-bdff8101",
-      "numero": 373,
+      "numero": 374,
       "nombre": "KMTV 3 News Now Omaha",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7528,7 +7528,7 @@
     },
     {
       "id": "shout-tv-7fa9fcc5",
-      "numero": 374,
+      "numero": 375,
       "nombre": "Shout! TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7540,7 +7540,7 @@
     },
     {
       "id": "wjrt-abc-news-12-flint-mi-8893da33",
-      "numero": 375,
+      "numero": 376,
       "nombre": "WJRT (ABC) News 12 Flint MI",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7552,7 +7552,7 @@
     },
     {
       "id": "wlex-lex18-news-lexington-c1b47331",
-      "numero": 376,
+      "numero": 377,
       "nombre": "WLEX LEX18 News Lexington",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7564,7 +7564,7 @@
     },
     {
       "id": "tmj4-news-milwaukee-bf31ec8a",
-      "numero": 377,
+      "numero": 378,
       "nombre": "TMJ4 News Milwaukee",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7576,7 +7576,7 @@
     },
     {
       "id": "old-west-tv-14d31926",
-      "numero": 378,
+      "numero": 379,
       "nombre": "Old West TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7588,7 +7588,7 @@
     },
     {
       "id": "news-12-new-york-61e728d6",
-      "numero": 379,
+      "numero": 380,
       "nombre": "News 12 New York",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7600,7 +7600,7 @@
     },
     {
       "id": "wtkr-news-3-norfolk-25a4923d",
-      "numero": 380,
+      "numero": 381,
       "nombre": "WTKR News 3 Norfolk",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7612,7 +7612,7 @@
     },
     {
       "id": "ktvh-news-helena-df8a8967",
-      "numero": 381,
+      "numero": 382,
       "nombre": "KTVH News Helena",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7624,7 +7624,7 @@
     },
     {
       "id": "wkbw-7-news-buffalo-12fd2ada",
-      "numero": 382,
+      "numero": 383,
       "nombre": "WKBW 7 News Buffalo",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7636,7 +7636,7 @@
     },
     {
       "id": "gusto-tv-3f9323be",
-      "numero": 383,
+      "numero": 384,
       "nombre": "Gusto TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7648,7 +7648,7 @@
     },
     {
       "id": "electricnow-3bb19a7a",
-      "numero": 384,
+      "numero": 385,
       "nombre": "ElectricNOW",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7660,7 +7660,7 @@
     },
     {
       "id": "qwest-tv-adf73ec8",
-      "numero": 385,
+      "numero": 386,
       "nombre": "Qwest TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7672,7 +7672,7 @@
     },
     {
       "id": "wmar-2-news-baltimore-67e4c1dc",
-      "numero": 386,
+      "numero": 387,
       "nombre": "WMAR 2 News Baltimore",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7684,7 +7684,7 @@
     },
     {
       "id": "kpax-news-missoula-f9644e8e",
-      "numero": 387,
+      "numero": 388,
       "nombre": "KPAX News Missoula",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7696,7 +7696,7 @@
     },
     {
       "id": "kvoa-tucson-az-43f83535",
-      "numero": 388,
+      "numero": 389,
       "nombre": "KVOA Tucson AZ",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7708,7 +7708,7 @@
     },
     {
       "id": "wjax-cbs-news-47-jacksonville-fl-2a2ed8a0",
-      "numero": 389,
+      "numero": 390,
       "nombre": "WJAX (CBS) News 47 Jacksonville FL",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7720,7 +7720,7 @@
     },
     {
       "id": "failarmy-9602e9bb",
-      "numero": 390,
+      "numero": 391,
       "nombre": "FailArmy",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7732,7 +7732,7 @@
     },
     {
       "id": "wxmi-fox17-news-west-michigan-280c3eb2",
-      "numero": 391,
+      "numero": 392,
       "nombre": "WXMI FOX17 News West Michigan",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7744,7 +7744,7 @@
     },
     {
       "id": "wftx-fox4-news-ft-myers-b1bc0ad8",
-      "numero": 392,
+      "numero": 393,
       "nombre": "WFTX FOX4 News Ft Myers",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7756,7 +7756,7 @@
     },
     {
       "id": "kxxv-25-news-waco-27b62602",
-      "numero": 393,
+      "numero": 394,
       "nombre": "KXXV 25 News Waco",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7768,7 +7768,7 @@
     },
     {
       "id": "kris6-news-corpus-christi-a806be8a",
-      "numero": 394,
+      "numero": 395,
       "nombre": "KRIS6 News Corpus Christi",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7780,7 +7780,7 @@
     },
     {
       "id": "kmgh-denver-7-news-093d720d",
-      "numero": 395,
+      "numero": 396,
       "nombre": "KMGH Denver 7 News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7792,7 +7792,7 @@
     },
     {
       "id": "nhra-tv-15055c69",
-      "numero": 396,
+      "numero": 397,
       "nombre": "NHRA TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7804,7 +7804,7 @@
     },
     {
       "id": "very-tampa-bay-by-wmor-4c5e5e70",
-      "numero": 397,
+      "numero": 398,
       "nombre": "Very Tampa Bay By WMOR",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7816,7 +7816,7 @@
     },
     {
       "id": "wrtv-news-indianapolis-7c55b063",
-      "numero": 398,
+      "numero": 399,
       "nombre": "WRTV News Indianapolis",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7828,7 +7828,7 @@
     },
     {
       "id": "wcpo-9-news-cincinnati-2b4d2e2b",
-      "numero": 399,
+      "numero": 400,
       "nombre": "WCPO 9 News Cincinnati",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7840,7 +7840,7 @@
     },
     {
       "id": "local-now-nyc-63d0fede",
-      "numero": 400,
+      "numero": 401,
       "nombre": "Local Now NYC",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7852,7 +7852,7 @@
     },
     {
       "id": "true-history-950e49de",
-      "numero": 401,
+      "numero": 402,
       "nombre": "True History",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7864,7 +7864,7 @@
     },
     {
       "id": "wsoc-abc-news-9-charlotte-nc-efdd754b",
-      "numero": 402,
+      "numero": 403,
       "nombre": "WSOC (ABC) News 9 Charlotte NC",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7876,7 +7876,7 @@
     },
     {
       "id": "wkbt-cbs-news-8-la-crosse-wi-ec69ac9a",
-      "numero": 403,
+      "numero": 404,
       "nombre": "WKBT (CBS) News 8 La Crosse WI",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7888,7 +7888,7 @@
     },
     {
       "id": "wxyz-7-action-news-detroit-8ce719c9",
-      "numero": 404,
+      "numero": 405,
       "nombre": "WXYZ 7 Action News Detroit",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7900,7 +7900,7 @@
     },
     {
       "id": "wfts-abc-action-news-tampa-4490a129",
-      "numero": 405,
+      "numero": 406,
       "nombre": "WFTS ABC Action News Tampa",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7912,7 +7912,7 @@
     },
     {
       "id": "wral-news-raleigh-8b23989b",
-      "numero": 406,
+      "numero": 407,
       "nombre": "WRAL News Raleigh",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7924,7 +7924,7 @@
     },
     {
       "id": "kavu-crossroads-today-victoria-tx-a20373aa",
-      "numero": 407,
+      "numero": 408,
       "nombre": "KAVU Crossroads Today Victoria TX",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7936,7 +7936,7 @@
     },
     {
       "id": "thegrio-372bc056",
-      "numero": 408,
+      "numero": 409,
       "nombre": "TheGrio",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7948,7 +7948,7 @@
     },
     {
       "id": "wftv-abc-news-9-orlando-fl-1b5d2df5",
-      "numero": 409,
+      "numero": 410,
       "nombre": "WFTV (ABC) News 9 Orlando FL",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7960,7 +7960,7 @@
     },
     {
       "id": "whio-cbs-news-7-dayton-oh-6d04278e",
-      "numero": 410,
+      "numero": 411,
       "nombre": "WHIO (CBS) News 7 Dayton OH",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7972,7 +7972,7 @@
     },
     {
       "id": "wgba-nbc26-news-green-bay-e1d2d6f3",
-      "numero": 411,
+      "numero": 412,
       "nombre": "WGBA NBC26 News Green Bay",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7984,7 +7984,7 @@
     },
     {
       "id": "wfxt-fox-news-25-boston-ma-24966b53",
-      "numero": 412,
+      "numero": 413,
       "nombre": "WFXT (FOX) News 25 Boston MA",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -7996,7 +7996,7 @@
     },
     {
       "id": "quietude-798c3418",
-      "numero": 413,
+      "numero": 414,
       "nombre": "Quietude",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8008,7 +8008,7 @@
     },
     {
       "id": "law-crime-0d3f676d",
-      "numero": 414,
+      "numero": 415,
       "nombre": "Law & Crime",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8020,7 +8020,7 @@
     },
     {
       "id": "knxv-abc15-news-arizona-85d6df12",
-      "numero": 415,
+      "numero": 416,
       "nombre": "KNXV ABC15 News Arizona",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8032,7 +8032,7 @@
     },
     {
       "id": "wedo-big-stories-2359c4f8",
-      "numero": 416,
+      "numero": 417,
       "nombre": "Wedo Big Stories",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8044,7 +8044,7 @@
     },
     {
       "id": "kstu-fox13-news-salt-lake-2e381631",
-      "numero": 417,
+      "numero": 418,
       "nombre": "KSTU FOX13 News Salt Lake",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8056,7 +8056,7 @@
     },
     {
       "id": "now-80s-37956c20",
-      "numero": 418,
+      "numero": 419,
       "nombre": "Now 80s",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8068,7 +8068,7 @@
     },
     {
       "id": "world-of-freesports-ec9627d1",
-      "numero": 419,
+      "numero": 420,
       "nombre": "World Of Freesports",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8080,7 +8080,7 @@
     },
     {
       "id": "now-rock-567f2e80",
-      "numero": 420,
+      "numero": 421,
       "nombre": "Now Rock",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8092,7 +8092,7 @@
     },
     {
       "id": "mcleod-s-daughters-1d60b4de",
-      "numero": 421,
+      "numero": 422,
       "nombre": "McLeod's Daughters",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8104,7 +8104,7 @@
     },
     {
       "id": "now-70s-df39cb21",
-      "numero": 422,
+      "numero": 423,
       "nombre": "Now 70s",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8116,7 +8116,7 @@
     },
     {
       "id": "nbc-5-chicago-news-02a480ea",
-      "numero": 423,
+      "numero": 424,
       "nombre": "NBC 5 Chicago News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8128,7 +8128,7 @@
     },
     {
       "id": "nbc-10-boston-news-8fb841f6",
-      "numero": 424,
+      "numero": 425,
       "nombre": "NBC 10 Boston News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8140,7 +8140,7 @@
     },
     {
       "id": "nbc-4-washington-news-bb9195b4",
-      "numero": 425,
+      "numero": 426,
       "nombre": "NBC 4 Washington News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8152,7 +8152,7 @@
     },
     {
       "id": "nbc-connecticut-news-294f381d",
-      "numero": 426,
+      "numero": 427,
       "nombre": "NBC Connecticut News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8164,7 +8164,7 @@
     },
     {
       "id": "nbc-5-dallas-fort-worth-news-808c699f",
-      "numero": 427,
+      "numero": 428,
       "nombre": "NBC 5 Dallas Fort Worth News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8176,7 +8176,7 @@
     },
     {
       "id": "nbc-10-philadelphia-news-4d5c96e5",
-      "numero": 428,
+      "numero": 429,
       "nombre": "NBC 10 Philadelphia News",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8188,7 +8188,7 @@
     },
     {
       "id": "action-hollywood-movies-0900217f",
-      "numero": 429,
+      "numero": 430,
       "nombre": "Action Hollywood Movies",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8200,7 +8200,7 @@
     },
     {
       "id": "docsville-6a7b329b",
-      "numero": 430,
+      "numero": 431,
       "nombre": "Docsville",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8212,7 +8212,7 @@
     },
     {
       "id": "popular-science-8a85d5c6",
-      "numero": 431,
+      "numero": 432,
       "nombre": "Popular Science",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8224,7 +8224,7 @@
     },
     {
       "id": "surfer-230d4ef1",
-      "numero": 432,
+      "numero": 433,
       "nombre": "Surfer",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8236,7 +8236,7 @@
     },
     {
       "id": "azteca-internacional-baeb6563",
-      "numero": 433,
+      "numero": 434,
       "nombre": "Azteca Internacional",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8248,7 +8248,7 @@
     },
     {
       "id": "mysteria-c1b4780d",
-      "numero": 434,
+      "numero": 435,
       "nombre": "Mysteria",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8260,7 +8260,7 @@
     },
     {
       "id": "magellan-tv-now-b80e38a9",
-      "numero": 435,
+      "numero": 436,
       "nombre": "Magellan TV Now",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8272,7 +8272,7 @@
     },
     {
       "id": "mavtv-select-26182317",
-      "numero": 436,
+      "numero": 437,
       "nombre": "MavTV Select",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8284,7 +8284,7 @@
     },
     {
       "id": "hbcu-go-99d8a964",
-      "numero": 437,
+      "numero": 438,
       "nombre": "HBCU Go!",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8296,7 +8296,7 @@
     },
     {
       "id": "tastemade-7c1f6daa",
-      "numero": 438,
+      "numero": 439,
       "nombre": "Tastemade",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8308,7 +8308,7 @@
     },
     {
       "id": "ksl-nbc-tv-5-salt-lake-city-ut-be6b7a23",
-      "numero": 439,
+      "numero": 440,
       "nombre": "KSL NBC TV 5 Salt Lake City UT",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8320,7 +8320,7 @@
     },
     {
       "id": "history-warfare-now-7147291b",
-      "numero": 440,
+      "numero": 441,
       "nombre": "History & Warfare Now",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8332,7 +8332,7 @@
     },
     {
       "id": "space-science-now-23287065",
-      "numero": 441,
+      "numero": 442,
       "nombre": "Space Science Now",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8344,7 +8344,7 @@
     },
     {
       "id": "antiques-road-trip-47e5e31b",
-      "numero": 442,
+      "numero": 443,
       "nombre": "Antiques Road Trip",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8356,7 +8356,7 @@
     },
     {
       "id": "pbs-food-fe0dadb4",
-      "numero": 443,
+      "numero": 444,
       "nombre": "PBS Food",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8368,7 +8368,7 @@
     },
     {
       "id": "pbs-antiques-roadshow-1c207d6e",
-      "numero": 444,
+      "numero": 445,
       "nombre": "PBS Antiques Roadshow",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8380,7 +8380,7 @@
     },
     {
       "id": "jamie-kennedy-comedy-7ccf3108",
-      "numero": 445,
+      "numero": 446,
       "nombre": "Jamie Kennedy Comedy",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8392,7 +8392,7 @@
     },
     {
       "id": "wild-west-tv-d035b855",
-      "numero": 446,
+      "numero": 447,
       "nombre": "Wild West TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8404,7 +8404,7 @@
     },
     {
       "id": "kmiz-abc-17-news-columbia-mo-ccd8a39b",
-      "numero": 447,
+      "numero": 448,
       "nombre": "KMIZ ABC 17 News Columbia MO",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8416,7 +8416,7 @@
     },
     {
       "id": "kvia-abc-7-news-el-paso-tx-dfa804b8",
-      "numero": 448,
+      "numero": 449,
       "nombre": "KVIA ABC-7 News El Paso TX",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8428,7 +8428,7 @@
     },
     {
       "id": "locked-on-nfl-67e5188f",
-      "numero": 449,
+      "numero": 450,
       "nombre": "Locked On NFL",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8440,7 +8440,7 @@
     },
     {
       "id": "locked-on-college-sports-0a3bea85",
-      "numero": 450,
+      "numero": 451,
       "nombre": "Locked On College Sports",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8452,7 +8452,7 @@
     },
     {
       "id": "declassified-352cca8c",
-      "numero": 451,
+      "numero": 452,
       "nombre": "Declassified",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8464,7 +8464,7 @@
     },
     {
       "id": "kotv-news-on-6-tulsa-ok-16f25823",
-      "numero": 452,
+      "numero": 453,
       "nombre": "KOTV News On 6 Tulsa OK",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8476,7 +8476,7 @@
     },
     {
       "id": "kwtv-news-9-oklahoma-city-ok-816744b0",
-      "numero": 453,
+      "numero": 454,
       "nombre": "KWTV News 9 Oklahoma City OK",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8488,7 +8488,7 @@
     },
     {
       "id": "dog-whisperer-eb0eefe5",
-      "numero": 454,
+      "numero": 455,
       "nombre": "Dog Whisperer",
       "categoria": "📺 Otros",
       "categoria_codigo": "LOCALNOW",
@@ -8500,7 +8500,7 @@
     },
     {
       "id": "energytvmusic-bf0ee7b1",
-      "numero": 455,
+      "numero": 456,
       "nombre": "Energytvmusic",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8512,7 +8512,7 @@
     },
     {
       "id": "k-music-20a5ec73",
-      "numero": 456,
+      "numero": 457,
       "nombre": "@k-music",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8524,7 +8524,7 @@
     },
     {
       "id": "vevo-pop-a3729fd8",
-      "numero": 457,
+      "numero": 458,
       "nombre": "Vevo Pop",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8536,7 +8536,7 @@
     },
     {
       "id": "now90s00s-77dba1d2",
-      "numero": 458,
+      "numero": 459,
       "nombre": "Now90s00s",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8548,7 +8548,7 @@
     },
     {
       "id": "now-rock-49010243",
-      "numero": 459,
+      "numero": 460,
       "nombre": "Now Rock",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8560,7 +8560,7 @@
     },
     {
       "id": "fashion-tv-7af95175",
-      "numero": 460,
+      "numero": 461,
       "nombre": "Fashion TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8572,7 +8572,7 @@
     },
     {
       "id": "classic-arts-showcase-83849933",
-      "numero": 461,
+      "numero": 462,
       "nombre": "Classic Arts Showcase",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8584,7 +8584,7 @@
     },
     {
       "id": "qello-concerts-by-stingray-cb248fd3",
-      "numero": 462,
+      "numero": 463,
       "nombre": "Qello Concerts By Stingray",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8596,7 +8596,7 @@
     },
     {
       "id": "stingray-karaoke-53fe7552",
-      "numero": 463,
+      "numero": 464,
       "nombre": "Stingray Karaoke",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8608,7 +8608,7 @@
     },
     {
       "id": "stingray-pop-adult-cb419871",
-      "numero": 464,
+      "numero": 465,
       "nombre": "Stingray Pop Adult",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8620,7 +8620,7 @@
     },
     {
       "id": "stingray-hip-hop-8c754670",
-      "numero": 465,
+      "numero": 466,
       "nombre": "Stingray Hip Hop",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8632,7 +8632,7 @@
     },
     {
       "id": "stingray-exitos-del-momento-f2e61309",
-      "numero": 466,
+      "numero": 467,
       "nombre": "Stingray Exitos Del Momento",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8644,7 +8644,7 @@
     },
     {
       "id": "stingray-hit-list-06284a7e",
-      "numero": 467,
+      "numero": 468,
       "nombre": "Stingray Hit List",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8656,7 +8656,7 @@
     },
     {
       "id": "stingray-greatest-holiday-hits-44517da6",
-      "numero": 468,
+      "numero": 469,
       "nombre": "Stingray Greatest Holiday Hits",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8668,7 +8668,7 @@
     },
     {
       "id": "stingray-hot-country-1206c13d",
-      "numero": 469,
+      "numero": 470,
       "nombre": "Stingray Hot Country",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8680,7 +8680,7 @@
     },
     {
       "id": "stingray-classic-rock-85ebe507",
-      "numero": 470,
+      "numero": 471,
       "nombre": "Stingray Classic Rock",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8692,7 +8692,7 @@
     },
     {
       "id": "stingray-soul-storm-924a13c3",
-      "numero": 471,
+      "numero": 472,
       "nombre": "Stingray Soul Storm",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8704,7 +8704,7 @@
     },
     {
       "id": "stingray-remember-the-80s-817e7f6e",
-      "numero": 472,
+      "numero": 473,
       "nombre": "Stingray Remember The 80s",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8716,7 +8716,7 @@
     },
     {
       "id": "stingray-remember-the-80s-099dbc66",
-      "numero": 473,
+      "numero": 474,
       "nombre": "Stingray Remember The 80s",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8728,7 +8728,7 @@
     },
     {
       "id": "stingray-classica-ec1d2aa1",
-      "numero": 474,
+      "numero": 475,
       "nombre": "Stingray Classica",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8740,7 +8740,7 @@
     },
     {
       "id": "djazz-57ea04da",
-      "numero": 475,
+      "numero": 476,
       "nombre": "Djazz",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8752,7 +8752,7 @@
     },
     {
       "id": "stingray-karaoke-d9e42e58",
-      "numero": 476,
+      "numero": 477,
       "nombre": "Stingray Karaoke",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8764,7 +8764,7 @@
     },
     {
       "id": "stingray-classic-rock-9ab34b4f",
-      "numero": 477,
+      "numero": 478,
       "nombre": "Stingray Classic Rock",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8776,7 +8776,7 @@
     },
     {
       "id": "stingray-rock-alternative-72f92073",
-      "numero": 478,
+      "numero": 479,
       "nombre": "Stingray Rock Alternative",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8788,7 +8788,7 @@
     },
     {
       "id": "stingray-pop-adult-9474dd33",
-      "numero": 479,
+      "numero": 480,
       "nombre": "Stingray Pop Adult",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8800,7 +8800,7 @@
     },
     {
       "id": "stingray-hit-list-ba919e0c",
-      "numero": 480,
+      "numero": 481,
       "nombre": "Stingray Hit List",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8812,7 +8812,7 @@
     },
     {
       "id": "stingray-flashback-70s-6ccb8e08",
-      "numero": 481,
+      "numero": 482,
       "nombre": "Stingray Flashback 70s",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8824,7 +8824,7 @@
     },
     {
       "id": "stingray-the-spa-0573e653",
-      "numero": 482,
+      "numero": 483,
       "nombre": "Stingray The Spa",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8836,7 +8836,7 @@
     },
     {
       "id": "stingray-remember-the-80s-bedf2916",
-      "numero": 483,
+      "numero": 484,
       "nombre": "Stingray Remember The 80s",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8848,7 +8848,7 @@
     },
     {
       "id": "stingray-easy-listening-f1c7bf57",
-      "numero": 484,
+      "numero": 485,
       "nombre": "Stingray Easy Listening",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8860,7 +8860,7 @@
     },
     {
       "id": "stingray-smooth-jazz-67d0742d",
-      "numero": 485,
+      "numero": 486,
       "nombre": "Stingray Smooth Jazz",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8872,7 +8872,7 @@
     },
     {
       "id": "stingray-nothin-but-90s-87e75007",
-      "numero": 486,
+      "numero": 487,
       "nombre": "Stingray Nothin' But 90s",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8884,7 +8884,7 @@
     },
     {
       "id": "stingray-holiday-hits-61786780",
-      "numero": 487,
+      "numero": 488,
       "nombre": "Stingray Holiday Hits",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8896,7 +8896,7 @@
     },
     {
       "id": "stingray-today-s-latin-pop-30e17faa",
-      "numero": 488,
+      "numero": 489,
       "nombre": "Stingray Today's Latin Pop",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8908,7 +8908,7 @@
     },
     {
       "id": "stingray-today-s-kpop-f63d3737",
-      "numero": 489,
+      "numero": 490,
       "nombre": "Stingray Today's KPOP",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8920,7 +8920,7 @@
     },
     {
       "id": "974-qwest-tv-a90bd164",
-      "numero": 490,
+      "numero": 491,
       "nombre": "974 Qwest TV",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8932,7 +8932,7 @@
     },
     {
       "id": "979-sol-musica-89b7d26a",
-      "numero": 491,
+      "numero": 492,
       "nombre": "979 SOL MÚSICA",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8944,7 +8944,7 @@
     },
     {
       "id": "telemedellin-4e61d5fd",
-      "numero": 492,
+      "numero": 493,
       "nombre": "Telemedellin",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",
@@ -8956,7 +8956,7 @@
     },
     {
       "id": "bandamax-2ddc8e1b",
-      "numero": 493,
+      "numero": 494,
       "nombre": "Bandamax",
       "categoria": "📺 Otros",
       "categoria_codigo": "MUSIC",

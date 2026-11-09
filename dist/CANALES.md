@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 738 canales en 28 categorías  
-**Actualizado:** 2026-11-08 21:39 UTC  
+**Total:** 739 canales en 28 categorías  
+**Actualizado:** 2026-11-09 04:38 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -9,7 +9,7 @@
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
 | 🇩🇴 República Dominicana | 98 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🌎 Hispanos | 32 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -142,7 +142,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (31 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (32 canales)</summary>
 
 - CNN en Español
 - Euronews
@@ -159,6 +159,7 @@
 - Estrella News
 - Enlace
 - Estrellatv
+- Univisión
 - Univision Chicago
 - F 24 E
 - Americateve

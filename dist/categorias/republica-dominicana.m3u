@@ -130,7 +130,7 @@ https://cdnfox.hostlagarto.com/puntacanatv/index.m3u8
 https://hls.tvabierta.net/hls/ztv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Zol" tvg-chno="44" tvg-logo="https://tvabierta.net/zol.png" group-title="🇩🇴 República Dominicana",Zol
 #EXTGRP:🇩🇴 República Dominicana
-https://us.tvabierta.net/memfs/0ba2eba3-9f49-4940-92aa-635085797e47.m3u8
+https://hls.tvabierta.net/hls/zol.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rumba" tvg-chno="45" tvg-logo="https://tvabierta.net/rumba.png" group-title="🇩🇴 República Dominicana",Rumba
 #EXTGRP:🇩🇴 República Dominicana
 https://us.tvabierta.net/memfs/1bd48399-399d-4073-b1a0-0f395b89e416.m3u8
@@ -247,7 +247,7 @@ https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 https://ds.tvabierta.net/memfs/f09eae46-9675-467a-99cf-8361c9b466ed.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitvrd" tvg-chno="83" tvg-logo="https://tvabierta.net/sitvrd.png" group-title="🇩🇴 República Dominicana",Sitvrd
 #EXTGRP:🇩🇴 República Dominicana
-https://us.tvabierta.net/memfs/53017c5c-e231-4e29-b672-dafd874c6936.m3u8
+https://hls.tvabierta.net/hls/sitvrd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telenovisa" tvg-chno="84" tvg-logo="https://tvabierta.net/telenovisa.png" group-title="🇩🇴 República Dominicana",Telenovisa
 #EXTGRP:🇩🇴 República Dominicana
 https://cdnfox.hostlagarto.com/telenonisa43/tracks-v1a1/mono.m3u8

@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 740 canales en 28 categorías  
-**Actualizado:** 2026-11-10 01:10 UTC  
+**Total:** 742 canales en 28 categorías  
+**Actualizado:** 2026-11-10 14:19 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -13,12 +13,12 @@
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 14 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 6 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 📈 Trading y Finanzas | 7 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
-| 🇧🇴 Bolivia | 3 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
+| 🇧🇴 Bolivia | 4 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
 | 🇨🇱 Chile | 13 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
 | 🇨🇴 Colombia | 15 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 194 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 195 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -267,7 +267,7 @@
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (14 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (13 canales)</summary>
 
 - Bpskids
 - Extrema Kids
@@ -281,7 +281,6 @@
 - Sensical
 - Sat
 - Zoomoo
-- Toongoodles
 - Toongoodles 2
 
 </details>
@@ -314,7 +313,7 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (6 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (7 canales)</summary>
 
 - B
 - Bbcnews
@@ -322,6 +321,7 @@
 - Negocios
 - Finance.yahoo
 - Foxbusiness
+- Topstep TV
 
 </details>
 
@@ -355,8 +355,9 @@
 
 </details>
 
-<details><summary><b>🇧🇴 Bolivia</b> (3 canales)</summary>
+<details><summary><b>🇧🇴 Bolivia</b> (4 canales)</summary>
 
+- Atb
 - Bolivia TV
 - Amitel
 - Zuraca TV
@@ -720,8 +721,9 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (194 canales)</summary>
+<details><summary><b>📺 Otros</b> (195 canales)</summary>
 
+- Aion
 - 541 | TVE
 - 654 | TV Nordestina
 - 601 | TV CNB

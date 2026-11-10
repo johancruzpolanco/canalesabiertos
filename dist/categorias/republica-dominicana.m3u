@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-chno="1" tvg-logo="https://tvabierta.net/bloomberg.png" group-title="🇩🇴 República Dominicana",Bloomberg
-#EXTGRP:🇩🇴 República Dominicana
-https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Misionel TV" tvg-chno="2" tvg-logo="https://tvabierta.net/002.png" group-title="🇩🇴 República Dominicana",Misionel TV
+#EXTINF:-1 tvg-id="" tvg-name="Misionel TV" tvg-chno="3" tvg-logo="https://tvabierta.net/002.png" group-title="🇩🇴 República Dominicana",Misionel TV
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/misioneltv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ahora TV" tvg-chno="3" tvg-logo="https://tvabierta.net/003.png" group-title="🇩🇴 República Dominicana",Ahora TV
-#EXTGRP:🇩🇴 República Dominicana
-https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTVD" tvg-chno="4" tvg-logo="https://tvabierta.net/004.png" group-title="🇩🇴 República Dominicana",RTVD
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/004.m3u8
@@ -16,13 +10,13 @@ https://hls.tvabierta.net/hls/004.m3u8
 https://hls.tvabierta.net/hls/005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemicrointernacional" tvg-chno="6" tvg-logo="https://tvabierta.net/telemicrointernacional.png" group-title="🇩🇴 República Dominicana",Telemicrointernacional
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/d0fdcba5-609d-41fd-a8c5-9e6e0a348684.m3u8
+https://hls.tvabierta.net/hls/telemicrointernacional.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 7" tvg-chno="7" tvg-logo="https://tvabierta.net/007.png" group-title="🇩🇴 República Dominicana",Antena 7
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemedios" tvg-chno="8" tvg-logo="https://tvabierta.net/008.png" group-title="🇩🇴 República Dominicana",Telemedios
 #EXTGRP:🇩🇴 República Dominicana
-https://us.tvabierta.net/memfs/8c8c6f31-9a29-431e-b3c3-d4675498e53e.m3u8
+https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colorvisión" tvg-chno="9" tvg-logo="https://tvabierta.net/009.png" group-title="🇩🇴 República Dominicana",Colorvisión
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/009.m3u8
@@ -92,9 +86,9 @@ https://hls.tvabierta.net/hls/end.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cotubanama TV" tvg-chno="31" tvg-logo="https://tvabierta.net/cotubanamatv.png" group-title="🇩🇴 República Dominicana",Cotubanama TV
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/cotubanamatv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vtv 32" tvg-chno="32" tvg-logo="https://tvabierta.net/vtv32.png" group-title="🇩🇴 República Dominicana",Vtv 32
+#EXTINF:-1 tvg-id="" tvg-name="Ahora TV" tvg-chno="32" tvg-logo="https://tvabierta.net/003.png" group-title="🇩🇴 República Dominicana",Ahora TV
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/032.m3u8
+https://stream.haislin.com/ahoratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cvvision" tvg-chno="33" tvg-logo="https://tvabierta.net/cvvision.png" group-title="🇩🇴 República Dominicana",Cvvision
 #EXTGRP:🇩🇴 República Dominicana
 https://eu1.servers10.com:8081/8128/index.m3u8
@@ -244,7 +238,7 @@ https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vega Teve" tvg-chno="82" tvg-logo="https://tvabierta.net/vegateve.png" group-title="🇩🇴 República Dominicana",Vega Teve
 #EXTGRP:🇩🇴 República Dominicana
-https://ds.tvabierta.net/memfs/f09eae46-9675-467a-99cf-8361c9b466ed.m3u8
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sitvrd" tvg-chno="83" tvg-logo="https://tvabierta.net/sitvrd.png" group-title="🇩🇴 República Dominicana",Sitvrd
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/sitvrd.m3u8

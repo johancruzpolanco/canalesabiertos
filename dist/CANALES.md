@@ -1,21 +1,21 @@
 # 📺 Canales disponibles
 
 **Total:** 742 canales en 28 categorías  
-**Actualizado:** 2026-11-10 14:19 UTC  
+**Actualizado:** 2026-11-10 22:49 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 98 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 96 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 32 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
-| 📈 Trading y Finanzas | 7 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
+| 📈 Trading y Finanzas | 8 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
 | 🇦🇼 Aruba | 2 | [`aruba.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/aruba.m3u) |
 | 🇧🇴 Bolivia | 4 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
@@ -35,15 +35,13 @@
 | 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 195 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 196 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (98 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (96 canales)</summary>
 
-- Bloomberg
 - Misionel TV
-- Ahora TV
 - RTVD
 - Telemicro
 - Telemicrointernacional
@@ -72,7 +70,7 @@
 - Teleuniverso
 - El Nuevo Diario
 - Cotubanama TV
-- Vtv 32
+- Ahora TV
 - Cvvision
 - Telecibao
 - El Seis
@@ -313,11 +311,12 @@
 
 </details>
 
-<details><summary><b>📈 Trading y Finanzas</b> (7 canales)</summary>
+<details><summary><b>📈 Trading y Finanzas</b> (8 canales)</summary>
 
+- Bloomberg
+- Cnbc
 - B
 - Bbcnews
-- Cnbc
 - Negocios
 - Finance.yahoo
 - Foxbusiness
@@ -721,10 +720,10 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (195 canales)</summary>
+<details><summary><b>📺 Otros</b> (196 canales)</summary>
 
 - Aion
-- 541 | TVE
+- TVE
 - 654 | TV Nordestina
 - 601 | TV CNB
 - 639 | CNB American
@@ -751,6 +750,7 @@
 - 545 | Rede Mundo TV
 - 544 | TV Aracati
 - 556 | TV Reconcavo
+- Agrotendencia
 - Lxhome
 - Cocinafamiliar
 - Wild TV Network

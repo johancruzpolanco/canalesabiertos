@@ -16,7 +16,7 @@ https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/telemed/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canalcapital" tvg-chno="200" tvg-logo="https://tvabierta.net/canalcapital.png" group-title="🇨🇴 Colombia",Canalcapital
 #EXTGRP:🇨🇴 Colombia
-https://us.tvabierta.net/memfs/961f107d-a232-47a4-8f3f-fad1cd3a78b8.m3u8
+https://hls.tvabierta.net/hls/canalcapital.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-chno="201" tvg-logo="https://tvabierta.net/cosmosivion.png" group-title="🇨🇴 Colombia",Cosmovision
 #EXTGRP:🇨🇴 Colombia
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisi%C3%B3n/playlist.m3u8

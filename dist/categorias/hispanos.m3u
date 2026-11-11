@@ -79,7 +79,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 https://play.tvabierta.net/live/0/0/1095.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rte" tvg-chno="311" tvg-logo="https://tvabierta.net/rt.png" group-title="🌎 Hispanos",Rte
 #EXTGRP:🌎 Hispanos
-https://us.tvabierta.net/memfs/c1d08028-8c95-4c83-ba6b-35645dd7871f.m3u8
+https://hls.tvabierta.net/hls/rt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 H" tvg-chno="312" tvg-logo="https://tvabierta.net/24h.png" group-title="🌎 Hispanos",24 H
 #EXTGRP:🌎 Hispanos
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=15621&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_sp&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]&preroll_duration=30&preroll=1

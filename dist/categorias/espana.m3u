@@ -19,7 +19,7 @@ https://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/d1hajab2w2oajq/504a744747b04321bc8042af57c2f7db/699341967864450d4f062ba9/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtvce" tvg-chno="265" tvg-logo="https://tvabierta.net/rtvce.jpg" group-title="🇪🇸 España",Rtvce
 #EXTGRP:🇪🇸 España
-https://us.tvabierta.net/memfs/3999a16d-c21b-413f-831a-8da5654ec4d1.m3u8
+https://hls.tvabierta.net/hls/rtvce.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star TVE" tvg-chno="266" tvg-logo="https://tvabierta.net/startve.png" group-title="🇪🇸 España",Star TVE
 #EXTGRP:🇪🇸 España
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_720.m3u8

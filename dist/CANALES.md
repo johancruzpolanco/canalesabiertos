@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 743 canales en 28 categorías  
-**Actualizado:** 2026-11-11 04:41 UTC  
+**Total:** 738 canales en 28 categorías  
+**Actualizado:** 2026-11-11 13:32 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -32,10 +32,10 @@
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 14 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
-| 🇵🇪 Perú | 7 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
+| 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
-| 🇻🇪 Venezuela | 10 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 196 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 🇻🇪 Venezuela | 7 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
+| 📺 Otros | 195 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -682,7 +682,7 @@
 
 </details>
 
-<details><summary><b>🇵🇪 Perú</b> (7 canales)</summary>
+<details><summary><b>🇵🇪 Perú</b> (6 canales)</summary>
 
 - Willax
 - Panamericana
@@ -690,7 +690,6 @@
 - Latina.pe
 - Conecta2
 - DeltaTV
-- Panamericana
 
 </details>
 
@@ -706,22 +705,19 @@
 
 </details>
 
-<details><summary><b>🇻🇪 Venezuela</b> (10 canales)</summary>
+<details><summary><b>🇻🇪 Venezuela</b> (7 canales)</summary>
 
 - VTV
 - Promar TV
 - Globovision
 - TV Familia
-- Bta
-- Catatumbo TV
-- Vepaco TV
 - Venevision
 - Tlt
 - 21 Tachira
 
 </details>
 
-<details><summary><b>📺 Otros</b> (196 canales)</summary>
+<details><summary><b>📺 Otros</b> (195 canales)</summary>
 
 - Aion
 - TVE
@@ -917,7 +913,6 @@
 - Stingray Today's KPOP
 - 974 Qwest TV
 - 979 SOL MÚSICA
-- Telemedellin 2
 - Bandamax
 
 </details>

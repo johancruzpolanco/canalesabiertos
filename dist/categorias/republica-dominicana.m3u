@@ -14,9 +14,9 @@ https://hls.tvabierta.net/hls/telemicrointernacional.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antena 7" tvg-chno="7" tvg-logo="https://tvabierta.net/007.png" group-title="🇩🇴 República Dominicana",Antena 7
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemedios" tvg-chno="8" tvg-logo="https://tvabierta.net/008.png" group-title="🇩🇴 República Dominicana",Telemedios
+#EXTINF:-1 tvg-id="" tvg-name="Telemedios 8" tvg-chno="8" tvg-logo="https://tvabierta.net/008.png" group-title="🇩🇴 República Dominicana",Telemedios 8
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/008.m3u8
+https://hls.tvabierta.net/hls/telemedios.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colorvisión" tvg-chno="9" tvg-logo="https://tvabierta.net/009.png" group-title="🇩🇴 República Dominicana",Colorvisión
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/009.m3u8
@@ -58,7 +58,7 @@ https://hls.tvabierta.net/hls/020.m3u8
 https://hls.tvabierta.net/hls/021.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multivisión" tvg-chno="22" tvg-logo="https://tvabierta.net/022.png" group-title="🇩🇴 República Dominicana",Multivisión
 #EXTGRP:🇩🇴 República Dominicana
-https://lbgo.bozztv.com/ssh101/ssh101/canalmulti24/chunks.m3u8
+https://hls.tvabierta.net/hls/022.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefuturo" tvg-chno="23" tvg-logo="https://tvabierta.net/023.png" group-title="🇩🇴 República Dominicana",Telefuturo
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/023.m3u8

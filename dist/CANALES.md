@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 742 canales en 28 categorías  
-**Actualizado:** 2026-11-10 22:49 UTC  
+**Total:** 743 canales en 28 categorías  
+**Actualizado:** 2026-11-11 04:41 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -23,7 +23,7 @@
 | 🇨🇱 Chile | 13 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
 | 🇨🇴 Colombia | 15 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 4 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
-| 🇪🇨 Ecuador | 6 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
+| 🇪🇨 Ecuador | 7 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 160 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
@@ -46,7 +46,7 @@
 - Telemicro
 - Telemicrointernacional
 - Antena 7
-- Telemedios
+- Telemedios 8
 - Colorvisión
 - Teleantillas
 - Telesistema
@@ -417,10 +417,11 @@
 
 </details>
 
-<details><summary><b>🇪🇨 Ecuador</b> (6 canales)</summary>
+<details><summary><b>🇪🇨 Ecuador</b> (7 canales)</summary>
 
 - Teleamazonas
 - Ecuador TV
+- Ecuadortv 2
 - Gamavisión
 - Ecuavisa 2
 - Ecuavisa 1

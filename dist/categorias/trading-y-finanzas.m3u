@@ -5,21 +5,24 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 tvg-id="" tvg-name="Cnbc" tvg-chno="2" tvg-logo="https://tvabierta.net/cnbc.jpg" group-title="📈 Trading y Finanzas",Cnbc
 #EXTGRP:📈 Trading y Finanzas
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B" tvg-chno="101" tvg-logo="https://tvabierta.net/bloomberg.png" group-title="📈 Trading y Finanzas",B
+#EXTINF:-1 tvg-id="" tvg-name="B" tvg-chno="118" tvg-logo="https://tvabierta.net/bloomberg.png" group-title="📈 Trading y Finanzas",B
 #EXTGRP:📈 Trading y Finanzas
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="102" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
+#EXTINF:-1 tvg-id="" tvg-name="Bbcnews" tvg-chno="119" tvg-logo="https://tvabierta.net/bbcnews.png" group-title="📈 Trading y Finanzas",Bbcnews
 #EXTGRP:📈 Trading y Finanzas
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="103" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
+#EXTINF:-1 tvg-id="" tvg-name="Negocios" tvg-chno="120" tvg-logo="https://tvabierta.net/negociostv.jpg" group-title="📈 Trading y Finanzas",Negocios
 #EXTGRP:📈 Trading y Finanzas
 https://negociostv-negociostv-lges.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-negociostv-lges/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="104" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
+#EXTINF:-1 tvg-id="" tvg-name="Finance.yahoo" tvg-chno="121" tvg-logo="https://tvabierta.net/yahoo.finance.png" group-title="📈 Trading y Finanzas",Finance.yahoo
 #EXTGRP:📈 Trading y Finanzas
 https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxbusiness" tvg-chno="105" tvg-logo="https://tvabierta.net/foxbusiness.png" group-title="📈 Trading y Finanzas",Foxbusiness
+#EXTINF:-1 tvg-id="" tvg-name="Foxbusiness" tvg-chno="122" tvg-logo="https://tvabierta.net/foxbusiness.png" group-title="📈 Trading y Finanzas",Foxbusiness
 #EXTGRP:📈 Trading y Finanzas
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Topstep TV" tvg-chno="106" tvg-logo="https://tvabierta.net/topstep.jpg" group-title="📈 Trading y Finanzas",Topstep TV
+#EXTINF:-1 tvg-id="" tvg-name="Topstep TV" tvg-chno="123" tvg-logo="https://tvabierta.net/topstep.jpg" group-title="📈 Trading y Finanzas",Topstep TV
 #EXTGRP:📈 Trading y Finanzas
 https://hls.tvabierta.net/hls/topsteptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Elfinanciero" tvg-chno="124" tvg-logo="https://tvabierta.net/elfinanciero.png" group-title="📈 Trading y Finanzas",Elfinanciero
+#EXTGRP:📈 Trading y Finanzas
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8

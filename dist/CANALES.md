@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 738 canales en 28 categorías  
-**Actualizado:** 2026-11-11 13:32 UTC  
+**Total:** 739 canales en 28 categorías  
+**Actualizado:** 2026-11-12 00:01 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 96 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 97 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 32 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -39,14 +39,14 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (96 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (97 canales)</summary>
 
 - Misionel TV
 - RTVD
 - Telemicro
 - Telemicrointernacional
 - Antena 7
-- Telemedios 8
+- Telemedios
 - Colorvisión
 - Teleantillas
 - Telesistema
@@ -71,7 +71,7 @@
 - El Nuevo Diario
 - Cotubanama TV
 - Ahora TV
-- Cvvision
+- Telemedios
 - Telecibao
 - El Seis
 - CDN Deportes
@@ -137,6 +137,7 @@
 - Miavision
 - Noticias 16
 - Televidard
+- Cvvision
 
 </details>
 

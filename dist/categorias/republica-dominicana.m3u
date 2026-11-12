@@ -16,7 +16,7 @@ https://hls.tvabierta.net/hls/telemicrointernacional.m3u8
 https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemedios" tvg-chno="8" tvg-logo="https://tvabierta.net/008.png" group-title="🇩🇴 República Dominicana",Telemedios
 #EXTGRP:🇩🇴 República Dominicana
-https://hls.tvabierta.net/hls/008.m3u8
+https://us.tvabierta.net/memfs/8c8c6f31-9a29-431e-b3c3-d4675498e53e.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Colorvisión" tvg-chno="9" tvg-logo="https://tvabierta.net/009.png" group-title="🇩🇴 República Dominicana",Colorvisión
 #EXTGRP:🇩🇴 República Dominicana
 https://hls.tvabierta.net/hls/009.m3u8
@@ -169,7 +169,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/tvmontana10tv/chunks.m3u8
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adoram" tvg-chno="59" tvg-logo="https://tvabierta.net/adoramtv.png" group-title="🇩🇴 República Dominicana",Adoram
 #EXTGRP:🇩🇴 República Dominicana
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/playlist.m3u8
+https://183.giatvcdn.com/giatv/giatv-adoram/adoram/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radioemanuel" tvg-chno="60" tvg-logo="https://tvabierta.net/emanuel.png" group-title="🇩🇴 República Dominicana",Radioemanuel
 #EXTGRP:🇩🇴 República Dominicana
 https://livetv.305streamhd.com:3868/live/bagogeublive.m3u8

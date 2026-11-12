@@ -4,7 +4,7 @@
 https://ds.tvabierta.net/memfs/743842fa-a19f-46b6-8f71-bcc01c1bff2b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ecuador TV" tvg-chno="272" tvg-logo="https://tvabierta.net/ecuadortv.png" group-title="🇪🇨 Ecuador",Ecuador TV
 #EXTGRP:🇪🇨 Ecuador
-https://ds.tvabierta.net/memfs/e809e72b-176b-4548-b9fc-8bf8602aa088.m3u8
+https://hls.tvabierta.net/hls/ecuadortv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ecuadortv 2" tvg-chno="273" tvg-logo="https://tvabierta.net/ecuadortv.png" group-title="🇪🇨 Ecuador",Ecuadortv 2
 #EXTGRP:🇪🇨 Ecuador
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8

@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 758 canales en 28 categorías  
-**Actualizado:** 2026-11-12 14:36 UTC  
+**Total:** 754 canales en 28 categorías  
+**Actualizado:** 2026-11-12 23:12 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -13,7 +13,7 @@
 | 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 13 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 9 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
@@ -26,7 +26,7 @@
 | 🇪🇨 Ecuador | 7 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
-| 🇺🇸 Estados Unidos | 160 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
+| 🇺🇸 Estados Unidos | 159 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
 | 🇬🇹 Guatemala | 14 | [`guatemala.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/guatemala.m3u) |
 | 🇭🇳 Honduras | 7 | [`honduras.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/honduras.m3u) |
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 7 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 197 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 195 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -280,7 +280,7 @@
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (13 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (12 canales)</summary>
 
 - Bpskids
 - Extrema Kids
@@ -288,7 +288,6 @@
 - Baby Einstein
 - Duck TV
 - 143 | Toon Goggles TV
-- Canal Sin Nombre
 - 163 | 13 Kids
 - Dios Te VE Kids
 - Sensical
@@ -471,7 +470,7 @@
 
 </details>
 
-<details><summary><b>🇺🇸 Estados Unidos</b> (160 canales)</summary>
+<details><summary><b>🇺🇸 Estados Unidos</b> (159 canales)</summary>
 
 - Game Show Network
 - Stories By AMC
@@ -551,7 +550,6 @@
 - WTXL ABC27 News Tallahassee
 - Very New Orleans By WDSU
 - AR-Fort Smith | Very Arkansas (KHBS)
-- FOX47 News Lansing
 - KY-Paducah | NBC 6 (WPSD)
 - KGTV ABC10 News San Diego
 - KIVI Idaho News 6 Boise
@@ -735,7 +733,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (197 canales)</summary>
+<details><summary><b>📺 Otros</b> (195 canales)</summary>
 
 - Aion
 - TVE
@@ -836,7 +834,6 @@
 - KMGH Denver 7 News
 - NHRA TV
 - Very Tampa Bay By WMOR
-- WRTV News Indianapolis
 - WCPO 9 News Cincinnati
 - Local Now NYC
 - True History
@@ -889,7 +886,6 @@
 - KVIA ABC-7 News El Paso TX
 - Locked On NFL
 - Locked On College Sports
-- Declassified
 - KOTV News On 6 Tulsa OK
 - KWTV News 9 Oklahoma City OK
 - Dog Whisperer

@@ -1,8 +1,8 @@
 {
-  "generado": "2026-11-13 23:13 UTC",
+  "generado": "2026-11-14 04:54 UTC",
   "origen": "https://tvabierta.net/api/tv/channels.json",
   "total": 755,
-  "hash": "c0237d8ae7df97b6354716166cb3432bfb16e1753c0245dffb58d089378193d8",
+  "hash": "7ca9838d952ea914315067e72d1752fdb2f706bfe7e0865f97a1cd2df584a1e9",
   "categorias": [
     {
       "nombre": "🇩🇴 República Dominicana",
@@ -291,14 +291,14 @@
       "slug": "14-tv"
     },
     {
-      "id": "digital15-ad289d97",
+      "id": "digital15-f4d87b9f",
       "numero": 15,
       "nombre": "Digital 15",
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
       "logo": "https://tvabierta.net/015.png",
-      "url": "https://ds.tvabierta.net/memfs/505f0d04-159c-4e4f-a834-8137c183573c.m3u8",
+      "url": "https://hls.tvabierta.net/hls/015.m3u8",
       "tvg_id": "",
       "slug": "digital-15"
     },
@@ -1449,7 +1449,7 @@
       "categoria": "🇩🇴 República Dominicana",
       "categoria_codigo": "RD",
       "categoria_orden": 10,
-      "logo": "https://tvabierta.net/tvexitos.png",
+      "logo": "https://tvabierta.net/dajatv.png",
       "url": "https://stream1.28tv.online/DajaTVCanal48/index.m3u8",
       "tvg_id": "",
       "slug": "daja-tv"

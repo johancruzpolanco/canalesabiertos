@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 755 canales en 28 categorías  
-**Actualizado:** 2026-11-15 04:47 UTC  
+**Total:** 756 canales en 28 categorías  
+**Actualizado:** 2026-11-15 13:25 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -10,7 +10,7 @@
 |---|---:|---|
 | 🇩🇴 República Dominicana | 113 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 31 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
-| 📰 Noticias | 26 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
+| 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
@@ -71,7 +71,7 @@
 - El Nuevo Diario
 - Cotubanama TV
 - Ahora TV
-- Telemedios 2
+- Supercanal
 - Telecibao
 - El Seis
 - CDN Deportes
@@ -193,8 +193,9 @@
 
 </details>
 
-<details><summary><b>📰 Noticias</b> (26 canales)</summary>
+<details><summary><b>📰 Noticias</b> (27 canales)</summary>
 
+- CNN
 - Euronewsen
 - Foxnews
 - Foxweather

@@ -1,7 +1,7 @@
 # 📺 Canales disponibles
 
-**Total:** 757 canales en 28 categorías  
-**Actualizado:** 2026-11-18 00:30 UTC  
+**Total:** 755 canales en 28 categorías  
+**Actualizado:** 2026-11-18 15:05 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
@@ -13,7 +13,7 @@
 | 📰 Noticias | 27 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 34 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 13 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| 🧒 Infantil | 11 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 9 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 18 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
@@ -35,7 +35,7 @@
 | 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 7 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
-| 📺 Otros | 195 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
+| 📺 Otros | 194 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
@@ -283,14 +283,13 @@
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (12 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (11 canales)</summary>
 
 - Bpskids
 - Extrema Kids
 - 154 | TVG Xabarín
 - Baby Einstein
 - Duck TV
-- 143 | Toon Goggles TV
 - 163 | 13 Kids
 - Dios Te VE Kids
 - Sensical
@@ -736,7 +735,7 @@
 
 </details>
 
-<details><summary><b>📺 Otros</b> (195 canales)</summary>
+<details><summary><b>📺 Otros</b> (194 canales)</summary>
 
 - Aion
 - TVE
@@ -807,7 +806,6 @@
 - KJRH 2 News Oklahoma
 - WTXL ABC27 News Tallahassee
 - Cowboy Classics
-- WSYM FOX47 News Lansing
 - WXOW La Crosse WI
 - Urban Action Channel
 - Kung Fu Movies

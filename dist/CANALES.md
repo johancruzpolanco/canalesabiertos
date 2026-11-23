@@ -1,17 +1,17 @@
 # 📺 Canales disponibles
 
-**Total:** 742 canales en 28 categorías  
-**Actualizado:** 2026-11-23 05:44 UTC  
+**Total:** 743 canales en 28 categorías  
+**Actualizado:** 2026-11-23 17:22 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 111 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 112 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 29 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 31 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| ⚽ Deportes | 32 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 11 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
@@ -32,14 +32,14 @@
 | 🇯🇵 Japón | 2 | [`japon.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/japon.m3u) |
 | 🇲🇽 México | 14 | [`mexico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/mexico.m3u) |
 | 🇵🇦 Panamá | 2 | [`panama.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/panama.m3u) |
-| 🇵🇪 Perú | 6 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
+| 🇵🇪 Perú | 5 | [`peru.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peru.m3u) |
 | 🇵🇷 Puerto Rico | 7 | [`puerto-rico.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/puerto-rico.m3u) |
 | 🇻🇪 Venezuela | 7 | [`venezuela.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/venezuela.m3u) |
 | 📺 Otros | 194 | [`otros.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/otros.m3u) |
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (111 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (112 canales)</summary>
 
 - Misionel TV
 - RTVD
@@ -71,7 +71,7 @@
 - El Nuevo Diario
 - Cotubanama TV
 - Ahora TV
-- Supercanal
+- Telemetro
 - Telecibao
 - El Seis
 - CDN Deportes
@@ -110,6 +110,7 @@
 - Canal DTV Latino
 - Senal Digital
 - Visionndv
+- Eliaspiña TV
 - Boreal
 - Altanto TV
 - Telecontacto
@@ -223,10 +224,11 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (31 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (32 canales)</summary>
 
 - Nica 4
 - Wapa
+- Mlb Playback
 - Red Bull TV
 - MPATV
 - WaypointTV
@@ -687,14 +689,13 @@
 
 </details>
 
-<details><summary><b>🇵🇪 Perú</b> (6 canales)</summary>
+<details><summary><b>🇵🇪 Perú</b> (5 canales)</summary>
 
 - Willax
 - Panamericana
 - Antenasur
 - Latina.pe
 - Conecta2
-- DeltaTV
 
 </details>
 

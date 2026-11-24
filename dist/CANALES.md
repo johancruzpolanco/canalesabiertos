@@ -1,18 +1,18 @@
 # 📺 Canales disponibles
 
-**Total:** 743 canales en 28 categorías  
-**Actualizado:** 2026-11-24 03:48 UTC  
+**Total:** 740 canales en 28 categorías  
+**Actualizado:** 2026-11-24 16:56 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 112 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 110 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 29 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
-| ⚽ Deportes | 32 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
-| 🎬 Películas y Series | 12 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
+| ⚽ Deportes | 33 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
+| 🎬 Películas y Series | 11 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
 | 🧒 Infantil | 11 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 9 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
@@ -21,7 +21,7 @@
 | 🇧🇴 Bolivia | 4 | [`bolivia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/bolivia.m3u) |
 | 🇨🇦 Canadá | 2 | [`canada.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/canada.m3u) |
 | 🇨🇱 Chile | 13 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
-| 🇨🇴 Colombia | 14 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
+| 🇨🇴 Colombia | 13 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 4 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
 | 🇪🇨 Ecuador | 7 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (112 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (110 canales)</summary>
 
 - Misionel TV
 - RTVD
@@ -89,13 +89,11 @@
 - Telenord 12
 - Telenord 8
 - Teleimpacto
-- El Puerto TV
 - Santacruz TV
 - Canalda
 - Hainavision
 - RETV
 - Caoba TV
-- A 7 TV
 - Adoram
 - Radioemanuel
 - Coco TV
@@ -224,7 +222,7 @@
 
 </details>
 
-<details><summary><b>⚽ Deportes</b> (32 canales)</summary>
+<details><summary><b>⚽ Deportes</b> (33 canales)</summary>
 
 - Nica 4
 - Wapa
@@ -258,10 +256,11 @@
 - NBC Sports
 - Cbssportsgonzalo
 - Deportestvc
+- Nicasports
 
 </details>
 
-<details><summary><b>🎬 Películas y Series</b> (12 canales)</summary>
+<details><summary><b>🎬 Películas y Series</b> (11 canales)</summary>
 
 - Canela
 - Pelimex
@@ -274,7 +273,6 @@
 - LG +1
 - Runtime Series
 - Ladescarga TV
-- En Familia
 
 </details>
 
@@ -399,10 +397,9 @@
 
 </details>
 
-<details><summary><b>🇨🇴 Colombia</b> (14 canales)</summary>
+<details><summary><b>🇨🇴 Colombia</b> (13 canales)</summary>
 
 - Cali TV
-- Lareina TV
 - Canal Cine Dios
 - CMB
 - Caracol

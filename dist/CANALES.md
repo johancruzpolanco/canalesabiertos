@@ -1,19 +1,19 @@
 # 📺 Canales disponibles
 
-**Total:** 738 canales en 28 categorías  
-**Actualizado:** 2026-11-25 01:54 UTC  
+**Total:** 739 canales en 28 categorías  
+**Actualizado:** 2026-11-25 16:46 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 108 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 107 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 29 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 33 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 11 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
-| 🧒 Infantil | 11 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
+| 🧒 Infantil | 12 | [`infantil.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/infantil.m3u) |
 | ✝️ Cristianos | 23 | [`cristianos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/cristianos.m3u) |
 | 📈 Trading y Finanzas | 9 | [`trading-y-finanzas.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/trading-y-finanzas.m3u) |
 | 🇦🇷 Argentina | 17 | [`argentina.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/argentina.m3u) |
@@ -23,7 +23,7 @@
 | 🇨🇱 Chile | 13 | [`chile.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/chile.m3u) |
 | 🇨🇴 Colombia | 13 | [`colombia.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/colombia.m3u) |
 | 🇨🇷 Costa Rica | 4 | [`costa-rica.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/costa-rica.m3u) |
-| 🇪🇨 Ecuador | 7 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
+| 🇪🇨 Ecuador | 8 | [`ecuador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/ecuador.m3u) |
 | 🇸🇻 El Salvador | 2 | [`el-salvador.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/el-salvador.m3u) |
 | 🇪🇸 España | 12 | [`espana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/espana.m3u) |
 | 🇺🇸 Estados Unidos | 159 | [`estados-unidos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/estados-unidos.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (108 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (107 canales)</summary>
 
 - Misionel TV
 - RTVD
@@ -126,7 +126,6 @@
 - Alegretvrd
 - Palmar TV
 - Hilandofino
-- Extra 86
 - Nexxo TV
 - Guaymate TV
 - Miavision
@@ -274,7 +273,7 @@
 
 </details>
 
-<details><summary><b>🧒 Infantil</b> (11 canales)</summary>
+<details><summary><b>🧒 Infantil</b> (12 canales)</summary>
 
 - Bpskids
 - Extrema Kids
@@ -287,6 +286,7 @@
 - Sat
 - Zoomoo
 - Toongoodles 2
+- Knowledge
 
 </details>
 
@@ -422,12 +422,13 @@
 
 </details>
 
-<details><summary><b>🇪🇨 Ecuador</b> (7 canales)</summary>
+<details><summary><b>🇪🇨 Ecuador</b> (8 canales)</summary>
 
 - Teleamazonas
 - Ecuador TV
 - Ecuadortv 2
 - Gamavisión
+- Gamavisión 2
 - Ecuavisa 2
 - Ecuavisa 1
 - Bacan Te Veo
@@ -670,10 +671,10 @@
 - QuieroTV
 - ADN 40
 - 6 Monterrey
-- 6 Monterrey Original
 - Azteca Int.
 - ImagenTV
 - Canal Once
+- Milenio
 
 </details>
 

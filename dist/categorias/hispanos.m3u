@@ -28,7 +28,7 @@ https://ds.tvabierta.net/memfs/9e44e8e0-2162-4ad5-843c-9175a5edf483.m3u8
 https://ds.tvabierta.net/memfs/f423e722-97de-4156-b272-adf472b82f00.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Noticiasahora" tvg-chno="302" tvg-logo="https://tvabierta.net/t.png" group-title="🌎 Hispanos",Noticiasahora
 #EXTGRP:🌎 Hispanos
-https://hls.tvabierta.net/hls/noticiasahora.m3u8
+https://us.tvabierta.net/memfs/c73e9ffe-2da7-4516-9dbe-906bd7c57c8b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dwe" tvg-chno="303" tvg-logo="https://tvabierta.net/dw.png" group-title="🌎 Hispanos",Dwe
 #EXTGRP:🌎 Hispanos
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8

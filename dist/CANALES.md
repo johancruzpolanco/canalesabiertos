@@ -1,14 +1,14 @@
 # 📺 Canales disponibles
 
-**Total:** 739 canales en 28 categorías  
-**Actualizado:** 2026-11-26 01:33 UTC  
+**Total:** 740 canales en 28 categorías  
+**Actualizado:** 2026-11-26 16:21 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 107 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🇩🇴 República Dominicana | 108 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
 | 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 29 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 33 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (107 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (108 canales)</summary>
 
 - Misionel TV
 - RTVD
@@ -148,6 +148,7 @@
 - Tvs
 - El Puerto TV
 - Tvh
+- 008
 
 </details>
 

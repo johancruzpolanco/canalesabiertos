@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-chno="518" tvg-logo="https://tvabierta.net/cnne.png" group-title="📰 Noticias",CNN
+#EXTINF:-1 tvg-id="" tvg-name="Abcnews" tvg-chno="518" tvg-logo="https://tvabierta.net/abcnews.png" group-title="📰 Noticias",Abcnews
+#EXTGRP:📰 Noticias
+https://ca.tvabierta.net/abcnews
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-chno="519" tvg-logo="https://tvabierta.net/cnne.png" group-title="📰 Noticias",CNN
 #EXTGRP:📰 Noticias
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euronewsen" tvg-chno="519" tvg-logo="https://tvabierta.net/euronews.png" group-title="📰 Noticias",Euronewsen
+#EXTINF:-1 tvg-id="" tvg-name="Euronewsen" tvg-chno="520" tvg-logo="https://tvabierta.net/euronews.png" group-title="📰 Noticias",Euronewsen
 #EXTGRP:📰 Noticias
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxnews" tvg-chno="520" tvg-logo="https://tvabierta.net/foxnews.png" group-title="📰 Noticias",Foxnews
+#EXTINF:-1 tvg-id="" tvg-name="Foxnews" tvg-chno="521" tvg-logo="https://tvabierta.net/foxnews.png" group-title="📰 Noticias",Foxnews
 #EXTGRP:📰 Noticias
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Foxweather" tvg-chno="521" tvg-logo="https://tvabierta.net/foxweather.png" group-title="📰 Noticias",Foxweather
+#EXTINF:-1 tvg-id="" tvg-name="Foxweather" tvg-chno="522" tvg-logo="https://tvabierta.net/foxweather.png" group-title="📰 Noticias",Foxweather
 #EXTGRP:📰 Noticias
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abcnews" tvg-chno="522" tvg-logo="https://tvabierta.net/abcnews.png" group-title="📰 Noticias",Abcnews
-#EXTGRP:📰 Noticias
-https://ca.tvabierta.net/abcnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wway" tvg-chno="523" tvg-logo="https://tvabierta.net/abcnews.png" group-title="📰 Noticias",Wway
 #EXTGRP:📰 Noticias
 https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8

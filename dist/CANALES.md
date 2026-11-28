@@ -1,15 +1,15 @@
 # 📺 Canales disponibles
 
 **Total:** 739 canales en 28 categorías  
-**Actualizado:** 2026-11-27 16:07 UTC  
+**Actualizado:** 2026-11-28 01:03 UTC  
 **Fuente:** `https://tvabierta.net/api/tv/channels.json`
 
 ## Listas por categoría
 
 | Categoría | Canales | Lista M3U |
 |---|---:|---|
-| 🇩🇴 República Dominicana | 107 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
-| 🌎 Hispanos | 29 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
+| 🇩🇴 República Dominicana | 108 | [`republica-dominicana.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/republica-dominicana.m3u) |
+| 🌎 Hispanos | 28 | [`hispanos.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/hispanos.m3u) |
 | 📰 Noticias | 29 | [`noticias.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/noticias.m3u) |
 | ⚽ Deportes | 33 | [`deportes.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/deportes.m3u) |
 | 🎬 Películas y Series | 11 | [`peliculas-y-series.m3u`](https://raw.githubusercontent.com/johancruzpolanco/canalesabiertos/main/dist/categorias/peliculas-y-series.m3u) |
@@ -39,7 +39,7 @@
 
 ## Detalle
 
-<details><summary><b>🇩🇴 República Dominicana</b> (107 canales)</summary>
+<details><summary><b>🇩🇴 República Dominicana</b> (108 canales)</summary>
 
 - Misionel TV
 - RTVD
@@ -71,6 +71,7 @@
 - El Nuevo Diario
 - Cotubanama TV
 - Ahora TV
+- Supercanal
 - Telemetro
 - Telecibao
 - El Seis
@@ -151,7 +152,7 @@
 
 </details>
 
-<details><summary><b>🌎 Hispanos</b> (29 canales)</summary>
+<details><summary><b>🌎 Hispanos</b> (28 canales)</summary>
 
 - CNN en Español
 - Euronews
@@ -162,7 +163,6 @@
 - Ntn 24
 - Telemundo PR
 - Telemundo Noreste
-- Noticiasahora
 - Dwe
 - Estrella News
 - Enlace
@@ -187,11 +187,11 @@
 
 <details><summary><b>📰 Noticias</b> (29 canales)</summary>
 
+- Abcnews
 - CNN
 - Euronewsen
 - Foxnews
 - Foxweather
-- Abcnews
 - Wway
 - Kaal
 - Arirang
